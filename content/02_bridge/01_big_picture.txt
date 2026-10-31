@@ -1,0 +1,90 @@
+@title పెద్ద చిత్రం · The big picture
+@summary Telugu glues suffixes on one after another; Sanskrit fuses meaning into a single ending. Parts of speech in both traditions, and the three facts that explain most differences.
+
+## అతుకు భాష, కలయిక భాష
+Telugu is **agglutinative** (అతుకు): each suffix does one job, and suffixes are stacked in a fixed order. Sanskrit is **fusional** (కలయిక): one ending carries several meanings at once.
+
+| Meaning | Telugu (stacked) | Sanskrit (fused) |
+|---|---|---|
+| to the boys | బాలుర-కు (plural -ర + dative -కు) | बालेभ्यः (-एभ्यः = dative + plural at once) |
+| we went | వెళ్ళ్-ఆ-ము → వెళ్ళాము (past + 1st pl) | अगच्छाम (अ- past + -आम 1st pl) |
+| in the houses | ఇళ్ళ-లో (plural + locative) | गृहेषु (-एषु = locative + plural) |
+| they did not speak | మాట్లాడ-లేదు | न अवदन् (न + past + 3rd pl) |
+
+> [memory] Telugu builds, Sanskrit chooses :: In Telugu you **build** a word: stem + plural + case. In Sanskrit you **choose** the right ending from a table: रामेभ्यः is one block. That is why Sanskrit needs tables (శబ్దాలు, ధాతురూపాలు) and Telugu needs rules for joining.
+
+## Parts of speech
+| Telugu (బాలవ్యాకరణం) | Sanskrit (Pāṇini, Yāska) | What it covers |
+|---|---|---|
+| నామవాచకం / విశేష్యం | नाम (सुबन्त, takes सुप् endings) | nouns, pronouns, adjectives |
+| సర్వనామం | सर्वनाम (also सुबन्त) | pronouns: अस्मद्, युष्मद्, तद्, यद्, किम्, सर्व… |
+| విశేషణం | विशेषण (also सुबन्त) | adjectives agree with their noun |
+| క్రియ | आख्यात / तिङन्त (takes तिङ् endings) | finite verbs |
+| అవ్యయం | अव्यय / निपात | indeclinables: च, न, इति, एव, हि, तु |
+| ఉపసర్గ | उपसर्ग | verb prefixes: प्र, परा, सम्, अनु… |
+| కృదంతం | कृदन्त | participles, gerunds, infinitives |
+
+> [sutra] सुप्तिङन्तं पदम् (1.4.14) :: "A word (पद) is what ends in a सुप् or a तिङ् ending." Every Sanskrit word in a sentence is either a declined noun (सुबन्त) or a conjugated verb (तिङन्त), or an indeclinable (which grammar treats as having a zero ending). There are no bare stems in a sentence.
+
+> [telugu] Telugu too has two kinds of endings :: Telugu attaches విభక్తి ప్రత్యయాలు to nouns (డు, ని, చేత, కొఱకు…) and క్రియా ప్రత్యయాలు to verbs (-ను, -వు, -ఆడు…). The difference is that Telugu suffixes stack (రాముల-కు, పోతున్న-ాడు) while Sanskrit endings are single blocks.
+
+## Three facts that explain most differences
+1. **Word order is free in Sanskrit.** Because the ending shows the role, रामः रावणं हन्ति, रावणं रामः हन्ति and हन्ति रामः रावणम् all mean "Rāma kills Rāvaṇa". Telugu is fixed: subject–object–verb (రాముడు రావణుని చంపెను), with the verb at the end. In prose, Sanskrit also prefers subject–object–verb, so Telugu order is a good default.
+2. **Sanskrit marks gender, number and case on adjectives too.** Telugu adjectives do not change: మంచి బాలుడు, మంచి బాలిక, మంచి పిల్లలు. Sanskrit adjectives agree: सुन्दरः बालः, सुन्दरी बाला, सुन्दराः बालाः.
+3. **Sanskrit verbs do not show gender; Telugu verbs do.** వాడు వచ్చాడు, ఆమె వచ్చింది — the Telugu verb changes with the gender of the subject. Sanskrit says सः आगच्छत्, सा आगच्छत्: the same verb.
+
+> [compare] One verse, two word orders :: Gītā 2.47 says कर्मणि एव अधिकारः ते: "in action alone (is) right your". Telugu prose order is నీకు కర్మయందే అధికారం. The Sanskrit is free to put कर्मणि first for emphasis, because -इ already says "in".
+
+## How each tradition describes grammar
+| Telugu grammar | Sanskrit grammar |
+|---|---|
+| సంజ్ఞా పరిచ్ఛేదం: terms (అచ్చులు, హల్లులు, ద్రుతం, కళ…) | संज्ञा sūtras: technical terms (वृद्धि, गुण, इत्, पद…) |
+| సంధి పరిచ్ఛేదం | सन्धि (Aṣṭādhyāyī book 6 and 8) |
+| తత్సమ పరిచ్ఛేదం: how Sanskrit words enter Telugu | — |
+| కారక పరిచ్ఛేదం | कारक (1.4.23–55, 2.3) |
+| సమాస పరిచ్ఛేదం | समास (book 2) |
+| తద్ధిత పరిచ్ఛేదం | तद्धित (books 4–5) |
+| క్రియా పరిచ్ఛేదం | तिङ् / धातु (book 3) |
+| కృదంతం | कृत् (book 3) |
+
+> [note] The two great grammars :: Pāṇini's Aṣṭādhyāyī (c. 5th century BCE, about 4,000 sūtras) describes all of Sanskrit. Telugu's first grammar, Nannaya's Āndhra Śabda Cintāmaṇi, was written in Sanskrit on Pāṇini's model; Chinnaya Sūri's Bālavyākaraṇam (1858) is the school grammar most Telugu speakers know. That shared heritage is why Telugu grammar terms map so well onto Sanskrit ones.
+
+@ex
+sa: रामः रावणं हन्ति । रावणं रामः हन्ति । हन्ति रामः रावणम् ।
+te: రాముడు రావణుని చంపుతున్నాడు (మూడు వాక్యాలకూ ఒకే అర్థం).
+en: Rāma kills Rāvaṇa (all three sentences mean the same).
+w: रामः = రాముడు (కర్త, ప్రథమా); रावणम् = రావణుని (కర్మ, ద్వితీయా); हन्ति = చంపుతున్నాడు (వర్తమానం)
+note: The endings -ः (subject) and -म् (object) do the work that word order does in English. Swap them, रामं रावणः हन्ति, and the meaning reverses.
+@end
+
+@quiz
+q: Why can Sanskrit words be put in almost any order?
+* The endings show each word's role (case)
+- Sanskrit has no grammar for order
+- The verb always comes first
+why: रामः is the subject wherever it stands; रावणम् is the object.
+
+q: Which statement is true?
+* Telugu verbs show the subject's gender; Sanskrit verbs do not
+- Sanskrit verbs show gender; Telugu verbs do not
+- Neither shows gender
+why: వాడు వచ్చాడు / ఆమె వచ్చింది vs सः आगच्छत् / सा आगच्छत्.
+
+q: What is a पद according to Pāṇini?
+* A word ending in a सुप् (noun) or तिङ् (verb) ending
+- Any stem
+- A line of verse
+why: सुप्तिङन्तं पदम् (1.4.14). Bare stems don't appear in sentences.
+
+q: In Sanskrit, adjectives:
+* Agree with their noun in gender, number and case
+- Never change, as in Telugu
+- Change only for number
+why: सुन्दरः बालः, सुन्दरी बाला, सुन्दरम् फलम्.
+
+q: "Telugu builds, Sanskrit chooses" means:
+* Telugu stacks separate suffixes; Sanskrit picks one fused ending from a table
+- Telugu has more words
+- Sanskrit has no suffixes
+why: బాలురకు = బాలు-ర-కు (plural + dative); बालेभ्यः is a single ending.
+@end

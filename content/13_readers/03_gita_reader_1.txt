@@ -1,0 +1,158 @@
+@title గీతా పఠనం 1 · Gītā reader I: the teaching of chapter 2
+@summary Eight verses from Sāṅkhya Yoga, the chapter where Kṛṣṇa's teaching begins: the eternal self, birth and death, karma yoga, and the person of steady wisdom. Every verse is split, put in prose order and glossed word by word in Telugu, with the grammar points named and linked to their lessons.
+
+## Before you read
+Chapter 2 is the best place to start reading the Gītā. Its anuṣṭubh verses are short and its grammar is regular, and many of its lines are famous on their own. For each verse:
+1. Read the verse aloud, twice.
+2. Find the finite verbs; there are rarely more than two.
+3. Read the anvaya and the word meanings.
+4. Read the original again and try to translate it without looking.
+
+> [memory] One verse a day :: Learn one verse a day by heart, with its anvaya. In eight days you have this whole lesson, and you have revised the cases, participles, compounds and sandhi a dozen times each. Recite yesterday's verse before starting today's.
+
+## The self never ceased to be
+@ex gita:2:12
+split: न तु एव अहं जातु न आसं न त्वं न इमे जनाधिपाः । न च एव न भविष्यामः सर्वे वयम् अतः परम् ॥
+anvaya: अहं जातु न आसम् (इति) न तु एव; त्वं (न आसीः इति) न; इमे जनाधिपाः (न आसन् इति) न । अतः परं वयं सर्वे न भविष्यामः (इति) च न एव ॥
+w: न तु एव = ఎంతమాత్రమూ కాదు; अहम् = నేను; जातु = ఎప్పుడైనా; न आसम् = ఉండలేదు; त्वम् = నువ్వు; इमे = ఈ; जनाधिपाः = రాజులు; न च एव = అలాగే కాదు; अतः परम् = ఇక మీదట; सर्वे वयम् = మనమందరం; न भविष्यामः = ఉండము
+note: The double negative makes a strong positive: "it is not that I was not" = I always existed. Telugu does the same: "లేకపోలేదు".
+note: आसम् is the imperfect (लङ्) 1st singular of अस् (lesson 6.4); भविष्यामः is the future 1st plural of भू (lesson 6.5). Past and future in one verse: the self exists in both.
+note: इमे is the masculine nominative plural of इदम् (lesson 5.2). न + आसम् → नासम्; न + इमे → नेमे (a + i → e); तु + एव → त्वेव (u → v before a vowel).
+@end
+
+## Being and non-being
+@ex gita:2:16
+split: न असतः विद्यते भावः न अभावः विद्यते सतः । उभयोः अपि दृष्टः अन्तः तु अनयोः तत्त्वदर्शिभिः ॥
+anvaya: असतः भावः न विद्यते; सतः अभावः न विद्यते । अनयोः उभयोः अपि अन्तः तु तत्त्वदर्शिभिः दृष्टः ॥
+w: असतः = అసత్తుకు (లేనిదానికి); भावः = ఉనికి; न विद्यते = లేదు; सतः = సత్తుకు (ఉన్నదానికి); अभावः = నాశనం (లేకపోవడం); अनयोः उभयोः अपि = ఈ రెండింటి యొక్క; अन्तः = నిర్ణయం (అంతిమ సత్యం); तु = అయితే; तत्त्वदर्शिभिः = తత్త్వం తెలిసినవారిచే; दृष्टः = చూడబడింది
+note: सत् and असत् are present participles of अस् "be" (lesson 7.2), used as nouns: "what is", "what is not". Their genitive singular is सतः, असतः.
+note: विद्यते here is विद् class 4, ātmanepada, "exist". It looks like a passive but is not (the warning in lesson 6.8).
+note: दृष्टः … तत्त्वदर्शिभिः is a true passive: past participle with the agent in the instrumental (lesson 7.1). उभयोः and अनयोः are dual genitives ("of both of these"); अनयोः is from इदम्.
+note: Sandhi: दृष्टः + अन्तः → दृष्टोऽन्तः (the avagraha ऽ marks a lost अ, lesson 8.5); अन्तः + तु → अन्तस्तु.
+@end
+
+## The inevitable
+@ex gita:2:27
+split: जातस्य हि ध्रुवः मृत्युः ध्रुवं जन्म मृतस्य च । तस्मात् अपरिहार्ये अर्थे न त्वं शोचितुम् अर्हसि ॥
+anvaya: जातस्य मृत्युः ध्रुवः हि, मृतस्य च जन्म ध्रुवम् । तस्मात् अपरिहार्ये अर्थे त्वं शोचितुं न अर्हसि ॥
+w: जातस्य = పుట్టినవానికి; हि = నిజంగా; ध्रुवः = తప్పనిది; मृत्युः = మరణం; मृतस्य = మరణించినవానికి; च = మరియు; ध्रुवम् = తప్పనిది; जन्म = జన్మ; तस्मात् = కాబట్టి; अपरिहार्ये = తప్పించలేని; अर्थे = విషయంలో; त्वम् = నువ్వు; शोचितुम् = దుఃఖించడానికి; न अर्हसि = తగవు
+note: जात and मृत are past participles (lesson 7.1) used as nouns, in the 6th case: "for the born, for the dead". Telugu uses the dative here (పుట్టినవానికి).
+note: Adjectives take the gender of their noun: ध्रुवः (m.) with मृत्युः (m.), ध्रुवम् (n.) with जन्म (n., an an-stem).
+note: अपरिहार्य is a gerundive (-य) with the negative अ (lesson 7.4): "not to be avoided". शोचितुम् अर्हसि: infinitive with अर्ह् = "you ought to" (lesson 7.3); with न, "you should not".
+note: अपरिहार्ये + अर्थे → अपरिहार्येऽर्थे (ए + अ, the अ is lost and marked with ऽ, lesson 8.2).
+@end
+
+## No effort is lost
+@ex gita:2:40
+split: न इह अभिक्रमनाशः अस्ति प्रत्यवायः न विद्यते । सु-अल्पम् अपि अस्य धर्मस्य त्रायते महतः भयात् ॥
+anvaya: इह अभिक्रमनाशः न अस्ति; प्रत्यवायः न विद्यते । अस्य धर्मस्य स्वल्पम् अपि महतः भयात् त्रायते ॥
+w: इह = ఈ (యోగ మార్గం)లో; अभिक्रमनाशः = ప్రారంభించిన ప్రయత్నం వృథా కావడం; न अस्ति = లేదు; प्रत्यवायः = విపరీత ఫలం (దోషం); न विद्यते = లేదు; अस्य धर्मस्य = ఈ ధర్మంలో; स्वल्पम् अपि = కొంచెమైనా; महतः = గొప్ప; भयात् = భయం నుండి; त्रायते = కాపాడుతుంది
+note: The partitive genitive: अस्य धर्मस्य स्वल्पम् "a little of this dharma" (Telugu "ఈ ధర్మంలో కొంచెం").
+note: त्रायते (त्रै, ātmanepada) takes the ablative of what one is protected from (भीत्रार्थानां भयहेतुः, lesson 11.1): भयात्. महतः is the ablative singular of महत् (lesson 4.8).
+note: अभिक्रमनाशः: अभिक्रमस्य नाशः, a ṣaṣṭhī tatpuruṣa (lesson 9.2). स्वल्पम् = सु + अल्पम् (u + a → va).
+@end
+
+## Yoga is skill in action
+@ex gita:2:50
+split: बुद्धियुक्तः जहाति इह उभे सुकृतदुष्कृते । तस्मात् योगाय युज्यस्व योगः कर्मसु कौशलम् ॥
+anvaya: बुद्धियुक्तः इह (एव) उभे सुकृतदुष्कृते जहाति । तस्मात् योगाय युज्यस्व । योगः कर्मसु कौशलम् ॥
+w: बुद्धियुक्तः = (సమత్వ) బుద్ధితో కూడినవాడు; इह = ఈ జన్మలోనే; उभे = రెండింటినీ; सुकृतदुष्कृते = పుణ్యపాపాలను; जहाति = విడిచిపెడతాడు; तस्मात् = కాబట్టి; योगाय = యోగం కోసం; युज्यस्व = నిమగ్నమవ్వు; योगः = యోగం (అంటే); कर्मसु = కర్మలలో; कौशलम् = నేర్పు
+note: जहाति is from हा "abandon", a class 3 root with reduplication (lesson 6.2). जहाति + इह → जहातीह; the next vowel (उभे) is left without sandhi, as often happens in the Gītā.
+note: सुकृतदुष्कृते is a dvandva in the neuter dual (lesson 9.4), 2nd case, with उभे "both" agreeing.
+note: युज्यस्व: युज् class 4, ātmanepada imperative, "be absorbed, apply yourself". Another -य- form that is not a passive.
+note: योगः कर्मसु कौशलम् is a definition: a nominal sentence. कौशल "skill" is a taddhita from कुशल with vṛddhi of the first vowel (lesson 10.2).
+@end
+
+## The person of steady wisdom
+@ex gita:2:56
+split: दुःखेषु अनुद्विग्नमनाः सुखेषु विगतस्पृहः । वीतरागभयक्रोधः स्थितधीः मुनिः उच्यते ॥
+anvaya: दुःखेषु अनुद्विग्नमनाः, सुखेषु विगतस्पृहः, वीतरागभयक्रोधः मुनिः स्थितधीः उच्यते ॥
+w: दुःखेषु = దుఃఖాలలో; अनुद्विग्नमनाः = కలత చెందని మనసు గలవాడు; सुखेषु = సుఖాలలో; विगतस्पृहः = ఆశ పోయినవాడు; वीतरागभयक्रोधः = రాగం, భయం, కోపం పోయినవాడు; मुनिः = ముని; स्थितधीः = స్థితప్రజ్ఞుడు (స్థిరబుద్ధి గలవాడు); उच्यते = అని చెప్పబడతాడు
+note: Four bahuvrīhis describe one person (lesson 9.4). अनुद्विग्नं मनः यस्य सः अनुद्विग्नमनाः: on an -अस् stem the nominative ends in -आः (like सुमनाः, lesson 4.9).
+note: वीताः रागभयक्रोधाः यस्य सः: a dvandva inside a bahuvrīhi. स्थिता धीः यस्य सः स्थितधीः.
+note: उच्यते is the passive of वच् with samprasāraṇa (व → उ, lesson 6.8): "is called".
+note: दुःखेषु, सुखेषु: the locative "amid, in the case of" (lesson 11.1).
+@end
+
+## The ladder down (with 2.62)
+Verse 2.62 (read in lesson 6.10) climbs from thinking about objects to anger. Verse 2.63 continues the ladder down to ruin, one ablative at a time.
+
+@ex gita:2:63
+split: क्रोधात् भवति सम्मोहः सम्मोहात् स्मृतिविभ्रमः । स्मृतिभ्रंशात् बुद्धिनाशः बुद्धिनाशात् प्रणश्यति ॥
+anvaya: क्रोधात् सम्मोहः भवति । सम्मोहात् स्मृतिविभ्रमः (भवति) । स्मृतिभ्रंशात् बुद्धिनाशः (भवति) । बुद्धिनाशात् (पुरुषः) प्रणश्यति ॥
+w: क्रोधात् = కోపం నుండి; भवति = కలుగుతుంది; सम्मोहः = మోహం (వివేకం మసకబారడం); सम्मोहात् = మోహం నుండి; स्मृतिविभ्रमः = జ్ఞాపకశక్తి తడబడటం; स्मृतिभ्रंशात् = జ్ఞాపకశక్తి నశించడం వల్ల; बुद्धिनाशः = బుద్ధి నాశనం; बुद्धिनाशात् = బుద్ధి నశించడం వల్ల; प्रणश्यति = (మనిషి) నశిస్తాడు
+note: Each line is "from X comes Y", the ablative of cause (lesson 11.1). The verb भवति is said once and understood three times.
+note: प्रणश्यति = प्र + नश् class 4. The न becomes ण after the र of प्र (ṇatva, lesson 6.10).
+note: स्मृतिविभ्रमः and स्मृतिभ्रंशः mean the same thing; the poet varies the word but keeps the chain.
+@end
+
+> [memory] The ladder of 2.62–63 :: ध्यानं → सङ्गः → कामः → क्रोधः → सम्मोहः → स्मृतिभ्रंशः → बुद्धिनाशः → प्रणाशः. Eight rungs. Count them on your fingers while reciting; the ablative ending -आत् marks every step.
+
+## Peace
+@ex gita:2:71
+split: विहाय कामान् यः सर्वान् पुमान् चरति निःस्पृहः । निर्ममः निरहङ्कारः सः शान्तिम् अधिगच्छति ॥
+anvaya: यः पुमान् सर्वान् कामान् विहाय निःस्पृहः निर्ममः निरहङ्कारः (सन्) चरति, सः शान्तिम् अधिगच्छति ॥
+w: यः पुमान् = ఏ మనిషి; सर्वान् कामान् = అన్ని కోరికలను; विहाय = విడిచిపెట్టి; निःस्पृहः = ఆశ లేనివాడై; निर्ममः = "నాది" అనే భావం లేనివాడై; निरहङ्कारः = అహంకారం లేనివాడై; चरति = సంచరిస్తాడో; सः = అతడు; शान्तिम् = శాంతిని; अधिगच्छति = పొందుతాడు
+note: विहाय is the absolutive of वि + हा, with -य because of the prefix (lesson 7.3). सर्वान् … कामान् agree (masculine accusative plural) though separated by यः.
+note: पुमान् is the nominative of the irregular पुंस् "man" (lesson 4.10). पुमान् + चरति → पुमांश्चरति (न् before च becomes ं + श्, lesson 8.4).
+note: निःस्पृहः, निर्ममः, निरहङ्कारः are bahuvrīhis with निर्- "without" (lesson 9.4): निर्गता स्पृहा यस्मात् सः.
+note: यः … सः: relative and correlative (lesson 5.3). Some editions print शांतिम् with an anusvāra; it is the same word as शान्तिम् (lesson 1.4).
+@end
+
+## Chapter 2 grammar summary
+| Point | Verses | Lesson |
+|---|---|---|
+| imperfect and future of अस् / भू | 2.12 | 6.4, 6.5 |
+| present participle as noun (सत्, असत्) | 2.16 | 7.2 |
+| passive with instrumental agent | 2.16 | 6.8 |
+| gerundive with negative अ- | 2.27 | 7.4 |
+| infinitive + अर्ह् | 2.27 | 7.3 |
+| ablative of protection and of cause | 2.40, 2.63 | 11.1 |
+| class 3 root (हा) | 2.50 | 6.2 |
+| neuter dual dvandva | 2.50 | 9.4 |
+| bahuvrīhi series | 2.56, 2.71 | 9.4 |
+| absolutive with prefix | 2.71 | 7.3 |
+
+@quiz
+q: In 2.12, आसम् is:
+* imperfect 1st singular of अस्: "I was"
+- future: "I will be"
+- present: "I am"
+why: लङ्, with the augment अ + अस् → आस्.
+
+q: In 2.16, विद्यते means:
+* exists (विद्, class 4)
+- is known (passive)
+- finds
+why: Not every -यते is a passive.
+
+q: अपरिहार्ये अर्थे means:
+* in a matter that cannot be avoided
+- in a matter to be given up
+- for an unavoidable purpose
+why: Gerundive with negative अ-, locative.
+
+q: In 2.40, which case does त्रायते take for "from fear"?
+* the ablative: भयात्
+- the genitive
+- the instrumental
+why: Protection from: 5th case.
+
+q: सुकृतदुष्कृते is:
+* a neuter dual dvandva
+- a locative singular
+- a bahuvrīhi
+why: Good deeds and bad deeds: two things.
+
+q: अनुद्विग्नमनाः is:
+* a bahuvrīhi: one whose mind is not agitated
+- a plural noun
+- a tatpuruṣa
+why: The -अस् stem मनस् gives -मनाः.
+
+q: पुमान् is the nominative of:
+* पुंस् (man)
+- पुमन्
+- पुमत्
+why: An irregular consonant stem.
+@end

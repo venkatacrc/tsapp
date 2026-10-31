@@ -1,0 +1,137 @@
+@title ఈ, ఉ, ఊ శబ్దాలు · नदी, गुरु, धेनु, मधु, वधू, श्री
+@summary The ī-feminines (नदी, देवी, लक्ष्मीः, श्रीः), u-stems in all three genders (गुरुः, धेनुः, मधु) and ū-feminines (वधूः). The u-stems mirror the i-stems exactly, so you learn two tables for the price of one.
+
+## नदी (ī-stem feminine)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| ప్రథమా (1) | नदी | नद्यौ | नद्यः |
+| ద్వితీయా (2) | नदीम् | नद्यौ | नदीः |
+| తృతీయా (3) | नद्या | नदीभ्याम् | नदीभिः |
+| చతుర్థీ (4) | नद्यै | नदीभ्याम् | नदीभ्यः |
+| పంచమీ (5) | नद्याः | नदीभ्याम् | नदीभ्यः |
+| షష్ఠీ (6) | नद्याः | नद्योः | नदीनाम् |
+| సప్తమీ (7) | नद्याम् | नद्योः | नदीषु |
+| సంబోధన (8) | हे नदि | हे नद्यौ | हे नद्यः |
+
+> [memory] नदी is रमा with य :: Compare: रमया / नद्या, रमायै / नद्यै, रमायाः / नद्याः, रमायाम् / नद्याम्. The ई turns into य before vowels (यण् sandhi), and the endings are the same feminine set. No visarga in the nominative: नदी, देवी, पृथिवी. The vocative shortens: हे नदि, हे देवि, हे जननि.
+
+| Words like नदी | Telugu |
+|---|---|
+| देवी | దేవి |
+| पृथिवी / पृथ्वी | భూమి |
+| जननी | తల్లి |
+| नारी | స్త్రీ |
+| पुत्री | కూతురు |
+| सखी | స్నేహితురాలు |
+| वाणी | వాక్కు, సరస్వతి |
+| गौरी, पार्वती, सरस्वती, भगवती | (names) |
+| जानकी, वैदेही, मैथिली | Sītā's names |
+
+> [warning] लक्ष्मीः and श्रीः keep the visarga :: A few ī-stems (originally different classes) take -ः in the nominative: लक्ष्मीः, तन्त्रीः, and the one-syllable श्रीः, धीः, ह्रीः, भीः. श्री declines differently: श्रीः श्रियौ श्रियः, श्रियम्, श्रिया, श्रियै / श्रिये, श्रियाः / श्रियः, श्रियाम् / श्रियि. Gītā 18.78 तत्र श्रीर्विजयः: श्रीः + vowel sandhi.
+
+## गुरु (u-stem masculine)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| ప్రథమా (1) | गुरुः | गुरू | गुरवः |
+| ద్వితీయా (2) | गुरुम् | गुरू | गुरून् |
+| తృతీయా (3) | गुरुणा | गुरुभ्याम् | गुरुभिः |
+| చతుర్థీ (4) | गुरवे | गुरुभ्याम् | गुरुभ्यः |
+| పంచమీ (5) | गुरोः | गुरुभ्याम् | गुरुभ्यः |
+| షష్ఠీ (6) | गुरोः | गुर्वोः | गुरूणाम् |
+| సప్తమీ (7) | गुरौ | गुर्वोः | गुरुषु |
+| సంబోధన (8) | हे गुरो | हे गुरू | हे गुरवः |
+
+> [memory] गुरु = हरि with उ for इ :: Every form matches: हरिः/गुरुः, हरये/गुरवे, हरेः/गुरोः, हरौ/गुरौ, हे हरे/हे गुरो, हरीन्/गुरून्, हरीणाम्/गुरूणाम्. The guṇa of उ is ओ (just as इ → ए). Learn हरि, swap the vowel, done.
+
+| Words like गुरु | Telugu |
+|---|---|
+| विष्णुः | విష్ణువు |
+| शिशुः | శిశువు |
+| बन्धुः | బంధువు |
+| रिपुः / शत्रुः | శత్రువు |
+| साधुः | సాధువు |
+| प्रभुः | ప్రభువు |
+| मनुः | మనువు |
+| भानुः | సూర్యుడు |
+| वायुः | వాయువు |
+| मृत्युः | మృత్యువు |
+| सेतुः | సేతువు |
+| हेतुः | హేతువు |
+
+## धेनु (u-stem feminine) and मधु (neuter)
+धेनु follows मति with उ: धेनुः धेनू धेनवः, धेनुम् धेनू **धेनूः**, **धेन्वा**, धेन्वै / धेनवे, धेन्वाः / धेनोः, धेन्वाम् / धेनौ, हे धेनो. Other u-feminines: रज्जुः (rope), तनुः (body), चञ्चुः (beak).
+
+मधु follows वारि: मधु मधुनी मधूनि, मधुना, मधुने, मधुनः, मधुनि, हे मधो / मधु. Others: वसु (wealth), अश्रु (tear), वस्तु (thing), जानु (knee), दारु (wood).
+
+## वधू (ū-stem feminine)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | वधूः | वध्वौ | वध्वः |
+| 2 | वधूम् | वध्वौ | वधूः |
+| 3 | वध्वा | वधूभ्याम् | वधूभिः |
+| 4 | वध्वै | वधूभ्याम् | वधूभ्यः |
+| 5 / 6 | वध्वाः | वधूभ्याम् / वध्वोः | वधूभ्यः / वधूनाम् |
+| 7 | वध्वाम् | वध्वोः | वधूषु |
+| 8 | हे वधु | हे वध्वौ | हे वध्वः |
+
+वधू is नदी with व for य. Also: चमूः (army), श्वश्रूः (mother-in-law). The one-syllable भूः (earth) declines like श्रीः: भुवौ, भुवः, भुवा…
+
+@ex gita:6:5
+note: बन्धुः "friend" and रिपुः "enemy": u-stem nominatives, like गुरुः.
+@end
+
+@ex gita:4:8
+note: साधूनाम् "of the good": genitive plural of साधु (गुरूणाम् pattern; ण → न because no र/ष/ऋ in साधु).
+note: दुष्कृताम् is a t-stem genitive plural (दुष्कृत्, "evil-doer"): lesson 4.8.
+@end
+
+@ex gita:2:5
+note: गुरून् "the elders" (2 pl. of गुरु, like हरीन्) appears twice: गुरून् अहत्वा, हत्वा … गुरून्.
+note: महानुभावान्, अर्थकामान्: a-stem accusative plurals agreeing with गुरून्.
+@end
+
+@ex
+sa: गङ्गा पवित्रा नदी । नद्याः तीरे मुनयः तपः कुर्वन्ति ।
+te: గంగ పవిత్రమైన నది. నది ఒడ్డున మునులు తపస్సు చేస్తున్నారు.
+en: The Gaṅgā is a sacred river. On the river's bank sages perform austerities.
+w: गङ्गा = గంగ; पवित्रा = పవిత్రమైన (f.); नदी = నది; नद्याः = నది యొక్క (6 sg.); तीरे = ఒడ్డున (7); मुनयः = మునులు (1 pl., हरि pattern); तपः = తపస్సు (n., -अस् stem); कुर्वन्ति = చేస్తున్నారు
+note: पवित्रा agrees with नदी (feminine); with a masculine noun it would be पवित्रः.
+@end
+
+@quiz
+q: Instrumental singular of नदी:
+* नद्या
+- नदिना
+- नदीभिः
+why: ई → य before the vowel ending: नद्या. नदीभिः is plural.
+
+q: Vocative singular of देवी:
+* हे देवि
+- हे देवी
+- हे देवे
+why: ī-feminines shorten in the vocative: हे देवि, हे जननि.
+
+q: Genitive singular of विष्णु:
+* विष्णोः
+- विष्णुस्य
+- विष्णुणः
+why: Guṇa: उ → ओ + ः (गुरोः, विष्णोः).
+
+q: Nominative plural of गुरु:
+* गुरवः
+- गुरूः
+- गुरुणः
+why: Guṇa + -अः: गुरवः (like हरयः).
+
+q: Which ī-stem keeps the visarga in the nominative?
+* लक्ष्मीः
+- नदी
+- देवी
+why: लक्ष्मीः, श्रीः, धीः are exceptions; most ī-feminines have no visarga.
+
+q: वधू is declined like नदी but with:
+* व instead of य
+- म instead of य
+- no change at all
+why: ऊ → व before vowels: वध्वा, वध्वै, वध्वाः.
+@end

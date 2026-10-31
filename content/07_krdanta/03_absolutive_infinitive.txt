@@ -1,0 +1,105 @@
+@title చేసి, చేయడానికి · Absolutive and infinitive (क्त्वा, ल्यप्, तुमुन्)
+@summary Telugu చేసి is कृत्वा; Telugu చేయడానికి is कर्तुम्. The two indeclinable verb forms that carry most Sanskrit sentences: their shapes (-त्वा, -य, -त्य, -तुम्), the same-subject rule, chains of absolutives, and the infinitive with इच्छति, शक्नोति, अर्हति and काम.
+
+## The absolutive (పూర్వకాలిక క్రియ)
+"Having done X, (the same person) does Y" (समानकर्तृकयोः पूर्वकाले 3.4.21). It never changes for gender, number or case.
+
+| Shape | When | Examples |
+|---|---|---|
+| -त्वा (क्त्वा) | no prefix | कृत्वा, गत्वा, दृष्ट्वा, श्रुत्वा, भूत्वा, उक्त्वा, त्यक्त्वा |
+| -इत्वा | सेट् roots, class 10 | पठित्वा, लिखित्वा, विदित्वा, चिन्तयित्वा |
+| -य (ल्यप्) | with a prefix | आगम्य, उपसङ्गम्य, विहाय, परित्यज्य, विसृज्य, प्रणम्य |
+| -त्य | with a prefix, root ending in a short vowel | प्रकृत्य, विजित्य, आदृत्य, आगत्य (optional for गम्) |
+
+> [memory] Prefix → -य, no prefix → -त्वा :: Look before the root. गत्वा but आगम्य / आगत्य; दृष्ट्वा but सन्दृश्य; कृत्वा but नमस्कृत्य. The negative prefix अ- / अन्- does not count as an upasarga: अकृत्वा "without doing", अदत्त्वा "without giving".
+
+> [compare] Telugu -ఇ is the same construction :: Telugu chains -ఇ forms exactly as Sanskrit chains absolutives, and the last verb carries tense: లేచి, స్నానం చేసి, తిని, బడికి వెళ్ళాడు = उत्थाय, स्नात्वा, भुक्त्वा, विद्यालयं गतवान्. Same rule: all actions belong to one subject.
+
+### Chains
+| Sanskrit | Telugu |
+|---|---|
+| प्रातः उत्थाय, स्नात्वा, देवं नत्वा, पठति | ఉదయం లేచి, స్నానం చేసి, దేవునికి మొక్కి, చదువుతాడు |
+| गुरुं प्रणम्य शिष्यः प्रश्नं पृष्टवान् | గురువుకు నమస్కరించి శిష్యుడు ప్రశ్న అడిగాడు |
+| पुस्तकं पठित्वा सः सुप्तवान् | పుస్తకం చదివి అతడు నిద్రపోయాడు |
+| भोजनम् अकृत्वा सा गता | భోజనం చేయకుండా ఆమె వెళ్ళిపోయింది |
+
+> [warning] Same subject, different case :: The doer of the absolutive is the doer of the main verb, even if that doer is in the 3rd case in a passive: मया गत्वा फलं खादितम् "నేను వెళ్ళి పండు తిన్నాను". Mixing subjects (रामे गत्वा सीता रोदिति) is wrong; use a locative absolute instead (रामे गते सीता रोदिति, lesson 11.4).
+
+### Repetition and special uses
+- भूत्वा भूत्वा प्रलीयते (8.19) "having come into being again and again, it dissolves": repetition = again and again.
+- Absolutives used as prepositions: आरभ्य "beginning from" (अद्य आरभ्य = ఈరోజు నుండి), उद्दिश्य "with reference to", अधिकृत्य "about", विहाय / मुक्त्वा "except", आदाय "with".
+- णमुल् (-अम्), rare, repeated: स्मारं स्मारम् "remembering again and again".
+
+## The infinitive (తుమున్నంతం)
+Suffix -तुम् / -इतुम्, the same root form as the periphrastic future (कर्ता → कर्तुम्). It is indeclinable.
+
+| Construction | Sanskrit | Telugu |
+|---|---|---|
+| purpose | पठितुं विद्यालयं गच्छति | చదవడానికి బడికి వెళ్తాడు |
+| with इच्छति | द्रष्टुम् इच्छामि (11.3) | చూడాలనుకుంటున్నాను |
+| with शक्नोति | न च शक्नोमि अवस्थातुम् (1.30) | నిలవలేకపోతున్నాను |
+| with अर्हति | कर्तुम् अर्हति (2.17), अनुशोचितुम् अर्हसि (2.25) | చేయగలడు, దుఃఖించదగినవాడివి |
+| with अर्ह adjective | न अर्हाः वयं हन्तुम् (1.37) | మనం చంపదగినవారం కాదు |
+| with काल, समय | गन्तुं कालः | వెళ్ళే సమయం |
+| with काम / मनस् (म् drops) | द्रष्टुकामः, गन्तुमनाः | చూడాలనే కోరిక గలవాడు |
+
+> [memory] शक्, अर्ह्, इष्: the three infinitive partners :: शक्नोमि कर्तुम् "నేను చేయగలను", अर्हसि कर्तुम् "నువ్వు చేయాలి / చేయదగును", इच्छामि कर्तुम् "నేను చేయాలనుకుంటున్నాను". Telugu -గలను, -దగును, -ఆలనుకొను.
+
+> [note] Purpose with the 4th case :: Purpose can also be expressed with the dative of an action noun: युद्धाय (2.37 "for battle"), परित्राणाय (4.8). फलेभ्यः याति "goes for fruits" (तुमर्थाच्च भाववचनात् 2.3.15). Telugu -కోసం / -కై.
+
+@ex gita:1:2
+split: दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनः तदा । आचार्यम् उपसङ्गम्य राजा वचनम् अब्रवीत् ॥
+note: दृष्ट्वा "having seen" (no prefix, -त्वा) and उपसङ्गम्य "having approached" (उप + सम् + गम्, -य): both done by दुर्योधनः, who then अब्रवीत् "spoke".
+@end
+
+@ex gita:1:47
+note: उक्त्वा (वच्, no prefix) and विसृज्य (वि + सृज्, -य): "having spoken… having cast aside", then the finite verb उपाविशत्.
+@end
+
+@ex gita:2:25
+split: अव्यक्तः अयम् अचिन्त्यः अयम् अविकार्यः अयम् उच्यते । तस्मात् एवं विदित्वा एनं न अनुशोचितुम् अर्हसि ॥
+w: अव्यक्तः = వ్యక్తం కానిది; अचिन्त्यः = ఊహించలేనిది; अविकार्यः = మార్పు చెందనిది; उच्यते = చెప్పబడుతుంది; तस्मात् = కాబట్టి; एवम् = ఈ విధంగా; विदित्वा = తెలుసుకొని; एनम् = దీన్ని; न अनुशोचितुम् अर्हसि = నువ్వు దుఃఖించదగదు
+note: विदित्वा (सेट्: -इत्वा) and अनुशोचितुम् अर्हसि (infinitive with अर्ह्). अचिन्त्यः and अविकार्यः are gerundives (next lesson).
+@end
+
+@ex gita:1:37
+note: हन्तुम् (infinitive with अर्हाः), हत्वा (absolutive), स्याम (optative): "How could we be happy after killing our own people?"
+@end
+
+@quiz
+q: "చదివి" in Sanskrit:
+* पठित्वा
+- पठितुम्
+- पठन्
+why: Absolutive, सेट् root: -इत्वा.
+
+q: With the prefix प्र, नम् makes the absolutive:
+* प्रणम्य
+- प्रणत्वा
+- प्रनमित्वा
+why: Prefix → -य; न → ण after प्र.
+
+q: नमस्कृत्य ends in -त्य because:
+* कृ ends in a short vowel and has a "prefix" (नमस्)
+- it is a future form
+- it is irregular
+why: Short-vowel roots take तुक्: -कृत्य, -जित्य.
+
+q: "నిలవలేను" — Sanskrit:
+* न शक्नोमि अवस्थातुम्
+- न अवस्थाय शक्नोमि
+- अवस्थित्वा न
+why: Infinitive with शक्: 1.30.
+
+q: द्रष्टुकामः means:
+* wishing to see
+- having seen
+- the seen one
+why: Infinitive + काम, with the म् of -तुम् dropped.
+
+q: रामे गत्वा सीता रोदिति is wrong because:
+* the absolutive must share the main verb's subject
+- गत्वा needs a prefix
+- रोदिति is passive
+why: Use a locative absolute: रामे गते सीता रोदिति.
+@end

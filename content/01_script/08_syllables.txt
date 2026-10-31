@@ -1,0 +1,94 @@
+@title గురు లఘువులు · Syllables and their weight
+@summary How Sanskrit splits words into syllables, which syllables are light (लघु) and heavy (गुरु), and why this matters for chanting and metre. The rules are the same ones Telugu పద్యం uses.
+
+## Splitting into syllables (అక్షరాలు)
+A syllable is a vowel with the consonants before it. When consonants come between two vowels, the **first** goes with the earlier syllable and the rest with the later one.
+
+| Word | Syllables |
+|---|---|
+| राम | रा · म |
+| कृष्ण | कृष् · ण |
+| धर्मक्षेत्रे | धर् · मक् · षेत् · रे |
+| आत्मानम् | आत् · मा · नम् |
+| विष्णुः | विष् · णुः |
+| सर्वस्य | सर् · वस् · य |
+
+## లఘువు, గురువు — light and heavy
+> [sutra] ह्रस्वं लघु (1.4.10) · संयोगे गुरु (1.4.11) · दीर्घं च (1.4.12) :: A short vowel is light. It is heavy if a conjunct follows. A long vowel is heavy.
+
+| Syllable | Weight | Why |
+|---|---|---|
+| short vowel, single consonant or none after | लघु (light, ।) | र in राम, म in राम |
+| long vowel (आ ई ऊ ॠ ए ऐ ओ औ) | गुरु (heavy, ऽ) | रा in राम, दे in देव |
+| short vowel + ं or ः | गुरु | रं in शरणं, मः in रामः |
+| short vowel + conjunct after it | गुरु | ध in धर्म (र्म follows), वि in विष्णु |
+| last syllable of a verse quarter | either (optional) | the పాదాంత rule |
+
+> [telugu] Same as Telugu ఛందస్సు :: Your Telugu grammar taught exactly this: దీర్ఘాక్షరం గురువు, సున్నా, విసర్గ కలిగినవి గురువు, సంయుక్తాక్షరానికి ముందున్నది గురువు, మిగిలినవి లఘువు. Telugu writes గురువు as U and లఘువు as I (or ।). Sanskrit books use ऽ (or —) for guru and । (or ∪) for laghu.
+
+> [memory] Two beats or one :: A heavy syllable takes two beats (मात्राs), a light one takes one. Heavy = long vowel, or a short vowel that is "closed" by ं, ः or the first consonant of a cluster.
+
+## Marking a verse line
+@literal
+@nocards
+| Syllable | धर् | मक् | षेत् | रे | कु | रुक् | षेत् | रे |
+|---|---|---|---|---|---|---|---|---|
+| Weight | गु | गु | गु | गु | ल | गु | गु | गु |
+| Why | short, but र्म follows | short, but क्ष follows | long ए | long ए | short, single र follows | short, but क्ष follows | long ए | long ए |
+
+Look at the pattern: in the eight syllables of an అనుష్టుప్ quarter, syllables 5, 6, 7 decide the shape. Here कु (5) is light, रु (6) heavy, क्षे (7) heavy: ल गु गु, the classic anuṣṭubh ending of the first quarter (Unit 12).
+
+> [warning] ऋ is short :: कृ, पृ, हृ are light unless a cluster follows. कृष्ण: कृ is heavy only because ष्ण follows. And a long vowel is heavy even before a single consonant: कृ in कृपा is light, पा heavy.
+
+## Practice
+@nocards
+| Word | Pattern |
+|---|---|
+| गोविन्द | गु गु ल (गो long; वि before न्द) |
+| नारायण | गु गु ल ल |
+| केशव | गु ल ल |
+| माधव | गु ल ल |
+| हरिः | ल गु |
+| अच्युत | गु ल ल |
+| श्रीधर | गु ल ल |
+| पद्मनाभ | गु ल गु ल |
+
+@ex
+sa: शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।
+te: తెల్లని వస్త్రం ధరించినవాడు, సర్వవ్యాపి, చంద్రుని వంటి వర్ణం కలవాడు, నాలుగు భుజాలు కలవాడు…
+en: Clad in white, all-pervading, moon-coloured, four-armed…
+note: शुक्लाम्बरधरं: शु (गु, before क्ल), क्ला (गु), म्ब… the syllables are शुक् · लाम् · ब · र · ध · रं — गु गु ल ल ल गु.
+note: Syllables 5–7 of the first quarter (ध रं वि) are ल गु गु — the typical anuṣṭubh pattern.
+@end
+
+@quiz
+q: Which syllable is heavy?
+* ध in धर्म
+- र in राम
+- कृ in कृपा
+why: ध is followed by the cluster र्म, which makes it guru.
+
+q: Is a short vowel followed by anusvāra heavy or light?
+* Heavy
+- Light
+- Depends on the next word
+why: ं and ः close the syllable: रं, मः are guru.
+
+q: How many beats (mātrās) is a heavy syllable?
+* Two
+- One
+- Three
+why: Light = one mātrā, heavy = two.
+
+q: What is the weight pattern of केशव?
+* गु ल ल
+- ल गु ल
+- गु गु ल
+why: के has long ए (गु); श and व are short with single consonants after them.
+
+q: In Telugu prosody, the guru mark is:
+* U
+- I
+- ऽ only in Sanskrit, nothing in Telugu
+why: Telugu writes గురువు as U and లఘువు as I. Sanskrit books often use ऽ and ।.
+@end

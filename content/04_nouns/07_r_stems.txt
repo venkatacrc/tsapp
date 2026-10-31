@@ -1,0 +1,109 @@
+@title ఋకారాంత శబ్దాలు · ṛ-stems: पितृ, दातृ, मातृ
+@summary Family words (पिता, माता, भ्राता, स्वसा) and agent nouns (कर्ता, दाता, धाता, भर्ता, नेता). The strong stem -तार् / -तर्, the ablative-genitive -उः, and why Telugu పిత, దాత lost the r.
+
+## पितृ (relationship noun, masculine)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| ప్రథమా (1) | पिता | पितरौ | पितरः |
+| ద్వితీయా (2) | पितरम् | पितरौ | पितॄन् |
+| తృతీయా (3) | पित्रा | पितृभ्याम् | पितृभिः |
+| చతుర్థీ (4) | पित्रे | पितृभ्याम् | पितृभ्यः |
+| పంచమీ (5) | पितुः | पितृभ्याम् | पितृभ्यः |
+| షష్ఠీ (6) | पितुः | पित्रोः | पितॄणाम् |
+| సప్తమీ (7) | पितरि | पित्रोः | पितृषु |
+| సంబోధన (8) | हे पितः | हे पितरौ | हे पितरः |
+
+> [memory] Three stems: पितर्, पित्र्, पितृ :: Strong cases (1 sg., du., pl.; 2 sg., du.; 7 sg.) use **पितर्**: पितरौ, पितरः, पितरम्, पितरि. Before vowel endings it is **पित्र्**: पित्रा, पित्रे, पित्रोः. Before consonant endings **पितृ**: पितृभिः, पितृषु. And two oddities: पिता (1 sg.) and पितुः (5/6 sg.).
+
+> [telugu] పిత, మాత, దాత :: Telugu took the Sanskrit nominative singular (पिता, माता, दाता) and shortened the ā. So in Telugu these words have no r at all. The r returns in every other Sanskrit form: पितरम्, मातरि, दातारः.
+
+## दातृ (agent noun, masculine)
+Agent nouns in **-तृ** ("one who does") use a stronger stem **-तार्** in the strong cases:
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | दाता | दातारौ | दातारः |
+| 2 | दातारम् | दातारौ | दातॄन् |
+| 3 | दात्रा | दातृभ्याम् | दातृभिः |
+| 4 | दात्रे | दातृभ्याम् | दातृभ्यः |
+| 5 / 6 | दातुः | दातृभ्याम् / दात्रोः | दातृभ्यः / दातॄणाम् |
+| 7 | दातरि | दात्रोः | दातृषु |
+| 8 | हे दातः | हे दातारौ | हे दातारः |
+
+> [compare] पितरौ vs दातारौ :: The only difference: family words have short -तर- (पितरौ, भ्रातरः, मातरम्), agent nouns have long -तार- (दातारौ, कर्तारः, नेतारम्). Exception: नप्तृ (grandson) and स्वसृ (sister) take the long form.
+
+## Agent nouns you meet constantly
+| Root | Agent | Telugu | Where |
+|---|---|---|---|
+| कृ (do) | कर्ता | కర్త | कर्ताहमिति मन्यते (Gītā 3.27) |
+| धा (place, support) | धाता | ధాత | धाता विधाता (Sahasranāmam 5) |
+| भृ (bear) | भर्ता | భర్త | भर्ता प्रभवः प्रभुः (Sahasranāmam 4) |
+| नी (lead) | नेता | నేత | योगो योगविदां नेता (Sahasranāmam 3) |
+| हृ (take) | हर्ता | హర్త | |
+| श्रु (hear) | श्रोता | శ్రోత | |
+| वच् (speak) | वक्ता | వక్త | |
+| भुज् (enjoy) | भोक्ता | భోక్త | भोक्तारं यज्ञतपसाम् (Gītā 5.29) |
+| ज्ञा (know) | ज्ञाता | జ్ఞాత | |
+| दृश् (see) | द्रष्टा | ద్రష్ట | |
+| सृज् (create) | स्रष्टा | సృష్టికర్త | |
+| द्विष् (hate) | द्वेष्टा | ద్వేషించువాడు | अद्वेष्टा सर्वभूतानाम् (Gītā 12.13) |
+
+> [memory] -तृ = -er :: कर्ता "doer", दाता "giver", भोक्ता "enjoyer", श्रोता "hearer". The -तृ suffix is the Sanskrit "-er", and the nominative always ends in -ता. When a Sahasranāma name ends in -ता (धाता, विधाता, भर्ता, नेता), it is an agent noun in the nominative.
+
+## मातृ and स्वसृ (feminine)
+माता follows पितृ except in the accusative plural: **मातॄः** (not -ॄन्). Same for दुहितृ (daughter), ननान्दृ, यातृ. स्वसृ (sister) follows दातृ's long stem: स्वसा स्वसारौ स्वसारः, स्वसारम्, स्वसॄः.
+
+| | पितृ (m.) | मातृ (f.) | दातृ (m.) | स्वसृ (f.) |
+|---|---|---|---|---|
+| 1 sg. | पिता | माता | दाता | स्वसा |
+| 1 pl. | पितरः | मातरः | दातारः | स्वसारः |
+| 2 pl. | पितॄन् | मातॄः | दातॄन् | स्वसॄः |
+| 3 sg. | पित्रा | मात्रा | दात्रा | स्वस्रा |
+| 6 sg. | पितुः | मातुः | दातुः | स्वसुः |
+| 7 sg. | पितरि | मातरि | दातरि | स्वसरि |
+
+> [note] The dual पितरौ means "parents" :: पितरौ (dual of पितृ) usually means "father and mother", as does the dvandva मातापितरौ. Telugu తల్లిదండ్రులు. Similarly भ्रातरौ can mean "brother and sister".
+
+@ex gita:9:17
+split: पिता अहम् अस्य जगतः माता धाता पितामहः । वेद्यं पवित्रम् ओङ्कारः ऋक् साम यजुः एव च ॥
+w: पिता = తండ్రి (1 sg. of पितृ); अहम् = నేను; अस्य = ఈ; जगतः = జగత్తుకు (6 sg. of जगत्); माता = తల్లి; धाता = ధాత, పోషించువాడు (agent noun); पितामहः = తాత; वेद्यम् = తెలుసుకోదగినది; पवित्रम् = పవిత్రమైనది; ओङ्कारः = ఓంకారం; ऋक् साम यजुः = ఋగ్, సామ, యజుర్వేదాలు
+note: पिता, माता, धाता: three ṛ-stem nominatives in a row: two relationship nouns and one agent noun.
+note: अस्य जगतः "of this world": Telugu ఈ జగత్తుకు. Genitive in Sanskrit, dative in Telugu.
+@end
+
+@ex vs:stotram:5
+note: धाता विधाता: agent nouns from धा with and without the prefix वि: "the supporter, the ordainer".
+note: धातुरुत्तमः: धातुः उत्तमः — here धातुः is the u-stem noun धातु "element, support", not the agent noun. Compare धाता.
+@end
+
+@quiz
+q: Accusative singular of पितृ:
+* पितरम्
+- पितृम्
+- पितारम्
+why: Strong stem पितर्; only agent nouns lengthen to -तार्.
+
+q: Genitive singular of मातृ:
+* मातुः
+- मातृस्य
+- मातरः
+why: ṛ-stems have -उः in the ablative/genitive singular.
+
+q: Nominative plural of कर्तृ (doer):
+* कर्तारः
+- कर्तरः
+- कर्तृः
+why: Agent nouns use the long strong stem: कर्तारः, दातारः, नेतारः.
+
+q: What does a Sahasranāma name ending in -ता (like नेता, भर्ता) usually show?
+* An agent noun in -तृ, nominative singular
+- A feminine ā-stem
+- A participle
+why: नेता "leader", भर्ता "supporter", धाता "sustainer".
+
+q: Accusative plural of मातृ:
+* मातॄः
+- मातॄन्
+- मातरः
+why: Feminine ṛ-stems take -ॄः; masculine -ॄन्.
+@end

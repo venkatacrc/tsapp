@@ -1,0 +1,85 @@
+@title దీర్ఘ సమాసాలు · Unpacking long compounds
+@summary A five-step method for compounds of three, four or more members: start at the end, cut into two, name the type, repeat. Tree diagrams for कार्पण्यदोषोपहतस्वभावः, धर्मसंस्थापनार्थाय, भूतभव्यभवत्प्रभुः, and the Viṣṇu dhyāna verse शान्ताकारं भुजगशयनं, which is fourteen compounds in a row.
+
+## The method
+1. **Find the end.** The last member carries the case ending; it tells you the gender, number and case of the whole, and what (or whom) the compound refers to.
+2. **Cut once.** Every compound, however long, is two parts: X + Y. Find the cut that makes sense: usually before the last member, sometimes earlier.
+3. **Name the type** of X + Y (tatpuruṣa, karmadhāraya, dvandva, bahuvrīhi…).
+4. **Repeat inside X** (and Y, if it is itself compound).
+5. **Write the vigraha** from the inside out, then test it against the sentence.
+
+> [memory] Compounds are binary trees :: Even a six-member compound is analysed two at a time. Draw it as brackets: [[[कार्पण्य-दोष]-उपहत]-स्वभावः]. Telugu commentaries (ప్రతిపదార్థం) do exactly this, giving the vigraha of each level.
+
+## Example 1: कार्पण्यदोषोपहतस्वभावः (2.7)
+- Last member स्वभावः "nature", but the compound describes Arjuna (he says पृच्छामि "I ask"), so the top level is a **bahuvrīhi**: कार्पण्यदोषोपहतः स्वभावः यस्य सः.
+- कार्पण्यदोष + उपहतः: **tṛtīyā tatpuruṣa**: कार्पण्यदोषेण उपहतः "struck by the fault of weakness".
+- कार्पण्य + दोषः: **karmadhāraya** (रूपक) कार्पण्यम् एव दोषः "weakness, which is a fault", or ṣaṣṭhī कार्पण्यस्य दोषः.
+- Whole: "I, whose nature is struck by the fault of weakness".
+
+## Example 2: धर्मसंस्थापनार्थाय (4.8)
+- Last member अर्थ "purpose", 4th case: "for the purpose of…".
+- धर्मसंस्थापन + अर्थ: **caturthī tatpuruṣa** with अर्थ (अर्थेन नित्यसमासः, vārttika on 2.1.36): धर्मसंस्थापनाय इदम्.
+- धर्म + संस्थापनम्: **ṣaṣṭhī tatpuruṣa**: धर्मस्य संस्थापनम् "establishing of dharma".
+
+## Example 3: भूतभव्यभवत्प्रभुः (VS 1)
+- Last member प्रभुः "lord": **ṣaṣṭhī tatpuruṣa**: भूतभव्यभवताम् प्रभुः.
+- भूत + भव्य + भवत्: **itaretara dvandva**: भूतं च भव्यं च भवत् च "past, future and present".
+
+> [compare] Telugu does the same with long సమాసాలు :: Telugu poets (Pothana especially) build long Sanskrit compounds in Telugu verse: "శరదిందుసుందరముఖి", "కమలదళాయతాక్షి". The method above works on them unchanged, and the Telugu ending (-ఉడు, -ఇ, -ము) on the last member tells you the gender just as the Sanskrit ending does.
+
+## Example 4: the Viṣṇu dhyāna verse
+@ex vs:purva:Dhyānam 3
+split: शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं विश्वाकारं गगनसदृशं मेघवर्णं शुभाङ्गम् । लक्ष्मीकान्तं कमलनयनं योगिहृद्ध्यानगम्यं वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥
+w: शान्ताकारम् = శాంతమైన ఆకారం గలవానిని (bahuvrīhi: शान्तः आकारः यस्य); भुजगशयनम् = సర్పం శయ్యగా గలవానిని (bahuvrīhi: भुजगः शयनं यस्य); पद्मनाभम् = నాభిలో పద్మం గలవానిని (bahuvrīhi: पद्मं नाभौ यस्य); सुरेशम् = దేవతల ప్రభువును (ṣaṣṭhī: सुराणाम् ईशः); विश्वाकारम् = విశ్వమే ఆకారంగా గలవానిని (bahuvrīhi); गगनसदृशम् = ఆకాశంతో సమానుని (tṛtīyā: गगनेन सदृशः); मेघवर्णम् = మేఘం వంటి రంగు గలవానిని (bahuvrīhi: मेघस्य इव वर्णः यस्य); शुभाङ्गम् = శుభమైన అంగాలు గలవానిని (bahuvrīhi); लक्ष्मीकान्तम् = లక్ష్మీదేవి భర్తను (ṣaṣṭhī: लक्ष्म्याः कान्तः); कमलनयनम् = కమలాల వంటి కళ్ళు గలవానిని (bahuvrīhi); योगिहृद्ध्यानगम्यम् = యోగుల హృదయ ధ్యానంతో పొందదగినవానిని (tṛtīyā: योगिनां हृदि ध्यानेन गम्यः); वन्दे = నమస్కరిస్తున్నాను; विष्णुम् = విష్ణువును; भवभयहरम् = సంసార భయాన్ని పోగొట్టేవానిని (upapada: भवात् भयं हरति); सर्वलोकैकनाथम् = అన్ని లోకాలకు ఏకైక ప్రభువును (ṣaṣṭhī: सर्वेषां लोकानाम् एकः नाथः)
+note: One verb (वन्दे) and one object (विष्णुम्); the other thirteen words are compounds in the 2nd case agreeing with विष्णुम्. Most are bahuvrīhis: they describe Viṣṇu by something he has.
+note: योगिहृद्ध्यानगम्यम्: [[योगि-हृत्]-ध्यान]-गम्यम्. हृत् + ध्यान → हृद्ध्यान (voicing before ध्). Four levels deep.
+@end
+
+## Example 5: a Gītā river
+@ex gita:0:6
+split: भीष्मद्रोणतटा जयद्रथजला गान्धारनीलोत्पला शल्यग्राहवती कृपेण वहनी कर्णेन वेलाकुला । अश्वत्थामविकर्णघोरमकरा दुर्योधनावर्तिनी सा उत्तीर्णा खलु पाण्डवैः रणनदी कैवर्तकः केशवः ॥
+note: Every adjective describes रणनदी "the river of battle" (feminine, so each bahuvrīhi ends in -आ / -ई): भीष्मद्रोणतटा "whose banks are Bhīṣma and Droṇa" (a dvandva inside a bahuvrīhi), जयद्रथजला "whose water is Jayadratha", अश्वत्थामविकर्णघोरमकरा "whose fearsome sharks are Aśvatthāmā and Vikarṇa". A whole battle as one rūpaka (metaphor) built from compounds.
+@end
+
+## Common patterns at a glance
+| Ending | Usually | Example |
+|---|---|---|
+| -पाणिः, -हस्तः, -धरः, -भृत् | bahuvrīhi / upapada (holding) | चक्रपाणिः, शुक्लाम्बरधरः |
+| -अक्षः, -नयनः, -मुखः, -वदनः | bahuvrīhi (having eyes / face) | पुष्कराक्षः, प्रसन्नवदनः |
+| -आत्मा, -मनाः, -चेताः, -धीः | bahuvrīhi (having a self / mind) | महात्मा, धर्मसंमूढचेताः (2.7) |
+| -अर्थम्, -अर्थाय, -अर्थे | caturthī tatpuruṣa (for) | धर्मसंस्थापनार्थाय, मदर्थे |
+| -कृत्, -ज्ञ, -स्थ, -ग, -द | upapada | भूतकृत्, सर्वज्ञः, गृहस्थः |
+| two or more nouns, dual / plural | dvandva | लाभालाभौ, सुखदुःखे |
+| -पतिः, -ईशः, -नाथः | ṣaṣṭhī tatpuruṣa (lord of) | लक्ष्मीपतिः, सुरेशः, जगन्नाथः |
+
+@quiz
+q: In a long compound, start analysing from:
+* the last member
+- the first member
+- the middle
+why: The last member carries the ending and the head meaning (except in bahuvrīhi, where it still tells you the gender and case).
+
+q: भुजगशयनम् (Viṣṇu) is:
+* bahuvrīhi: he whose bed is the serpent
+- tatpuruṣa: the bed of the serpent
+- dvandva: serpent and bed
+why: It describes Viṣṇu, not a bed.
+
+q: The top level of कार्पण्यदोषोपहतस्वभावः is:
+* bahuvrīhi (describing Arjuna)
+- tatpuruṣa
+- dvandva
+why: "I, whose nature is struck by…".
+
+q: भूतभव्यभवत् inside भूतभव्यभवत्प्रभुः is:
+* a dvandva (past, future and present)
+- a karmadhāraya
+- a bahuvrīhi
+why: भूतं च भव्यं च भवत् च.
+
+q: Why do the compounds in भीष्मद्रोणतटा… end in -आ?
+* they are bahuvrīhis agreeing with the feminine रणनदी
+- -आ is the dual
+- they are dvandvas
+why: Bahuvrīhis take the gender of what they describe.
+@end

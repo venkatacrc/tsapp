@@ -1,0 +1,170 @@
+@title గీతా పఠనం 3 · Gītā reader III: devotion and the conclusion (chapters 7–18)
+@summary Ten verses on bhakti and the final teaching, chosen for their grammar: five relative clauses with one correlative, verbs from five different classes in one line, the comparative with the ablative, the genitive with kṛt nouns, an epic future with इ, and the great promise of 18.65.
+
+## The rare great soul
+@ex gita:7:19
+split: बहूनां जन्मनाम् अन्ते ज्ञानवान् मां प्रपद्यते । वासुदेवः सर्वम् इति सः महात्मा सुदुर्लभः ॥
+anvaya: बहूनां जन्मनाम् अन्ते ज्ञानवान् "वासुदेवः सर्वम्" इति (ज्ञात्वा) मां प्रपद्यते । सः महात्मा सुदुर्लभः ॥
+w: बहूनाम् = అనేక; जन्मनाम् = జన్మల; अन्ते = చివరలో; ज्ञानवान् = జ్ఞాని; वासुदेवः सर्वम् इति = "వాసుదేవుడే సర్వం" అని; माम् = నన్ను; प्रपद्यते = శరణు పొందుతాడు; सः = అలాంటి; महात्मा = మహాత్ముడు; सुदुर्लभः = చాలా అరుదు
+note: बहूनां जन्मनाम्: the genitive plural of the u-stem adjective बहु agrees with the genitive plural of the neuter an-stem जन्मन् (lesson 4.9).
+note: इति closes a quoted thought that is itself a nominal sentence: "Vāsudeva (is) everything" (lesson 10.3).
+note: दुर्लभ "hard to get" is दुर् + लभ् with the suffix खल् (Aṣṭādhyāyī 3.3.126), and सु- intensifies it: "very hard to find". The same pattern gives सुलभ "easy to get".
+note: सः + महात्मा → स महात्मा (lesson 8.5).
+@end
+
+## Whatever you do
+@ex gita:9:27
+split: यत् करोषि यत् अश्नासि यत् जुहोषि ददासि यत् । यत् तपस्यसि कौन्तेय तत् कुरुष्व मदर्पणम् ॥
+anvaya: कौन्तेय, यत् करोषि, यत् अश्नासि, यत् जुहोषि, यत् ददासि, यत् तपस्यसि, तत् मदर्पणं कुरुष्व ॥
+w: कौन्तेय = ఓ కౌంతేయా; यत् = ఏది; करोषि = చేస్తావో; अश्नासि = తింటావో; जुहोषि = హోమం చేస్తావో; ददासि = దానం చేస్తావో; तपस्यसि = తపస్సు చేస్తావో; तत् = అదంతా; मदर्पणम् = నాకు అర్పణగా; कुरुष्व = చేయి
+note: Five relative clauses and one correlative: यत् … तत् (lesson 5.3).
+note: A review of verb classes in one verse (lesson 6.2): करोषि (कृ, class 8), अश्नासि (अश्, class 9), जुहोषि (हु, class 3), ददासि (दा, class 3), and तपस्यसि, a denominative from the noun तपस् (lesson 6.9).
+note: कुरुष्व is the ātmanepada imperative of कृ: "do (for your own sake)". मदर्पणम् = मयि अर्पणम्, a predicate: "make it an offering to me".
+note: Sandhi: यत् + अश्नासि → यदश्नासि; यत् + जुहोषि → यज्जुहोषि (त् + ज → ज्ज, lesson 8.3).
+@end
+
+## The source of all
+@ex gita:10:8
+split: अहं सर्वस्य प्रभवः मत्तः सर्वं प्रवर्तते । इति मत्वा भजन्ते मां बुधाः भावसमन्विताः ॥
+anvaya: अहं सर्वस्य प्रभवः; मत्तः सर्वं प्रवर्तते । इति मत्वा भावसमन्विताः बुधाः मां भजन्ते ॥
+w: अहम् = నేను; सर्वस्य = అన్నింటికీ; प्रभवः = మూలం; मत्तः = నా నుండి; सर्वम् = అంతా; प्रवर्तते = నడుస్తుంది; इति = అని; मत्वा = తెలుసుకొని; भावसमन्विताः = భక్తిభావంతో కూడిన; बुधाः = జ్ఞానులు; माम् = నన్ను; भजन्ते = భజిస్తారు
+note: मत्तः "from me" is the ablative of अस्मद् with the adverbial suffix -तस् (lesson 5.1); the regular ablative is मत्.
+note: सर्वस्य is the pronominal genitive of सर्व (lesson 5.3). मत्वा is the absolutive of मन्, which drops its nasal (lesson 7.3).
+note: बुधाः + भाव → बुधा भाव: after -आः the visarga disappears before a voiced sound (lesson 8.5).
+@end
+
+## I give them the yoga of understanding
+@ex gita:10:10
+split: तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् । ददामि बुद्धियोगं तं येन माम् उपयान्ति ते ॥
+anvaya: सततयुक्तानां प्रीतिपूर्वकं भजतां तेषां तं बुद्धियोगं ददामि, येन ते माम् उपयान्ति ॥
+w: सततयुक्तानाम् = ఎల్లప్పుడూ నాలో నిలిచిన; प्रीतिपूर्वकम् = ప్రేమతో; भजताम् = భజించే; तेषाम् = వారికి; तम् = ఆ; बुद्धियोगम् = బుద్ధియోగాన్ని; ददामि = ఇస్తాను; येन = దేని వల్ల; ते = వారు; माम् = నన్ను; उपयान्ति = చేరుకుంటారో
+note: The recipient तेषाम् is in the 6th case, not the 4th. Epic Sanskrit often uses the genitive for "to whom" with verbs of giving and saying.
+note: भजताम् is the genitive plural of the present participle भजत् (lesson 7.2), agreeing with तेषाम्.
+note: तम् … येन: the correlative comes first and the relative second, "that … by which" (lesson 11.3). उपयान्ति = उप + या "approach".
+note: प्रीतिपूर्वकम् "with love" is a compound used as an adverb (neuter accusative, lesson 11.2).
+@end
+
+## The summary of the Gītā
+@ex gita:11:55
+split: मत्कर्मकृत् मत्परमः मद्भक्तः सङ्गवर्जितः । निर्वैरः सर्वभूतेषु यः सः माम् एति पाण्डव ॥
+anvaya: पाण्डव, यः मत्कर्मकृत् मत्परमः मद्भक्तः सङ्गवर्जितः सर्वभूतेषु निर्वैरः (च), सः माम् एति ॥
+w: पाण्डव = ఓ పాండవా; यः = ఎవడు; मत्कर्मकृत् = నా కోసం కర్మలు చేసేవాడు; मत्परमः = నన్నే పరమగతిగా భావించేవాడు; मद्भक्तः = నా భక్తుడు; सङ्गवर्जितः = ఆసక్తి లేనివాడు; सर्वभूतेषु = అన్ని ప్రాణుల పట్ల; निर्वैरः = వైరం లేనివాడు; सः = అతడు; माम् = నన్ను; एति = పొందుతాడు
+note: Śaṅkara calls this verse the essence of the whole Gītā. Its grammar is five compounds built on मत्- "me" (lesson 5.1).
+note: मत्कर्मकृत्: मत्कर्म करोति इति, an upapada with -कृत् (lesson 7.5). मत्परमः: अहं परमः यस्य सः, a bahuvrīhi. मद्भक्तः: मम भक्तः, a tatpuruṣa. सङ्गवर्जितः: सङ्गेन वर्जितः, a tṛtīyā tatpuruṣa. निर्वैरः: a bahuvrīhi with निर्-.
+note: सर्वभूतेषु "towards all beings": the locative of the person an attitude is directed at.
+note: एति is the 3rd singular of इ "go", class 2 (lesson 6.3). मत्कर्मकृत् + मत्परमः → मत्कर्मकृन्मत्परमः (त् before म becomes न्, lesson 8.4).
+@end
+
+## Fix your mind on me
+@ex gita:12:8
+split: मयि एव मनः आधत्स्व मयि बुद्धिं निवेशय । निवसिष्यसि मयि एव अतः ऊर्ध्वं न संशयः ॥
+anvaya: मयि एव मनः आधत्स्व; मयि बुद्धिं निवेशय । अतः ऊर्ध्वं मयि एव निवसिष्यसि; (अत्र) संशयः न ॥
+w: मयि एव = నాలోనే; मनः = మనసును; आधत्स्व = నిలుపు; मयि = నాలో; बुद्धिम् = బుద్ధిని; निवेशय = ప్రవేశపెట్టు; अतः ऊर्ध्वम् = ఆ తర్వాత; निवसिष्यसि = నివసిస్తావు; संशयः न = సందేహం లేదు
+note: आधत्स्व is the ātmanepada imperative of आ + धा (class 3, lesson 6.6). निवेशय is the causative imperative of नि + विश् "make enter" (lesson 6.9).
+note: निवसिष्यसि is the future of नि + वस् with the connecting इ. Classical grammar treats वस् as aniṭ and gives वत्स्यसि; the Gītā's form with इ is an epic usage (lesson 6.5).
+note: मनः + आधत्स्व → मन आधत्स्व, and अतः + ऊर्ध्वम् → अत ऊर्ध्वम्: after -अः the visarga drops before a vowel other than अ (lesson 8.5). The two vowels then stay apart.
+note: मयि एव मय्येव: इ → य् before a vowel. The second मय्येव अत keeps a hiatus at the quarter break.
+@end
+
+## The three gates of hell
+@ex gita:16:21
+split: त्रिविधं नरकस्य इदं द्वारं नाशनम् आत्मनः । कामः क्रोधः तथा लोभः तस्मात् एतत् त्रयं त्यजेत् ॥
+anvaya: कामः क्रोधः तथा लोभः (इति) इदं त्रिविधं नरकस्य द्वारम् आत्मनः नाशनम् । तस्मात् एतत् त्रयं त्यजेत् ॥
+w: कामः = కామం; क्रोधः = క్రోధం; तथा = అలాగే; लोभः = లోభం; इदम् = ఈ; त्रिविधम् = మూడు విధాలైన; नरकस्य = నరకానికి; द्वारम् = ద్వారం; आत्मनः = ఆత్మకు; नाशनम् = నాశనం కలిగించేది; तस्मात् = కాబట్టి; एतत् त्रयम् = ఈ మూడింటినీ; त्यजेत् = విడిచిపెట్టాలి
+note: नाशनम् is a kṛt noun in -अन "destroying" (lesson 7.5). Its object goes in the 6th case: आत्मनः नाशनम् "destroyer of the self" (कर्तृकर्मणोः कृति, Aṣṭādhyāyī 2.3.65).
+note: त्रिविधम्: तिस्रः विधाः यस्य तत्, a bahuvrīhi with a numeral. त्रयम् "a group of three" is a collective from त्रि (lesson 5.4).
+note: त्यजेत् is the optative of rule (lesson 6.6). कामः, क्रोधः, लोभः stand in apposition to द्वारम्.
+@end
+
+## Worship through one's own work
+@ex gita:18:46
+split: यतः प्रवृत्तिः भूतानां येन सर्वम् इदं ततम् । स्वकर्मणा तम् अभ्यर्च्य सिद्धिं विन्दति मानवः ॥
+anvaya: यतः भूतानां प्रवृत्तिः (भवति), येन इदं सर्वं ततम्, तं स्वकर्मणा अभ्यर्च्य मानवः सिद्धिं विन्दति ॥
+w: यतः = ఎవరి నుండి; भूतानाम् = ప్రాణుల; प्रवृत्तिः = పుట్టుక (ప్రవృత్తి); येन = ఎవరి చేత; इदं सर्वम् = ఇదంతా; ततम् = వ్యాపించబడిందో; तम् = ఆయనను; स्वकर्मणा = తన కర్మతో; अभ्यर्च्य = పూజించి; मानवः = మనిషి; सिद्धिम् = సిద్ధిని; विन्दति = పొందుతాడు
+note: Two relative words (यतः "from whom", येन "by whom") and one correlative (तम्): lesson 11.3.
+note: ततम् is the past participle of तन् "stretch, pervade"; the nasal drops before -त (lesson 7.1). With येन it is a passive: "by whom all this is pervaded".
+note: अभ्यर्च्य = अभि + अर्च् + -य (lesson 7.3). मानवः "a human" is a taddhita from मनु with vṛddhi, "descendant of Manu" (lesson 10.1).
+@end
+
+## Reflect, then choose
+@ex gita:18:63
+split: इति ते ज्ञानम् आख्यातं गुह्यात् गुह्यतरं मया । विमृश्य एतत् अशेषेण यथा इच्छसि तथा कुरु ॥
+anvaya: इति गुह्यात् गुह्यतरं ज्ञानं मया ते आख्यातम् । एतत् अशेषेण विमृश्य यथा इच्छसि तथा कुरु ॥
+w: इति = ఈ విధంగా; गुह्यात् गुह्यतरम् = రహస్యాలలోకెల్లా రహస్యమైన; ज्ञानम् = జ్ఞానం; मया = నా చేత; ते = నీకు; आख्यातम् = చెప్పబడింది; एतत् = దీనిని; अशेषेण = పూర్తిగా; विमृश्य = ఆలోచించి; यथा इच्छसि = ఎలా కోరుకుంటావో; तथा = అలా; कुरु = చేయి
+note: A passive with the instrumental agent: ज्ञानं मया आख्यातम् "knowledge has been told by me" (lesson 6.8). ते is the dative "to you".
+note: The comparative -तर takes the ablative of what is surpassed (lesson 11.2): गुह्यात् गुह्यतरम् "more secret than the secret".
+note: इच्छसि is the irregular present of इष् "wish" (class 6, lesson 6.3). अशेषेण "without remainder" is an instrumental used as an adverb.
+note: The Gītā ends its teaching with an imperative of free choice: यथेच्छसि तथा कुरु.
+@end
+
+## The promise
+@ex gita:18:65
+split: मन्मनाः भव मद्भक्तः मद्याजी मां नमस्कुरु । माम् एव एष्यसि सत्यं ते प्रतिजाने प्रियः असि मे ॥
+anvaya: मन्मनाः भव, मद्भक्तः (भव), मद्याजी (भव), मां नमस्कुरु । (एवं कृत्वा) माम् एव एष्यसि । (इति) ते सत्यं प्रतिजाने, (यतः) मे प्रियः असि ॥
+w: मन्मनाः = నాపై మనసు నిలిపినవాడివి; भव = అవ్వు; मद्भक्तः = నా భక్తుడివి; मद्याजी = నన్ను పూజించేవాడివి; माम् = నన్ను; नमस्कुरु = నమస్కరించు; माम् एव = నన్నే; एष्यसि = పొందుతావు; सत्यम् = నిజంగా; ते = నీకు; प्रतिजाने = ప్రతిజ్ఞ చేస్తున్నాను; प्रियः = ప్రియుడివి; असि = అయి ఉన్నావు; मे = నాకు
+note: मन्मनाः is a bahuvrīhi on मनस्: मयि मनः यस्य सः (lesson 9.4). मद्याजी: मां यजति इति, with the suffix -इन् (lesson 7.5).
+note: नमस्कुरु: नमः + कृ, where the visarga becomes स् (नमस्कार, lesson 8.5). मन्मनाः + भव → मन्मना भव (the visarga after आ drops before a voiced sound).
+note: एष्यसि is the future of इ "go" (lesson 6.5). प्रतिजाने is the ātmanepada present of प्रति + ज्ञा, class 9: "I promise".
+note: प्रियः असि मे: प्रिय takes the 6th case of the person to whom one is dear.
+@end
+
+## Chapters 7–18 grammar summary
+| Point | Verse | Lesson |
+|---|---|---|
+| दुर्लभ (खल्) and सुलभ | 7.19 | Aṣṭādhyāyī 3.3.126 |
+| five relatives, one correlative | 9.27 | 5.3 |
+| verbs of five classes | 9.27 | 6.2 |
+| ablative मत्तः | 10.8 | 5.1 |
+| genitive for the recipient | 10.10 | 11.1 |
+| compounds with मत्- | 11.55, 18.65 | 9.2, 9.4 |
+| causative imperative | 12.8 | 6.9 |
+| epic future with इ | 12.8 | 6.5 |
+| kṛt noun with genitive object | 16.21 | 7.5 |
+| comparative with ablative | 18.63 | 11.2 |
+| future of इ (एष्यसि) | 18.65 | 6.5 |
+
+> [memory] The last word of the teaching :: 18.63 ends the teaching with कुरु "do", and 18.73 (lesson 7.1) ends Arjuna's reply with करिष्ये वचनं तव "I will do your word". The same root कृ, imperative then future: the whole Gītā turns from "do as you wish" to "I will do".
+
+@quiz
+q: In 9.27, जुहोषि comes from:
+* हु (class 3), "offer into fire"
+- जुह्
+- हा
+why: Class 3 reduplicates: हु → जुहु-.
+
+q: मत्तः means:
+* from me
+- intoxicated
+- by me
+why: The ablative of अस्मद् with -तस्.
+
+q: In 10.10, the recipient तेषाम् is in which case?
+* 6th (genitive)
+- 4th (dative)
+- 2nd (accusative)
+why: Epic Sanskrit often uses the genitive for "to whom".
+
+q: निवसिष्यसि differs from Classical grammar because:
+* it adds इ to an aniṭ root (Classical वत्स्यसि)
+- it is in the wrong person
+- it has no prefix
+why: An epic form.
+
+q: In आत्मनः नाशनम्, आत्मनः is genitive because:
+* the object of a kṛt noun goes in the 6th case
+- it means "from the self"
+- नाशन always takes the dative
+why: कर्तृकर्मणोः कृति.
+
+q: गुह्याद्गुह्यतरम् means:
+* more secret than the secret
+- secret from the secret
+- by the secret
+why: The comparative -तर with the ablative.
+
+q: प्रतिजाने means:
+* I promise
+- I know again
+- I am born again
+why: प्रति + ज्ञा, ātmanepada.
+@end

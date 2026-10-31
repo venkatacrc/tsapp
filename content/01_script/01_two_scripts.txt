@@ -1,0 +1,111 @@
+@title రెండు లిపులు, ఒకే వర్ణమాల · Two scripts, one alphabet
+@summary Telugu and Devanagari both descend from Brāhmī and list the letters in the same order. Learn the five differences in how they write, and you can read Devanagari in a day.
+
+## అక్క చెల్లెళ్ళు · Sister scripts
+Both scripts come from the Brāhmī script of Aśoka's inscriptions (3rd century BCE). Telugu-Kannada grew in the south, Nāgarī in the north. The **alphabet** (వర్ణమాల) is the same: vowels first, then consonants grouped by where they are pronounced, from the throat to the lips. Even Unicode encodes them in the same order, which is why this app can turn any Devanagari text into Telugu script exactly.
+
+> [telugu] మీరు ఇప్పటికే నేర్చినది :: The అ ఆ ఇ ఈ… క ఖ గ ఘ ఙ… order you learnt in school is Pāṇini's order. The గుణింతం (క కా కి కీ…) and ఒత్తులు (క్క, క్ష…) work the same way in Devanagari; only the shapes differ.
+
+## The five differences
+@literal
+| Feature | తెలుగు | देवनागरी |
+|---|---|---|
+| Top line | తలకట్టు (✓ mark) on many letters | a straight line (शिरोरेखा) joins the letters of a word: रामः |
+| Vowel signs | గుణింతాలు around the letter: కి కీ కు కూ కె కే | मात्रा: कि की कु कू के को. ि is written **before** the letter but said after |
+| Dead consonant | పొల్లు / హల్లు: క్ | हलन्त् (्) : क् |
+| Conjuncts | ఒత్తు written **below**: క్త, స్త, ప్ర | half letters side by side or stacked: क्त, स्त, प्र |
+| Short ఎ / ఒ | ఎ, ఒ (short) and ఏ, ఓ (long) | only ए, ओ (always long in Sanskrit) |
+
+> [memory] ि comes first, is said last :: In Devanagari the short-i sign ि is written to the left of its consonant: कि = క + ి. Read the consonant first, then the vowel. Every other vowel sign is written where you would expect it.
+
+## వర్ణమాల side by side
+@literal
+| తెలుగు | देवनागरी | IAST |
+|---|---|---|
+| అ ఆ ఇ ఈ ఉ ఊ | अ आ इ ई उ ऊ | a ā i ī u ū |
+| ఋ ౠ ఌ | ऋ ॠ ऌ | ṛ ṝ ḷ |
+| ఏ ఐ ఓ ఔ | ए ऐ ओ औ | e ai o au |
+| అం అః | अं अः | aṃ aḥ |
+| క ఖ గ ఘ ఙ | क ख ग घ ङ | ka kha ga gha ṅa |
+| చ ఛ జ ఝ ఞ | च छ ज झ ञ | ca cha ja jha ña |
+| ట ఠ డ ఢ ణ | ट ठ ड ढ ण | ṭa ṭha ḍa ḍha ṇa |
+| త థ ద ధ న | त थ द ध न | ta tha da dha na |
+| ప ఫ బ భ మ | प फ ब भ म | pa pha ba bha ma |
+| య ర ల వ | य र ल व | ya ra la va |
+| శ ష స హ | श ष स ह | śa ṣa sa ha |
+| ళ క్ష జ్ఞ | ळ क्ष ज्ञ | ḻa kṣa jña |
+
+> [note] Letters that look alike :: Several Devanagari letters resemble their Telugu sisters once you add the top line: ग/గ (both have an open curve), ज/జ, ट/ట, ठ/ఠ, ड/డ, प/ప, ल/ల. Others look different and simply have to be learnt: क, ख, घ, ध, भ, म, श, ह.
+
+## Devanagari letters that confuse beginners
+@literal
+| Pair | Difference |
+|---|---|
+| ब (ba) · व (va) | ब has a line across the inside; व is an open loop |
+| भ (bha) · म (ma) | भ has a notch at top left; म is a closed box |
+| घ (gha) · ध (dha) | ध has a closed loop on the left and a break in the top line; घ has no loop |
+| ख (kha) · रव (ra-va) | ख is one letter with a joined loop; रव is two letters |
+| प (pa) · ष (ṣa) | ष has a slash across the middle |
+| ड (ḍa) · ड़ | the dot (nukta) is only for Hindi; Sanskrit never uses it |
+| द (da) · ढ (ḍha) | ढ has an extra curl at the bottom |
+| श (śa) · स (sa) | श has a loop at top left and a hook; स a bowl and bar |
+
+## Reading drill: names you know
+@literal
+| देवनागरी | తెలుగు |
+|---|---|
+| राम | రామ |
+| कृष्ण | కృష్ణ |
+| गोविन्द | గోవింద |
+| नारायण | నారాయణ |
+| शिव | శివ |
+| लक्ष्मी | లక్ష్మీ |
+| सरस्वती | సరస్వతీ |
+| हनुमान् | హనుమాన్ |
+| भगवद्गीता | భగవద్గీతా |
+| विष्णुसहस्रनाम | విష్ణుసహస్రనామ |
+| श्रीवेङ्कटेश्वर | శ్రీవేంకటేశ్వర |
+| तिरुपति | తిరుపతి |
+
+> [memory] Learn ten letters a day :: Day 1: the vowels and their mātrās. Day 2: क-वर्ग and च-वर्ग. Day 3: ट, त, प वर्गs. Day 4: य र ल व श ष स ह and the conjuncts क्ष, ज्ञ, त्र, श्र. Each day, read the names above aloud and use Lipi with Devanagari as the primary script for five minutes.
+
+@ex
+sa: [[ॐ नमो भगवते वासुदेवाय ॥]]
+te: ఓం నమో భగవతే వాసుదేవాయ — భగవంతుడైన వాసుదేవునికి నమస్కారం.
+en: Om, salutations to the Lord Vāsudeva.
+w: [[नमः]] = నమస్కారం; [[भगवते]] = భగవంతునికి (dative); [[वासुदेवाय]] = వాసుదేవునికి (dative)
+note: Read it in Devanagari letter by letter: ॐ (the sacred syllable, written as one sign) · न मो (म + ो) · भ ग व ते (त + े) · वा सु दे वा य.
+note: नमः becomes नमो before भ: a visarga sandhi you will learn in Unit 8.
+@end
+
+@quiz
+q: In Devanagari, कि is pronounced:
+* ki — the ि sign is written before क but said after it
+- ik
+- kī
+why: The short-i mātrā sits on the left of the consonant, but the syllable is क + इ = ki.
+
+q: Which Telugu vowels have no Sanskrit counterpart?
+* Short ఎ and ఒ
+- ఋ and ౠ
+- ఐ and ఔ
+why: Sanskrit has only ए and ओ, which are always long. Telugu added short ఎ and ఒ for Dravidian words.
+
+q: What does the Devanagari शिरोरेखा do?
+* It joins the letters of a word with one top line
+- It marks a long vowel
+- It shows a conjunct
+why: The head line runs over every letter of a word; the gaps between words are where it breaks.
+
+q: How does Devanagari usually write a conjunct like स्त?
+* The first consonant as a half letter beside the second
+- The second consonant as an ఒత్తు below
+- With a dot above
+why: Telugu puts the second consonant underneath as an ఒత్తు; Devanagari writes the first as a half-form (स् → स्‍) joined to the next.
+
+q: व and ब differ by:
+* ब has a line across the inside; व does not
+- व is longer
+- ब has a top line, व does not
+why: Learn this pair early: बालः (boy) vs वालः (tail hair), वनम् (forest) vs बलम् (strength).
+@end

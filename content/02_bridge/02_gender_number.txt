@@ -1,0 +1,117 @@
+@title లింగం, వచనం · Gender and number
+@summary Telugu sorts nouns by meaning (మహత్, అమహత్); Sanskrit gives every noun a grammatical gender, often arbitrarily. Telugu has two numbers; Sanskrit has three, including the dual.
+
+## Telugu: మహత్తు, అమహత్తు
+Telugu grammar divides nouns by what they refer to:
+
+| Telugu class | Covers | Verb form | Example |
+|---|---|---|---|
+| మహద్వాచకం (పుంలింగం) | men, gods | -ఆడు / -ఆరు | రాముడు వచ్చాడు |
+| మహతీవాచకం (స్త్రీలింగం) | women (in the singular they go with అమహత్ verbs) | -ఇంది / -ఆరు | సీత వచ్చింది |
+| అమహద్వాచకం (నపుంసకం) | animals, things | -ఇంది / -ఆయి | చెట్టు పడింది, ఆవులు వచ్చాయి |
+
+The gender follows **meaning**: a stone is అమహత్, a man is మహత్.
+
+## Sanskrit: three grammatical genders
+Sanskrit has **पुंलिङ्ग** (masculine), **स्त्रीलिङ्ग** (feminine) and **नपुंसकलिङ्ग** (neuter). People usually take their natural gender, but things and ideas are assigned a gender by the word, not the meaning:
+
+| Thing | Sanskrit | Gender |
+|---|---|---|
+| tree | वृक्षः | masculine |
+| creeper | लता | feminine |
+| fruit | फलम् | neuter |
+| hand | हस्तः / करः | masculine |
+| head | शिरः (शिरस्) | neuter |
+| river | नदी | feminine |
+| ocean | समुद्रः | masculine |
+| knowledge | ज्ञानम् | neuter |
+| intellect | बुद्धिः | feminine |
+| mind | मनः (मनस्) | neuter |
+| self | आत्मा (आत्मन्) | masculine |
+| wife | दाराः (always plural!) | masculine |
+| wife | कलत्रम् | neuter |
+| wife | भार्या | feminine |
+
+> [warning] Gender comes with the word, not the thing :: The same thing can have words of different genders: "wife" is दाराः (m. pl.), कलत्रम् (n.) and भार्या (f.); "body" is देहः (m.), शरीरम् (n.) and तनुः (f.). Learn every noun with its nominative ending, which usually tells you the gender: -ः often masc., -आ/-ई fem., -म् neuter.
+
+> [memory] Three questions for a new noun :: (1) What is the stem? (2) What is the gender? (3) What is the nominative singular? Learn धर्मः (m.), not "dharma"; ज्ञानम् (n.), not "jñāna"; मतिः (f.), not "mati". The nominative + gender tells you which table to use.
+
+## How to guess the gender
+| Ending of the stem | Usually | Examples | Exceptions |
+|---|---|---|---|
+| -अ (nom. -अः) | masculine | रामः, देवः, वृक्षः | — |
+| -अ (nom. -अम्) | neuter | वनम्, फलम्, ज्ञानम् | — |
+| -आ | feminine | सीता, लता, विद्या | — |
+| -ई | feminine | नदी, देवी, पृथिवी | सुधीः (m.) rare |
+| -इ | m. or f. | हरिः (m.), मतिः (f.), वारि (n.) | learn each |
+| -उ | m. or f. or n. | गुरुः (m.), धेनुः (f.), मधु (n.) | learn each |
+| -ति, -नि (action nouns) | feminine | मतिः, गतिः, भक्तिः, शक्तिः, ग्लानिः | — |
+| -त्व, -न (action) | neuter | सत्त्वम्, ज्ञानम्, दानम् | — |
+| -तृ (agent) | masculine | कर्ता, दाता, नेता | माता, स्वसा (f.) |
+| -अस् | neuter | मनः, तपः, यशः, तेजः | चन्द्रमाः (m.) |
+| -अन् | m. or n. | आत्मा, राजा (m.); कर्म, नाम (n.) | — |
+
+> [compare] Telugu కర్మము, Sanskrit कर्म :: Telugu -ము hides the gender. Sanskrit -अन् nouns are neuter when they mean an action or thing (कर्म, जन्म, नाम, धाम) and masculine when they mean a person (आत्मा, राजा, ब्रह्मा — but ब्रह्म n. "the Absolute").
+
+## Number: Telugu two, Sanskrit three
+Telugu has ఏకవచనం and బహువచనం. Sanskrit has **एकवचनम्**, **द्विवचनम्** (exactly two) and **बहुवचनम्** (three or more).
+
+| | Telugu | Sanskrit |
+|---|---|---|
+| one boy | బాలుడు | बालः |
+| two boys | ఇద్దరు బాలురు | बालौ |
+| three boys | ముగ్గురు బాలురు | बालाः |
+| two eyes | రెండు కళ్ళు | नेत्रे |
+| two hands | రెండు చేతులు | हस्तौ / करौ |
+| Rāma and Lakṣmaṇa | రామలక్ష్మణులు | रामलक्ष्मणौ |
+| father and mother | తల్లిదండ్రులు | पितरौ (literally "the two fathers") |
+
+> [memory] Two is special :: Whenever there are exactly two — two eyes, two hands, Rāma and Kṛṣṇa, Arjuna and Kṛṣṇa — Sanskrit uses the dual, and the verb is dual too: रामलक्ष्मणौ वनं गच्छतः. The dual endings are few (three per noun class, three per verb tense), so learn them as a set.
+
+> [note] Respect plural, and the plural of dignity :: Telugu uses the plural for respect: మీరు, వారు, గురువుగారు వచ్చారు. Sanskrit can do this too (भवन्तः, "your honours"), but usually uses भवान् (singular "your honour") with a third-person verb: भवान् कुत्र गच्छति? Some nouns are always plural: दाराः (wife), प्राणाः (life breath), अप्सरसः, सिकताः (sand).
+
+@ex gita:1:14
+note: श्वेतैर्हयैर्युक्ते: श्वेतैः हयैः युक्ते "yoked with white horses": instrumental plural (the horses), then locative singular (the chariot).
+note: माधवः पाण्डवश्चैव "Mādhava (Kṛṣṇa) and the Pāṇḍava (Arjuna)": two subjects…
+note: …so the verb is dual: प्रदध्मतुः "the two blew", and the object is dual: दिव्यौ शङ्खौ "two divine conches".
+@end
+
+@ex
+sa: बालकः पठति । बालकौ पठतः । बालकाः पठन्ति ।
+te: బాలుడు చదువుతున్నాడు. ఇద్దరు బాలురు చదువుతున్నారు. బాలురు చదువుతున్నారు.
+en: The boy reads. The two boys read. The boys read.
+w: बालकः = బాలుడు (ఏక); बालकौ = ఇద్దరు బాలురు (ద్వి); बालकाः = బాలురు (బహు); पठति / पठतः / पठन्ति = చదువుతున్నాడు / ఇద్దరూ చదువుతున్నారు / చదువుతున్నారు
+note: Both the noun and the verb change with number. Telugu changes only the noun for two vs. many.
+@end
+
+@quiz
+q: What is the gender of वृक्षः (tree)?
+* Masculine
+- Neuter, because it is a thing
+- Feminine
+why: Sanskrit gender belongs to the word. वृक्षः ends in -ः like रामः.
+
+q: How many numbers does Sanskrit have?
+* Three: singular, dual, plural
+- Two, as in Telugu
+- Four
+why: एकवचनम्, द्विवचनम्, बहुवचनम्.
+
+q: "రామలక్ష్మణులు అడవికి వెళ్తున్నారు" in Sanskrit is:
+* रामलक्ष्मणौ वनं गच्छतः
+- रामलक्ष्मणाः वनं गच्छन्ति
+- रामलक्ष्मणौ वनं गच्छन्ति
+why: Two people: dual noun (-औ) and dual verb (-तः).
+
+q: What gender is a noun ending in -ति like भक्तिः, शक्तिः?
+* Feminine
+- Masculine
+- Neuter
+why: Action nouns in -ति are feminine: मतिः, गतिः, भक्तिः.
+
+q: Which Sanskrit word for "wife" is always masculine plural?
+* दाराः
+- भार्या
+- कलत्रम्
+why: दाराः is masculine and always plural; भार्या is feminine, कलत्रम् neuter. Gender is a property of the word.
+@end

@@ -1,0 +1,91 @@
+@title ఉచ్చారణ · Pronunciation for Telugu speakers
+@summary Telugu speakers start with an excellent Sanskrit accent. The ten habits to watch, the sounds that are easy for you and hard for others, and drills from the Gītā and the Sahasranāmam.
+
+## Your advantages
+Telugu keeps nearly all Sanskrit sounds alive: the aspirates (ఖ ఘ ఛ ఝ ఠ ఢ థ ధ ఫ భ), the retroflex row (ట ఠ డ ఢ ణ), ష, the long vowels and the visarga. Hindi speakers lose ण, ष, ऋ and short final vowels; Tamil speakers lose aspiration and voicing. You start well ahead.
+
+## Ten habits to watch
+| Telugu habit | Correct Sanskrit | Example |
+|---|---|---|
+| short ఎ, ఒ for ए, ओ | always long ఏ, ఓ | देव = దేవ (not దెవ), लोक = లోక |
+| final అ added to consonants | stop on the consonant | जगत् is jagat, not జగత్తు; भगवान् not భగవానుడు |
+| final ం said as a nasal vowel | final म् is a full m | शरणम् … with closed lips |
+| visarga dropped | breathe it, with its echo | रामः = rāmaha, not రామ |
+| ऋ as రి or రూ | short syllabic r (రు is the southern custom) | कृष्ण two syllables: kṛ-ṣṇa |
+| ष, श and స merged | three distinct places | विष्णु, शिव, सत्य |
+| జ్ఞ as గ్న | ज् + ञ | ज्ञान |
+| aspiration added or dropped | breathe only on 2nd and 4th letters | धर्म (dh), दया (d) |
+| ఫ as English f | फ is p + breath | फलम् = p-halam |
+| ఱ or Telugu r rolls | one र, a light tap | रामः |
+
+> [warning] Telugu final -ఉ is not Sanskrit :: Telugu adds ఉ to words ending in a consonant (జగత్తు, మనస్సు, హనుమంతుడు). Sanskrit words can end in a consonant, and that consonant is pronounced without any vowel: जगत् (jagat), मनः (manaḥ), भगवान् (bhagavān), वाक् (vāk). Practise stopping sharply.
+
+## Doubled consonants
+Sanskrit doubled consonants are held for twice as long, just as in Telugu అమ్మ, అక్క. Telugu speakers do this naturally; keep doing it in Sanskrit: सत्त्व (sat-tva), उत्तम, चित्त, अद्य (single द), पद्म.
+
+> [compare] Telugu doubles where Sanskrit does not :: Telugu often doubles a consonant at a word end or before ఉ: జగత్తు, సత్తు. Sanskrit जगत्, सत् have a single त. And Telugu loans like ప్రత్యేకం keep the Sanskrit doubling as is (प्रत्येकम्).
+
+## Accent and rhythm
+Classical Sanskrit (the Gītā, stotras) has no word stress to learn. What carries the rhythm is **length**: every long vowel is two beats, every short one is one. Say long vowels long, short ones short, and the verse will scan. (Vedic Sanskrit has a pitch accent marked with svaras: उदात्त, अनुदात्त, स्वरित. That is for veda study, not this course.)
+
+> [memory] Clap the beats :: Clap once for each short vowel and twice for each long: रा-म (clap-clap, clap). कृ-ष्ण (clap, clap). In verse, a short vowel before two consonants also gets two claps. If your clapping is even, your pronunciation is good.
+
+## Drill: the names in the Sahasranāmam
+@literal
+| Name | Watch |
+|---|---|
+| विश्वम् | श (palatal), final म् |
+| विष्णुः | ष (retroflex) + ण; visarga echo: viṣṇuhu |
+| वषट्कारः | ट् then क: a closed syllable |
+| भूतभव्यभवत्प्रभुः | four bh-sounds: aspirate each |
+| पूतात्मा | long ū, long ā |
+| परमात्मा | short र, long आ twice |
+| अक्षरः | क्ष = kṣ |
+| पुरुषः | ष retroflex, visarga echo puruṣaha |
+| सर्वः | रेफ: sar-vaḥ |
+| स्थाणुः | स्था + ण retroflex |
+| हृषीकेशः | हृ (ह + ृ), then ष, then श: three different sounds |
+| ज्ञानगम्यः | ज्ञ |
+
+@ex vs:stotram:1
+note: विश्वं विष्णुः: श then ष, two different sibilants side by side. Do not let them merge.
+note: भूतकृद् भूतभृद्: the द् is a dead consonant, said without a vowel.
+note: वषट्कारो: the ट् closes the syllable वषट्, making ष heavy for the metre.
+@end
+
+@ex gita:2:47
+note: कर्मण्येवाधिकारस्ते: say the रेफ clearly (kar-), the ण्य cluster (ṇya), long ā in वा and धि short.
+note: मा फलेषु: फ is p + breath, never English f.
+note: सङ्गोऽस्त्वकर्मणि: ङ्ग is ṅg; the avagraha ऽ is silent.
+@end
+
+@quiz
+q: How should जगत् be pronounced?
+* jagat, stopping on the t
+- jagattu
+- jagata
+why: Sanskrit allows final consonants. Telugu జగత్తు adds a doubled t and u.
+
+q: Which letters are aspirated?
+* The 2nd and 4th of each वर्ग (ख घ, छ झ, ठ ढ, थ ध, फ भ)
+- The 1st and 3rd
+- Only the nasals
+why: Columns 2 and 4 carry the extra breath (महाप्राण).
+
+q: In Classical Sanskrit verse, what gives the rhythm?
+* Vowel length and syllable weight
+- Word stress
+- Pitch accent marks
+why: Classical metres are built from light and heavy syllables. Vedic chant adds pitch.
+
+q: How is फलम् pronounced?
+* p + breath: p-halam
+- falam, like English f
+why: फ is the aspirated p (column 2 of the प-row).
+
+q: Which pair should a Telugu speaker keep distinct?
+* श in शिव and ष in विष्णु
+- क and ख only in Hindi words
+- ए and ऐ only at the end of a word
+why: श is palatal, ष retroflex. They change meaning: शशः (hare) vs षष्ठः (sixth).
+@end

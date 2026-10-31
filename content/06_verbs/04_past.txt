@@ -1,0 +1,182 @@
+@title భూతకాలం · Three past tenses (लङ्, लिट्, लुङ्)
+@summary Telugu has one simple past (వెళ్ళాడు). Sanskrit has three past lakāras plus past participles. The augment अ-, the imperfect tables, the reduplicated perfect (उवाच, बभूव, दध्मौ), the aorist and its special use with मा for prohibitions.
+
+## Which past when
+| Lakāra | Name | Sūtra idea | Typical meaning | Example |
+|---|---|---|---|---|
+| लङ् | imperfect (అనద్యతన భూతం) | अनद्यतने लङ् 3.2.111 | past, not today | अभवत्, अकुर्वत |
+| लिट् | perfect (పరోక్ష భూతం) | परोक्षे लिट् 3.2.115 | remote past, not seen by the speaker; narration | उवाच, बभूव |
+| लुङ् | aorist (సామాన్య భూతం) | लुङ् 3.2.110 | any past, including today | अभूत्, अश्रौषम् |
+| क्तवतु / क्त | past participle | (lesson 7.1) | "has done / was done" | गतवान्, उक्तम् |
+
+> [compare] Telugu: one form, many jobs :: వెళ్ళాడు translates all of अगच्छत्, जगाम, अगमत् and गतवान्. In practice: narrative texts (the epics, the Gītā's frame) use लिट् (उवाच) and लङ् (अब्रवीत्); dialogue often uses participles (गतवान्) or the aorist. When reading, you only need to recognise them; when writing, गतवान् / गतवती is the easiest past.
+
+## The augment अ (आगम)
+लङ्, लुङ् and लृङ् put **अ** before the root (अट्, 6.4.71). If the root begins with a vowel, the augment combines with it by vṛddhi (आट्, 6.4.72):
+
+| Root | Past | Rule |
+|---|---|---|
+| भू | अभवत् | अ + भवत् |
+| गम् | अगच्छत् | अ + गच्छत् |
+| अस् | आसीत् | अ + अस् → आस् |
+| इष् | ऐच्छत् | अ + इ → ऐ |
+| ईक्ष् | ऐक्षत | अ + ई → ऐ |
+| उप + विश् | उपाविशत् (1.47) | prefix + अ + root: उप + अविशत् |
+| वि + दॄ (caus.) | व्यदारयत् (1.19) | वि + अदारयत् |
+| सम् + आ + गम् | समागच्छत् | augment after the last prefix |
+
+> [warning] The augment comes after prefixes :: Always find the prefix first. उपाविशत् is उप + अ + विशत्, not उपा + विशत्. प्रत्यगच्छत् = प्रति + अ + गच्छत्. Remove the prefixes, and if the remaining form begins with अ (or आ / ऐ / औ from vṛddhi), it may be a past tense.
+
+## लङ् (imperfect)
+| परस्मैपद: भू | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | अभवत् | अभवताम् | अभवन् |
+| మధ్యమ | अभवः | अभवतम् | अभवत |
+| ఉత్తమ | अभवम् | अभवाव | अभवाम |
+
+| आत्मनेपद: लभ् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | अलभत | अलभेताम् | अलभन्त |
+| మధ్యమ | अलभथाः | अलभेथाम् | अलभध्वम् |
+| ఉత్తమ | अलभे | अलभावहि | अलभामहि |
+
+| Irregular imperfects | 3 sg. | 3 du. | 3 pl. | 1 sg. |
+|---|---|---|---|---|
+| अस् (be) | आसीत् | आस्ताम् | आसन् | आसम् |
+| कृ परस्मै | अकरोत् | अकुरुताम् | अकुर्वन् | अकरवम् |
+| कृ आत्मने | अकुरुत | अकुर्वाताम् | अकुर्वत | अकुर्वि |
+| ब्रू (say) | अब्रवीत् | अब्रूताम् | अब्रुवन् | अब्रवम् |
+| हन् (kill) | अहन् | अहताम् | अघ्नन् | अहनम् |
+| दृश् (see) | अपश्यत् (11.13) | अपश्यताम् | अपश्यन् | अपश्यम् |
+| दा (give) | अददात् | अदत्ताम् | अददुः | अददाम् |
+
+> [memory] Imperfect = present with अ- and short endings :: Take the present and (1) add अ-, (2) cut the final vowel: भवति → अभवत्, भवन्ति → अभवन्, भवामि → अभवम्. Ātmanepada: लभते → अलभत, लभन्ते → अलभन्त. This shortcut is right for all thematic verbs.
+
+## लिट् (perfect): reduplication
+The root is doubled. Rules for the reduplicating syllable (अभ्यास):
+1. Keep only the first consonant: स्था → तस्थौ (for स् + stop, keep the stop), ध्मा → दध्मौ.
+2. Aspirate → unaspirated: भू → **ब**भूव, धा → **द**धौ.
+3. Velar / ह → palatal: कृ → **च**कार, गम् → **ज**गाम, हु → **ज**ुहाव.
+4. Vowel → short; ऋ → अ: कृ → चकार, दा → ददौ, श्रु → शुश्राव.
+5. Roots like वच्, यज्, वद्, स्वप् contract (samprasāraṇa): उवाच, इयाज, उवाद, सुष्वाप.
+
+| परस्मैपद लिट् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | -अ (चकार) | -अतुः (चक्रतुः) | -उः (चक्रुः) |
+| మధ్యమ | -थ (चकर्थ) | -अथुः (चक्रथुः) | -अ (चक्र) |
+| ఉత్తమ | -अ (चकार / चकर) | -व (चकृव) | -म (चकृम) |
+
+| आत्मनेपद लिट् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | -ए (लेभे) | -आते (लेभाते) | -इरे (लेभिरे) |
+| మధ్యమ | -से (लेभिषे) | -आथे (लेभाथे) | -ध्वे (लेभिध्वे) |
+| ఉత్తమ | -ए (लेभे) | -वहे (लेभिवहे) | -महे (लेभिमहे) |
+
+### Perfects you will meet every day
+| Root | 3 sg. | 3 du. | 3 pl. | Gītā |
+|---|---|---|---|---|
+| वच् (say) | उवाच | ऊचतुः | ऊचुः | अर्जुन उवाच, श्रीभगवानुवाच |
+| ब्रू / अह् (say) | आह | आहतुः | आहुः | प्राहुरव्ययम् (15.1) |
+| भू (be) | बभूव | बभूवतुः | बभूवुः | तूष्णीं बभूव ह (2.9) |
+| ध्मा (blow) | दध्मौ | दध्मतुः | दध्मुः | शङ्खं दध्मौ (1.12), प्रदध्मतुः (1.14) |
+| गम् (go) | जगाम | जग्मतुः | जग्मुः | |
+| कृ (do) | चकार | चक्रतुः | चक्रुः | |
+| दृश् (see) | ददर्श | ददृशतुः | ददृशुः | |
+| स्था (stand) | तस्थौ | तस्थतुः | तस्थुः | |
+| विद् (know) | वेद (present sense) | विदतुः | विदुः | न विदुः (16.7) |
+
+> [memory] उवाच is your first perfect :: Every chapter of the Gītā begins with ___ उवाच. Learn उवाच / ऊचतुः / ऊचुः as "said, the two said, they said". Then बभूव (became) and आह / आहुः (says / they say; perfect form, present sense).
+
+## Periphrastic perfect (आम् + कृ / भू / अस्)
+Roots with a long initial vowel other than आ, causatives and class-10 verbs cannot reduplicate. They take -आम् and the perfect of कृ, भू or अस् (3.1.35–40):
+- ईक्ष् → ईक्षाञ्चक्रे "he looked"
+- कथय् → कथयाञ्चकार / कथयामास "he told"
+- चिन्तय् → चिन्तयामास "he thought"
+- दर्शय् (causative of दृश्) → दर्शयामास "he showed": दर्शयामास पार्थाय परमं रूपमैश्वरम् (11.9)
+
+## लुङ् (aorist)
+The aorist has seven formations. You need to recognise them, not produce them all:
+
+| Type | Example | Telugu |
+|---|---|---|
+| root aorist | अभूत्, अगात्, अदात्, अस्थात् | అయ్యాడు, వెళ్ళాడు, ఇచ్చాడు, నిలిచాడు |
+| a-aorist | अगमत्, अशुचत्, अवोचत् | వెళ్ళాడు, దుఃఖించాడు, చెప్పాడు |
+| reduplicated (causatives) | अजीजनत्, अचीकरत् | పుట్టించాడు, చేయించాడు |
+| s-aorist | अकार्षीत्, अश्रौषम् (18.74), अनैषीत् | చేశాడు, విన్నాను, తీసుకెళ్ళాడు |
+| iṣ-aorist | अपाठीत्, अवादीत् | చదివాడు, చెప్పాడు |
+| siṣ-aorist | अयासीत् | వెళ్ళాడు |
+| sa-aorist | अदिक्षत्, अधुक्षत् | చూపాడు, పాలు పితికాడు |
+
+## मा + aorist = "don't"
+With मा, the aorist drops its augment and means a **prohibition** (माङि लुङ् 3.3.175; न माङ्योगे 6.4.74):
+
+| Aorist | With मा | Meaning |
+|---|---|---|
+| अशुचः | मा शुचः (16.5, 18.66) | దుఃఖించకు |
+| अगमः | मा (स्म) गमः (2.3) | పొందకు / వెళ్ళకు |
+| अभूः | मा भूः | కాకు |
+| अकार्षीः | मा कार्षीः | చేయకు |
+
+> [memory] Telugu -కు :: Telugu negative imperative చేయకు, వెళ్ళకు, దుఃఖించకు maps to मा + augmentless aorist: मा कार्षीः, मा गमः, मा शुचः. मा can also go with the imperative (मा ते सङ्गोऽस्त्वकर्मणि 2.47, "let there not be…").
+
+@ex gita:1:1
+split: धर्मक्षेत्रे कुरुक्षेत्रे समवेताः युयुत्सवः । मामकाः पाण्डवाः च एव किम् अकुर्वत सञ्जय ॥
+note: अकुर्वत "did (they)": imperfect, ātmanepada 3 pl. of कृ (अ + कुर्व + अत). Telugu: ఏమి చేశారు?
+note: समवेताः "assembled": past participle of सम् + अव + इ.
+@end
+
+@ex gita:1:47
+split: एवम् उक्त्वा अर्जुनः संख्ये रथोपस्थे उपाविशत् । विसृज्य सशरं चापं शोकसंविग्नमानसः ॥
+note: उपाविशत् "sat down": imperfect of उप + विश्; the augment stands between prefix and root (उप + अ + विशत्).
+@end
+
+@ex gita:2:9
+note: बभूव "became": perfect of भू. ह is an emphatic particle common after perfects in narration.
+note: योत्स्ये "I shall (not) fight": future of युध् (lesson 6.5). The ए before इति becomes अ + इति (योत्स्य इति).
+@end
+
+@ex gita:16:5
+note: मा शुचः "do not grieve": मा + augmentless aorist of शुच् (अशुचः → शुचः).
+@end
+
+@ex gita:18:74
+note: अश्रौषम् "I heard": s-aorist of श्रु, 1 sg. Sañjaya says he heard it himself, so the aorist (direct experience) fits.
+@end
+
+@quiz
+q: What does the augment do in उपाविशत्?
+* It marks the past and sits between the prefix उप and the root विश्
+- It lengthens the prefix to उपा
+- It is part of the root
+why: उप + अ + विशत्.
+
+q: The imperfect 3 sg. of अस् (be):
+* आसीत्
+- अस्तत्
+- असत्
+why: अ + अस् → आस्, with the इ insertion: आसीत्.
+
+q: उवाच is from which root?
+* वच् (perfect, reduplicated with samprasāraṇa)
+- उच्
+- वाच्
+why: व-अच् → उ + वाच: उवाच, ऊचतुः, ऊचुः.
+
+q: How does Sanskrit say "దుఃఖించకు"?
+* मा शुचः
+- न शोचसि
+- मा अशोचः
+why: मा + aorist without the augment.
+
+q: Reduplicating syllable of भू in the perfect:
+* ब (बभूव)
+- भ (भभूव)
+- बु (बुभूव)
+why: Aspirates lose aspiration, and भू takes अ in reduplication.
+
+q: The imperfect of a thematic verb is formed from the present by:
+* adding अ- and dropping the final vowel of the ending
+- reduplicating the root
+- adding -स्य-
+why: भवति → अभवत्, लभन्ते → अलभन्त.
+@end

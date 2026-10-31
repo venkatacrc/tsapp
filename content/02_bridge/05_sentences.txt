@@ -1,0 +1,136 @@
+@title వాక్యాలు · Sentences side by side
+@summary How a Telugu sentence is built and how the same thought is built in Sanskrit: "is" sentences, agreement, questions, "and", "not", quoting with అని / इति, relative clauses, and the passive.
+
+## 1. "X is Y" — no verb needed in either
+Telugu says రాముడు మంచివాడు without "is". Sanskrit can do the same: रामः साधुः. The verb अस्ति is optional in the present.
+
+| Telugu | Sanskrit |
+|---|---|
+| రాముడు మంచివాడు. | रामः साधुः (अस्ति)। |
+| ఇది పుస్తకం. | इदं पुस्तकम्। |
+| నేను విద్యార్థిని. | अहं छात्रः (अस्मि)। |
+| మీరు ఎవరు? | भवान् कः? |
+| ఆమె నా చెల్లెలు. | सा मम भगिनी। |
+
+> [compare] The predicate agrees :: In Sanskrit the predicate noun or adjective takes the same case (nominative) and, if it is an adjective, the same gender and number: सीता साध्वी, फलं मधुरम्, वृक्षाः उन्नताः. Telugu adjectives never change: మంచి.
+
+## 2. Agreement
+| Rule | Telugu | Sanskrit |
+|---|---|---|
+| verb agrees with subject in | person, number, **gender** | person, number |
+| adjective agrees with noun in | nothing | gender, number, case |
+| participle agrees with | — | its noun, like an adjective |
+
+## 3. Questions
+Telugu adds -ఆ to the end of a word or uses a question word: నువ్వు వచ్చావా? ఎవరు వచ్చారు? Sanskrit puts **किम्** or **अपि** at the start for a yes/no question, or uses a question word (क-words):
+
+| Telugu | Sanskrit |
+|---|---|
+| నువ్వు వస్తావా? | किं त्वम् आगमिष्यसि? / अपि त्वम् आगमिष्यसि? |
+| ఎవరు? | कः / का / किम्? |
+| ఏమిటి? | किम्? |
+| ఎక్కడ? | कुत्र / क्व? |
+| ఎప్పుడు? | कदा? |
+| ఎందుకు? | किमर्थम् / कुतः? |
+| ఎలా? | कथम्? |
+| ఎంత? | कियत्? |
+| ఏది? (which of many) | कतमः? |
+
+> [memory] క-words ask, య-words relate, త-words point :: కః (who?), యః (who, the one that), సః (he). కదా (when?), యదా (when, as in "when X…"), తదా (then). కుత్ర (where?), యత్ర (where…), తత్ర (there). One pattern, dozens of words. Gītā 18.78: यत्र योगेश्वरः कृष्णः … तत्र श्रीः "where Kṛṣṇa is … there is fortune".
+
+## 4. "And", "or", "also"
+Telugu adds -ఊ (-ఉ) to each word: రాముడూ సీతా వచ్చారు. Sanskrit puts **च** after the last word (or after each): रामः सीता च आगच्छताम्; रामश्च सीता च.
+
+| Telugu | Sanskrit | Note |
+|---|---|---|
+| రాముడూ సీతా | रामः सीता च | च comes **after** |
+| రాముడో, కృష్ణుడో | रामः कृष्णः वा | वा "or", also after |
+| నేను కూడా | अहम् अपि | अपि "also", after |
+| రాముడే | रामः एव | एव "only, indeed" = Telugu -ఏ |
+
+> [warning] च never starts a sentence :: Telugu ఇంకా, మరియు can begin a sentence. Sanskrit च, वा, अपि, एव, तु, हि are **enclitic**: they always come after the word they attach to. सर्वधर्मान् परित्यज्य मामेकं शरणं व्रज: एकम् "alone" emphasises माम्.
+
+## 5. Negation
+Telugu builds negative verb forms: చేయను, చేయలేదు, రాడు. Sanskrit simply puts **न** before the verb (or the word negated): न करोमि, न अकरोत्, न आगच्छति.
+
+> [compare] Gītā 2.20 :: न जायते म्रियते वा कदाचित् "it is not born, nor does it ever die": one न covers both verbs. Telugu needs two negative verbs: పుట్టదు, చావదు.
+
+## 6. Quoting with అని / इति
+Telugu ends a quotation or thought with **అని**: "నేను వస్తాను" అని చెప్పాడు. Sanskrit uses **इति** in exactly the same place:
+
+| Telugu | Sanskrit |
+|---|---|
+| "నేను వస్తాను" అని రాముడు చెప్పెను. | "अहम् आगमिष्यामि" इति रामः अवदत्। |
+| అతడు వెళ్ళాడని విన్నాను. | सः गतः इति अहम् अशृणवम्। |
+| రాముడనే రాజు | राम इति प्रसिद्धः राजा |
+| ఏమి చేయాలని ఆలోచిస్తున్నాను. | किं करोमि इति चिन्तयामि। |
+
+> [telugu] అని = इति, exactly :: This is one of the closest matches between the two languages. Telugu అనగా, అనే, అని all have Sanskrit इति behind them. Gītā 3.27: कर्ता अहम् इति मन्यते "he thinks 'I am the doer'" = నేను కర్తను అని తలంచును.
+
+## 7. Relative clauses
+Telugu uses an **adjectival participle** before the noun: నేను చదివిన పుస్తకం. Sanskrit has two ways:
+
+| Way | Sanskrit | Literally |
+|---|---|---|
+| participle (like Telugu) | मया पठितं पुस्तकम् | by-me read book |
+| यद् … तद् (relative + correlative) | यत् पुस्तकम् अहम् अपठम्, तत् … | which book I read, that … |
+
+The यद्–तद् pair is everywhere in the Gītā: यः … सः, या … सा, यत् … तत्, यदा … तदा, यत्र … तत्र.
+
+@ex gita:3:21
+note: यद्यत् … तत्तत्: "whatever … that very thing": the relative pronoun doubled for "whatever".
+note: सः यत् प्रमाणं कुरुते लोकः तत् अनुवर्तते: "what standard he sets, that the world follows": a यत् … तत् pair.
+note: Telugu builds the same thought with a participle: శ్రేష్ఠుడు ఏది ఆచరిస్తాడో, దానినే ఇతరులూ ఆచరిస్తారు — Telugu too uses ఏది…అదే, a borrowed relative pattern.
+@end
+
+## 8. Passive sentences
+Telugu rarely uses the passive (చేయబడెను sounds bookish). Sanskrit uses it all the time, especially with past participles: "by Rāma Rāvaṇa (was) killed" is the normal way to say "Rāma killed Rāvaṇa".
+
+| Active | Passive |
+|---|---|
+| रामः रावणम् अहन् | रामेण रावणः हतः |
+| अहं ग्रन्थं पठामि | मया ग्रन्थः पठ्यते |
+| सा गीतं गायति | तया गीतं गीयते |
+
+> [memory] Passive = agent in తృతీయా, object in ప్రథమా :: Swap the roles: the doer goes into the instrumental (రామునిచేత → रामेण), the thing done becomes the subject (रावणः), and the verb or participle agrees with it (हतः). Telugu: రామునిచేత రావణుడు చంపబడెను.
+
+@ex
+sa: अहं गीतां पठामि इति माता जानाति । किं त्वम् अपि पठसि ?
+te: నేను గీత చదువుతున్నానని అమ్మకు తెలుసు. నువ్వు కూడా చదువుతున్నావా?
+en: Mother knows that I am reading the Gītā. Are you reading it too?
+w: अहम् = నేను; गीताम् = గీతను; पठामि = చదువుతున్నాను; इति = అని; माता = అమ్మ; जानाति = ఎరుగును; किम् = ఆ? (question); त्वम् = నువ్వు; अपि = కూడా; पठसि = చదువుతున్నావు
+note: इति closes the quoted thought, as అని does.
+note: "అమ్మకు తెలుసు" becomes माता जानाति: the knower is the subject in Sanskrit.
+@end
+
+@quiz
+q: Where does च go in "Rāma and Sītā"?
+* After the last word (or after each): रामः सीता च
+- Before both: च रामः सीता
+- Between them: रामः च सीता only
+why: च is enclitic and follows the word it joins. रामश्च सीता च is also correct.
+
+q: Telugu అని corresponds to:
+* इति
+- एव
+- अपि
+why: Both close a quotation or thought: "…" इति = "…" అని.
+
+q: How is a yes/no question usually marked in Sanskrit?
+* किम् or अपि at the start (or just intonation)
+- -आ at the end, as in Telugu
+- न at the end
+why: किं त्वम् आगमिष्यसि? Telugu uses వస్తావా with -ఆ.
+
+q: "నేను చదివిన పుస్తకం" with a participle in Sanskrit:
+* मया पठितं पुस्तकम्
+- अहं पठितं पुस्तकम्
+- मम पठामि पुस्तकम्
+why: The past participle पठितम् agrees with पुस्तकम्, and the reader goes in the instrumental: मया.
+
+q: In the passive रामेण रावणः हतः, who did the killing?
+* Rāma (instrumental: by Rāma)
+- Rāvaṇa
+- Neither
+why: The agent of a passive is in the instrumental; the patient (Rāvaṇa) is nominative.
+@end

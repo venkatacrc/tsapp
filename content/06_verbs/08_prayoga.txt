@@ -1,0 +1,130 @@
+@title ప్రయోగాలు · Active, passive, impersonal (कर्तरि, कर्मणि, भावे)
+@summary Sanskrit uses the passive far more than Telugu. The passive sign -य- with ātmanepada endings (क्रियते, उच्यते, गृह्यते), agreement with the object, the impersonal भावे-प्रयोग for intransitive verbs, passives in other tenses, and how to convert sentences.
+
+## Three voices
+| Prayoga | Agent | Object | Verb agrees with | Example | Telugu |
+|---|---|---|---|---|---|
+| कर्तरि (active) | 1st case | 2nd case | agent | रामः रावणं हन्ति | రాముడు రావణుణ్ణి చంపుతాడు |
+| कर्मणि (passive) | 3rd case | 1st case | object | रामेण रावणः हन्यते | రాముని చేత రావణుడు చంపబడుతాడు |
+| भावे (impersonal) | 3rd case | none | nothing (3 sg.) | मया स्थीयते | నాచే నిలువబడుతుంది (= నేను నిలుస్తాను) |
+
+> [compare] Telugu -బడు :: Telugu has a passive (చంపబడ్డాడు, చెప్పబడింది), but it sounds bookish; spoken Telugu prefers the active. Sanskrit authors switch to the passive freely, especially with the past participle (मया कृतम् "నాచే చేయబడింది" = "I did it"). When you translate into Telugu, turning Sanskrit passives back into actives often gives the most natural sentence.
+
+## Making the passive stem
+Weak root + **य** (यक्, 3.1.67) + **ātmanepada** endings, in every class:
+
+| Root | Passive 3 sg. | Rule | Telugu |
+|---|---|---|---|
+| कृ | क्रियते | ऋ → रि | చేయబడుతుంది |
+| हृ | ह्रियते | ऋ → रि | హరించబడుతుంది |
+| स्मृ | स्मर्यते | ऋ after a conjunct → अर् | స్మరించబడుతుంది |
+| दा | दीयते | आ → ई | ఇవ్వబడుతుంది |
+| स्था | स्थीयते | आ → ई | (నిలువబడుతుంది) |
+| पा | पीयते | आ → ई | తాగబడుతుంది |
+| ज्ञा | ज्ञायते | आ stays | తెలియబడుతుంది |
+| वच् | उच्यते | samprasāraṇa | చెప్పబడుతుంది |
+| वद् | उद्यते | samprasāraṇa | చెప్పబడుతుంది |
+| यज् | इज्यते | samprasāraṇa | పూజించబడుతుంది |
+| ग्रह् | गृह्यते | samprasāraṇa | గ్రహించబడుతుంది |
+| श्रु | श्रूयते | उ → ऊ | వినబడుతుంది |
+| जि | जीयते | इ → ई | జయించబడుతుంది |
+| नी | नीयते | — | తీసుకుపోబడుతుంది |
+| दृश् | दृश्यते | — | కనబడుతుంది |
+| गम् | गम्यते | — | వెళ్ళబడుతుంది |
+| हन् | हन्यते | — | చంపబడుతుంది |
+| त्यज् | त्यज्यते | — | విడువబడుతుంది |
+| भू | भूयते | (impersonal) | అవ్వబడుతుంది |
+
+> [memory] The passive is one pattern, always ātmanepada :: Whatever the class, the passive is root + य + ते: क्रियते, दृश्यते, उच्यते. You never need the class, the vikaraṇa or the parasmaipada endings. Full table: क्रियते क्रियेते क्रियन्ते / क्रियसे क्रियेथे क्रियध्वे / क्रिये क्रियावहे क्रियामहे.
+
+> [warning] Not every -यते is a passive :: Class 4 ātmanepada verbs look the same: जायते (is born), मन्यते (thinks), युध्यते (fights), प्रलीयते (dissolves, 8.19), पद्यते (goes). Test: is there an agent in the 3rd case, or could there be? मन्यते in 3.27 (कर्ताहमिति मन्यते "he thinks I am the doer") is active.
+
+## Passive in other tenses and forms
+| Form | Active | Passive |
+|---|---|---|
+| present | करोति | क्रियते |
+| imperfect | अकरोत् | अक्रियत |
+| imperative | करोतु | क्रियताम् |
+| optative | कुर्यात् | क्रियेत |
+| future | करिष्यति | करिष्यते (= Ā future) |
+| perfect | चकार | चक्रे (= Ā perfect) |
+| aorist 3 sg. | अकार्षीत् | अकारि (special: चिण्) |
+| present participle | कुर्वन् | क्रियमाणः (3.27) |
+| past participle | कृतवान् | कृतः |
+| gerundive | — | कर्तव्यः, कार्यः (lesson 7.4) |
+
+> [note] Polite requests with the passive imperative :: श्रूयताम् "let it be heard = please listen", उपविश्यताम् "please be seated", क्षम्यताम् "please forgive", आगम्यताम् "please come". These are the courteous forms used in plays and in formal Sanskrit speech.
+
+## भावे प्रयोग: the impersonal
+With intransitive verbs (no object), the passive is used impersonally: agent in the 3rd case, verb in 3 sg., no subject.
+- मया स्थीयते "నేను నిలుస్తున్నాను" (lit. "by me it is stood")
+- त्वया गम्यताम् "నువ్వు వెళ్ళు" (polite)
+- तेन सुप्यते "అతడు నిద్రపోతున్నాడు"
+- अस्माभिः भूयते "మనం ఉంటాము"
+
+With the past participle: मया गतम्, तेन सुप्तम्, सर्वैः हसितम् (all laughed).
+
+## Converting active to passive
+1. Agent: 1st case → 3rd case (रामः → रामेण).
+2. Object: 2nd case → 1st case (रावणम् → रावणः).
+3. Verb: passive stem + ātmanepada ending, agreeing with the new subject in person and number.
+
+| Active | Passive |
+|---|---|
+| अहं ग्रन्थं पठामि | मया ग्रन्थः पठ्यते |
+| त्वं फलानि खादसि | त्वया फलानि खाद्यन्ते |
+| बालकः मातरं पश्यति | बालकेन माता दृश्यते |
+| ते मां स्मरन्ति | तैः अहं स्मर्ये |
+| सः ग्रामं गच्छति | तेन ग्रामः गम्यते |
+| सा हसति | तया हस्यते (भावे) |
+
+@ex gita:2:48
+note: योग उच्यते "is called yoga": passive of वच् (samprasāraṇa: वच् → उच्). The subject समत्वम् is in the 1st case; no agent is given.
+@end
+
+@ex gita:6:35
+note: गृह्यते "is grasped / brought under control": passive of ग्रह् (→ गृह्). The agents of control are given in the 3rd case: अभ्यासेन, वैराग्येण (by practice, by detachment). The subject is मनः from the first line.
+@end
+
+@ex gita:3:27
+note: क्रियमाणानि "being done": present passive participle of कृ (क्रिय + मान), agreeing with कर्माणि. Agent in the 3rd case: गुणैः.
+note: मन्यते "thinks": not a passive; class 4 ātmanepada of मन्.
+@end
+
+@quiz
+q: Passive 3 sg. of वच्:
+* उच्यते
+- वच्यते
+- वाच्यते
+why: Samprasāraṇa: व → उ. समत्वं योग उच्यते (2.48).
+
+q: In the passive, the agent is in:
+* the 3rd case
+- the 1st case
+- the 2nd case
+why: रामेण रावणः हन्यते.
+
+q: Passive of "अहं ग्रन्थं पठामि":
+* मया ग्रन्थः पठ्यते
+- मया ग्रन्थं पठ्यते
+- अहं ग्रन्थः पठ्यते
+why: Agent → 3rd, object → 1st, verb agrees with ग्रन्थः.
+
+q: Is जायते a passive?
+* No: it is class 4 ātmanepada (is born)
+- Yes, passive of जन्
+- Yes, passive of जि
+why: The passive of जि is जीयते; जायते is an ordinary middle verb.
+
+q: श्रूयताम् means:
+* please listen (let it be heard)
+- he heard
+- it will be heard
+why: Passive imperative used as a polite request.
+
+q: The passive of दा:
+* दीयते
+- दायते
+- ददते
+why: आ → ई before the passive य.
+@end

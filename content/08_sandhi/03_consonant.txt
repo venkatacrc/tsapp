@@ -1,0 +1,99 @@
+@title హల్ సంధి · Consonant sandhi
+@summary What happens to a final consonant before the next sound: only eight consonants may end a word, voicing (జశ్త్వ), devoicing, assimilation to palatals and retroflexes (శ్చుత్వ, ష్టుత్వ), त् + ल, त् + श, the aspirate shift (ह after a stop), and the internal changes you saw in participles (लब्ध, दृष्ट, युद्ध).
+
+## Step 1: what a word may end in
+At the end of a word (before a pause), only these consonants are allowed (8.2.23 संयोगान्तस्य लोपः, 8.2.30 चोः कुः, 8.2.39):
+
+| Allowed finals | Typical sources |
+|---|---|
+| क् | क्, ख्, ग्, घ्; also च्, ज्, श् often → क् (वाच् → वाक्, दिश् → दिक्) |
+| ट् | ट् ठ् ड् ढ्; ष्, often ज् / श् (सम्राज् → सम्राट्, विश् → विट्) |
+| त् | त् थ् द् ध् (सुहृद् → सुहृत्, मरुत्) |
+| प् | प् फ् ब् भ् (ककुभ् → ककुप्) |
+| ङ्, न्, म् | nasals (प्राङ्, राजन् → राजा, भगवान्) |
+| ः (visarga) | स् and र् (रामस् → रामः, पुनर् → पुनः) |
+
+> [memory] At the end, a cluster keeps only its first sound :: भगवन्त् + स् (1st case ending) → भगवान्त्स् → only the first consonant of the final cluster survives → भगवान्. Similarly राजन् + स् → राजा, सम्राज् + स् → सम्राट्. This is why nominatives like भगवान्, राजा, कर्ता look "short".
+
+## Step 2: voicing (జశ్త్వ)
+| Rule | Sūtra | Change | Examples |
+|---|---|---|---|
+| Before a vowel or voiced consonant, a final stop becomes voiced | झलां जशोऽन्ते 8.2.39 | क्→ग्, ट्→ड्, त्→द्, प्→ब् | वाक् + ईशः → वागीशः; जगत् + ईशः → जगदीशः; षट् + आननः → षडाननः; सत् + धर्मः → सद्धर्मः |
+| Before a voiceless consonant, it is voiceless | खरि च 8.4.55 | ग्→क्, द्→त् | तद् + कर्म → तत्कर्म; सुहृद् + पत्नी → सुहृत्पत्नी |
+| Inside a word, a voiced aspirate gives voicing and aspiration to a following त् / थ् | झषस्तथोर्धोऽधः 8.2.40 | भ् + त → ब्ध; ध् + त → द्ध; घ् + त → ग्ध | लभ् + त → लब्ध; युध् + त → युद्ध; बुध् + त → बुद्ध; दुह् + त → दुग्ध |
+
+> [compare] Telugu గసడదవాదేశ goes the other way round :: Telugu voices the **next** word's first consonant (వాడు + కొట్టె → వాడు గొట్టె). Sanskrit voices the **previous** word's last consonant (वाक् + ईशः → वागीशः). Both are about voicing at a boundary.
+
+## Step 3: assimilation to palatals and retroflexes
+| Rule | Sūtra | Change | Examples |
+|---|---|---|---|
+| श्चुत्व | स्तोः श्चुना श्चुः 8.4.40 | स् / dental + श् / palatal → श् / palatal | सत् + चित् → सच्चित्; तत् + च → तच्च; रामस् + च → रामश्च; यज् + न → यज्ञ |
+| ष्टुत्व | ष्टुना ष्टुः 8.4.41 | स् / dental + ष् / retroflex → ष् / retroflex | तत् + टीका → तट्टीका; इष् + त → इष्ट; कृष् + न → कृष्ण |
+| त् + ल | तोर्लि 8.4.60 | त् + ल् → ल्ल् | तत् + लयः → तल्लयः; उत् + लासः → उल्लासः |
+| त् + श | शश्छोऽटि 8.4.63 | त् + श् → च्छ् (optional) | तत् + शिवः → तच्छिवः; तत् + श्रुत्वा → तच्छ्रुत्वा; तत् + शृणु → तच्छृणु (7.1) |
+| stop + ह | झयो होऽन्यतरस्याम् 8.4.62 | stop + ह् → voiced stop + aspirate of it | वाक् + हरिः → वाग्घरिः; तत् + हितम् → तद्धितम्; उत् + हरति → उद्धरति (6.5) |
+
+> [memory] तद्धित, उद्धरेत्, तच्छृणु :: Three names to remember three rules. तद्धित (तत् + हित) and उद्धरेत् (उत् + हरेत्) show stop + ह → ध्; तच्छृणु (तत् + शृणु) shows त् + श् → च्छ्. They are all over the Gītā.
+
+## Step 4: inside a word (participles and futures)
+You have seen these in units 6 and 7; here are the rules behind them:
+
+| Change | Rule | Examples |
+|---|---|---|
+| च् / ज् → क् / ग् before most consonants | चोः कुः 8.2.30 | वच् + त → उक्त; युज् + त → युक्त; त्यज् + त → त्यक्त |
+| श् / ष् / छ् / ज् (some) → ष् before त, then त → ट | व्रश्चभ्रस्ज… 8.2.36, ष्टुत्व | दृश् + त → दृष्ट; सृज् + त → सृष्ट; विश् + त → विष्ट |
+| ह् → ढ् (with lengthening) or घ् | हो ढः 8.2.31, दादेर्धातोर्घः 8.2.32 | लिह् + त → लीढ; दुह् + त → दुग्ध |
+| स् → ष् after इ उ ऋ ए ओ, क्, र् | आदेशप्रत्यययोः 8.3.59 | करिस्यति → करिष्यति; अग्निसु → अग्निषु; रामेसु → रामेषु |
+| न् → ण् after ऋ र् ष् in the same word | रषाभ्यां नो णः समानपदे 8.4.1 | रामेन → रामेण; कर्मना → कर्मणा; पुष्पानि → पुष्पाणि |
+
+> [warning] The ण rule is blocked :: न becomes ण only if no palatal, dental (except य व ह) or retroflex consonant (except ष) comes between (अट्कुप्वाङ्नुम्व्यवायेऽपि 8.4.2). So रामेण, गुरुणा, पितॄणाम्, but अर्जुनेन (the palatal ज् intervenes), दशरथेन (the dental थ intervenes) and कृष्णेन (the retroflex ण of the stem intervenes).
+
+## Doubling
+- छ् after a short vowel doubles to च्छ् (छे च 6.1.73): शिव + छाया → शिवच्छाया; परि + छेदः → परिच्छेदः; गम् → गच्छति.
+- After a short vowel, word-final ङ् / ण् / न् doubles before a vowel (ङमो ह्रस्वादचि ङमुण्नित्यम् 8.3.32): प्रत्यङ् + आत्मा → प्रत्यङ्ङात्मा; सन् + अच्युतः → सन्नच्युतः; and in the Gītā: गृह्णन् + उन्मिषन् → गृह्णन्नुन्मिषन् (5.9), जिघ्रन् + अश्नन् → जिघ्रन्नश्नन् (5.8).
+
+@ex gita:6:5
+note: उत् + हरेत् → उद्धरेत् (stop + ह → ध्ध्): consonant sandhi between prefix and verb. आत्मना + आत्मानम् → आत्मनाऽऽत्मानम् (vowel lengthening).
+@end
+
+@ex gita:7:1
+note: तत् + शृणु → तच्छृणु (त् + श् → च्छ्). युञ्जन् + मदाश्रयः → युञ्जन्मदाश्रयः (no change; न् before म्). मयि + आसक्त- → मय्यासक्त- (इ → य्; the य् is then optionally doubled, अनचि च 8.4.47).
+@end
+
+@quiz
+q: जगत् + ईशः →
+* जगदीशः
+- जगतीशः
+- जगच्छीशः
+why: Voicing before a vowel: त् → द्.
+
+q: सत् + चित् →
+* सच्चित्
+- सत्चित्
+- सद्चित्
+why: त् before a palatal becomes a palatal: च्.
+
+q: तत् + हितम् →
+* तद्धितम्
+- तत्हितम्
+- तद्हितम्
+why: Stop + ह → voiced stop + its aspirate: द्ध.
+
+q: Why रामेण but अर्जुनेन?
+* In अर्जुन, the palatal ज् blocks the ण change
+- अर्जुन is irregular
+- ण only after a long vowel
+why: 8.4.2 lists what may intervene; palatals may not.
+
+q: लभ् + त →
+* लब्ध
+- लप्त
+- लभ्त
+why: झषस्तथोर्धोऽधः: voiced aspirate + त → voiced + ध.
+
+q: उत् + लासः →
+* उल्लासः
+- उद्लासः
+- उत्लासः
+why: त् before ल् becomes ल्.
+@end

@@ -1,0 +1,119 @@
+@title ద్వంద్వ, బహువ్రీహి · Dvandva and bahuvrīhi
+@summary Dvandva joins equals with "and" (రామలక్ష్మణులు, సుఖదుఃఖాలు). Bahuvrīhi describes someone outside the compound (చక్రపాణి "he in whose hand is the discus"). The three kinds of dvandva, the ordering rules, the six case-types of bahuvrīhi, and how to tell नीलकण्ठ "blue throat" from नीलकण्ठः "Śiva".
+
+## द्वन्द्व: "A and B"
+Words joined by च (चार्थे द्वन्द्वः 2.2.29). Three kinds:
+
+| Example | Vigraha | Kind | Number and gender | Telugu |
+|---|---|---|---|---|
+| रामलक्ष्मणौ | रामः च लक्ष्मणः च | इतरेतर (each counted) | dual / plural, gender of the last | రామలక్ష్మణులు |
+| लाभालाभौ, जयाजयौ (2.38) | लाभः च अलाभः च | इतरेतर (each counted) | dual / plural, gender of the last | లాభనష్టాలు |
+| सुखदुःखे (2.38) | सुखं च दुःखं च | इतरेतर (each counted) | dual / plural, gender of the last | సుఖదుఃఖాలు |
+| पाणिपादम् | पाणी च पादौ च, तेषां समाहारः | समाहार (a collective) | neuter singular | కాళ్ళూ చేతులూ |
+| शीतोष्णम् | शीतं च उष्णं च | समाहार (a collective) | neuter singular | శీతోష్ణం |
+| पितरौ | माता च पिता च | एकशेष (one word stands for both) | dual / plural of one member | తల్లిదండ్రులు |
+| भ्रातरौ | भ्राता च स्वसा च | एकशेष (one word stands for both) | dual / plural of one member | అన్నాచెల్లెళ్ళు |
+
+> [compare] Telugu ద్వంద్వం works the same :: తల్లిదండ్రులు, అన్నదమ్ములు, కాళ్ళుచేతులు, రామలక్ష్మణులు: Telugu puts the plural on the whole, as Sanskrit puts the dual / plural on the whole. One difference: Telugu has no dual, so రామలక్ష్మణులు (plural) = रामलक्ष्मणौ (dual).
+
+### Which member comes first?
+| Rule | Sūtra | Example |
+|---|---|---|
+| the one with fewer syllables | अल्पाच्तरम् 2.2.34 | शिवकेशवौ, not केशवशिवौ |
+| an इ / उ-stem | द्वन्द्वे घि 2.2.32 | हरिहरौ |
+| a vowel-initial word ending in अ | अजाद्यदन्तम् 2.2.33 | ईशकृष्णौ |
+| the more honoured | अभ्यर्हितं च (vārttika) | मातापितरौ, देवासुराः |
+| ऋ-stems of kinship: first becomes -आ | आनङ् ऋतो द्वन्द्वे 6.3.25 | मातापितरौ, पितापुत्रौ |
+| pairs of deities: first becomes -आ | देवताद्वन्द्वे च 6.3.26 | मित्रावरुणौ, अग्नीषोमौ |
+
+## बहुव्रीहि: "he whose X is Y"
+The compound describes something not named in it (अनेकमन्यपदार्थे 2.2.24). It is an adjective and takes the gender of what it describes. The vigraha uses a form of यद्:
+
+| Case of यद् | Compound | Vigraha | Telugu |
+|---|---|---|---|
+| 2nd (यम्) | प्राप्तोदकः ग्रामः | प्राप्तम् उदकं यं सः | నీరు చేరిన ఊరు |
+| 3rd (येन) | जितेन्द्रियः | जितानि इन्द्रियाणि येन सः | ఇంద్రియాలను జయించినవాడు |
+| 4th (यस्मै) | उपहृतपशुः रुद्रः | उपहृतः पशुः यस्मै सः | పశువు సమర్పించబడిన రుద్రుడు |
+| 5th (यस्मात्) | निर्गतभयः | निर्गतं भयं यस्मात् सः | భయం తొలగిపోయినవాడు |
+| 6th (यस्य) | पीताम्बरः | पीतम् अम्बरं यस्य सः | పచ్చని వస్త్రం గలవాడు |
+| 7th (यस्मिन्) | वीरपुरुषः ग्रामः | वीराः पुरुषाः यस्मिन् सः | వీరులున్న ఊరు |
+
+> [memory] Add "-గలవాడు" :: In Telugu a bahuvrīhi is a noun phrase plus -గలవాడు / -గలది / -ఐనవాడు: చక్రపాణి = చక్రం చేతిలో గలవాడు, నీలకంఠుడు = నల్లని కంఠం గలవాడు, మహాబాహువు = గొప్ప బాహువులు గలవాడు. If adding -గలవాడు makes sense and the compound names someone else, it is a bahuvrīhi.
+
+### Bahuvrīhis everywhere in the Gītā
+| Compound | Vigraha | Meaning |
+|---|---|---|
+| महाबाहो (voc.) | महान्तौ बाहू यस्य | mighty-armed |
+| स्थितप्रज्ञः (2.54) | स्थिता प्रज्ञा यस्य | of steady wisdom |
+| स्थितधीः (2.54) | स्थिता धीः यस्य | of steady mind |
+| त्यक्तजीविताः (1.9) | त्यक्तं जीवितं यैः | who have given up their lives |
+| नानाशस्त्रप्रहरणाः (1.9) | नानाशस्त्राणि प्रहरणानि येषाम् | whose weapons are many arms |
+| शोकसंविग्नमानसः (1.47) | शोकेन संविग्नं मानसं यस्य | whose mind is shaken by grief |
+| समदुःखसुखः (12.13) | समे दुःखसुखे यस्य | to whom pain and pleasure are equal |
+| कृतकृत्यः (15.20) | कृतं कृत्यं येन | who has done what had to be done |
+| जितात्मनः (6.7) | जितः आत्मा येन | of one who has mastered himself |
+| निर्ममः, निरहङ्कारः (12.13) | निर्गतं ममत्वम् / अहङ्कारः यस्मात् | without "mine", without ego |
+| पुष्कराक्षः (VS 5) | पुष्करे इव अक्षिणी यस्य | lotus-eyed |
+| अनादिनिधनः (VS 5) | आदिः च निधनं च न स्तः यस्य | without beginning or end |
+
+### Special kinds
+- **with सह / स-:** सपुत्रः "with his son", सबान्धवान् (1.37) "with their kinsmen", सशरम् (1.47).
+- **negative:** अपुत्रः "sonless", अनन्तः "endless", निर्धनः "poor".
+- **comparison:** चन्द्रमुखी "moon-faced (woman)", गजाननः "elephant-faced" (Gaṇeśa).
+- **numbers:** चतुर्भुजः, त्रिनेत्रः, दशाननः, षडाननः.
+- **name-like:** most epithets of gods are bahuvrīhis: चक्रपाणिः, शूलपाणिः, नीलकण्ठः, चन्द्रशेखरः, पद्मनाभः, गरुडध्वजः.
+
+> [warning] Same compound, two analyses :: नीलकण्ठः as karmadhāraya = "a blue throat" (नीलः कण्ठः); as bahuvrīhi = "he who has a blue throat" (Śiva / a peacock). पीताम्बरम् = "yellow cloth"; पीताम्बरः = Kṛṣṇa. Context decides: does the compound refer to the thing itself or to its owner?
+
+@ex gita:2:38
+split: सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ । ततः युद्धाय युज्यस्व न एवं पापम् अवाप्स्यसि ॥
+w: सुखदुःखे = సుఖదుఃఖాలను (dvandva, neuter dual); समे = సమానంగా; कृत्वा = చేసి (భావించి); लाभालाभौ = లాభనష్టాలను (dvandva, m. dual); जयाजयौ = జయాపజయాలను (dvandva, m. dual); ततः = అప్పుడు; युद्धाय = యుద్ధానికి; युज्यस्व = సిద్ధమవ్వు (passive-form imperative of युज्); न एवम् = ఇలా అయితే కాదు; पापम् = పాపాన్ని; अवाप्स्यसि = పొందుతావు
+note: Three itaretara dvandvas in the dual: सुखदुःखे (neuter, from दुःख), लाभालाभौ and जयाजयौ (masculine). Each second member is a नञ् tatpuruṣa: अलाभः, अजयः.
+@end
+
+@ex gita:12:13
+note: निर्ममः, निरहङ्कारः (prādi bahuvrīhis: without "mine", without ego); समदुःखसुखः (bahuvrīhi containing a dvandva); अद्वेष्टा (नञ् + agent noun).
+@end
+
+@ex gita:11:16
+split: अनेकबाहूदरवक्त्रनेत्रं पश्यामि त्वां सर्वतः अनन्तरूपम् । न अन्तं न मध्यं न पुनः तव आदिं पश्यामि विश्वेश्वर विश्वरूप ॥
+note: अनेक-बाहु-उदर-वक्त्र-नेत्रम्: a bahuvrīhi whose middle is a dvandva (बाहवः च उदराणि च वक्त्राणि च नेत्राणि च): "having many arms, bellies, mouths and eyes", agreeing with त्वाम्. अनन्तरूपम् and विश्वरूप: bahuvrīhis too.
+@end
+
+@quiz
+q: लाभालाभौ is:
+* an itaretara dvandva in the dual
+- a bahuvrīhi
+- a samāhāra dvandva
+why: लाभः च अलाभः च: two items, masculine dual.
+
+q: पीताम्बरः (referring to Kṛṣṇa) is:
+* bahuvrīhi
+- karmadhāraya
+- dvandva
+why: पीतम् अम्बरं यस्य सः: it describes the wearer.
+
+q: Why मातापितरौ and not मातृपितरौ?
+* Kinship ऋ-stems take -आ as the first member of a dvandva
+- माता is the stem
+- It is a bahuvrīhi
+why: आनङ् ऋतो द्वन्द्वे 6.3.25.
+
+q: The vigraha of जितेन्द्रियः:
+* जितानि इन्द्रियाणि येन सः
+- इन्द्रियैः जितः
+- जितः च इन्द्रियः च
+why: Bahuvrīhi with the 3rd case of यद्.
+
+q: पितरौ for "mother and father" is:
+* एकशेष dvandva
+- a dual of पितृ only
+- bahuvrīhi
+why: One member (पिता) remains and takes the dual.
+
+q: In Telugu, a bahuvrīhi usually translates with:
+* -గలవాడు / -గలది
+- -యొక్క
+- -మరియు
+why: చక్రపాణి = చక్రం చేతిలో గలవాడు.
+@end

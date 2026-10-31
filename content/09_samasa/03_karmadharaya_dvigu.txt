@@ -1,0 +1,98 @@
+@title కర్మధారయ, ద్విగు · Karmadhāraya and dvigu
+@summary A karmadhāraya is a tatpuruṣa whose members refer to the same thing: adjective + noun (నీలోత్పలం, మహారాజు), comparison (ఘనశ్యాముడు, పురుషసింహం), metaphor (విద్యాధనం, భవసాగరం). A dvigu starts with a number (త్రిలోకాలు, పంచవటి). The stem changes in compounds (महत् → महा, राजन् → राज).
+
+## कर्मधारय: both members are the same thing
+Pāṇini: तत्पुरुषः समानाधिकरणः कर्मधारयः 1.2.42 "a tatpuruṣa whose members are in the same case (co-referential)". In the vigraha, both words take the same case.
+
+| Compound | Vigraha | Type | Telugu |
+|---|---|---|---|
+| नीलोत्पलम् | नीलम् उत्पलम् | విశేషణ పూర్వపద (adjective first) | నల్లకలువ |
+| महाराजः | महान् राजा | విశేషణ పూర్వపద (adjective first) | మహారాజు |
+| कृष्णसर्पः | कृष्णः सर्पः | విశేషణ పూర్వపద (adjective first) | నల్లత్రాచు |
+| परमात्मा | परमः आत्मा | విశేషణ పూర్వపద (adjective first) | పరమాత్మ |
+| आदिदेवः (10.12) | आदिः देवः | విశేషణ పూర్వపద (adjective first) | ఆదిదేవుడు |
+| शीतोष्णम् | शीतं च तत् उष्णं च | విశేషణోభయపద (both adjectives) | చల్లగా వేడిగా |
+| घनश्यामः | घनः इव श्यामः | ఉపమాన పూర్వపద (standard of comparison first) | మేఘంలా నల్లనివాడు |
+| पुरुषव्याघ्रः (18.4) | पुरुषः व्याघ्रः इव | ఉపమాన ఉత్తరపద (ఉపమిత) (compared thing first) | పురుషులలో పులి వంటివాడు |
+| नरपुङ्गवः (1.5) | नरः पुङ्गवः इव | ఉపమాన ఉత్తరపద (ఉపమిత) (compared thing first) | నరులలో శ్రేష్ఠుడు |
+| पुरुषर्षभः (2.15) | पुरुषः ऋषभः इव | ఉపమాన ఉత్తరపద (ఉపమిత) (compared thing first) | పురుషోత్తముడు |
+| विद्याधनम् | विद्या एव धनम् | రూపక సమాసం (metaphor) | విద్య అనే ధనం |
+| संसारसागरः | संसारः एव सागरः | రూపక సమాసం (metaphor) | సంసార సాగరం |
+| पादपद्मे | पादौ एव पद्मे | రూపక సమాసం (metaphor) | పాదపద్మాలు |
+| गङ्गानदी | गङ्गा इति नदी | సంభావనా పూర్వపద (name + class) | గంగానది |
+| शाकपार्थिवः | शाकप्रियः पार्थिवः | మధ్యమపదలోపి (middle word dropped) | కూరలంటే ఇష్టమైన రాజు |
+
+> [memory] "Same thing" test :: Ask: are the two words the same thing? नीलम् उत्पलम्: the blue thing *is* the lotus → karmadhāraya. राज्ञः पुरुषः: the king *is not* the man → ordinary tatpuruṣa. पुरुषव्याघ्रः: the man *is (like)* a tiger → karmadhāraya (उपमित).
+
+> [warning] Which comes first in a comparison? :: Standard first (घनश्यामः "dark as a cloud": घन is the standard) uses the shared quality as the second member. Compared-thing first (पुरुषव्याघ्रः) puts the standard (tiger) second and drops the quality. Epithets in the Gītā (पुरुषर्षभ, भरतर्षभ, नरपुङ्गव, पुरुषव्याघ्र, कुरुनन्दन) are mostly the second type.
+
+## Stem changes inside compounds (समासान्त)
+| Change | Rule | Examples |
+|---|---|---|
+| महत् → महा before the second member in karmadhāraya / bahuvrīhi | आन्महतः समानाधिकरणजातीययोः 6.3.46 | महाराजः, महात्मा, महाबाहुः, महादेवः |
+| राजन् → राज at the end | राजाहःसखिभ्यष्टच् 5.4.91 | महाराजः, देवराजः, काशिराजः (1.5) |
+| अहन् → अह / अह्न | same | पूर्वाह्णः, अपराह्णः |
+| सखि → सख | same | कृष्णसखः |
+| -न्-stems drop न् as first member | नलोपः प्रातिपदिकान्तस्य 8.2.7 | राजपुरुषः (राजन्), आत्मज्ञानम् (आत्मन्), कर्मफलम् (कर्मन्) |
+| अक्षि → अक्ष at the end of a bahuvrīhi | 5.4.113 | पुण्डरीकाक्षः, पुष्कराक्षः (VS 5), कमलाक्षी |
+| ऋच्, पथिन्, अप् etc. → -अ at the end | ऋक्पूरब्धूःपथामानक्षे 5.4.74 | सुपथः, अर्धर्चः |
+
+> [compare] Telugu keeps these too :: మహారాజు, మహాత్ముడు, పుండరీకాక్షుడు, కమలాక్షి, మధ్యాహ్నం, అపరాహ్ణం: Telugu borrowed the compound forms, not the bare stems. When you see మహా- or -అక్ష in Telugu, the Sanskrit stem change has already happened.
+
+## द्विगु: number + noun
+A karmadhāraya whose first member is a numeral (संख्यापूर्वो द्विगुः 2.1.52). As a collective (समाहार), it is neuter singular or feminine in -ई:
+
+| Compound | Vigraha | Telugu |
+|---|---|---|
+| त्रिलोकी | त्रयाणां लोकानां समाहारः | ముల్లోకాలు |
+| त्रिभुवनम् | त्रयाणां भुवनानां समाहारः | త్రిభువనాలు |
+| पञ्चवटी | पञ्चानां वटानां समाहारः | పంచవటి |
+| चतुर्युगम् | चतुर्णां युगानां समाहारः | నాలుగు యుగాలు |
+| नवरात्रम् | नवानां रात्रीणां समाहारः | నవరాత్రి |
+| त्रिगुणम् | त्रयाणां गुणानां समाहारः | త్రిగుణాలు |
+| सप्ताहः | सप्तानाम् अह्नां समाहारः | వారం |
+| पञ्चपात्रम् | पञ्चानां पात्राणां समाहारः | పంచపాత్ర |
+
+> [note] Numbers in other compounds :: A number can also start a bahuvrīhi (त्रिनेत्रः "three-eyed" = Śiva, चतुर्भुजः "four-armed" = Viṣṇu, दशाननः "ten-faced" = Rāvaṇa) or a taddhita-based word (चातुर्वर्ण्यम् 4.13, from चतुर्वर्ण + ष्यञ्). If the compound describes someone else, it is a bahuvrīhi, not a dvigu.
+
+@ex gita:2:15
+split: यं हि न व्यथयन्ति एते पुरुषं पुरुषर्षभ । समदुःखसुखं धीरं सः अमृतत्वाय कल्पते ॥
+w: यम् = ఎవరిని; हि = నిజంగా; न व्यथयन्ति = బాధించవో; एते = ఇవి (స్పర్శలు); पुरुषम् = పురుషుని; पुरुषर्षभ = ఓ పురుషశ్రేష్ఠా; समदुःखसुखम् = సుఖదుఃఖాలు సమానంగా గలవాని; धीरम् = ధీరుని; सः = అతడు; अमृतत्वाय = అమృతత్వానికి; कल्पते = అర్హుడవుతాడు
+note: पुरुषर्षभ: उपमित karmadhāraya (पुरुषः ऋषभः इव), vocative. समदुःखसुखम्: bahuvrīhi with a dvandva inside (दुःखं च सुखं च समे यस्य).
+@end
+
+@ex gita:10:12
+note: आदिदेवम् "the first god": karmadhāraya (आदिः देवः). परं ब्रह्म, परं धाम are not compounds: adjective and noun are separate words in the same case.
+@end
+
+@quiz
+q: नीलोत्पलम् is which compound?
+* karmadhāraya (adjective + noun)
+- ṣaṣṭhī tatpuruṣa
+- dvandva
+why: नीलम् उत्पलम्: the blue thing is the lotus.
+
+q: पुरुषव्याघ्रः means:
+* a man like a tiger (a tiger among men)
+- a tiger who eats men
+- a man and a tiger
+why: Upamita karmadhāraya: पुरुषः व्याघ्रः इव.
+
+q: Why महाराजः and not महत्राजन्?
+* महत् → महा and राजन् → राज in compounds
+- महा is the stem
+- It is a dvandva
+why: 6.3.46 and 5.4.91.
+
+q: त्रिलोकी is a:
+* dvigu (collective)
+- bahuvrīhi
+- avyayībhāva
+why: त्रयाणां लोकानां समाहारः.
+
+q: विद्याधनम् (knowledge = wealth) is a:
+* metaphorical karmadhāraya (रूपक)
+- tṛtīyā tatpuruṣa
+- dvandva
+why: विद्या एव धनम्.
+@end

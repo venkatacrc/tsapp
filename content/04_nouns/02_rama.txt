@@ -1,0 +1,152 @@
+@title అకారాంత పుంలింగం · a-stem masculine: राम
+@summary The most common noun pattern in Sanskrit: रामः, देवः, कृष्णः, धर्मः, लोकः. All 24 forms, the ण/न rule, and where each form appears in the Gītā and the Sahasranāmam.
+
+## The full table
+Learn this one table perfectly. Roughly one noun in three in the Gītā follows it, and the other patterns are taught as differences from it.
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం | తెలుగు |
+|---|---|---|---|---|
+| ప్రథమా (1) | रामः | रामौ | रामाः | రాముడు / రాములు |
+| ద్వితీయా (2) | रामम् | रामौ | रामान् | రాముని(న్) |
+| తృతీయా (3) | रामेण | रामाभ्याम् | रामैः | రామునిచేత / రామునితో |
+| చతుర్థీ (4) | रामाय | रामाभ्याम् | रामेभ्यः | రామునికొఱకు / రామునికై |
+| పంచమీ (5) | रामात् | रामाभ्याम् | रामेभ्यः | రాముని వలన / రాముని నుండి |
+| షష్ఠీ (6) | रामस्य | रामयोः | रामाणाम् | రాముని యొక్క / రామునికి |
+| సప్తమీ (7) | रामे | रामयोः | रामेषु | రామునియందు / రామునిలో |
+| సంబోధన (8) | हे राम | हे रामौ | हे रामाः | ఓ రామా! |
+
+> [memory] Five shortcuts in the राम table :: (1) Dual has only three forms: -औ for 1, 2 and 8; -आभ्याम् for 3, 4 and 5; -अयोः for 6 and 7. (2) Plural 4 and 5 are the same: रामेभ्यः. (3) Singular 1 adds ః, singular 2 adds మ్ — just like Telugu adds డు and ని. (4) Every plural from 3 on has ఏ or ఐ in it: रामैः, रामेभ्यः, रामेषु (only रामाणाम् breaks this). (5) Vocative singular is the bare stem: राम.
+
+> [memory] Chant it in threes :: Say each row as one breath: రామః రామౌ రామాః · రామం రామౌ రామాన్ · రామేణ రామాభ్యాం రామైః · రామాయ రామాభ్యాం రామేభ్యః · రామాత్ రామాభ్యాం రామేభ్యః · రామస్య రామయోః రామాణాం · రామే రామయోః రామేషు · హే రామ హే రామౌ హే రామాః. This is the traditional శబ్దమంజరి chant, and the rhythm does most of the memorising for you.
+
+> [compare] రామా! vs राम :: In Telugu you call out రామా! with a long ā. The Sanskrit vocative is short: हे राम, कृष्ण, गोविन्द. In stotras you will see राम राम रामेति, never रामा. (Singers lengthen it for the tune, but the grammar form is short.)
+
+## ఏ పదాలు ఈ పద్ధతిలో? Which words follow राम?
+Any masculine noun whose stem ends in అ. Telugu gives you a hint: a Sanskrit loan word ending in **-డు** in Telugu is almost always one of these.
+
+| Sanskrit | తెలుగు రూపం | Meaning |
+|---|---|---|
+| देवः | దేవుడు | god |
+| कृष्णः | కృష్ణుడు | Kṛṣṇa |
+| पुत्रः | పుత్రుడు | son |
+| शिष्यः | శిష్యుడు | disciple |
+| आचार्यः | ఆచార్యుడు | teacher |
+| ईश्वरः | ఈశ్వరుడు | lord |
+| सूर्यः | సూర్యుడు | sun |
+| चन्द्रः | చంద్రుడు | moon |
+| जनः | జనుడు (జనులు) | person (people) |
+| बालः | బాలుడు | boy |
+
+> [warning] Telugu -ము does not mean neuter :: Telugu puts many masculine Sanskrit words into -ము: ధర్మము, లోకము, వృక్షము, గ్రామము, హస్తము, మేఘము, సముద్రము, పర్వతము. In Sanskrit all of these are **masculine**: धर्मः, लोकः, वृक्षः, ग्रामः, हस्तः, मेघः, समुद्रः, पर्वतः. Only some -ము words are neuter (वनम्, फलम्, ज्ञानम् — next lesson). When you learn a word, learn it with its nominative ending: धर्मः, not just "ధర్మ".
+
+## णत्वम् — when न becomes ण
+Compare रामेण with देवेन, and रामाणाम् with देवानाम्. The ending is the same; the n changes to ṇ because there is an र in राम.
+
+> [sutra] रषाभ्यां नो णः समानपदे (8.4.1) · अट्कुप्वाङ्नुम्व्यवायेऽपि (8.4.2) :: न becomes ण when र, ष or ऋ/ॠ comes before it in the same word, even if vowels, ह य व र, the క-వర్గ, the ప-వర్గ, आ or ं stand in between. Any other consonant in between (చ-, ట-, త-వర్గ, శ, స, ల) blocks the change.
+
+| Word | Instrumental sg. | Genitive pl. | Why |
+|---|---|---|---|
+| राम | रामेण | रामाणाम् | र … म (ప-వర్గ, allowed) … न → ण |
+| देव | देवेन | देवानाम् | no र/ष/ऋ before न |
+| कृप | कृपेण | कृपाणाम् | ऋ … प (allowed) … न → ण |
+| कर्ण | कर्णेन | कर्णानाम् | the ण of कर्ण is ट-వర్గ, so it blocks |
+| रथ | रथेन | रथानाम् | थ (త-వర్గ) blocks |
+| वृक्ष | वृक्षेण | वृक्षाणाम् | ष … न → ण |
+| कृष्ण | कृष्णेन | कृष्णानाम् | ण blocks again |
+| ग्राम | ग्रामेण | ग्रामाणाम् | र … म … न → ण |
+
+> [memory] ర ష ఋ తర్వాత న ణ అవుతుంది — చ ట త శ స ల అడ్డు :: Three triggers (ర, ష, ఋ) and six blockers (the చ-, ట-, త-వర్గాలు and శ, స, ల). Vowels, య వ హ, క-వర్గ, ప-వర్గ let it through.
+
+@ex gita:0:6
+note: कृपेण "by Kṛpa" has ण (ऋ, then प, which lets it through); कर्णेन "by Karṇa" keeps न because the ण in कर्ण blocks. The two words sit side by side in this verse.
+note: पाण्डवैः (by the Pāṇḍavas) is the instrumental plural: रामैः pattern.
+@end
+
+## Each case in the texts
+| Case | Form | Where |
+|---|---|---|
+| 1 ఏక | केशवः पुरुषोत्तमः | Sahasranāmam, stotram 3 |
+| 1 బహు | मामकाः पाण्डवाः | Gītā 1.1 |
+| 2 ఏక | कृष्णं वन्दे जगद्गुरुम् | Gītā Dhyānam 5 |
+| 2 బహు | सर्वधर्मान् परित्यज्य | Gītā 18.66 |
+| 2 ద్వి | दिव्यौ शङ्खौ प्रदध्मतुः | Gītā 1.14 |
+| 3 బహు | वेदैः च सर्वैः अहम् एव वेद्यः | Gītā 15.15 |
+| 4 ఏక | ज्ञानमुद्राय कृष्णाय गीतामृतदुहे नमः | Gītā Dhyānam 3 |
+| 5 ఏక | सङ्गात् सञ्जायते कामः | Gītā 2.62 |
+| 6 ఏక | ग्लानिः धर्मस्य | Gītā 4.7 |
+| 6 బహు | आदित्यानाम् अहं विष्णुः | Gītā 10.21 |
+| 7 ఏక | धर्मक्षेत्रे कुरुक्षेत्रे | Gītā 1.1 |
+| 7 ఏక | सम्भवामि युगे युगे | Gītā 4.8 |
+| 8 ఏక | सञ्जय, धनञ्जय, जनार्दन | Gītā 1.1, 2.48; Sahasranāmam |
+
+@ex gita:2:62
+split: ध्यायतः विषयान् पुंसः सङ्गः तेषु उपजायते । सङ्गात् सञ्जायते कामः कामात् क्रोधः अभिजायते ॥
+anvaya: विषयान् ध्यायतः पुंसः तेषु सङ्गः उपजायते । सङ्गात् कामः सञ्जायते । कामात् क्रोधः अभिजायते ॥
+w: ध्यायतः = ధ్యానిస్తున్న (శతృ, షష్ఠీ ఏక.); विषयान् = విషయాలను (द्वितीया బహు., राम పద్ధతి); पुंसः = పురుషునికి (पुंस् షష్ఠీ ఏక.); सङ्गः = ఆసక్తి (ప్రథమా ఏక.); तेषु = వాటియందు (सप्तमी బహు.); उपजायते = పుడుతుంది; सङ्गात् = ఆసక్తి వలన (పంచమీ ఏక.); कामः = కోరిక; कामात् = కోరిక వలన (పంచమీ); क्रोधः = కోపం; अभिजायते = పుడుతుంది
+note: The verse is a chain of ablatives (పంచమీ): सङ्गात्, कामात् — "from attachment, desire; from desire, anger". The ablative -आत् of राम is the "source" case, Telugu వలన / నుండి.
+note: विषयान् is accusative plural (रामान् pattern), the object of ध्यायतः.
+note: सङ्गः, कामः, क्रोधः are nominative singular (रामः pattern) — the subjects of the three verbs.
+@end
+
+@ex
+sa: रामः वनं गच्छति । रामेण सह सीता अपि गच्छति ।
+te: రాముడు అడవికి వెళ్తున్నాడు. రామునితో పాటు సీత కూడా వెళ్తోంది.
+en: Rāma goes to the forest. Sītā too goes with Rāma.
+w: रामः = రాముడు (1); वनम् = అడవికి (2 — goal of motion); गच्छति = వెళ్తున్నాడు; रामेण सह = రామునితో (3 + सह); सीता = సీత; अपि = కూడా
+note: Telugu says అడవి**కి** (dative), but Sanskrit puts the goal of motion in the accusative: वनं गच्छति, not वनाय.
+note: సహ ("together with") takes the instrumental: रामेण सह = రామునితో.
+@end
+
+## Practice: decline these words
+@nocards
+| Stem | 1 ఏక | 3 ఏక | 6 బహు | 7 బహు |
+|---|---|---|---|---|
+| नर | नरः | नरेण | नराणाम् | नरेषु |
+| लोक | लोकः | लोकेन | लोकानाम् | लोकेषु |
+| वृक्ष | वृक्षः | वृक्षेण | वृक्षाणाम् | वृक्षेषु |
+| शिष्य | शिष्यः | शिष्येण | शिष्याणाम् | शिष्येषु |
+| देव | देवः | देवेन | देवानाम् | देवेषु |
+
+> [note] Why शिष्येण with ण? :: शिष्य has ष, and only य (allowed) stands between ष and the ending's न. So शिष्येण, शिष्याणाम्.
+
+@quiz
+q: Which is the instrumental singular of देव?
+* देवेन
+- देवेण
+- देवात्
+- देवस्य
+why: There is no र, ष or ऋ in देव, so the ending stays -एन.
+
+q: Which forms of राम are identical?
+* Dative plural and ablative plural (रामेभ्यः)
+- Nominative singular and accusative singular
+- Genitive singular and locative singular
+- Instrumental plural and locative plural
+why: रामेभ्यः serves both the 4th and the 5th case in the plural. The dual has even more overlaps: -औ, -आभ्याम्, -अयोः.
+
+q: In Sanskrit, धर्म (Telugu ధర్మము) is:
+* masculine: धर्मः
+- neuter: धर्मम्
+- feminine: धर्मा
+why: Telugu -ము hides the gender. धर्मः, लोकः, वृक्षः, ग्रामः are all masculine in Sanskrit.
+
+q: "నేను ఊరికి వెళ్తున్నాను" — which case for "ఊరికి"?
+* Accusative: ग्रामं गच्छामि
+- Dative: ग्रामाय गच्छामि
+- Locative: ग्रामे गच्छामि
+why: The goal of a verb of motion is accusative (ద్వితీయా) in Sanskrit, even though Telugu uses -కి.
+
+q: Which form is the genitive plural of वृक्ष?
+* वृक्षाणाम्
+- वृक्षानाम्
+- वृक्षेषु
+- वृक्षेभ्यः
+why: ष triggers ण: वृक्षाणाम्. वृक्षेषु is locative plural.
+
+q: What is the vocative singular of कृष्ण?
+* कृष्ण
+- कृष्णा
+- कृष्णः
+- कृष्णे
+why: The vocative singular of a-stem masculines is the bare stem with a short a.
+@end

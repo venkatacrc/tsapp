@@ -1,0 +1,91 @@
+@title రోమన్ లిపి · IAST transliteration
+@summary The standard way to write Sanskrit in Roman letters, used in dictionaries, grammars and online texts. Learn it once so that you can use Monier-Williams, Apte and every English book on Sanskrit.
+
+## Why learn IAST?
+Most Sanskrit dictionaries (Monier-Williams, Apte), grammars and online corpora write Sanskrit in IAST (International Alphabet of Sanskrit Transliteration). It is exact: every Devanagari letter has one IAST spelling, and you can type it on any keyboard. The Lipi tool converts IAST to both scripts.
+
+@literal
+| తెలుగు | देवनागरी | IAST | Tip |
+|---|---|---|---|
+| అ ఆ | अ आ | a ā | the bar (macron) means long |
+| ఇ ఈ | इ ई | i ī | |
+| ఉ ఊ | उ ऊ | u ū | |
+| ఋ ౠ | ऋ ॠ | ṛ ṝ | dot below = retroflex / vocalic |
+| ఌ | ऌ | ḷ | |
+| ఏ ఐ | ए ऐ | e ai | e is always long, no macron needed |
+| ఓ ఔ | ओ औ | o au | |
+| ం ః | ं ः | ṃ ḥ | also written ṁ |
+| క ఖ గ ఘ ఙ | क ख ग घ ङ | k kh g gh ṅ | h after a letter = breath |
+| చ ఛ జ ఝ ఞ | च छ ज झ ञ | c ch j jh ñ | c is always చ, never k |
+| ట ఠ డ ఢ ణ | ट ठ ड ढ ण | ṭ ṭh ḍ ḍh ṇ | dot below = retroflex |
+| త థ ద ధ న | त थ द ध न | t th d dh n | |
+| ప ఫ బ భ మ | प फ ब भ म | p ph b bh m | ph is p + h, not f |
+| య ర ల వ | य र ल व | y r l v | |
+| శ ష స హ | श ष स ह | ś ṣ s h | ś acute = palatal, ṣ dot = retroflex |
+| ళ | ळ | ḷa or ḻa | Vedic / southern |
+| ऽ | ऽ | ' | avagraha |
+
+> [memory] Dot below = tongue curled; bar above = long :: ṭ ḍ ṇ ṣ ṛ are made with the tongue curled back (మూర్ధన్యం). ā ī ū ṝ are long. ś with an accent is palatal. h after a consonant means "with breath". c is చ — so "cakra" is చక్ర, not కక్ర.
+
+> [warning] English habits mislead :: th in IAST is థ (t + breath), not English "th"; ph is ఫ, not "f"; c is చ; and an unmarked a is short. "Krishna", "Shiva", "Vishnu" are popular spellings, not IAST: IAST writes kṛṣṇa, śiva, viṣṇu.
+
+## Other systems you will meet
+@literal
+| Sound | IAST | Harvard-Kyoto | ITRANS | Popular |
+|---|---|---|---|---|
+| आ | ā | A | A or aa | aa |
+| ई | ī | I | I or ii | ee |
+| ऋ | ṛ | R | RRi or R^i | ri |
+| ङ | ṅ | G | ~N | ng |
+| ञ | ñ | J | ~n | ny |
+| ट | ṭ | T | T | t |
+| ण | ṇ | N | N | n |
+| श | ś | z | sh | sh |
+| ष | ṣ | S | Sh | sh |
+| ं | ṃ | M | M | m |
+| ः | ḥ | H | H | h |
+
+## Reading practice
+@literal
+@nocards
+| IAST | देवनागरी | తెలుగు |
+|---|---|---|
+| dharmakṣetre kurukṣetre | धर्मक्षेत्रे कुरुक्षेत्रे | ధర్మక్షేత్రే కురుక్షేత్రే |
+| śuklāmbaradharaṃ viṣṇuṃ | शुक्लाम्बरधरं विष्णुं | శుక్లాంబరధరం విష్ణుం |
+| vasudevasutaṃ devaṃ | वसुदेवसुतं देवं | వసుదేవసుతం దేవం |
+| oṃ namaḥ śivāya | ॐ नमः शिवाय | ఓం నమః శివాయ |
+| karmaṇy evādhikāras te | कर्मण्येवाधिकारस्ते | కర్మణ్యేవాధికారస్తే |
+
+> [note] Type IAST quickly :: In the Lipi tool, type IAST with the special letters, or paste from any book. On a Mac, the "ABC – Extended" keyboard types ā with Option-a then a, ṭ with Option-x then t. On a Pixel, Gboard has Telugu and Sanskrit (Devanagari) keyboards, and long-pressing a, i, u, n, s, t, d on the English keyboard offers most IAST letters.
+
+@quiz
+q: In IAST, what is "c"?
+* చ (च)
+- క (क)
+- స (स)
+why: IAST c is always the palatal च: cakra, candra.
+
+q: What does a dot below a consonant mean in IAST?
+* Retroflex: tongue curled back (ṭ ḍ ṇ ṣ)
+- Long vowel
+- Nasal
+why: The dot marks the మూర్ధన్య row and ṣ.
+
+q: How is "kṛṣṇa" written in Telugu script?
+* కృష్ణ
+- క్రిష్ణ
+- కృస్న
+why: ṛ = ృ, ṣ = ష, ṇ = ణ.
+
+q: "th" in IAST stands for:
+* థ (t + breath)
+- English "th" as in "the"
+- ఠ
+why: h after a consonant is aspiration. ṭh (with dot) is ఠ.
+
+q: Which IAST letter is శ?
+* ś
+- ṣ
+- s
+why: ś = శ (palatal), ṣ = ష (retroflex), s = స (dental).
+@end

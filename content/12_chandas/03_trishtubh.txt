@@ -1,0 +1,89 @@
+@title త్రిష్టుప్ · The 11-syllable verse (त्रिष्टुभ्: इन्द्रवज्रा, उपेन्द्रवज्रा, उपजाति)
+@summary The longer verses of the Gītā (2.5–8, 2.20–22, 2.29, 2.70, 11.15–50, 15.2–5, 15.15) are triṣṭubh: four quarters of eleven syllables. The two standard patterns indravajrā and upendravajrā, their mixture upajāti, the 12-syllable jagatī, and the freedoms the epic allows.
+
+## Two patterns that differ in one syllable
+| Metre | Gaṇas | Pattern |
+|---|---|---|
+| इन्द्रवज्रा | त त ज ग ग | ऽऽ। ऽऽ। ।ऽ। ऽऽ |
+| उपेन्द्रवज्रा | ज त ज ग ग | ।ऽ। ऽऽ। ।ऽ। ऽऽ |
+| उपजाति | quarters of both kinds mixed | |
+
+> [memory] Indra is heavy, Upendra is light :: Only the first syllable differs: heavy in indravajrā (इन्द्र begins with a heavy syllable), light in upendravajrā (उपेन्द्र begins with a light one). Everything after is the same: ऽ। ऽऽ। ।ऽ। ऽऽ. A pause (yati) often falls after the 5th syllable.
+
+## Scansion of Gītā 2.22
+@literal
+@nocards
+| Quarter | Syllables | Pattern | Metre |
+|---|---|---|---|
+| वासांसि जीर्णानि यथा विहाय | वा सां सि जीर् णा नि य था वि हा य | ऽऽ। ऽऽ। ।ऽ। ऽऽ | इन्द्रवज्रा |
+| नवानि गृह्णाति नरोऽपराणि | न वा नि गृह् णा ति न रो प रा णि | ।ऽ। ऽऽ। ।ऽ। ऽऽ | उपेन्द्रवज्रा |
+| तथा शरीराणि विहाय जीर्णा- | त था श री रा णि वि हा य जीर् णा | ।ऽ। ऽऽ। ।ऽ। ऽऽ | उपेन्द्रवज्रा |
+| न्यन्यानि संयाति नवानि देही | न्यन् या नि सं या ति न वा नि दे ही | ऽऽ। ऽऽ। ।ऽ। ऽऽ | इन्द्रवज्रा |
+
+> [note] A quarter can end inside a word :: जीर्णान्यन्यानि (जीर्णानि अन्यानि) is split by sandhi across the 3rd and 4th quarters: the 3rd ends with जीर्णा, the 4th begins with न्यन्यानि. The metre counts sounds, not words. The deck shows the verse with this break.
+
+> [compare] Telugu ఉపజాతి means something else :: In Telugu ఛందస్సు, ఉపజాతులు are తేటగీతి, ఆటవెలది and సీసం (metres built from సూర్య and ఇంద్ర gaṇas). Sanskrit उपजाति is simply a mixed indravajrā / upendravajrā verse. Same word, different meaning.
+
+## Scansion of Gītā 11.41
+@literal
+@nocards
+| Quarter | Syllables | Pattern | Metre |
+|---|---|---|---|
+| सखेति मत्वा प्रसभं यदुक्तं | स खे ति मत् वा प्र स भं य दुक् तं | ।ऽ। ऽऽ। ।ऽ। ऽऽ | उपेन्द्रवज्रा |
+| हे कृष्ण हे यादव हे सखेति | हे कृष् ण हे या द व हे स खे ति | ऽऽ। ऽऽ। ।ऽ। ऽऽ | इन्द्रवज्रा |
+| अजानता महिमानं तवेदं | अ जा न ता म हि मा नं त वे दं | ।ऽ। ऽ।। ऽऽ। ऽऽ | irregular (epic) |
+| मया प्रमादात्प्रणयेन वापि | म या प्र मा दात् प्र ण ये न वा पि | ।ऽ। ऽऽ। ।ऽ। ऽऽ | उपेन्द्रवज्रा |
+
+> [warning] The epic is not strict :: About one triṣṭubh quarter in ten in the Gītā departs from the classical patterns (as अजानता महिमानं तवेदं does, or the famous न जायते म्रियते वा कदाचिन् in 2.20: ।ऽ।ऽ ।।ऽऽ ।ऽऽ). The Gītā is older than the strict classical rules. When a line doesn't scan, it's usually the text, not your scansion.
+
+## Jagatī: twelve syllables
+| Metre | Gaṇas | Pattern | Example |
+|---|---|---|---|
+| वंशस्थ | ज त ज र | ।ऽ। ऽऽ। ।ऽ। ऽ।ऽ | Kālidāsa, Raghuvaṃśa |
+| इन्द्रवंशा | त त ज र | ऽऽ। ऽऽ। ।ऽ। ऽ।ऽ | |
+| तोटक | स स स स | ।।ऽ ।।ऽ ।।ऽ ।।ऽ | Toṭakāṣṭakam (lesson 12.4) |
+| भुजङ्गप्रयात | य य य य | ।ऽऽ ।ऽऽ ।ऽऽ ।ऽऽ | Śaṅkara's Subrahmaṇya-bhujaṅgam |
+| स्रग्विणी | र र र र | ऽ।ऽ ऽ।ऽ ऽ।ऽ ऽ।ऽ | Acyutāṣṭakam |
+
+@ex gita:2:5
+meter: त्रिष्टुभ् (उपजाति)
+note: Quarter 1 गुरूनहत्वा हि महानुभावान्: गु । रू ऽ न । हत् ऽ त्वा ऽ हि । म । हा ऽ नु । भा ऽ वान् ऽ = ।ऽ। ऽऽ। ।ऽ। ऽऽ, upendravajrā. The न of गुरून् joins अहत्वा (गुरून् अहत्वा → गुरूनहत्वा).
+note: Quarter 2 श्रेयो भोक्तुं भैक्ष्यमपीह लोके: ऽऽऽ ऽऽ। ।ऽ। ऽऽ: the 3rd syllable is heavy where indravajrā wants light. Another epic freedom.
+@end
+
+@ex gita:11:41
+meter: त्रिष्टुभ् (उपजाति)
+note: Three regular quarters and one irregular one (see the table above).
+@end
+
+@quiz
+q: How many syllables in a triṣṭubh quarter?
+* 11
+- 8
+- 12
+why: Triṣṭubh = 4 × 11 = 44.
+
+q: Indravajrā and upendravajrā differ in:
+* the first syllable only
+- the last syllable
+- the number of syllables
+why: ऽऽ। vs ।ऽ। at the start; the rest is identical.
+
+q: A verse mixing both is called:
+* उपजाति
+- अनुष्टुभ्
+- जगती
+why: उपजाति = mixed indravajrā / upendravajrā.
+
+q: The gaṇas of indravajrā:
+* त त ज ग ग
+- ज त ज ग ग
+- म भ न त त ग ग
+why: ऽऽ। ऽऽ। ।ऽ। ऽऽ.
+
+q: Why does जीर्णा end a quarter in 2.22?
+* metre counts syllables, so a quarter can end inside a sandhi-joined word
+- जीर्णा is a separate word
+- it is a mistake
+why: जीर्णान्यन्यानि spans the 3rd and 4th quarters.
+@end

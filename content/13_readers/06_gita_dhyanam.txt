@@ -1,0 +1,130 @@
+@title గీతా ధ్యానం · The Gītā Dhyānam
+@summary The meditation verses recited before the Gītā, read word by word. They are harder than the Gītā itself: long vocative and dative bahuvrīhis, the causative with two accusatives, an intensive participle, the benedictive, and two verses in the 19-syllable śārdūlavikrīḍita. Verses 1 and 6 were read in lessons 12.4 and 9.5.
+
+## How the Dhyānam is built
+| Verse | Addressed to | Grammar backbone | Metre |
+|---|---|---|---|
+| 1 | the Gītā (mother) | accusatives, then अनुसन्दधामि | śārdūlavikrīḍita |
+| 2 | Vyāsa | vocatives + नमः ते | upajāti |
+| 3 | Kṛṣṇa | datives + नमः | anuṣṭubh |
+| 4 | (the Gītā as milk) | nominal sentences (metaphor) | anuṣṭubh |
+| 5 | Kṛṣṇa | accusatives + वन्दे | anuṣṭubh |
+| 6 | (the battle as a river) | one long subject | śārdūlavikrīḍita |
+| 7 | (the Mahābhārata as a lotus) | benedictive भूयात् | śārdūlavikrīḍita |
+| 8 | Mādhava | relative + वन्दे | anuṣṭubh |
+| 9 | the Lord | four relatives + नमः | śārdūlavikrīḍita |
+
+> [memory] Three ways to bow :: The Dhyānam bows in all three grammatical ways: नमः + dative (verses 3, 9), नमः + ते + vocative (verse 2), and वन्दे + accusative (verses 5, 8). Notice which case each verb wants: नमः → 4th, वन्दे → 2nd.
+
+## Verse 2: to Vyāsa
+@ex gita:0:2
+meter: उपजाति (उपेन्द्रवज्रा + इन्द्रवज्रा)
+split: नमः अस्तु ते व्यास विशालबुद्धे फुल्लारविन्दायतपत्रनेत्र । येन त्वया भारततैलपूर्णः प्रज्वालितः ज्ञानमयः प्रदीपः ॥
+anvaya: विशालबुद्धे फुल्लारविन्दायतपत्रनेत्र व्यास, येन त्वया भारततैलपूर्णः ज्ञानमयः प्रदीपः प्रज्वालितः, (तस्मै) ते नमः अस्तु ॥
+w: विशालबुद्धे = విశాల బుద్ధి గలవాడా; फुल्लारविन्दायतपत्रनेत्र = వికసించిన తామర రేకుల వంటి విశాల నేత్రాలు గలవాడా; व्यास = ఓ వ్యాసా; ते = నీకు; नमः अस्तु = నమస్కారం; येन त्वया = ఏ నీచేత; भारततैलपूर्णः = భారతమనే నూనెతో నిండిన; ज्ञानमयः = జ్ఞానమయమైన; प्रदीपः = దీపం; प्रज्वालितः = వెలిగించబడిందో
+note: विशालबुद्धे: बुद्धि (f.) at the end of a bahuvrīhi describing a man becomes masculine; its vocative has guṇa like हरे (lesson 4.5).
+note: फुल्लारविन्दायतपत्रनेत्र: फुल्लस्य अरविन्दस्य पत्रे इव आयते नेत्रे यस्य सः, a bahuvrīhi with a simile inside (lesson 9.5).
+note: येन त्वया "by you, by whom": a relative attached to a 2nd-person pronoun. प्रज्वालितः is the past participle of the causative of प्र + ज्वल् "made to blaze" (lesson 6.9), in a passive with the instrumental agent.
+note: ज्ञानमयः: -मय "made of" (lesson 10.2).
+@end
+
+## Verse 3: to Kṛṣṇa the cowherd-teacher
+@ex gita:0:3
+split: प्रपन्नपारिजाताय तोत्रवेत्रैकपाणये । ज्ञानमुद्राय कृष्णाय गीतामृतदुहे नमः ॥
+w: प्रपन्नपारिजाताय = శరణాగతులకు పారిజాత వృక్షం వంటివానికి; तोत्रवेत्रैकपाणये = ఒక చేతిలో ములుకోల పట్టినవానికి; ज्ञानमुद्राय = జ్ఞానముద్ర ధరించినవానికి; कृष्णाय = కృష్ణునికి; गीतामृतदुहे = గీతామృతాన్ని పితికినవానికి; नमः = నమస్కారం
+note: Four datives with नमः, from four different stems: -अ (कृष्णाय), -इ (एकपाणये, bahuvrīhi on पाणि), -अ again (ज्ञानमुद्राय), and the consonant stem -दुह् (गीतामृतदुहे).
+note: ज्ञानमुद्राय: मुद्रा (f.) at the end of a bahuvrīhi for a man becomes masculine -मुद्र (गोस्त्रियोरुपसर्जनस्य, Aṣṭādhyāyī 1.2.48). This is why it ends in -आय.
+note: गीतामृतदुह्: गीतामृतं दोग्धि इति, an upapada with the bare root (क्विप्, lesson 7.5). Its dative is -दुहे.
+@end
+
+## Verse 4: the Upaniṣads as cows
+@ex gita:0:4
+split: सर्वोपनिषदः गावः दोग्धा गोपालनन्दनः । पार्थः वत्सः सुधीः भोक्ता दुग्धं गीतामृतं महत् ॥
+w: सर्वोपनिषदः = ఉపనిషత్తులన్నీ; गावः = ఆవులు; दोग्धा = పాలు పితికేవాడు; गोपालनन्दनः = గోపాలనందనుడు (కృష్ణుడు); पार्थः = అర్జునుడు; वत्सः = దూడ; सुधीः = బుద్ధిమంతుడు; भोक्ता = అనుభవించేవాడు (తాగేవాడు); दुग्धम् = పాలు; गीतामृतम् = గీతామృతం; महत् = గొప్ప
+note: Five nominal sentences with no verb: X (is) Y. This is a रूपक, a metaphor that equates two things (lesson 2.5).
+note: गावः is the nominative plural of the irregular गो "cow" (lesson 4.10).
+note: दोग्धा (from दुह्) and भोक्ता (from भुज्) are agent nouns in -तृ (lesson 7.5); the nominative singular ends in -आ like पिता.
+note: दुग्धम् is the past participle of दुह्: ह् + त → ग्ध (lesson 7.1). सर्व + उपनिषदः → सर्वोपनिषदः (a + u → o).
+@end
+
+## Verse 5: to Kṛṣṇa, teacher of the world
+@ex gita:0:5
+split: वसुदेवसुतं देवं कंसचाणूरमर्दनम् । देवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम् ॥
+w: वसुदेवसुतम् = వసుదేవుని కుమారుని; देवम् = దేవుని; कंसचाणूरमर्दनम् = కంసుని చాణూరుని సంహరించినవానిని; देवकीपरमानन्दम् = దేవకికి పరమానందమైనవానిని; जगद्गुरुम् = జగద్గురువును; कृष्णम् = కృష్ణుని; वन्दे = నమస్కరిస్తున్నాను
+note: वन्दे is the ātmanepada present, 1st singular, of वन्द् (lesson 6.3). It takes the accusative, so every epithet is in the 2nd case.
+note: कंसचाणूरमर्दनम्: a dvandva (कंसः च चाणूरः च) inside a tatpuruṣa ending in the kṛt noun मर्दन "crusher" (lesson 9.5).
+note: जगत् + गुरुम् → जगद्गुरुम् (त् → द् before a voiced sound, lesson 8.3). The second half, कृष्णं वन्दे जगद्गुरुम्, is the refrain of the Kṛṣṇāṣṭakam.
+@end
+
+## Verse 7: the Mahābhārata as a lotus
+@ex gita:0:7
+meter: शार्दूलविक्रीडित
+split: पाराशर्यवचःसरोजम् अमलं गीतार्थगन्धोत्कटं नानाख्यानककेशरं हरिकथासम्बोधनाबोधितम् । लोके सज्जनषट्पदैः अहरहः पेपीयमानं मुदा भूयात् भारतपङ्कजं कलिमलप्रध्वंसनं श्रेयसे ॥
+anvaya: पाराशर्यवचःसरोजम्, अमलं, गीतार्थगन्धोत्कटं, नानाख्यानककेशरं, हरिकथासम्बोधनाबोधितं, लोके सज्जनषट्पदैः अहरहः मुदा पेपीयमानं, कलिमलप्रध्वंसनं भारतपङ्कजं (नः) श्रेयसे भूयात् ॥
+w: पाराशर्यवचःसरोजम् = పరాశరపుత్రుడైన వ్యాసుని వాక్కులనే సరస్సులో పుట్టిన; अमलम् = నిర్మలమైన; गीतार्थगन्धोत्कटम् = గీతార్థమనే సువాసనతో నిండిన; नानाख्यानककेशरम् = అనేక కథలే కేసరాలుగా గల; हरिकथासम्बोधनाबोधितम् = హరికథల వర్ణనతో వికసించిన; लोके = లోకంలో; सज्जनषट्पदैः = సజ్జనులనే తుమ్మెదలచే; अहरहः = ప్రతిదినం; मुदा = ఆనందంతో; पेपीयमानम् = మళ్ళీ మళ్ళీ తాగబడుతున్న; कलिमलप्रध्वंसनम् = కలి దోషాలను నశింపజేసే; भारतपङ्कजम् = భారతమనే పద్మం; श्रेयसे = శ్రేయస్సు కోసం; भूयात् = అగుగాక
+note: One subject (भारतपङ्कजम्) with seven neuter adjectives, all agreeing in the 1st case singular. The verse is one sentence.
+note: पेपीयमानम् is the passive present participle of the intensive of पा "drink": "being drunk again and again" (lesson 6.9). सज्जनषट्पदैः is its instrumental agent.
+note: भूयात् is the benedictive (आशीर्लिङ्) of भू: "may it be" (lesson 6.6). श्रेयसे is a dative of purpose.
+note: पाराशर्य "son of Parāśara" is a taddhita (lesson 10.1). सरोज "lotus" = सरसि जातम्, an upapada with -ज. अहरहः "day after day" is the doubled अहः.
+@end
+
+## Verse 8: grace that makes the mute speak
+@ex gita:0:8
+split: मूकं करोति वाचालं पङ्गुं लङ्घयते गिरिम् । यत्कृपा तम् अहं वन्दे परमानन्दमाधवम् ॥
+anvaya: यत्कृपा मूकं वाचालं करोति, पङ्गुं गिरिं लङ्घयते, तं परमानन्दमाधवम् अहं वन्दे ॥
+w: यत्कृपा = ఎవరి కృప; मूकम् = మూగవానిని; वाचालम् = మాటకారిగా; करोति = చేస్తుందో; पङ्गुम् = కుంటివానిని; गिरिम् = కొండను; लङ्घयते = దాటిస్తుందో; तम् = ఆ; परमानन्दमाधवम् = పరమానంద స్వరూపుడైన మాధవుని; अहम् = నేను; वन्दे = నమస్కరిస్తున్నాను
+note: करोति with two accusatives: "makes the mute (one) eloquent".
+note: लङ्घयते is the causative of लङ्घ् "cross". With causatives of verbs of motion, the person made to move also goes into the 2nd case (गतिबुद्धि… Aṣṭādhyāyī 1.4.52): पङ्गुं गिरिं लङ्घयते "makes the lame man cross the mountain" (lesson 6.9).
+note: यत्कृपा = यस्य कृपा, with the compound stem यत्- (lesson 5.3). Its correlative is तम्.
+note: वाचाल "talkative" is a taddhita from वाच् with -आल "talking too much" (आलजाटचौ बहुभाषिणि, Aṣṭādhyāyī 5.2.125).
+@end
+
+## Verse 9: whom the gods praise
+@ex gita:0:9
+meter: शार्दूलविक्रीडित
+split: यं ब्रह्मा वरुणेन्द्ररुद्रमरुतः स्तुन्वन्ति दिव्यैः स्तवैः वेदैः साङ्गपदक्रमोपनिषदैः गायन्ति यं सामगाः । ध्यानावस्थिततद्गतेन मनसा पश्यन्ति यं योगिनः यस्य अन्तं न विदुः सुरासुरगणाः देवाय तस्मै नमः ॥
+anvaya: ब्रह्मा वरुणेन्द्ररुद्रमरुतः दिव्यैः स्तवैः यं स्तुन्वन्ति, सामगाः साङ्गपदक्रमोपनिषदैः वेदैः यं गायन्ति, योगिनः ध्यानावस्थिततद्गतेन मनसा यं पश्यन्ति, सुरासुरगणाः यस्य अन्तं न विदुः, तस्मै देवाय नमः ॥
+w: यम् = ఎవరిని; ब्रह्मा = బ్రహ్మ; वरुणेन्द्ररुद्रमरुतः = వరుణుడు, ఇంద్రుడు, రుద్రుడు, మరుత్తులు; दिव्यैः स्तवैः = దివ్య స్తోత్రాలతో; स्तुन्वन्ति = స్తుతిస్తారో; सामगाः = సామగానం చేసేవారు; साङ्गपदक्रमोपनिषदैः वेदैः = అంగాలు, పద క్రమ పాఠాలు, ఉపనిషత్తులతో కూడిన వేదాలతో; गायन्ति = గానం చేస్తారో; योगिनः = యోగులు; ध्यानावस्थिततद्गतेन मनसा = ధ్యానంలో నిలిచి ఆయనలో లీనమైన మనసుతో; पश्यन्ति = దర్శిస్తారో; सुरासुरगणाः = దేవ దానవ గణాలు; यस्य अन्तम् = ఎవరి అంతాన్ని; न विदुः = ఎరుగరో; तस्मै देवाय = ఆ దేవునికి; नमः = నమస్కారం
+note: Four relative clauses (यं, यं, यं, यस्य) and one correlative in the dative, तस्मै देवाय, with नमः (lesson 11.3).
+note: विदुः "they know" is the perfect-form of विद् used with present meaning (lesson 6.4): वेद, विदतुः, विदुः.
+note: स्तुन्वन्ति is the form this verse uses; Classical grammar gives स्तुवन्ति for स्तु (class 2).
+note: The subject of the first clause is a list: ब्रह्मा and the dvandva वरुणेन्द्ररुद्रमरुतः, so the verb is plural. सामगाः = साम गायन्ति इति, an upapada.
+@end
+
+@quiz
+q: In verse 3, why is ज्ञानमुद्राय masculine?
+* a feminine noun at the end of a bahuvrīhi for a man becomes masculine
+- मुद्र is a masculine noun
+- it agrees with नमः
+why: गोस्त्रियोरुपसर्जनस्य shortens -आ to -अ.
+
+q: दोग्धा is:
+* an agent noun: "milker"
+- a past participle
+- a feminine noun
+why: -तृ stems have the nominative in -आ.
+
+q: पेपीयमानम् is:
+* intensive passive participle of पा: "being drunk again and again"
+- future of पा
+- perfect of पी
+why: Reduplication (पे-) marks the intensive.
+
+q: भूयात् is:
+* benedictive: "may it be"
+- optative: "it should be"
+- future: "it will be"
+why: आशीर्लिङ्.
+
+q: In पङ्गुं लङ्घयते गिरिम्, why are both पङ्गुम् and गिरिम् accusative?
+* the causative of a motion verb puts the person moved in the 2nd case too
+- पङ्गुम् is an adverb
+- गिरिम् is a locative
+why: Aṣṭādhyāyī 1.4.52.
+
+q: नमः takes which case?
+* 4th (dative)
+- 2nd (accusative)
+- 6th
+why: नमः कृष्णाय; but वन्दे takes the accusative.
+@end

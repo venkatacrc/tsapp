@@ -1,0 +1,124 @@
+@title అవ్యయాలు · Indeclinables and Telugu particles
+@summary Words that never change: particles, conjunctions, adverbs, interjections. Telugu does much of this work with suffixes (-ఏ, -ఉ, -ఆ, -ఓ, అని); Sanskrit uses separate words (एव, च / अपि, किम्, वा, इति). The full particle map, word order rules for च, तु, हि, and the cases each indeclinable governs.
+
+## What counts as an indeclinable
+An avyaya does not change for gender, number or case (सदृशं त्रिषु लिङ्गेषु सर्वासु च विभक्तिषु । वचनेषु च सर्वेषु यन्न व्येति तदव्ययम्). Pāṇini's lists: स्वरादि (स्वर्, अन्तर्, प्रातर्, पुनर्, …) and चादि (च, वा, ह, अह, एव, …) (स्वरादिनिपातमव्ययम् 1.1.37), plus absolutives, infinitives, avyayībhāva compounds and adverbs in -तः, -त्र, -दा, -था (lesson 10.2).
+
+## The Telugu particle map
+| Telugu | Sanskrit | Example | Telugu meaning |
+|---|---|---|---|
+| -ఏ (emphasis) | एव | अहम् एव | నేనే |
+| -ఉ (and, also) | च, अपि | रामः सीता च; अहम् अपि | రాముడూ సీతా; నేనూ |
+| -ఉ (even) | अपि | स्वल्पम् अपि (2.40) | కొంచెమైనా |
+| -ఆ (question) | किम्, अपि (at the start) | किं गच्छसि? अपि कुशलम्? | వెళ్తున్నావా? క్షేమమా? |
+| -ఓ (or, doubt) | वा, उत, किंवा | गच्छेत् वा न वा | వెళ్తాడో లేదో |
+| అని (quotation) | इति | गच्छामि इति अवदत् | వెళ్తాను అని అన్నాడు |
+| అట (hearsay) | किल | रामः किल वनं गतः | రాముడు అడవికి వెళ్ళాడట |
+| కదా (surely, isn't it) | खलु, ननु | सत्यं खलु | నిజమే కదా |
+| కానీ (but) | तु, परन्तु, किन्तु | अहं तु न गच्छामि | నేను మాత్రం వెళ్ళను |
+| ఎందుకంటే (because) | हि (2nd place), यतः | न हि … (6.40) | ఎందుకంటే … కాదు |
+| ఒకవేళ / అయితే (if) | यदि, चेत् | यदि आगच्छसि | వస్తే |
+| అయినా (although) | यद्यपि … तथापि | यद्यपि सः धनी, तथापि दुःखी | ధనవంతుడైనా దుఃఖితుడే |
+| వలె, లాగా (like) | इव, यथा, वत् | प्रहसन् इव (2.10) | నవ్వుతున్నట్లుగా |
+| లేదు, కాదు (not) | न, नो | न अस्ति | లేదు |
+| వద్దు (don't) | मा | मा शुचः | దుఃఖించకు |
+| ఇక / ఇప్పుడు (now, then) | अथ | अथ योगानुशासनम् | ఇప్పుడు యోగశాసనం |
+| ఇంకా, మళ్ళీ | पुनः, भूयः | भूय एव (10.1) | మళ్ళీ |
+| నిశ్శబ్దంగా | तूष्णीम् | तूष्णीं बभूव (2.9) | మౌనం వహించాడు |
+
+> [compare] Suffix vs. separate word :: Telugu glues the particle to the word: నేనే, నేనూ, వెళ్ళావా. Sanskrit puts a separate word after it: अहम् एव, अहम् अपि, (किं) गतवान्? When translating Telugu → Sanskrit, peel the particle off and replace it with a word.
+
+## Position matters
+| Particle | Position | Example |
+|---|---|---|
+| च | after the last item, or after each | रामः लक्ष्मणः च; रामः च लक्ष्मणः च |
+| तु, हि, खलु, किल, नु | never first; second word of the clause | अहं तु…, न हि… |
+| एव | right after the word stressed | मामेव ये प्रपद्यन्ते (7.14) "who take refuge in **Me alone**" |
+| अपि | after the word ("also / even"), or first in a question | सः अपि; अपि चेत् (4.36) "even if" |
+| इति | after the quoted words | करोमि इति (5.8) |
+| इव | after the standard of comparison | प्रहसन् इव, भ्रमति इव (1.30) |
+| मा | before the verb | मा शुचः |
+
+> [memory] इति closes the quotation :: Sanskrit has no quotation marks; इति does the job, exactly like Telugu అని. It also means "thus" at the end of a section: इति श्रीमद्भगवद्गीतासु … "thus ends…". And it marks a name or a reason: रामः इति ख्यातः "known as Rāma".
+
+## Pairs that go together
+| Pair | Meaning | Example |
+|---|---|---|
+| यदि … तर्हि / तदा | if … then | यदि त्वं गच्छसि तर्हि अहम् अपि गच्छामि |
+| यद्यपि … तथापि | although … still | यद्यपि एते न पश्यन्ति (1.38) … |
+| यथा … तथा | as … so | यथा … विहाय … तथा शरीराणि (2.22) |
+| यदा … तदा | when … then | यदा यदा हि … तदा (4.7) |
+| यत्र … तत्र | where … there | यत्र योगेश्वरः कृष्णः … तत्र श्रीः (18.78) |
+| यावत् … तावत् | as long as … so long | यावत् जीवेत् तावत् सुखं जीवेत् |
+| न केवलम् … अपि | not only … but also | |
+| वा … वा | either … or | हतो वा … जित्वा वा (2.37) |
+| न … न | neither … nor | न जायते म्रियते वा (2.20) |
+| च … च | both … and | |
+
+## Indeclinables that govern a case
+| Word | Case | Example | Telugu |
+|---|---|---|---|
+| सह, साकम्, सार्धम् | 3rd | रामेण सह | రామునితో కలిసి |
+| विना | 2nd, 3rd or 5th | रामं / रामेण / रामात् विना | రాముడు లేకుండా |
+| ऋते | 5th | ज्ञानात् ऋते | జ్ఞానం లేకుండా |
+| नमः, स्वस्ति, स्वाहा, स्वधा | 4th | रामाय नमः, अग्नये स्वाहा | రామునికి నమస్కారం |
+| अलम् | 4th (enough for) / 3rd (enough of = stop) | अलं मल्लो मल्लाय; अलं विवादेन | చాలు |
+| धिक् | 2nd | धिक् त्वाम् | ఛీ నీకు |
+| उभयतः, सर्वतः, परितः, समया, निकषा | 2nd | ग्रामं परितः | ఊరి చుట్టూ |
+| पुरः, अग्रे, पृष्ठतः | 6th | गृहस्य अग्रे | ఇంటి ముందు |
+| प्रति | 2nd | गृहं प्रति | ఇంటి వైపు |
+| बहिः | 5th | ग्रामात् बहिः | ఊరి బయట |
+| उपरि, अधः | 6th | वृक्षस्य उपरि / अधः | చెట్టు పైన / కింద |
+
+> [compare] Telugu postpositions = Sanskrit indeclinables + case :: ఇంటి ముందు = गृहस्य अग्रे; చెట్టు కింద = वृक्षस्य अधः; ఊరి బయట = ग्रामात् बहिः; రామునితో = रामेण सह. Telugu puts the postposition after the oblique stem; Sanskrit puts the noun in a case and adds the indeclinable.
+
+## Interjections
+अहो (wonder), हा / हन्त (grief, also "come now!"), धिक् (shame), बत (alas), भोः (hey!), अये / अयि (oh), आः (anger), साधु (well done), ओम् (assent, the sacred syllable), स्वस्ति (may it be well).
+
+@ex gita:6:40
+split: पार्थ न एव इह न अमुत्र विनाशः तस्य विद्यते । न हि कल्याणकृत् कश्चित् दुर्गतिं तात गच्छति ॥
+w: पार्थ = ఓ పార్థా; न एव = అస్సలు లేదు; इह = ఇక్కడ (ఈ లోకంలో); न अमुत्र = అక్కడ (పరలోకంలో) కూడా కాదు; विनाशः = వినాశం; तस्य = అతనికి; विद्यते = ఉంది; न हि = ఎందుకంటే … కాదు; कल्याणकृत् = మంచి చేసేవాడు; कश्चित् = ఎవడూ; दुर्गतिम् = దుర్గతిని; तात = నాయనా; गच्छति = పొందుతాడు
+note: Five indeclinables: न, एव, इह, अमुत्र, हि. (तात "dear one" is a vocative noun.) नैवेह नामुत्र = न + एव + इह, न + अमुत्र. न हि = "for … not": हि gives the reason.
+@end
+
+@ex gita:4:36
+note: अपि चेत् "even if"; एव "alone" (ज्ञानप्लवेन एव "by the boat of knowledge alone"). पापकृत्तमः: upapada compound + superlative -तम ("the worst sinner").
+@end
+
+@quiz
+q: Telugu నేనే in Sanskrit:
+* अहम् एव
+- अहम् अपि
+- अहम् इति
+why: -ఏ = एव.
+
+q: Telugu అని (closing a quotation):
+* इति
+- इव
+- अपि
+why: करोमि इति "I do — so (he thinks)".
+
+q: Which particle can never be the first word of a clause?
+* तु / हि
+- यदि
+- अथ
+why: तु, हि, खलु, किल stand second.
+
+q: "రామునితో కలిసి":
+* रामेण सह
+- रामस्य सह
+- रामं सह
+why: सह takes the 3rd case.
+
+q: రాముడు అడవికి వెళ్ళాడట — "అట" is:
+* किल
+- खलु
+- इति
+why: किल marks hearsay ("they say").
+
+q: ఊరి బయట:
+* ग्रामात् बहिः
+- ग्रामस्य बहिः
+- ग्रामे बहिः
+why: बहिः takes the 5th case.
+@end

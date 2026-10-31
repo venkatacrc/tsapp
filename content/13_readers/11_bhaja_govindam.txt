@@ -1,0 +1,163 @@
+@title భజ గోవిందం · Bhaja Govindam
+@summary Śaṅkara's Moha-mudgara, read verse by verse: the refrain and nine stanzas, with their rhyming mātrā metre. Grammar: the irregular imperatives जहीहि, विद्धि, पाहि; मा + imperative; a chain of locatives; past participles with an active sense; the future द्रक्ष्यसि; and the grammar joke at the heart of the poem, डुकृञ् करणे.
+
+## A grammar joke at the start
+Tradition says Śaṅkara, walking in Kāśī, heard an old scholar learning Pāṇini's list of roots by heart: "डुकृञ् करणे, डुकृञ् करणे …". He sang the refrain: when death is near, डुकृञ् करणे will not save you; sing of Govinda.
+
+डुकृञ् करणे is the actual dhātupāṭha entry for the root कृ (lesson 6.2). The extra letters are markers (इत्), not part of the root:
+
+| Part | What it is | What it tells you |
+|---|---|---|
+| डु- | marker before the root | the root can take -त्रिम: कृत्रिम "artificial" |
+| कृ | the root | "do, make" |
+| -ञ् | marker after the root | the root is ubhayapada: करोति and कुरुते |
+| करणे | meaning in the locative | "in the sense of doing" |
+
+> [memory] The verse that mocks grammar teaches it :: The refrain mocks memorising rules without devotion. But to understand the joke you need to know the dhātupāṭha. Learn both: the rule and the Govinda.
+
+The refrain itself (भज गोविन्दं भज गोविन्दं) was scanned in lesson 12.1. The metre counts mātrās, 16 to each quarter, and the two halves of each verse rhyme at the end (అంత్యప్రాస). Telugu padyams rhyme on the second syllable instead (ప్రాస, lesson 12.4).
+
+## Give up the thirst for wealth
+@ex bhaja_govindam:dvadasha:2
+split: मूढ जहीहि धनागमतृष्णां कुरु सद्बुद्धिं मनसि वितृष्णाम् । यत् लभसे निजकर्मोपात्तं वित्तं तेन विनोदय चित्तम् ॥
+anvaya: मूढ, धनागमतृष्णां जहीहि; मनसि वितृष्णां सद्बुद्धिं कुरु । निजकर्मोपात्तं यत् वित्तं लभसे, तेन चित्तं विनोदय ॥
+w: मूढ = ఓ మూఢుడా; धनागमतृष्णाम् = ధనం రావాలనే దాహాన్ని; जहीहि = వదిలిపెట్టు; मनसि = మనసులో; वितृष्णाम् = ఆశ లేని; सद्बुद्धिम् = మంచి బుద్ధిని; कुरु = కలిగించుకో; निजकर्मोपात्तम् = నీ కర్మ వల్ల లభించిన; यत् वित्तम् = ఏ ధనాన్ని; लभसे = పొందుతావో; तेन = దానితో; चित्तम् = మనసును; विनोदय = సంతోషపెట్టు
+note: जहीहि is the imperative of हा "abandon" (class 3), an irregular form. कुरु is the imperative of कृ, and विनोदय is a causative imperative (वि + नुद्, "make glad", lesson 6.9).
+note: लभसे is the ātmanepada present, 2nd singular, of लभ् (lesson 6.1). यत् + लभसे → यल्लभसे (त् before ल becomes ल्, lesson 8.3).
+note: उपात्त = उप + आ + दा, past participle "obtained" (दा → -त्त after a prefix). वितृष्णाम् is a feminine bahuvrīhi agreeing with सद्बुद्धिम्.
+@end
+
+## Life is a drop on a lotus leaf
+@ex bhaja_govindam:dvadasha:4
+split: नलिनीदलगतजलम् अतितरलं तद्वत् जीवितम् अतिशयचपलम् । विद्धि व्याध्यभिमानग्रस्तं लोकं शोकहतं च समस्तम् ॥
+anvaya: नलिनीदलगतजलम् अतितरलम्; तद्वत् जीवितम् अतिशयचपलम् । समस्तं लोकं व्याध्यभिमानग्रस्तं शोकहतं च विद्धि ॥
+w: नलिनीदलगतजलम् = తామరాకు మీది నీటిబొట్టు; अतितरलम् = చాలా చంచలమైనది; तद्वत् = అలాగే; जीवितम् = జీవితం; अतिशयचपलम् = అత్యంత అస్థిరం; समस्तम् लोकम् = లోకమంతటినీ; व्याध्यभिमानग्रस्तम् = రోగాలు, అహంకారం పట్టుకున్నదిగా; शोकहतम् = దుఃఖంతో దెబ్బతిన్నదిగా; च = మరియు; विद्धि = తెలుసుకో
+note: The lotus leaf again (Gītā 5.10, lesson 13.4), but now for how short life is: the drop runs off in a moment.
+note: विद्धि is the irregular imperative of विद् "know" (class 2). It takes two accusatives: "know the world (as) seized by disease".
+note: तद्वत् "like that": -वत् makes a comparison adverb (lesson 10.2). तद्वत् + जीवितम् → तद्वज्जीवितम् (त् + ज → ज्ज, lesson 8.3).
+@end
+
+## Child, youth, old man
+@ex bhaja_govindam:dvadasha:7
+split: बालः तावत् क्रीडासक्तः तरुणः तावत् तरुणीसक्तः । वृद्धः तावत् चिन्तासक्तः परमे ब्रह्मणि कः अपि न सक्तः ॥
+w: बालः = బాలుడు; तावत् = ఆ వయసులో; क्रीडासक्तः = ఆటలపై ఆసక్తుడు; तरुणः = యువకుడు; तरुणीसक्तः = యువతిపై ఆసక్తుడు; वृद्धः = ముసలివాడు; चिन्तासक्तः = చింతలలో మునిగినవాడు; परमे ब्रह्मणि = పరబ్రహ్మంలో; कः अपि न = ఎవడూ (కాదు); सक्तः = ఆసక్తుడు
+note: Three saptamī tatpuruṣas with the past participle आसक्त "attached": क्रीडायाम् आसक्तः, तरुण्याम् आसक्तः, चिन्तायाम् आसक्तः (lesson 9.2). Then the same idea without a compound: परमे ब्रह्मणि … सक्तः, with the locative.
+note: कः अपि न "no one at all" (lesson 5.3). कः + अपि → कोऽपि.
+note: Sandhi: बालः + तावत् → बालस्तावत्; तावत् + च → तावच्च (lesson 8.3).
+@end
+
+## Who is your wife, who is your son?
+@ex bhaja_govindam:dvadasha:8
+split: का ते कान्ता कः ते पुत्रः संसारः अयम् अतीव विचित्रः । कस्य त्वं कः कुतः आयातः तत्त्वं चिन्तय तत् इह भ्रातः ॥
+w: का = ఎవరు; ते = నీ; कान्ता = భార్య; कः = ఎవరు; पुत्रः = కుమారుడు; अयम् संसारः = ఈ సంసారం; अतीव = చాలా; विचित्रः = విచిత్రమైనది; त्वम् = నువ్వు; कस्य = ఎవరివాడివి; कः = ఎవరివి; कुतः = ఎక్కడి నుండి; आयातः = వచ్చావు; भ्रातः = ఓ సోదరా; तत् तत्त्वम् = ఆ సత్యాన్ని; इह = ఇక్కడే; चिन्तय = ఆలోచించు
+note: किम् in three forms: का (feminine, agreeing with कान्ता), कः (masculine), कस्य (genitive): lesson 5.3. The questions have no verbs.
+note: आयातः "(you) have come" is a past participle with an active meaning: verbs of motion make active past participles (गत्यर्थाकर्मक…, Aṣṭādhyāyī 3.4.72; lesson 7.1).
+note: भ्रातः is the vocative of the ṛ-stem भ्रातृ (lesson 4.7). चिन्तय is a class 10 imperative.
+@end
+
+## The ladder up
+@ex bhaja_govindam:dvadasha:9
+split: सत्सङ्गत्वे निस्सङ्गत्वं निस्सङ्गत्वे निर्मोहत्वम् । निर्मोहत्वे निश्चलतत्त्वं निश्चलतत्त्वे जीवन्मुक्तिः ॥
+w: सत्सङ्गत्वे = సత్సంగం ఉన్నప్పుడు; निस्सङ्गत्वम् = అసంగత్వం (కలుగుతుంది); निस्सङ्गत्वे = అసంగత్వం కలిగినప్పుడు; निर्मोहत्वम् = మోహం లేకపోవడం; निर्मोहत्वे = మోహం పోయినప్పుడు; निश्चलतत्त्वम् = స్థిరమైన తత్త్వం; निश्चलतत्त्वे = తత్త్వం స్థిరపడినప్పుడు; जीवन्मुक्तिः = జీవన్ముక్తి
+note: A chain of locative absolutes with no participle: "when there is X, Y (arises)"; सति "being" is understood (lesson 11.4).
+note: The mirror image of Gītā 2.62–63 (lesson 13.3). There the ladder goes down, with ablatives; here it goes up, with locatives.
+note: -त्व makes abstract nouns (lesson 10.2): सत्सङ्गत्व "being in good company". जीवन्मुक्तिः: जीवन् "while living" (present participle) + मुक्ति.
+@end
+
+> [memory] Two ladders :: Down (Gītā 2.62–63), ablatives: ध्यानात् सङ्गः, सङ्गात् कामः, … Up (Bhaja Govindam 9), locatives: सत्सङ्गत्वे निस्सङ्गत्वम्, … Learn them as a pair. The cases tell you the direction: -आत् "from" falls, -ए "when there is" climbs.
+
+## Don't be proud
+@ex bhaja_govindam:dvadasha:11
+split: मा कुरु धनजनयौवनगर्वं हरति निमेषात् कालः सर्वम् । मायामयम् इदम् अखिलं हित्वा ब्रह्मपदं त्वं प्रविश विदित्वा ॥
+anvaya: धनजनयौवनगर्वं मा कुरु; कालः निमेषात् सर्वं हरति । इदम् अखिलं मायामयं विदित्वा हित्वा (च), त्वं ब्रह्मपदं प्रविश ॥
+w: धनजनयौवनगर्वम् = ధనం, జనం, యౌవనం వల్ల గర్వాన్ని; मा कुरु = చేయకు; कालः = కాలం; निमेषात् = రెప్పపాటులో; सर्वम् = అంతటినీ; हरति = హరిస్తుంది; इदम् अखिलम् = ఇదంతా; मायामयम् = మాయామయం (అని); विदित्वा = తెలుసుకొని; हित्वा = విడిచిపెట్టి; त्वम् = నువ్వు; ब्रह्मपदम् = బ్రహ్మ పదాన్ని; प्रविश = ప్రవేశించు
+note: मा कुरु: मा with the imperative for "don't". Pāṇini pairs मा with the aorist (मा कार्षीः); later Sanskrit uses मा + imperative freely (lesson 6.6).
+note: हित्वा is the irregular absolutive of हा (lesson 7.3); विदित्वा is the absolutive of विद् with the connecting इ.
+note: निमेषात् "within a blink" is an ablative of time. मायामयम्: -मय "made of" (lesson 10.2).
+@end
+
+## Even a little Gītā
+@ex bhaja_govindam:chaturdasha:20
+split: भगवद्गीता किञ्चित् अधीता गङ्गाजललवकणिका पीता । सकृत् अपि येन मुरारिसमर्चा क्रियते तस्य यमेन न चर्चा ॥
+anvaya: येन भगवद्गीता किञ्चित् अधीता, (येन) गङ्गाजललवकणिका पीता, (येन) सकृत् अपि मुरारिसमर्चा क्रियते, तस्य यमेन चर्चा न (भवति) ॥
+w: येन = ఎవరి చేత; भगवद्गीता = భగవద్గీత; किञ्चित् = కొంచెమైనా; अधीता = చదవబడిందో; गङ्गाजललवकणिका = గంగాజలంలో ఒక చిన్న బిందువు; पीता = తాగబడిందో; सकृत् अपि = ఒక్కసారైనా; मुरारिसमर्चा = మురారి పూజ; क्रियते = చేయబడుతుందో; तस्य = అతనితో; यमेन = యమునికి; चर्चा न = వాదం ఉండదు
+note: One relative pronoun, येन, serves three passive clauses: two past participles (अधीता, पीता, feminine to agree with गीता and कणिका) and one present passive (क्रियते, lesson 6.8).
+note: अधीता is the past participle of अधि + इ "study". पीता is from पा "drink" (lesson 7.1).
+note: The point for a learner: this course has asked you to read some of the Gītā. That counts.
+@end
+
+## Again birth, again death
+@ex bhaja_govindam:chaturdasha:21
+split: पुनः अपि जननं पुनः अपि मरणं पुनः अपि जननीजठरे शयनम् । इह संसारे बहुदुस्तारे कृपया अपारे पाहि मुरारे ॥
+w: पुनः अपि = మళ్ళీ; जननम् = పుట్టుక; मरणम् = మరణం; जननीजठरे = తల్లి గర్భంలో; शयनम् = పడుకోవడం; इह = ఈ; बहुदुस्तारे = దాటడానికి చాలా కష్టమైన; अपारे = అంతులేని; संसारे = సంసారంలో; मुरारे = ఓ మురారీ; कृपया = దయతో; पाहि = కాపాడు
+note: जनन, मरण, शयन are kṛt nouns in -अन "the act of" (lesson 7.5). The first line is nominal: three subjects, no verb.
+note: संसारे बहुदुस्तारे अपारे: one noun and two adjectives in the locative. दुस्तार "hard to cross" is दुर् + तॄ with खल्, like दुर्लभ (lesson 13.5).
+note: पाहि is the imperative of पा "protect" (class 2). मुरारे is the vocative of the i-stem मुरारि, with guṇa. कृपया is an instrumental "out of compassion".
+@end
+
+## The last verse: devotion to the guru
+@ex bhaja_govindam:final:31
+split: गुरुचरणाम्बुजनिर्भरभक्तः संसारात् अचिरात् भव मुक्तः । सेन्द्रियमानसनियमात् एवं द्रक्ष्यसि निजहृदयस्थं देवम् ॥
+anvaya: गुरुचरणाम्बुजनिर्भरभक्तः (सन्) अचिरात् संसारात् मुक्तः भव । एवं सेन्द्रियमानसनियमात् निजहृदयस्थं देवं द्रक्ष्यसि ॥
+w: गुरुचरणाम्बुजनिर्भरभक्तः = గురువు పాదపద్మాలపై నిండు భక్తి గలవాడివై; अचिरात् = త్వరలోనే; संसारात् = సంసారం నుండి; मुक्तः = విముక్తుడివి; भव = అవ్వు; एवम् = ఈ విధంగా; सेन्द्रियमानसनियमात् = ఇంద్రియాలను, మనసును నియమించడం వల్ల; निजहृदयस्थम् = నీ హృదయంలో ఉన్న; देवम् = దేవుని; द्रक्ष्यसि = చూస్తావు
+note: भव मुक्तः "be free": the imperative भव with a past participle as predicate.
+note: द्रक्ष्यसि is the future of दृश् "see". The root changes to द्रक्ष्- (lesson 6.5). अचिरात् "before long" is an ablative used as an adverb.
+note: सेन्द्रियमानसनियमात्: स- "together with" + इन्द्रिय + मानस + नियम, an ablative of cause. निजहृदयस्थम्: an upapada with -स्थ (lesson 9.2).
+@end
+
+## What Bhaja Govindam drilled
+| Point | Verse | Lesson |
+|---|---|---|
+| irregular imperatives जहीहि, विद्धि, पाहि | 2, 4, 21 | 6.6 |
+| मा + imperative | 11 | 6.6 |
+| saptamī tatpuruṣa with आसक्त | 7 | 9.2 |
+| interrogatives का, कः, कस्य | 8 | 5.3 |
+| active past participle of motion (आयातः) | 8 | 7.1 |
+| locative chain | 9 | 11.4 |
+| one relative for three passives | 20 | 6.8 |
+| kṛt nouns in -अन | 21 | 7.5 |
+| future द्रक्ष्यसि | 31 | 6.5 |
+
+@quiz
+q: In डुकृञ् करणे, the -ञ् tells you:
+* कृ is ubhayapada (करोति / कुरुते)
+- कृ is class 10
+- कृ is a noun
+why: A marker (इत्) after the root.
+
+q: जहीहि is the imperative of:
+* हा (abandon)
+- जह्
+- हि
+why: Class 3, irregular.
+
+q: विद्धि means:
+* know!
+- find!
+- exists
+why: Imperative of विद्, class 2.
+
+q: In सत्सङ्गत्वे निस्सङ्गत्वम्, सत्सङ्गत्वे is:
+* a locative: "when there is good company"
+- a dual
+- a vocative
+why: A locative absolute with सति understood.
+
+q: आयातः "(you) have come" is active because:
+* past participles of motion verbs can be active
+- आयात is a noun
+- it is a future
+why: Aṣṭādhyāyī 3.4.72.
+
+q: द्रक्ष्यसि is:
+* future of दृश्: "you will see"
+- present of दृश्
+- imperative
+why: दृश् → द्रक्ष्-.
+
+q: In verse 20, how many clauses does येन serve?
+* three
+- one
+- two
+why: अधीता, पीता, क्रियते all take येन as the agent.
+@end

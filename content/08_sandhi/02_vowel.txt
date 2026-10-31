@@ -1,0 +1,99 @@
+@title అచ్ సంధి · Vowel sandhi in full
+@summary Every rule for two vowels meeting: lengthening, guṇa, vṛddhi, semivowel replacement, अय्-आय्-अव्-आव्, the avagraha, the vowels that refuse sandhi (प्रगृह्य), dropping of य् / व् between vowels, and the special prefix rules. A single grid lets you look up any pair.
+
+## The rules in order
+| Rule | Sūtra | Change | Examples |
+|---|---|---|---|
+| 1. Like vowels lengthen | अकः सवर्णे दीर्घः 6.1.101 | अ/आ + अ/आ → आ; इ/ई + इ/ई → ई; उ/ऊ + उ/ऊ → ऊ; ऋ + ऋ → ॠ | विद्या + आलयः → विद्यालयः; मुनि + ईशः → मुनीशः; गुरु + उपदेशः → गुरूपदेशः; पितृ + ऋणम् → पितॄणम् |
+| 2. Guṇa | आद्गुणः 6.1.87 | अ/आ + इ/ई → ए; + उ/ऊ → ओ; + ऋ → अर्; + ऌ → अल् | देव + इन्द्रः → देवेन्द्रः; गङ्गा + उदकम् → गङ्गोदकम्; महा + ऋषिः → महर्षिः |
+| 3. Vṛddhi | वृद्धिरेचि 6.1.88 | अ/आ + ए/ऐ → ऐ; + ओ/औ → औ | एक + एकः → एकैकः; सदा + एव → सदैव; वन + ओषधिः → वनौषधिः; महा + औषधम् → महौषधम् |
+| 4. Semivowel (यण्) | इको यणचि 6.1.77 | इ/ई + unlike vowel → य्; उ/ऊ → व्; ऋ → र्; ऌ → ल् | इति + आदि → इत्यादि; सु + आगतम् → स्वागतम्; पितृ + आज्ञा → पित्राज्ञा |
+| 5. अयादि | एचोऽयवायावः 6.1.78 | ए → अय्; ऐ → आय्; ओ → अव्; औ → आव् (before a vowel) | ने + अनम् → नयनम्; नै + अकः → नायकः; पो + अनः → पवनः; पौ + अकः → पावकः |
+| 6. Avagraha (पूर्वरूप) | एङः पदान्तादति 6.1.109 | word-final ए/ओ + अ → ए/ओ + ऽ | ते + अपि → तेऽपि; रामो + अयम् → रामोऽयम् |
+
+> [memory] "Same, A-plus, else-y" :: Ask three questions in order. (1) Are the two vowels the same kind? Lengthen. (2) Is the first one अ / आ? Guṇa (before इ उ ऋ) or vṛddhi (before ए ऐ ओ औ). (3) Otherwise: the first vowel turns into its semivowel (इ→य्, उ→व्, ऋ→र्) or, if it is ए ऐ ओ औ, into अय् आय् अव् आव्.
+
+## Look-up grid: first vowel (row) + second vowel (column)
+@literal
+| + | अ | आ | इ | उ | ऋ | ए | ओ |
+|---|---|---|---|---|---|---|---|
+| अ | आ | आ | ए | ओ | अर् | ऐ | औ |
+| इ | य | या | ई | यु | यृ | ये | यो |
+| उ | व | वा | वि | ऊ | वृ | वे | वो |
+| ऋ | र | रा | रि | रु | ॠ | रे | रो |
+| ए (final) | एऽ | अ आ | अ इ | अ उ | अ ऋ | अ ए | अ ओ |
+| ओ (final) | ओऽ | अ आ | अ इ | अ उ | अ ऋ | अ ए | अ ओ |
+
+> [note] Reading the last two rows :: Word-final ए / ओ before अ keeps its form and the अ is shown by ऽ (तेऽपि). Before any other vowel, ए / ओ becomes अय् / अव्, and the य् / व् is usually dropped (लोपः शाकल्यस्य 8.3.19), leaving a gap: हरे + इह → हर इह; विष्णो + इह → विष्ण इह. The gap is never closed again by another sandhi (पूर्वत्रासिद्धम्). This is why you see योत्स्य इति (2.9) from योत्स्ये इति.
+
+## The vowels that refuse sandhi (प्रगृह्य)
+| Case | Sūtra | Example |
+|---|---|---|
+| dual endings in ई, ऊ, ए | ईदूदेद्द्विवचनं प्रगृह्यम् 1.1.11 | कवी इमौ, साधू एतौ, लते इमे (no sandhi) |
+| the forms अमी, अमू | अदसो मात् 1.1.12 | अमी ईशाः |
+| interjections of one vowel | निपात एकाजनाङ् 1.1.14 | अ अपेहि, इ इन्द्रम्, उ उमेशः |
+| ओ-ending particles | ओत् 1.1.15 | अहो ईशाः |
+| vocatives in protracted (प्लुत) form | प्लुतप्रगृह्या अचि नित्यम् 6.1.125 | हे राम३ इह |
+
+## Prefix + root: three special rules
+| Rule | Sūtra | Example |
+|---|---|---|
+| prefix in अ/आ + ऋ-root → आर् (vṛddhi) | उपसर्गादृति धातौ 6.1.91 | प्र + ऋच्छति → प्रार्च्छति; उप + ऋच्छति → उपार्च्छति |
+| prefix in अ/आ + ए/ओ-root → ए/ओ (पररूप) | एङि पररूपम् 6.1.94 | प्र + एजते → प्रेजते; उप + ओषति → उपोषति |
+| but with एति, एधति, ऊठ् → vṛddhi | एत्येधत्यूठ्सु 6.1.89 | उप + एति → उपैति; प्र + एधते → प्रैधते |
+| अक्ष + ऊहिनी, प्र + ऊढ, स्व + ईर | vārttika | अक्षौहिणी, प्रौढः, स्वैरम् |
+
+> [warning] ओम् and आङ् :: Before ओम् and the prefix आ (आङ्), a preceding अ merges into it (ओमाङोश्च 6.1.95): शिव + ओम् → शिवोम्; अद्य + एहि (आ + इहि) → अद्येहि. These are rare outside grammar books.
+
+## Vowel sandhi in verses
+@ex gita:4:7
+split: यदा यदा हि धर्मस्य ग्लानिः भवति भारत । अभ्युत्थानम् अधर्मस्य तदा आत्मानं सृजामि अहम् ॥
+note: तदा + आत्मानम् → तदात्मानम् (rule 1; the deck shows तदाऽऽत्मानम्, with ऽऽ marking the merged long आ). सृजामि + अहम् → सृजाम्यहम् (rule 4). अभि + उत्थानम् → अभ्युत्थानम् (rule 4).
+@end
+
+@ex gita:18:66
+split: सर्वधर्मान् परित्यज्य माम् एकं शरणं व्रज । अहं त्वा सर्वपापेभ्यः मोक्षयिष्यामि मा शुचः ॥
+note: No vowel sandhi here except inside the compounds; the joins are consonant ones: माम् + एकम् → मामेकम् (म् written onto the vowel), सर्वपापेभ्यः + मोक्षयिष्यामि → -भ्यो मोक्ष- (visarga, lesson 8.5).
+@end
+
+@ex gita:2:22
+note: नरः + अपराणि → नरोऽपराणि (visarga → ओ, then avagraha). जीर्णानि + अन्यानि → जीर्णान्यन्यानि (rule 4).
+@end
+
+@quiz
+q: महा + ईशः →
+* महेशः
+- महीशः
+- मह्यशः
+why: Guṇa: आ + ई → ए.
+
+q: सदा + एव →
+* सदैव
+- सदेव
+- सदाव
+why: Vṛddhi: आ + ए → ऐ.
+
+q: सु + आगतम् →
+* स्वागतम्
+- सूगतम्
+- सोगतम्
+why: Semivowel: उ → व्.
+
+q: पो + अनः →
+* पवनः
+- पोनः
+- पावनः
+why: ओ → अव् before a vowel.
+
+q: Why no sandhi in कवी इमौ?
+* कवी is a dual in ई, which is प्रगृह्य
+- इमौ blocks sandhi
+- It is a compound
+why: 1.1.11: dual ई / ऊ / ए do not combine.
+
+q: The gap in योत्स्य इति (2.9) comes from:
+* ए → अय्, and the य् dropped before a vowel
+- a misprint
+- प्रगृह्य
+why: योत्स्ये + इति → योत्स्यय् इति → योत्स्य इति.
+@end

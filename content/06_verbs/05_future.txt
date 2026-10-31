@@ -1,0 +1,116 @@
+@title భవిష్యత్ కాలం · Futures and the conditional (लृट्, लुट्, लृङ्)
+@summary The simple future in -स्य- (करिष्यति, भविष्यति), the rule of the connecting इ (सेट् / अनिट्), the periphrastic future (कर्ता, कर्तास्मि), and the conditional for unreal "if … would have" sentences.
+
+## लृट्: the simple future
+Root (with guṇa) + **स्य** or **इष्य** + the present endings (स्यतासी लृलुटोः 3.1.33). It covers all future time, like Telugu చేస్తాను.
+
+| परस्मैपद: कृ | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | करिष्यति | करिष्यतः | करिष्यन्ति |
+| మధ్యమ | करिष्यसि | करिष्यथः | करिष्यथ |
+| ఉత్తమ | करिष्यामि | करिष्यावः | करिष्यामः |
+
+| आत्मनेपद: लभ् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | लप्स्यते | लप्स्येते | लप्स्यन्ते |
+| మధ్యమ | लप्स्यसे | लप्स्येथे | लप्स्यध्वे |
+| ఉత్తమ | लप्स्ये | लप्स्यावहे | लप्स्यामहे |
+
+> [memory] "स्य" = రేపు :: When you see -ष्य- / -स्य- before a present ending, think "will": भविष्यति, गमिष्यति, करिष्यामि. The endings are exactly those of भवति / लभते, so the future is a present tense on a new stem.
+
+## सेट्, अनिट्, वेट्: with or without इ
+Roots differ in whether they insert इ (इट्) before -स्य-:
+
+| Type | Meaning | Examples |
+|---|---|---|
+| सेट् | takes इ | भू → भविष्यति, पठ् → पठिष्यति, गम् → गमिष्यति, कृ → करिष्यति (ऋ-ending roots take इ in the future, 7.2.70) |
+| अनिट् | no इ | दा → दास्यति, स्था → स्थास्यति, नी → नेष्यति, श्रु → श्रोष्यति, दृश् → द्रक्ष्यति, वच् → वक्ष्यति, युध् → योत्स्यते, लभ् → लप्स्यते, आप् → आप्स्यति, भुज् → भोक्ष्यते |
+| वेट् | either | गुह् → गूहिष्यति / घोक्ष्यति |
+
+> [memory] The anit verse :: Most roots ending in a vowel other than ऊ and ॠ (and ऋ in the future) are अनिट्; one-syllable consonant roots are सेट् unless they are in the traditional list of about 100 अनिट् roots (शक्, पच्, मुच्, रिच्, वच्, सिच्, प्रछ्, त्यज्, …). In practice: learn the future with each new verb, as you learnt the present.
+
+### Sandhi when there is no इ
+Consonant + स्य changes:
+- क् / ग् / च् / ज् / श् / ष् / ह् + स्य → **क्ष्य**: वच् → वक्ष्यति, दृश् → द्रक्ष्यति, भुज् → भोक्ष्यते, त्यज् → त्यक्ष्यति
+- त् / द् / ध् + स्य → **त्स्य**: युध् → योत्स्यते, विद् → वेत्स्यति
+- प् / ब् / भ् + स्य → **प्स्य**: लभ् → लप्स्यते, आप् → आप्स्यति
+- न्श् (नश्) → **ङ्क्ष्य**: नश् → नङ्क्ष्यति, वि + नश् → विनङ्क्ष्यसि (18.58)
+
+## लुट्: the periphrastic future
+The agent noun in -तृ (కర్త) used as a verb: definite future, "not today" (अनद्यतने लुट् 3.3.15). Third person uses the bare agent noun; first and second add अस्:
+
+| लुट्: कृ | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | कर्ता | कर्तारौ | कर्तारः |
+| మధ్యమ | कर्तासि | कर्तास्थः | कर्तास्थ |
+| ఉత్తమ | कर्तास्मि | कर्तास्वः | कर्तास्मः |
+
+- श्वः अहं गन्तास्मि "రేపు నేను వెళ్తాను" (tomorrow, so not today: लुट्)
+- भविता "will be" (2.20 भूत्वा भविता वा न भूयः)
+- द्रष्टासि "you will see"
+
+> [compare] Telugu -వాడు + ఉన్నాడు :: Telugu చేసేవాడిని "I am the one who will do" is close in spirit: an agent noun plus "be". Sanskrit कर्तास्मि = కర్తను (నేను చేయబోయేవాడిని).
+
+## लृङ्: the conditional (క్రియాతిపత్తి)
+अ + future stem + imperfect endings: अकरिष्यत्, अभविष्यत्, अगमिष्यत्. Used when the condition did **not** happen (लिङ्निमित्ते लृङ् क्रियातिपत्तौ 3.3.139):
+
+| Sanskrit | Telugu |
+|---|---|
+| यदि वृष्टिः अभविष्यत् तर्हि सुभिक्षम् अभविष्यत् | వర్షం పడి ఉంటే పంట బాగా పండి ఉండేది |
+| यदि त्वम् आगमिष्यः तर्हि अहम् अद्रक्ष्यम् | నువ్వు వచ్చి ఉంటే నేను చూసి ఉండేవాణ్ణి |
+| यद्यहं तत्र नागमिष्यम् … | నేను అక్కడికి వెళ్ళకపోయి ఉంటే … |
+
+> [memory] Telugu -ఇ ఉంటే … -ఇ ఉండేది :: Whenever Telugu uses "-ఇ ఉంటే … ఉండేది" (contrary to fact), Sanskrit uses the conditional on both sides. For a real, open condition (వస్తే, చూస్తాను) use present / future or the optative: यदि आगच्छसि तर्हि द्रक्ष्यामि.
+
+## Future participles
+- करिष्यन् / करिष्यन्ती "who will do" (परस्मैपद)
+- करिष्यमाणः "who will do" (आत्मनेपद)
+
+They decline like present participles (lesson 7.2).
+
+@ex gita:2:37
+split: हतः वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् । तस्मात् उत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥
+w: हतः = చంపబడినవాడివై; वा … वा = అయితే … లేదా; प्राप्स्यसि = పొందుతావు (लृट् P, प्र + आप्); स्वर्गम् = స్వర్గాన్ని; जित्वा = గెలిచి; भोक्ष्यसे = అనుభవిస్తావు (लृट् Ā, भुज्); महीम् = భూమిని; तस्मात् = అందువల్ల; उत्तिष्ठ = లే; युद्धाय = యుద్ధానికి; कृतनिश्चयः = నిశ్చయం చేసుకున్నవాడివై
+note: Two futures side by side: प्राप्स्यसि (parasmaipada, आप् + स्य, अनिट्) and भोक्ष्यसे (ātmanepada, भुज् + स्य → भोक्ष्य).
+@end
+
+@ex gita:18:58
+split: मच्चित्तः सर्वदुर्गाणि मत्प्रसादात् तरिष्यसि । अथ चेत् त्वम् अहङ्कारात् न श्रोष्यसि विनङ्क्ष्यसि ॥
+note: तरिष्यसि (तॄ, सेट्), श्रोष्यसि (श्रु, अनिट्), विनङ्क्ष्यसि (वि + नश्, अनिट्). Three futures in one verse, with an open condition (चेत् + future).
+@end
+
+@ex gita:18:73
+note: करिष्ये "I shall do": future of कृ in the ātmanepada (करिष्य + ए).
+@end
+
+@quiz
+q: The future sign is:
+* -स्य- / -इष्य-
+- -य-
+- -अय-
+why: करिष्यति, दास्यति. (य alone is class 4 or the passive.)
+
+q: Future of दृश्:
+* द्रक्ष्यति
+- दर्शिष्यति
+- पश्यिष्यति
+why: अनिट्; श् + स्य → क्ष्य; the vowel ऋ becomes र after the consonant (रम्).
+
+q: योत्स्ये (2.9) is the future of:
+* युध्, ātmanepada 1 sg.
+- यज्
+- युज्
+why: युध् + स्य → योत्स्य (guṇa, ध् + स् → त्स्); + ए.
+
+q: "నువ్వు వచ్చి ఉంటే చూసి ఉండేవాణ్ణి" needs:
+* the conditional (लृङ्) in both clauses
+- the present
+- the perfect
+why: Unreal past condition: यदि त्वम् आगमिष्यः, अहम् अद्रक्ष्यम्.
+
+q: कर्तास्मि means:
+* I will do (periphrastic future)
+- I am doing
+- I was a doer
+why: Agent noun कर्ता + अस्मि; लुट्.
+@end

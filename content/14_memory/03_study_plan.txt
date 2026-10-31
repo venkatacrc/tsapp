@@ -1,0 +1,126 @@
+@title అధ్యయన ప్రణాళిక · A study plan, and what comes next
+@summary A twelve-month plan through this course with daily routines of 15, 30 and 60 minutes and a milestone for each month; what to read after the course, in order of difficulty; the reference books to own; and an honest account of what "all the rules" in this course does and does not cover.
+
+## A year through the course
+The plan assumes 30 minutes a day, six days a week. With 15 minutes, take two years; with an hour, nine months. The order is the order of the lessons: each unit uses the ones before it.
+
+@nocards
+| నెల | పాఠాలు | ఈ నెల చివరకు మీరు చేయగలరు |
+|---|---|---|
+| 1 | units 0, 1 and 2 | read any verse of the Gītā aloud from Devanagari, with correct lengths |
+| 2 | unit 3; lessons 4.1–4.4 | introduce yourself and talk about your day in simple Sanskrit; recite राम, वन, रमा |
+| 3 | lessons 4.5–4.11; unit 5 | decline any common noun and pronoun; count to a hundred |
+| 4 | lessons 6.1–6.5 | conjugate any verb of the first class in the present, past and future |
+| 5 | lessons 6.6–6.10 | recognise commands, "should" forms, passives and causatives; know the 22 prefixes |
+| 6 | unit 7; lessons 13.1, 13.2 | read the subhāṣitas and daily prayers with full understanding |
+| 7 | unit 8 | split the sandhi of any Gītā verse |
+| 8 | unit 9; lesson 13.8 | unpack the compounds in the Sahasranāma names |
+| 9 | units 10 and 11; lessons 13.3–13.5 | read the Gītā readers and put any verse into prose order (anvaya) |
+| 10 | unit 12; lessons 13.6 and 13.10 | scan the metre of a stotra verse; read the great stotras |
+| 11 | lessons 13.7, 13.9, 13.11 | read the Sahasranāma opening and closing and Bhaja Govindam unaided |
+| 12 | unit 14; free reading | read a whole Gītā chapter with only a dictionary |
+
+> [memory] One milestone a month :: Write the twelve milestones on a card and tick them off. A month that ends without its milestone is not a failure: repeat it. Slow and complete beats fast and patchy, because every unit is built on the one before.
+
+## Daily routines
+@nocards
+| సమయం | రోజువారీ పని |
+|---|---|
+| 15 minutes | 5 min: flash cards due today. 7 min: one section of the current lesson, read aloud. 3 min: recite one table or verse from memory. |
+| 30 minutes | 10 min: flash cards due today. 15 min: the current lesson, with its worked examples and quiz. 5 min: recite your anchor verses (lesson 14.1). |
+| 60 minutes | 15 min: flash cards. 25 min: the current lesson. 10 min: one verse from unit 13, split and parsed in a notebook. 10 min: chant a table or a stotra aloud. |
+
+> [memory] Never skip the cards :: If you have only five minutes, spend them on the cards due today. The lessons can wait a day; the spacing of the reviews cannot.
+
+Once a week, take a day off from new material: redo the quizzes of the last three lessons, and recite everything you have memorised. On that day also write out one verse from memory with its anvaya and word meanings.
+
+## Habits that make the difference
+- **Read aloud.** Sanskrit was made to be heard. Every table, rule and verse goes in faster through the ear and mouth than through the eye.
+- **Keep a notebook.** For each verse you study: the verse, the split, the anvaya, each word with its form (e.g. "रामाय: राम, m, 4th sing."), and the meaning in Telugu.
+- **Parse everything.** For every word you read, ask: noun or verb? Which case, number, gender, or which person, number, lakāra? Once this is a habit, reading becomes easy.
+- **Use your Telugu.** When a word looks familiar, check the Telugu meaning against the Sanskrit one (lesson 14.1 lists the false friends).
+- **Recite with a group.** If there is a Gītā or Sahasranāma group near you, join it. Group chanting is the pāṭhaśālā method, and it works.
+
+## What to read next
+These texts are listed from easiest to hardest. Each one uses grammar from this course and adds vocabulary.
+
+@nocards
+| గ్రంథం | ఎందుకు | ఈ కోర్సులో సంబంధిత పాఠాలు |
+|---|---|---|
+| हितोपदेशः (मित्रलाभः) | simple prose stories with verses; the traditional first reader | 13.1 |
+| पञ्चतन्त्रम् | more stories, a little harder | 13.1 |
+| नलोपाख्यानम् (Mahābhārata) | epic anuṣṭubh, simple and regular; a classic first long text | 12.2 |
+| सङ्क्षेपरामायणम् (Rāmāyaṇa 1.1) | 100 easy ślokas telling the whole story | 12.2, 13.3 |
+| श्रीमद्भगवद्गीता, complete | you have read many verses; now read all 700 | 13.3–13.6 |
+| ईश, केन, कठ उपनिषद् | short, famous, a little Vedic in places | 13.2 |
+| भर्तृहरेः नीतिशतकम् | classical verses in many metres | 12.4, 13.1 |
+| रघुवंशम् (cantos 1–2) | Kālidāsa; the gateway to kāvya | 9.5, 12.3 |
+| मेघदूतम् | Kālidāsa's mandākrāntā poem | 12.4 |
+| शङ्करभाष्यम् on the Gītā | philosophical prose; long compounds and dialectic | 9.5, 11.3 |
+
+> [telugu] Telugu editions help :: Most of these texts are available with Telugu meanings (ప్రతిపదార్థ, తాత్పర్య), for example from the Gita Press, TTD and the Ramakrishna Math. A Telugu word-by-word gloss beside the Sanskrit is the fastest way to read for a Telugu speaker.
+
+## Reference books
+@nocards
+| పుస్తకం | ఏమిటి | ఎప్పుడు వాడాలి |
+|---|---|---|
+| शब्दमञ्जरी | the traditional book of noun and pronoun tables | to look up or chant any declension |
+| धातुरूपमञ्जरी (or any dhāturūpa book) | full verb tables for common roots | to look up any verb form |
+| अमरकोशः | the classical thesaurus, in verse | to learn vocabulary by memory, the traditional way |
+| लघुसिद्धान्तकौमुदी (Varadarāja) | Pāṇini's grammar arranged for students, with derivations | after this course, to learn grammar the traditional way |
+| M. R. Kale, *A Higher Sanskrit Grammar* | a complete reference grammar in English | to check any rule in detail |
+| V. S. Apte, *The Practical Sanskrit-English Dictionary* | the best dictionary for Classical texts | daily reading |
+| Monier-Williams, *A Sanskrit-English Dictionary* | the largest dictionary, with roots and sources | for rare words |
+| బాలవ్యాకరణం (Chinnaya Sūri) | the classical Telugu grammar | to compare Telugu and Sanskrit terms |
+
+> [note] Online tools :: The Gita Supersite of IIT Kanpur has the Gītā with several commentaries and translations. sanskritdocuments.org has stotras in many scripts, including Telugu. The Sanskrit Heritage site (Gérard Huet) can split sandhi and parse words automatically: use it to check your own parsing, not to replace it.
+
+> [note] Speaking :: Saṃskṛta Bhāratī runs short spoken-Sanskrit camps (सम्भाषण शिबिर) in many cities and online. Ten days of speaking does more for fluency than months of reading.
+
+## What "all the rules" covers in this course
+This course sets out to teach the whole grammar of Classical Sanskrit, the language of the Gītā, the purāṇas, the stotras and kāvya. It covers:
+- the script and every sound, with the Telugu–Devanagari mapping;
+- every major noun class and the irregular nouns, all pronouns and numbers;
+- all ten lakāras, both padas, the ten gaṇas, passives, the four derived verbs and the 22 prefixes;
+- all participles, absolutives, infinitives and gerundives, and the main kṛt and taddhita suffixes;
+- all vowel, consonant and visarga sandhi rules you will meet in texts;
+- every type of compound and how to unpack long ones;
+- the kārakas, the words that govern cases, absolute constructions and anvaya;
+- the main metres of the Gītā and the stotras.
+
+It leaves out some things on purpose:
+
+@nocards
+| వదిలేసినది | ఎందుకు | ఎక్కడ నేర్చుకోవాలి |
+|---|---|---|
+| Vedic accent (उदात्त, अनुदात्त, स्वरित) and Vedic grammar (लेट्, Vedic infinitives, old forms) | not used in Classical texts; Vedic recitation is learned from a teacher | a veda pāṭhaśālā; Macdonell's *Vedic Grammar for Students* |
+| full Pāṇinian derivation (प्रक्रिया) of every form, sūtra by sūtra | the course quotes key sūtras but teaches patterns, which is enough for reading | लघुसिद्धान्तकौमुदी, then सिद्धान्तकौमुदी |
+| the forms of all roots | there are about 2000 roots; the course teaches the patterns and 30 key verbs | a dhāturūpa book |
+| rare and archaic forms (e.g. rarely used aorist and perfect forms, some irregular nouns) | you will meet them once in a long text | Kale's grammar, a dictionary |
+| poetics (अलङ्कार, ध्वनि, रस) | it is a subject of its own, built on top of grammar | Kuvalayānanda, Kāvyaprakāśa |
+| the rarer metres and Vedic metres | the course covers those of the Gītā and the common stotras | Vṛttaratnākara |
+
+> [memory] Enough to read, then the rest by reading :: The goal of the course is that you can pick up the Gītā, a stotra or a purāṇa and read it with a dictionary. Everything left out is best learned in the way the tradition learned it: by meeting it in texts you love.
+
+@quiz
+q: You have only ten minutes today. What should you do first?
+* the flash cards due today
+- a new lesson
+- a quiz you have already passed
+- read a new text
+why: The spacing of reviews is what makes memories last. A new lesson can wait a day; due cards should not.
+
+q: Which book is the traditional collection of noun tables?
+* शब्दमञ्जरी
+- अमरकोशः
+- लघुसिद्धान्तकौमुदी
+- वृत्तरत्नाकरः
+why: शब्दमञ्जरी is the book of declensions. अमरकोशः is a thesaurus, लघुसिद्धान्तकौमुदी a grammar and वृत्तरत्नाकरः a book on metre.
+
+q: Which of these does this course leave out?
+* the Vedic pitch accent
+- visarga sandhi
+- the dual number
+- the aorist
+why: The Vedic accent is not used in Classical Sanskrit and is learned from a teacher in veda study. The other three are taught in full.
+@end

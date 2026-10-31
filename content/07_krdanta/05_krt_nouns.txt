@@ -1,0 +1,103 @@
+@title కృత్ నామాలు · Nouns made from roots (कृत् प्रत्यय)
+@summary Most Sanskrit nouns (and thousands of Telugu ones) are a root plus a कृत् suffix: कर्ता, कारकः, करणम्, कृतिः, कार्यम्, कर्म. The suffixes for doers, actions, instruments and qualities, the guṇa and vṛddhi they cause, and how the names of Viṣṇu (भूतकृत्, भूतभृत्, भावनः, भर्ता) are built.
+
+## The doer (కర్త)
+| Suffix | Result | Examples | Telugu |
+|---|---|---|---|
+| तृच् (-तृ) | agent noun, declines like पितृ / दातृ | कर्ता, भर्ता, नेता, दाता, श्रोता, वक्ता, द्रष्टा, धाता | కర్త, భర్త, నేత, దాత, శ్రోత, వక్త, ద్రష్ట |
+| ण्वुल् (-अक, vṛddhi) | doer | कारकः, पाठकः, गायकः, नायकः, लेखकः, पालकः | కారకుడు, పాఠకుడు, గాయకుడు, నాయకుడు |
+| णिनि (-इन्) | habitual doer | कारी, स्थायी, गामी, द्वेषी, योगी, त्यागी | స్థాయి, యోగి, త్యాగి |
+| -अ (अच्, क) | doer | चरः, सर्पः, देवः, बुधः, प्रियः | చరం, సర్పం |
+| -उ (desideratives) | wanting to | जिज्ञासुः, मुमुक्षुः, बुभुक्षुः, युयुत्सुः, भिक्षुः | జిజ్ఞాసువు, ముముక్షువు, భిక్షువు |
+| -इष्णु | inclined to | सहिष्णुः, वर्धिष्णुः, भ्राजिष्णुः | సహిష్ణుత |
+| -आलु | full of | दयालुः, श्रद्धालुः, निद्रालुः | దయాళువు |
+
+> [memory] Feminine agents :: -तृ → -त्री: कर्त्री, दात्री, धात्री (nurse, mother), जनयित्री. -अक → -इका: पाठिका, गायिका, नायिका, बालिका. -इन् → -इनी: योगिनी, स्वामिनी. Telugu has them: నాయిక, గాయని, యోగిని, ధాత్రి.
+
+## The doer at the end of a compound (उपपद)
+A short root form attached to a preceding noun:
+
+| Suffix | Examples | Meaning | Telugu |
+|---|---|---|---|
+| क्विप् (bare root) | भूतकृत्, भूतभृत्, सर्ववित्, धर्मवित्, सत्यजित्, विश्वसृज् | maker, bearer, knower, winner | |
+| -ज | जलजम्, पङ्कजम्, अग्रजः, द्विजः | born in / of | జలజం, పంకజం, అగ్రజుడు, ద్విజుడు |
+| -ग | सर्वगः, खगः, उरगः, तुरगः | going | ఖగం, ఉరగం, తురగం |
+| -द | सुखदः, वरदः, जलदः, नीरदः | giving | వరదుడు, జలదం |
+| -स्थ | गृहस्थः, योगस्थः (2.48), तटस्थः | standing / staying | గృహస్థుడు, తటస్థుడు |
+| -ज्ञ | सर्वज्ञः, क्षेत्रज्ञः, धर्मज्ञः | knowing | సర్వజ్ఞుడు |
+| -कर / -कार | सुखकरः, कुम्भकारः, ग्रन्थकारः | making | కుమ్మరి (కుంభకారుడు), గ్రంథకర్త |
+| -हन् | शत्रुहन्, वृत्रहन्, मधुहन् | slayer | |
+| -पा / -प | गोपः, नृपः | protector | గోపాలుడు, నృపుడు |
+
+## The action (భావం)
+| Suffix | Gender | Examples | Telugu |
+|---|---|---|---|
+| ल्युट् (-अन) | neuter | करणम्, गमनम्, भोजनम्, दर्शनम्, श्रवणम्, स्मरणम्, शयनम् | కరణం, గమనం, భోజనం, దర్శనం, శ్రవణం, స్మరణం, శయనం |
+| क्तिन् (-ति) | feminine | कृतिः, गतिः, मतिः, भक्तिः, शक्तिः, स्मृतिः, बुद्धिः, सिद्धिः, मुक्तिः, शान्तिः | కృతి, గతి, మతి, భక్తి, శక్తి, స్మృతి, బుద్ధి, సిద్ధి, ముక్తి, శాంతి |
+| घञ् (-अ, guṇa / vṛddhi) | masculine | भावः, योगः, भोगः, त्यागः, रागः, शोकः, बोधः, वेदः, कामः, क्रोधः, लोभः, मोहः | భావం, యోగం, భోగం, త్యాగం, రాగం, శోకం, బోధ, వేదం |
+| -आ (अ + टाप्) | feminine | पूजा, चिन्ता, कथा, इच्छा, जिज्ञासा, पिपासा | పూజ, చింత, కథ, ఇచ్ఛ, జిజ్ఞాస |
+| -मन् | neuter (some masc.) | कर्म, जन्म, धर्म, नाम, ब्रह्म, वर्त्म | కర్మ, జన్మ, ధర్మం, నామం |
+| -अस् | neuter | मनः, तपः, यशः, तेजः, वचः, चेतः | మనసు, తపస్సు, యశస్సు, తేజస్సు |
+
+> [memory] घञ् can show a hidden velar :: Roots in च् / ज् often show क् / ग् in the घञ् noun (चजोः कु घिण्ण्यतोः 7.3.52): युज् → योग, भुज् → भोग, त्यज् → त्याग, रञ्ज् → राग, शुच् → शोक, पच् → पाक, वच् → वाक्य. So योग and युक्त come from the same root युज्.
+
+## The instrument and the place
+| Suffix | Meaning | Examples | Telugu |
+|---|---|---|---|
+| ष्ट्रन् (-त्र) | instrument | नेत्रम् (नी), श्रोत्रम् (श्रु), शस्त्रम् (शस्), पात्रम् (पा), वस्त्रम् (वस्), मन्त्रः (मन्), गात्रम् | నేత్రం, శ్రోత్రం, శస్త్రం, పాత్ర, వస్త్రం, మంత్రం |
+| ल्युट् (-अन) | instrument / place | करणम् (instrument), आसनम् (seat), नयनम् (eye), शयनम् (bed), स्थानम् (place) | ఆసనం, నయనం, స్థానం |
+| -इत्र | instrument | खनित्रम् (spade), पवित्रम् (purifier) | పవిత్రం |
+
+## A name analysed: Viṣṇu Sahasranāma 1
+@ex vs:stotram:1
+split: विश्वं विष्णुः वषट्कारः भूतभव्यभवत्प्रभुः । भूतकृत् भूतभृत् भावः भूतात्मा भूतभावनः ॥
+w: विश्वम् = విశ్వం (विश् "enter" + व); विष्णुः = వ్యాపించేవాడు (विष् "pervade" + नु); वषट्कारः = వషట్కారం (-कार, घञ्); भूतभव्यभवत्प्रभुः = భూత-భవిష్యత్-వర్తమానాలకు ప్రభువు (भूत PPP, भव्य gerundive, भवत् pres. participle, प्रभु = प्र + भू + डु); भूतकृत् = భూతాలను సృష్టించేవాడు (क्विप्); भूतभृत् = భూతాలను భరించేవాడు (क्विप्); भावः = ఉనికి (घञ्); भूतात्मा = భూతాల ఆత్మ; भूतभावनः = భూతాలను పోషించేవాడు (causative भावि + ल्यु)
+note: One verse, nine kṛt formations. भूत-भव्य-भवत् is the whole time system in three participles: past (भूत), future (भव्य, "to be"), present (भवत्).
+@end
+
+@ex vs:stotram:4
+split: सर्वः शर्वः शिवः स्थाणुः भूतादिः निधिः अव्ययः । सम्भवः भावनः भर्ता प्रभवः प्रभुः ईश्वरः ॥
+note: सम्भवः, प्रभवः (घञ् / अप् of भू with prefixes), भावनः (causative + ल्यु "who makes things be"), भर्ता (तृच् of भृ "supporter"), प्रभुः (प्र + भू), निधिः (नि + धा + कि), ईश्वरः (ईश् + वरच्).
+@end
+
+@ex gita:4:13
+note: कर्तारम् "the doer" and अकर्तारम् "the non-doer": the -तृ agent noun of कृ in the 2nd case. सृष्टम्: past participle of सृज्.
+@end
+
+@quiz
+q: The agent noun (-तृ) of नी:
+* नेता
+- नायकः
+- नीतृ (only)
+why: guṇa + तृ: नेतृ, 1st case नेता. (नायकः is the -अक agent.)
+
+q: योग and युक्त come from:
+* युज्
+- यु
+- योग्
+why: घञ् shows the hidden velar: युज् → योग.
+
+q: भक्ति belongs to which suffix?
+* क्तिन् (-ति), feminine
+- ल्युट् (-अन)
+- घञ् (-अ)
+why: भज् + ति → भक्ति.
+
+q: जलजम् (lotus) literally means:
+* born in water
+- giver of water
+- going in water
+why: -ज "born": जल + ज.
+
+q: Which suffix makes नेत्रम् (eye, "that which leads")?
+* -त्र (instrument)
+- -मन्
+- -अस्
+why: नी + त्र.
+
+q: भूतकृत् in the Sahasranāma means:
+* maker of beings
+- one made by beings
+- who was made
+why: Upapada + bare root (क्विप्): भूत + कृत्.
+@end

@@ -1,0 +1,114 @@
+@title వృత్తాలు · The classical metres of the stotras, and Telugu metres
+@summary The fixed-pattern metres (vṛttas) of the dhyāna ślokas and stotras: శార్దూలవిక్రీడితం, మందాక్రాంత, వసంతతిలక, శాలిని, తోటకం, భుజంగప్రయాతం, స్రగ్విణి, పంచచామరం, మాలిని, స్రగ్ధర. Each with its gaṇas and a verse you may already know. Then Telugu's ఉత్పలమాల, చంపకమాల, శార్దూలం and మత్తేభం compared, and the two big differences: ప్రాస and యతి.
+
+## The metres
+| Metre | Syll. | Gaṇas | Pattern | Yati after | Example |
+|---|---|---|---|---|---|
+| शालिनी | 11 | म त त ग ग | ऽऽऽ ऽऽ। ऽऽ। ऽऽ | 4 | माता रामो मत्पिता रामचन्द्रः |
+| तोटक | 12 | स स स स | ।।ऽ ।।ऽ ।।ऽ ।।ऽ | — | विदिताखिलशास्त्रसुधाजलधे |
+| भुजङ्गप्रयात | 12 | य य य य | ।ऽऽ ।ऽऽ ।ऽऽ ।ऽऽ | 6 | Subrahmaṇya-bhujaṅgam |
+| स्रग्विणी | 12 | र र र र | ऽ।ऽ ऽ।ऽ ऽ।ऽ ऽ।ऽ | 6 | अच्युतं केशवं रामनारायणम् |
+| वंशस्थ | 12 | ज त ज र | ।ऽ। ऽऽ। ।ऽ। ऽ।ऽ | — | नमोऽस्त्वनन्ताय सहस्रमूर्तये |
+| वसन्ततिलका | 14 | त भ ज ज ग ग | ऽऽ। ऽ।। ।ऽ। ।ऽ। ऽऽ | 8 | वन्दे मुकुन्दमरविन्ददलायताक्षम् |
+| मालिनी | 15 | न न म य य | ।।। ।।। ऽऽऽ ।ऽऽ ।ऽऽ | 8 | |
+| पञ्चचामर | 16 | ज र ज र ज ग | ।ऽ। ऽ।ऽ ।ऽ। ऽ।ऽ ।ऽ। ऽ | 8 | जटाटवीगलज्जलप्रवाहपावितस्थले |
+| मन्दाक्रान्ता | 17 | म भ न त त ग ग | ऽऽऽ ऽ।। ।।। ऽऽ। ऽऽ। ऽऽ | 4, 10 | शान्ताकारं भुजगशयनम् |
+| शार्दूलविक्रीडित | 19 | म स ज स त त ग | ऽऽऽ ।।ऽ ।ऽ। ।।ऽ ऽऽ। ऽऽ। ऽ | 12 | Gītā dhyānam 1, 6, 9 |
+| स्रग्धरा | 21 | म र भ न य य य | ऽऽऽ ऽ।ऽ ऽ।। ।।। ।ऽऽ ।ऽऽ ।ऽऽ | 7, 14 | क्षीरोदन्वत्प्रदेशे (Sahasranāma dhyānam 1) |
+
+> [memory] Hear the metre in the name :: Many names are self-describing. भुजङ्गप्रयात "the gliding of a snake" (।ऽऽ ।ऽऽ: ta-TUM-TUM), तोटक (।।ऽ: ta-ta-TUM, a trotting beat), मन्दाक्रान्ता "slow-stepping" (long run of heavies, then a run of lights), शार्दूलविक्रीडित "the tiger's play" (a long, bounding line). Chant one verse of each and the pattern sticks.
+
+## Examples
+@ex
+title: तोटकाष्टकम् 1 (Toṭakācārya)
+sa: विदिताखिलशास्त्रसुधाजलधे महितोपनिषत्कथितार्थनिधे । / हृदये कलये विमलं चरणं भव शङ्कर देशिक मे शरणम् ॥
+meter: तोटक (स स स स)
+te: సమస్త శాస్త్రాలనే అమృత సముద్రాన్ని ఎరిగినవాడా, ఉపనిషత్తులు చెప్పిన అర్థానికి నిధీ! నీ నిర్మలమైన పాదాన్ని హృదయంలో ధ్యానిస్తాను. ఓ శంకర దేశికా, నాకు శరణు అవ్వు.
+en: O ocean of the nectar of all scriptures, treasure of the meaning taught in the Upaniṣads: I meditate on your pure feet in my heart. O teacher Śaṅkara, be my refuge.
+note: वि दि ता · खि ल शास् · त्र सु धा · ज ल धे = ।।ऽ ।।ऽ ।।ऽ ।।ऽ. Four स gaṇas: ta-ta-TUM ×4.
+@end
+
+@ex
+title: अच्युताष्टकम् 1
+sa: अच्युतं केशवं रामनारायणं कृष्णदामोदरं वासुदेवं हरिम् । / श्रीधरं माधवं गोपिकावल्लभं जानकीनायकं रामचन्द्रं भजे ॥
+meter: स्रग्विणी (र र र र)
+te: అచ్యుతుని, కేశవుని, రాముని, నారాయణుని, కృష్ణుని, దామోదరుని, వాసుదేవుని, హరిని, శ్రీధరుని, మాధవుని, గోపికావల్లభుని, జానకీనాయకుని, రామచంద్రుని భజిస్తాను.
+en: I worship Acyuta, Keśava, Rāma, Nārāyaṇa, Kṛṣṇa, Dāmodara, Vāsudeva, Hari, Śrīdhara, Mādhava, the beloved of the gopīs, the lord of Jānakī, Rāmacandra.
+note: अच् यु तं · के श वं · रा म ना · रा य णं = ऽ।ऽ ऽ।ऽ ऽ।ऽ ऽ।ऽ. Every name is in the 2nd case, object of the single verb भजे (Ā, "I worship").
+@end
+
+@ex
+title: शिवताण्डवस्तोत्रम् 1
+sa: जटाटवीगलज्जलप्रवाहपावितस्थले गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् । / डमड्डमड्डमड्डमन्निनादवड्डमर्वयं चकार चण्डताण्डवं तनोतु नः शिवः शिवम् ॥
+meter: पञ्चचामर (ज र ज र ज ग)
+te: జడల అడవి నుండి జారే జలప్రవాహంతో పవిత్రమైన కంఠంపై పెద్ద సర్పమాలను వేలాడదీసుకొని, ఢమ ఢమ అనే నాదంతో ఢమరుకం మోగిస్తూ ప్రచండ తాండవం చేసిన శివుడు మాకు శుభాన్ని కలిగించుగాక.
+en: With the great serpent garland hanging on his neck, purified by streams flowing from the forest of his locks, Śiva danced the fierce tāṇḍava to the "ḍamaḍ-ḍamaḍ" of his drum. May Śiva grant us auspiciousness.
+note: ज टा ट · वी ग लज् · ज ल प्र · वा ह पा · वि त स्थ · ले = ।ऽ। ऽ।ऽ ।ऽ। ऽ।ऽ ।ऽ। ऽ: alternating light-heavy, sixteen syllables. The verse also shows long compounds and the perfect चकार (lesson 6.4).
+@end
+
+@ex vs:purva:Dhyānam 3
+meter: मन्दाक्रान्ता (म भ न त त ग ग)
+note: शान् ता का रं | भु ज ग श य नं | पद् म ना भं सु रे शम् = ऽऽऽऽ | ।।।।।ऽ | ऽ।ऽऽ।ऽऽ. The two pauses (after 4 and 10 syllables) divide each quarter into "slow – running – slow".
+@end
+
+@ex gita:0:1
+meter: शार्दूलविक्रीडित (म स ज स त त ग)
+note: (ॐ) पार् था य प्र ति बो धि तां भ ग व ता | ना रा य णे न स्व यम् = ऽऽऽ ।।ऽ ।ऽ। ।।ऽ ऽऽ। ऽऽ। ऽ. The ॐ stands outside the metre. Pause after the 12th syllable.
+@end
+
+## Telugu metres and their Sanskrit cousins
+| Telugu metre | Gaṇas | Syll. | Telugu yati | Sanskrit relation |
+|---|---|---|---|---|
+| ఉత్పలమాల | భ ర న భ భ ర వ (లగ) | 20 | 10th | a Sanskrit-pattern vṛtta used mostly in Telugu |
+| చంపకమాల | న జ భ జ జ జ ర | 21 | 11th | a Sanskrit-pattern vṛtta used mostly in Telugu |
+| శార్దూలం | మ స జ స త త గ | 19 | 13th | = शार्दूलविक्रीडित |
+| మత్తేభం | స భ ర న మ య వ (లగ) | 20 | 14th | = मत्तेभविक्रीडित |
+| కందం | 4-mātrā gaṇas | — | — | close to Sanskrit आर्या (a mātrā metre) |
+| తేటగీతి, ఆటవెలది, సీసం | సూర్య and ఇంద్ర gaṇas | — | — | Telugu ఉపజాతులు; no Sanskrit equivalent |
+
+> [compare] ప్రాస: Telugu has it, Sanskrit doesn't :: Every Telugu వృత్తం needs ప్రాస: the second syllable's consonant must be the same in all four lines. Sanskrit verse has no such rule; the Gītā's lines rhyme only by accident.
+
+> [compare] యతి means two different things :: Telugu యతి is a sound-harmony (యతిమైత్రి) between the first letter of a line and the letter at the yati position (e.g. the 13th in శార్దూలం). Sanskrit यति is just a pause (caesura) at a fixed position, ideally at a word boundary. When you recite a Sanskrit శార్దూలం, pause after the 12th syllable; when you write a Telugu శార్దూలం, match the 1st and 13th letters.
+
+## How to identify an unknown metre
+1. Count syllables per quarter: 8 → anuṣṭubh; 11 → triṣṭubh family; 12 → jagatī family (toṭaka, bhujaṅga, sragviṇī, vaṃśastha); 14 → vasantatilakā; 17 → mandākrāntā; 19 → śārdūla; 21 → sragdharā.
+2. Scan one quarter and split it into gaṇas.
+3. Check a second quarter: in a vṛtta all four should match.
+
+@quiz
+q: How many syllables in a śārdūlavikrīḍita quarter?
+* 19
+- 17
+- 21
+why: म स ज स त त ग = 6 × 3 + 1.
+
+q: Toṭaka is four of which gaṇa?
+* स (।।ऽ)
+- य (।ऽऽ)
+- र (ऽ।ऽ)
+why: वि-दि-ता: light, light, heavy.
+
+q: शान्ताकारं भुजगशयनं is in:
+* मन्दाक्रान्ता
+- शार्दूलविक्रीडित
+- अनुष्टुभ्
+why: 17 syllables: four heavies, five lights, then …
+
+q: Telugu ప్రాస is:
+* the same consonant in the 2nd syllable of every line; absent in Sanskrit
+- a pause, as in Sanskrit
+- the last syllable rhyme
+why: Sanskrit verse has no prāsa rule.
+
+q: Sanskrit यति is:
+* a pause at a fixed position
+- a letter harmony, as in Telugu
+- the first syllable
+why: Telugu యతి = sound harmony; Sanskrit यति = caesura.
+
+q: అచ్యుతం కేశవం రామనారాయణం is in:
+* स्रग्विणी (four र gaṇas)
+- भुजङ्गप्रयात
+- तोटक
+why: ऽ।ऽ ऽ।ऽ ऽ।ऽ ऽ।ऽ.
+@end

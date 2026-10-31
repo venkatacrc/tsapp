@@ -1,0 +1,127 @@
+@title వాక్య రీతులు · Sentence patterns
+@summary Agreement (which person wins in "you and I go"), sentences without a verb (रामः राजा), "I have" (मम अस्ति = నాకు ఉంది), questions and negation, relative clauses with यद् … तद् where Telugu uses a relative participle (చదివిన పుస్తకం), reported speech with इति, and word order.
+
+## Agreement
+| Rule | Example | Telugu |
+|---|---|---|
+| verb agrees with the subject in person and number | रामः गच्छति; बालाः गच्छन्ति | రాముడు వెళ్తాడు; పిల్లలు వెళ్తారు |
+| adjective agrees in gender, number, case | शुक्लाम्बरधरं विष्णुम्; दैवी सम्पत् | |
+| two singular subjects with च → dual verb | रामः लक्ष्मणः च गच्छतः | రాముడూ లక్ష్మణుడూ వెళ్తారు |
+| with अहम् among the subjects → 1st person | त्वं च अहं च गच्छावः | నువ్వూ నేనూ వెళ్తాము |
+| with त्वम् (no अहम्) → 2nd person | त्वं च सः च गच्छथः | నువ్వూ అతడూ వెళ్తారు |
+| subjects joined by वा → nearest subject | रामः वा सीता वा गच्छतु | |
+| mixed genders: adjective in masculine (or neuter if any neuter) | रामः सीता च गतौ | |
+
+> [memory] 1st beats 2nd beats 3rd :: When persons combine, the "closest" person wins: I > you > he. Telugu works the same (నువ్వూ నేనూ = మనం → వెళ్తాము).
+
+## Sentences with no verb
+अस्ति / भवति "is" is often left out (अस्तिर्भवन्तीपरः प्रथमपुरुषोऽप्रयुज्यमानोऽप्यस्ति):
+- रामः राजा "రాముడు రాజు"
+- अयं मे पुत्रः "వీడు నా కొడుకు"
+- शास्त्रं प्रमाणं ते (16.24) "శాస్త్రమే నీకు ప్రమాణం"
+
+> [compare] Telugu does this too :: Telugu రాముడు రాజు has no verb either. Both languages drop "is" in identity sentences; English cannot.
+
+## "I have"
+| Sanskrit | Telugu | Note |
+|---|---|---|
+| मम पुस्तकम् अस्ति | నాకు పుస్తకం ఉంది | Sanskrit 6th = Telugu dative |
+| तस्य द्वौ पुत्रौ स्तः | అతనికి ఇద్దరు కొడుకులు ఉన్నారు | |
+| मम ज्वरः अस्ति | నాకు జ్వరం ఉంది | |
+| मम कार्यं न अस्ति (3.22 न मे … अस्ति कर्तव्यम्) | నాకు పని లేదు | |
+
+## Questions
+| Kind | Sanskrit | Telugu |
+|---|---|---|
+| yes / no with किम् | किं त्वं गच्छसि? | నువ్వు వెళ్తున్నావా? |
+| yes / no with अपि (polite) | अपि कुशलं भवतः? | మీరు క్షేమమా? |
+| expecting yes: ननु | ननु त्वं रामः? | నువ్వు రాముడివే కదా? |
+| question words | कः, का, किम्, कुत्र, कदा, कथम्, कुतः, किमर्थम्, कति | ఎవరు, ఏమి, ఎక్కడ, ఎప్పుడు, ఎలా, ఎక్కడినుండి, ఎందుకు, ఎన్ని |
+| either-or | किं … उत …? / … वा … वा? | … ఆ లేక … ఆ? |
+
+## Negation
+| Form | Use | Example |
+|---|---|---|
+| न | ordinary "not" | न गच्छामि, न अस्ति |
+| नहि | "for not" / emphatic | नहि ज्ञानेन सदृशम् (4.38) |
+| मा | prohibition | मा गच्छ, मा शुचः |
+| न कदापि, न कुत्रापि, न कोऽपि | never, nowhere, nobody | न कोऽपि आगतः |
+| न … न | neither … nor | न जायते म्रियते वा |
+| न न / नासौ न | double negative = strong positive | न न गच्छति "he certainly goes" |
+
+## Relative clauses (यद् … तद्)
+Telugu builds relative clauses with a relative participle before the noun (నేను చదివిన పుస్తకం). Sanskrit uses a relative pronoun यद् in one clause and a correlative तद् in the other:
+
+| Telugu | Sanskrit |
+|---|---|
+| నేను చదివిన పుస్తకం మంచిది | यत् पुस्तकम् अहं पठितवान् तत् उत्तमम् |
+| వచ్చిన మనిషి నా స్నేహితుడు | यः आगतः सः मम मित्रम् |
+| ఎక్కడ కృష్ణుడో అక్కడ విజయం | यत्र कृष्णः तत्र विजयः (18.78) |
+| ఎప్పుడు ధర్మం క్షీణిస్తుందో అప్పుడు నేను వస్తాను | यदा धर्मस्य ग्लानिः तदा अहं सृजामि (4.7) |
+
+> [compare] Telugu has the correlative pattern too :: Telugu ఎవడు వస్తాడో వాడు నా స్నేహితుడు is word-for-word यः आगच्छति सः मम मित्रम्. The everyday Telugu relative participle (వచ్చిన) maps better to a Sanskrit participle: आगतः पुरुषः मम मित्रम्. Both Sanskrit patterns are correct; the यद्-तद् one is more common in verse.
+
+The full correlative series: यः–सः, यत्र–तत्र, यदा–तदा, यथा–तथा, यावत्–तावत्, यतः–ततः, यादृशः–तादृशः, यद्यद्–तत्तत् (3.21, "whatever… that").
+
+## Reported speech and thought (इति)
+Sanskrit always reports in direct speech, closed by इति:
+- सः "अहं गच्छामि" इति अवदत् "అతడు 'నేను వెళ్తాను' అని అన్నాడు" (English: he said that he would go)
+- कर्ताहम् इति मन्यते (3.27) "he thinks 'I am the doer'"
+- वासुदेवः सर्वम् इति (7.19) "(knowing) 'Vāsudeva is all'"
+- न योत्स्य इति (2.9) "'I shall not fight,' (saying) so"
+
+> [memory] Telugu అని = इति, word for word :: Telugu reports speech the same way: "వెళ్తాను" అని అన్నాడు. Sanskrit needs no change of person or tense; just copy the words and add इति. This is one of the easiest things for a Telugu speaker.
+
+## Word order
+Default: subject – object – verb, like Telugu (रामः फलं खादति = రాముడు పండు తింటాడు). Because endings show the roles, any order is grammatical; verse rearranges freely for metre. Tendencies:
+- the verb at the end in prose
+- adjectives before their noun (but often separated in verse)
+- vocatives anywhere, often second or at the line end (… कृष्ण …, … पार्थ …)
+- एव, अपि, च, तु right after the word they attach to
+
+@ex gita:2:69
+split: या निशा सर्वभूतानां तस्यां जागर्ति संयमी । यस्यां जाग्रति भूतानि सा निशा पश्यतः मुनेः ॥
+w: या = ఏది; निशा = రాత్రో; सर्वभूतानाम् = అన్ని ప్రాణులకు; तस्याम् = దానిలో; जागर्ति = మేలుకొని ఉంటాడు; संयमी = సంయమి; यस्याम् = దేనిలో; जाग्रति = మేలుకొని ఉంటాయో; भूतानि = ప్రాణులు; सा = అది; निशा = రాత్రి; पश्यतः = (సత్యాన్ని) చూచే; मुनेः = మునికి
+note: Two relative-correlative pairs: या … तस्याम्, यस्याम् … सा. The relative and correlative stand in different cases because each fits its own clause. सर्वभूतानाम्, मुनेः: 6th case "for".
+@end
+
+@ex gita:18:78
+split: यत्र योगेश्वरः कृष्णः यत्र पार्थः धनुर्धरः । तत्र श्रीः विजयः भूतिः ध्रुवा नीतिः मतिः मम ॥
+note: यत्र … यत्र … तत्र: two relative clauses, one correlative. No verb anywhere (अस्ति is understood). मतिः मम "(this is) my conviction": another verbless sentence.
+@end
+
+@ex gita:8:5
+note: यः प्रयाति सः … याति: relative and correlative. स्मरन् (present participle) and मुक्त्वा (absolutive) both belong to यः. न अस्ति अत्र संशयः "there is no doubt here".
+@end
+
+@quiz
+q: "నువ్వూ నేనూ వెళ్తాము":
+* त्वं च अहं च गच्छावः
+- त्वं च अहं च गच्छथः
+- त्वं च अहं च गच्छतः
+why: 1st person wins; two subjects → dual.
+
+q: "నాకు పుస్తకం ఉంది":
+* मम पुस्तकम् अस्ति
+- मह्यं पुस्तकम् अस्ति
+- अहं पुस्तकम् अस्मि
+why: Sanskrit uses the 6th case for possession.
+
+q: Sanskrit for "నేను చదివిన పుస్తకం" uses:
+* a यद्-तद् clause or a participle (पठितं पुस्तकम्)
+- a Telugu-style suffix on the verb
+- the infinitive
+why: यत् पुस्तकम् अहं पठितवान्, or मया पठितं पुस्तकम्.
+
+q: How does Sanskrit report "He said he would go"?
+* सः "गमिष्यामि" इति अवदत्
+- सः अवदत् यत् सः गमिष्यति
+- सः गमिष्यति अवदत्
+why: Direct speech + इति, like Telugu అని.
+
+q: अपि at the start of a question:
+* makes a polite yes/no question
+- means "also"
+- negates it
+why: अपि कुशलम्? "Are you well?"
+@end

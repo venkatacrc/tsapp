@@ -1,0 +1,101 @@
+@title చెయ్యి, రండి · Commands and requests (लोट्)
+@summary The imperative mood: telling a friend to do something, asking politely with भवान्, "let's…", and "don't…". The same forms as Kṛṣṇa's commands to Arjuna.
+
+## The imperative of पठ्
+| Person | Singular | Dual | Plural |
+|---|---|---|---|
+| ప్రథమ (let him…) | पठतु | पठताम् | पठन्तु |
+| మధ్యమ (you…!) | पठ | पठतम् | पठत |
+| ఉత్తమ (let me / us…) | पठानि | पठाव | पठाम |
+
+> [memory] Drop -సి for a command :: The 2nd singular imperative is just the stem: पठसि → पठ, गच्छसि → गच्छ, वदसि → वद. "You read" → "Read!" The plural is the present with ः dropped: पठथ → पठत (with त). Chant: पठतु पठताम् पठन्तु · पठ पठतम् पठत · पठानि पठाव पठाम.
+
+> [telugu] విధ్యర్థకం :: Telugu చదువు (to one), చదవండి (to many / politely), చదువుదాం (let's). Sanskrit: पठ, पठत, पठाम. For polite "please read", use the 3rd person with भवान्: भवान् पठतु = మీరు చదవండి.
+
+## Commands you will use
+| To a friend | Politely (भवान्) | Telugu |
+|---|---|---|
+| आगच्छ | आगच्छतु | రా / రండి |
+| गच्छ | गच्छतु | వెళ్ళు / వెళ్ళండి |
+| उपविश | उपविशतु | కూర్చో / కూర్చోండి |
+| उत्तिष्ठ | उत्तिष्ठतु | లే / లేవండి |
+| पश्य | पश्यतु | చూడు / చూడండి |
+| वद | वदतु | చెప్పు / చెప్పండి |
+| शृणु | शृणोतु | విను / వినండి |
+| पिब | पिबतु | తాగు / తాగండి |
+| खाद | खादतु | తిను / తినండి |
+| लिख | लिखतु | రాయి / రాయండి |
+| देहि | ददातु | ఇవ్వు / ఇవ్వండి |
+| आनय | आनयतु | తీసుకురా / తీసుకురండి |
+| कुरु | करोतु | చెయ్యి / చేయండి |
+| स्मर | स्मरतु | గుర్తుంచుకో |
+| क्षमस्व | क्षमताम् | క్షమించు / క్షమించండి |
+
+> [note] देहि, शृणु, कुरु are irregular :: Verbs outside the main class have their own imperatives: दा → देहि (give), श्रु → शृणु (listen), कृ → कुरु (do), अस् → एधि (be), हन् → जहि (kill). The last two appear in the Gītā (जहि शत्रुं महाबाहो, 3.43).
+
+## "Don't…": मा
+Put **मा** before the command. In classical texts मा takes the aorist (मा शुचः, मा भूः), but in speech मा + imperative is accepted:
+
+| Sanskrit | Telugu |
+|---|---|
+| मा गच्छ | వెళ్ళకు |
+| मा वद | మాట్లాడకు |
+| चिन्तां मा कुरु | చింతించకు |
+| मा भैषीः | భయపడకు |
+| मा शुचः | దుఃఖించకు (Gītā 18.66) |
+
+## "Let's…": the ఉత్తమ forms
+गच्छाम "let's go" (మనం వెళ్దాం), पठाम "let's read", भोजनं कुर्मः… In speech people also say गच्छामः (present) for "let's go".
+
+@ex gita:2:3
+note: क्लैब्यं मा स्म गमः: मा स्म + aorist without augment: "do not yield to unmanliness". A stronger prohibitive than plain मा.
+note: त्यक्त्वा उत्तिष्ठ "having given up, stand up!" उत्तिष्ठ is the 2nd singular imperative of उत् + स्था.
+@end
+
+@ex gita:18:66
+split: सर्वधर्मान् परित्यज्य माम् एकं शरणं व्रज । अहं त्वा सर्वपापेभ्यः मोक्षयिष्यामि मा शुचः ॥
+w: सर्वधर्मान् = అన్ని ధర్మాలను; परित्यज्य = విడిచి; माम् = నన్ను; एकम् = ఒక్కనినే; शरणम् = శరణుగా; व्रज = పొందు (लोट्); अहम् = నేను; त्वा = నిన్ను; सर्वपापेभ्यः = అన్ని పాపాల నుండి; मोक्षयिष्यामि = విడిపిస్తాను; मा शुचः = దుఃఖించకు
+note: व्रज "go (to)!" is a plain 2nd-singular imperative, exactly like पठ, गच्छ.
+note: मा शुचः "do not grieve": मा + aorist of शुच् without the augment अ.
+note: त्वा is a short form of त्वाम् "you" (acc.).
+@end
+
+@ex
+sa: कृपया उपविशतु । जलं पिबतु । भोजनं करोतु ।
+te: దయచేసి కూర్చోండి. నీళ్ళు తాగండి. భోజనం చేయండి.
+en: Please sit. Have some water. Have a meal.
+w: कृपया = దయచేసి; उपविशतु = కూర్చోండి; जलम् = నీళ్ళు; पिबतु = తాగండి; भोजनम् = భోజనం; करोतु = చేయండి
+note: All three are 3rd-person imperatives with भवान् understood: the polite way to address a guest.
+@end
+
+@quiz
+q: "Read!" (to a friend):
+* पठ
+- पठतु
+- पठामि
+why: The 2nd singular imperative is the bare stem.
+
+q: "చింతించకు" in Sanskrit:
+* चिन्तां मा कुरु
+- चिन्तां न कुरु
+- चिन्तां कुरु मा न
+why: मा marks prohibition. न is for statements.
+
+q: Polite "please come" to a guest:
+* आगच्छतु
+- आगच्छ
+- आगच्छामि
+why: The 3rd-person imperative goes with the polite भवान्.
+
+q: What is the imperative of दा (give), 2nd singular?
+* देहि
+- ददा
+- ददतु
+why: देहि is irregular: "give!" The polite form is ददातु.
+
+q: In Gītā 18.66, व्रज is:
+* 2nd person singular imperative: "go!"
+- Present tense: "you go"
+- Past tense
+why: व्रज = "go (to me for refuge)". Like गच्छ, पठ.
+@end

@@ -1,0 +1,110 @@
+@title నేను, నువ్వు · अस्मद् and युष्मद्
+@summary The full tables of "I" and "you", which have no gender, the short enclitic forms मा, मे, नः, त्वा, ते, वः that fill the Gītā, and the compound stems मत्-, त्वत्- (मत्प्रसादात्, मन्मनाः).
+
+## अस्मद् (I, we)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం | తెలుగు (ఏక / బహు) |
+|---|---|---|---|---|
+| 1 | अहम् | आवाम् | वयम् | నేను / మేము |
+| 2 | माम् (मा) | आवाम् (नौ) | अस्मान् (नः) | నన్ను / మమ్ము |
+| 3 | मया | आवाभ्याम् | अस्माभिः | నాచేత / మాచేత |
+| 4 | मह्यम् (मे) | आवाभ्याम् (नौ) | अस्मभ्यम् (नः) | నాకు / మాకు |
+| 5 | मत् (मत्तः) | आवाभ्याम् | अस्मत् | నా నుండి / మా నుండి |
+| 6 | मम (मे) | आवयोः (नौ) | अस्माकम् (नः) | నా / మా |
+| 7 | मयि | आवयोः | अस्मासु | నాయందు / మాయందు |
+
+## युष्मद् (you)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం | తెలుగు (ఏక / బహు) |
+|---|---|---|---|---|
+| 1 | त्वम् | युवाम् | यूयम् | నువ్వు / మీరు |
+| 2 | त्वाम् (त्वा) | युवाम् (वाम्) | युष्मान् (वः) | నిన్ను / మిమ్ము |
+| 3 | त्वया | युवाभ्याम् | युष्माभिः | నీచేత / మీచేత |
+| 4 | तुभ्यम् (ते) | युवाभ्याम् (वाम्) | युष्मभ्यम् (वः) | నీకు / మీకు |
+| 5 | त्वत् (त्वत्तः) | युवाभ्याम् | युष्मत् | నీ నుండి / మీ నుండి |
+| 6 | तव (ते) | युवयोः (वाम्) | युष्माकम् (वः) | నీ / మీ |
+| 7 | त्वयि | युवयोः | युष्मासु | నీయందు / మీయందు |
+
+> [memory] म for me, त्व for you; अस्म for us, युष्म for you all :: The singular forms start with म / त्व: माम् मया मह्यम् मत् मम मयि · त्वाम् त्वया तुभ्यम् त्वत् तव त्वयि. The plural with अस्म / युष्म: अस्मान् अस्माभिः अस्मभ्यम् अस्मत् अस्माकम् अस्मासु. Chant both columns together: మామ్-త్వామ్, మయా-త్వయా, మహ్యమ్-తుభ్యమ్, మత్-త్వత్, మమ-తవ, మయి-త్వయి.
+
+> [compare] No gender, as in Telugu :: నేను, నువ్వు have no gender in Telugu, and अहम्, त्वम् have none in Sanskrit. A man and a woman both say अहम्. Gender shows only on the adjective or participle: अहं गतवान् / गतवती.
+
+## The short (enclitic) forms
+The short forms in brackets cannot start a sentence or a verse quarter, and cannot follow च, वा, एव, ह directly in strict usage. They are everywhere in verse because they are short:
+
+| Short | Stands for | Example |
+|---|---|---|
+| मा | माम् | (rare in classical verse) |
+| मे | मह्यम् / मम | यो मे भक्त्या प्रयच्छति (9.26) "who offers to me"; रथं स्थापय मे (1.21) "my chariot" |
+| नः | अस्मान् / अस्मभ्यम् / अस्माकम् | कतरन्नो गरीयः (2.6) "which is better for us" |
+| त्वा | त्वाम् | अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि (18.66) |
+| ते | तुभ्यम् / तव | कर्मण्येवाधिकारस्ते (2.47) "your right"; सत्यं ते प्रतिजाने (18.65) "I promise you" |
+| वः | युष्मान् / युष्मभ्यम् / युष्माकम् | एष वोऽस्त्विष्टकामधुक् (3.10) "let this be your wish-granting cow" |
+
+> [warning] ते can be "your", "to you" or "they" :: ते is the short form of तव and तुभ्यम्, but it is also the nominative plural of सः ("they": ते पठन्ति) and the dual of सा/तत्. In 2.47 कर्मण्येवाधिकारस्ते, ते = "your" (నీకు). In 9.22 तेषां नित्याभियुक्तानाम्, तेषाम् = "of them". Read the context.
+
+## Compound stems मत्-, त्वत्-, अस्मत्-, युष्मत्-
+In compounds the pronouns appear as मत्, त्वत् (singular) and अस्मत्, युष्मत् (plural):
+
+| Compound | Split | Meaning | Where |
+|---|---|---|---|
+| मत्प्रसादात् | मम प्रसादात् | by my grace | Gītā 18.56, 18.58 |
+| त्वत्प्रसादात् | तव प्रसादात् | by your grace | Gītā 18.73 |
+| मन्मनाः | मयि मनः यस्य सः | whose mind is on me | Gītā 9.34, 18.65 |
+| मद्भक्तः | मम भक्तः | my devotee | Gītā 9.34 |
+| मद्याजी | मां यजते इति | who worships me | Gītā 9.34 |
+| मत्परायणः | अहं परम् अयनं यस्य | who has me as the goal | Gītā 9.34 |
+| मदनुग्रहाय | मम अनुग्रहाय | for my benefit | Gītā 11.1 |
+| अस्मदीयैः | अस्माकम् (adj.) | (by) our own | Gītā 11.26 |
+
+> [telugu] మత్ = నా, త్వత్ = నీ :: These compound stems are like Telugu నా- and నీ- before a noun: నా దయ = మత్ప్రసాదః, నీ దయ = త్వత్ప్రసాదః. Sandhi changes the final త్: మన్మనాః (త్ + మ → న్మ), మద్భక్తః (త్ + భ → ద్భ).
+
+@ex gita:7:7
+split: मत्तः परतरं न अन्यत् किञ्चित् अस्ति धनञ्जय । मयि सर्वम् इदं प्रोतं सूत्रे मणिगणाः इव ॥
+w: मत्तः = నా కంటే (5); परतरम् = ఉన్నతమైనది; न अन्यत् किञ्चित् अस्ति = వేరే ఏదీ లేదు; मयि = నాయందు (7); सर्वम् इदम् = ఇదంతా; प्रोतम् = గుచ్చబడింది; सूत्रे = దారంలో; मणिगणाः = మణుల సమూహాలు; इव = వలె
+note: मत्तः "than me": the ablative (मत् + -तः) of comparison with परतरम्.
+note: मयि "in me": locative of अहम्.
+@end
+
+@ex gita:9:34
+split: मन्मनाः भव मद्भक्तः मद्याजी मां नमस्कुरु । माम् एव एष्यसि युक्त्वा एवम् आत्मानं मत्परायणः ॥
+w: मन्मनाः = నాయందు మనసు గలవాడు; भव = అవ్వు; मद्भक्तः = నా భక్తుడు; मद्याजी = నన్ను పూజించువాడు; माम् = నన్ను; नमस्कुरु = నమస్కరించు; एव = నే; एष्यसि = పొందుతావు (future of इ); युक्त्वा = యోగంతో కూర్చి; आत्मानम् = నిన్ను నీవు; मत्परायणः = నన్నే పరమగతిగా గలవాడు
+note: Four compounds built on मत्- and two forms of माम्. The whole verse is about "me".
+note: एष्यसि "you will come": future of इ (go), 2nd person singular.
+@end
+
+@quiz
+q: Instrumental singular of अहम्:
+* मया
+- मम
+- मह्यम्
+why: मया "by me" (మాచేత / నాచేత). मम is genitive, मह्यम् dative.
+
+q: In कर्मण्येवाधिकारस्ते, what is ते?
+* your (short for तव)
+- they
+- those (neuter)
+why: The enclitic ते = तव / तुभ्यम्: "your right is to action alone".
+
+q: Which short form stands for त्वाम्?
+* त्वा
+- ते
+- वः
+why: Gītā 18.66: अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि.
+
+q: मत्प्रसादात् means:
+* by my grace
+- by your grace
+- for my grace
+why: मत्- = मम in compounds; प्रसादात् is ablative "from / by".
+
+q: Locative singular of त्वम्:
+* त्वयि
+- त्वे
+- तव
+why: मयि / त्वयि "in me / in you".
+
+q: Can a short form like मे start a sentence?
+* No, the short forms are enclitic and never come first
+- Yes, always
+- Only in prose
+why: मे, ते, नः, वः, त्वा, मा must follow another word.
+@end

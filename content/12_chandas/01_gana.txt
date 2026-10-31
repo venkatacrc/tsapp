@@ -1,0 +1,98 @@
+@title లఘు గురువులు, గణాలు · Light and heavy syllables, the eight gaṇas
+@summary Every Sanskrit metre is a pattern of light (ల, ।) and heavy (గ, ऽ) syllables. The rules for deciding which is which (the same as Telugu ఛందస్సు, with two differences), the eight three-syllable gaṇas and the Telugu mnemonic యమాతారాజభానసలగం, and how to scan a line.
+
+## Laghu and guru
+| Syllable | Weight | Examples |
+|---|---|---|
+| short vowel (अ इ उ ऋ ऌ) at the end of the syllable | laghu (ల, ।, 1 mātrā) | **क**, **गि**, **गु** in कमल, गिरि, गुरु |
+| long vowel (आ ई ऊ ॠ) or diphthong (ए ऐ ओ औ) | guru (గ, ऽ, 2 mātrās) | **का**, **गी**, **ते**, **गौ** |
+| short vowel + anusvāra (ं) or visarga (ः) | guru | **रं**, **मः**, **दुः** in रामं, रामः, दुःख |
+| short vowel followed by a conjunct (संयुक्ताक्षर) | guru | the **ध** in धर्म, the **अ** in अस्ति |
+| the last syllable of a pāda | either (पादान्तस्थं विकल्पेन) | counted as needed |
+
+> [warning] The conjunct makes the *previous* syllable heavy :: In धर्म the conjunct र्म follows ध, so **ध** (dhar) is guru. In प्रिय the conjunct प्र is at the start, so प्रि itself stays laghu (short इ): a conjunct never makes its *own* syllable heavy. Across words it still counts: in न प्रियः, the न becomes guru because प्र follows.
+
+> [memory] Short + "something more" = heavy :: A short vowel is light unless something extra comes after it: a nasal dot, a visarga, or two consonants. Long vowels are always heavy. This one sentence is the whole rule.
+
+> [compare] Telugu ఛందస్సు uses the same rule, with two differences :: (1) Telugu has short ఎ and ఒ, which are laghu; Sanskrit ए and ओ are always guru. (2) In Telugu poetry, a word-initial conjunct with ర (ప్ర, క్ర, శ్ర) may leave the last syllable of the previous word light. Sanskrit makes no such exception: a conjunct always makes the preceding short syllable heavy, even across words.
+
+## Syllable division
+Split before each vowel, keeping one consonant with it; a conjunct is split so that its first consonant closes the previous syllable:
+- धर्मक्षेत्रे → धर् · मक् · षे · त्रे (G G G G)
+- कुरुक्षेत्रे → कु · रुक् · षे · त्रे (L G G G)
+- पद्मनाभम् → पद् · म · ना · भम् (G L G G)
+
+## The eight gaṇas
+Three-syllable groups (gaṇas) name every pattern. The mnemonic **య మా తా రా జ భా న స ల గం** (यमाताराजभानसलगम्) contains all of them: take any letter and the two after it.
+
+| Gaṇa | Pattern | From the mnemonic | Telugu name |
+|---|---|---|---|
+| य | ల గ గ (। ऽ ऽ) | य-मा-ता | య గణం |
+| म | గ గ గ (ऽ ऽ ऽ) | मा-ता-रा | మ గణం |
+| त | గ గ ల (ऽ ऽ ।) | ता-रा-ज | త గణం |
+| र | గ ల గ (ऽ । ऽ) | रा-ज-भा | ర గణం |
+| ज | ల గ ల (। ऽ ।) | ज-भा-न | జ గణం |
+| भ | గ ల ల (ऽ । ।) | भा-न-स | భ గణం |
+| न | ల ల ల (। । ।) | न-स-ल | న గణం |
+| स | ల ల గ (। । ऽ) | स-ल-गं | స గణం |
+| ल | ల (।) | single light | లఘువు |
+| ग | గ (ऽ) | single heavy | గురువు |
+
+> [memory] ఆది, మధ్య, అంత :: య, ర, త have one light syllable at the start, middle, end ("light-marked"): य = ।ऽऽ, र = ऽ।ऽ, त = ऽऽ।. भ, ज, स have one heavy syllable at the start, middle, end ("heavy-marked"): भ = ऽ।।, ज = ।ऽ।, स = ।।ऽ. म is all heavy, न all light. The verse: आदिमध्यावसानेषु यरता यान्ति लाघवम् । भजसा गौरवं यान्ति मनौ तु गुरुलाघवम् ॥
+
+## Three kinds of metre
+| Kind | Measured by | Example |
+|---|---|---|
+| वर्णवृत्त (syllabic, fixed) | a fixed gaṇa sequence in every pāda | शार्दूलविक्रीडितम्, मन्दाक्रान्ता, इन्द्रवज्रा |
+| अक्षरछन्दस् (syllable count, partly free) | number of syllables, with rules at a few positions | अनुष्टुभ् (8), त्रिष्टुभ् (11), जगती (12) |
+| मात्रावृत्त / जाति (by mātrās) | total mātrās per pāda | आर्या, भज गोविन्दम् (16 mātrās) |
+
+Telugu poetry uses all three: వృత్తాలు (ఉత్పలమాల, చంపకమాల, శార్దూలం, మత్తేభం), జాతులు (కందం), and ఉపజాతులు (తేటగీతి, ఆటవెలది, సీసం).
+
+## Scanning a line, step by step
+@literal
+@nocards
+| Letters | ध | र्म | क्षे | त्रे | कु | रु | क्षे | त्रे |
+|---|---|---|---|---|---|---|---|---|
+| Division | धर् | मक् | षे | त्रे | कु | रुक् | षे | त्रे |
+| Weight | ऽ | ऽ | ऽ | ऽ | । | ऽ | ऽ | ऽ |
+
+> [note] Why the second line of the table matters :: The "real" syllables are धर्, मक्, षे, त्रे: the conjunct is split. Write the division line first and the weights follow immediately: closed syllables (ending in a consonant) and long vowels are heavy.
+
+@ex bhaja_govindam:refrain:1
+meter: मात्राछन्दः (16 mātrās per quarter)
+note: A mātrā metre. Count: भ(1) ज(1) गो(2) विन्(2) दं(2) = 8; twice = 16 mātrās. Every quarter of the verse has 16 mātrās, however the syllables fall. Telugu: మాత్రా ఛందస్సు, like the దేశి metres.
+note: डुकृञ् करणे: the dhātupāṭha entry for कृ (lesson 6.1). Śaṅkara's point: grammar rules won't save you at the moment of death.
+@end
+
+@quiz
+q: In धर्म, the first syllable is:
+* guru (closed by र्)
+- laghu (short अ)
+- it depends on the metre
+why: A short vowel followed by a conjunct is heavy.
+
+q: The gaṇa ऽ।ऽ (గ ల గ) is:
+* र
+- ज
+- स
+why: रा-ज-भा in the mnemonic.
+
+q: How many syllables in each quarter of an anuṣṭubh?
+* 8
+- 11
+- 12
+why: 4 × 8 = 32 syllables per verse.
+
+q: In Sanskrit, ए and ओ are:
+* always guru
+- laghu, as in Telugu
+- guru only before a conjunct
+why: Sanskrit has no short e / o.
+
+q: भ गण is:
+* ऽ।। (గ ల ల)
+- ।ऽ। (ల గ ల)
+- ।।ऽ (ల ల గ)
+why: भा-न-स.
+@end

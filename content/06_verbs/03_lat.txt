@@ -1,0 +1,96 @@
+@title లట్ · The present tense (लट्) in full
+@summary Present-tense tables for thematic verbs in both padas, the irregular presents of अस्, कृ, ज्ञा, दा, श्रु, हन्, इ, ब्रू, and the uses of लट्: present, habit, general truth, near future, and past with स्म or पुरा.
+
+## Thematic verbs (classes 1, 4, 6, 10)
+| | परस्मैपद ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | गच्छति | गच्छतः | गच्छन्ति |
+| మధ్యమ | गच्छसि | गच्छथः | गच्छथ |
+| ఉత్తమ | गच्छामि | गच्छावः | गच्छामः |
+
+| | आत्मनेपद ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | वर्तते | वर्तेते | वर्तन्ते |
+| మధ్యమ | वर्तसे | वर्तेथे | वर्तध्वे |
+| ఉత్తమ | वर्ते | वर्तावहे | वर्तामहे |
+
+> [memory] The three "long" places :: In the ఉత్తమ forms the stem अ lengthens before म and व: गच्छामि, गच्छावः, गच्छामः, वर्तावहे, वर्तामहे. Everywhere else it stays short. In the ātmanepada dual, अ + इ fuse to ए: वर्तेते, वर्तेथे.
+
+## Irregular presents you must know
+| Root | ఏక: 3 · 2 · 1 | బహు: 3 · 2 · 1 | Telugu |
+|---|---|---|---|
+| अस् (be) | अस्ति · असि · अस्मि | सन्ति · स्थ · स्मः | ఉన్నాడు |
+| कृ (do) | करोति · करोषि · करोमि | कुर्वन्ति · कुरुथ · कुर्मः | చేస్తాడు |
+| कृ आत्मने | कुरुते · कुरुषे · कुर्वे | कुर्वते · कुरुध्वे · कुर्महे | (తనకై) చేస్తాడు |
+| ज्ञा (know) | जानाति · जानासि · जानामि | जानन्ति · जानीथ · जानीमः | ఎరుగును |
+| दा (give) | ददाति · ददासि · ददामि | ददति · दत्थ · दद्मः | ఇస్తాడు |
+| श्रु (hear) | शृणोति · शृणोषि · शृणोमि | शृण्वन्ति · शृणुथ · शृणुमः | వింటాడు |
+| हन् (kill) | हन्ति · हंसि · हन्मि | घ्नन्ति · हथ · हन्मः | చంపుతాడు |
+| इ (go) | एति · एषि · एमि | यन्ति · इथ · इमः | వెళ్తాడు |
+| ब्रू (say) | ब्रवीति · ब्रवीषि · ब्रवीमि | ब्रुवन्ति · ब्रूथ · ब्रूमः | చెప్తాడు |
+| विद् (know) | वेत्ति · वेत्सि · वेद्मि | विदन्ति · वित्थ · विद्मः | ఎరుగును |
+| आस् (sit, Ā) | आस्ते · आस्से · आसे | आसते · आध्वे · आस्महे | కూర్చుంటాడు |
+| शी (lie, Ā) | शेते · शेषे · शये | शेरते · शेध्वे · शेमहे | పడుకుంటాడు |
+
+> [note] विद् has a second present :: विद् "know" (class 2) has an old perfect form used with present meaning: वेद "he knows / I know", विदुः "they know". Gītā 15.1 यस्तं वेद स वेदवित् "who knows it is a knower of the Veda"; 2.6 न चैतद्विद्मः "we do not know this".
+
+## What लट् is used for
+| Use | Sanskrit | Telugu |
+|---|---|---|
+| now | सः पठति | అతడు చదువుతున్నాడు |
+| habit | प्रतिदिनं सः पठति | ప్రతిరోజు చదువుతాడు |
+| general truth | सूर्यः प्राच्याम् उदेति | సూర్యుడు తూర్పున ఉదయిస్తాడు |
+| near future | अहम् इदानीम् आगच्छामि | ఇప్పుడే వస్తాను |
+| past, with स्म | सः वनं गच्छति स्म | అతడు అడవికి వెళ్ళేవాడు |
+| past, with पुरा | पुरा राजानः यजन्ते | పూర్వం రాజులు యజ్ఞాలు చేసేవారు |
+| "until", with यावत् | यावत् अहम् आगच्छामि | నేను వచ్చేవరకు |
+| question about the future | किं करोमि? | ఏమి చేయను? |
+
+> [compare] Telugu చేస్తాను vs చేస్తున్నాను :: Telugu distinguishes the habitual-future (చేస్తాను) from the progressive (చేస్తున్నాను). Sanskrit लट् covers both, and the future (लृट्) is a separate form. So करोमि = చేస్తున్నాను / చేస్తాను (habit), करिष्यामि = చేస్తాను (future).
+
+## Sandhi inside verb forms
+Watch for these when splitting verses:
+- -ति + vowel: -त्य् (गच्छत्यत्र = गच्छति अत्र)
+- -सि + vowel: -स्य् (करोष्यद्य = करोषि अद्य)
+- -मि + vowel: -म्य् (सृजाम्यहम् = सृजामि अहम्, 4.7; वहाम्यहम् = वहामि अहम्, 9.22)
+- -ते + अ: -तेऽ (वर्ततेऽत्र = वर्तते अत्र)
+- -न्ति + vowel: -न्त्य् (क्लेदयन्त्यापः = क्लेदयन्ति आपः, 2.23)
+
+@ex gita:2:20
+split: न जायते म्रियते वा कदाचित् न अयं भूत्वा भविता वा न भूयः । अजः नित्यः शाश्वतः अयं पुराणः न हन्यते हन्यमाने शरीरे ॥
+w: न जायते = పుట్టదు (Ā present); म्रियते = చావదు (Ā present of मृ); वा = లేక; कदाचित् = ఎప్పుడూ; अयम् = ఇది (ఆత్మ); भूत्वा = అయి; भविता = అవుతుంది (लुट्); भूयः = మళ్ళీ; अजः = పుట్టుకలేనిది; नित्यः = నిత్యం; शाश्वतः = శాశ్వతం; पुराणः = పురాతనం; हन्यते = చంపబడదు (passive); हन्यमाने = చంపబడుతున్న (7 sg.); शरीरे = శరీరంలో
+note: जायते, म्रियते: ātmanepada presents expressing a general truth ("it is never born, never dies").
+note: हन्यते "is killed": present passive (lesson 6.8). हन्यमाने शरीरे "when the body is being killed": a locative absolute (lesson 11.4).
+@end
+
+@quiz
+q: 1st person plural present of गम्:
+* गच्छामः
+- गच्छमः
+- गच्छाम
+why: ఉత్తమ forms lengthen the अ: गच्छामि, गच्छावः, गच्छामः. (गच्छाम is the imperative "let's go".)
+
+q: 3rd plural present of कृ (parasmaipada):
+* कुर्वन्ति
+- करोन्ति
+- कुरुन्ति
+why: Weak stem कुरु- → कुर्व् before vowels: कुर्वन्ति.
+
+q: What does सृजाम्यहम् split into?
+* सृजामि अहम्
+- सृजाम् यहम्
+- सृजा मि अहम्
+why: इ + अ → य (यण् sandhi): -मि अहम् → -म्यहम्.
+
+q: "నేను ఇప్పుడే వస్తాను" — which tense can Sanskrit use?
+* लट् (present): अहम् इदानीम् आगच्छामि
+- Only लृट्
+- Only लङ्
+why: The present is used for the immediate future.
+
+q: 3rd plural present of अस्:
+* सन्ति
+- अस्न्ति
+- असन्ति
+why: अस्ति / स्तः / सन्ति (weak stem स्).
+@end

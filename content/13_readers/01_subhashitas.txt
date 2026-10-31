@@ -1,0 +1,248 @@
+@title సుభాషితాలు · Story prose and proverbs
+@summary The first real Sanskrit to read: two openings of Hitopadeśa stories and ten famous subhāṣitas. They are short, the grammar is regular, and every verse uses something from units 3 to 11: the ablative of cause, the optative of rules, relative pairs, the locative absolute, bahuvrīhis and sandhi.
+
+## How to use the readers
+Every passage in this unit is set out the way a Telugu teacher explains a padyam:
+
+| Step | Telugu | What you see here |
+|---|---|---|
+| 1 | మూలం | the text as printed |
+| 2 | పదచ్ఛేదం | the text with all sandhi undone |
+| 3 | అన్వయం | the words in prose order |
+| 4 | ప్రతిపదార్థం | each word with its Telugu meaning |
+| 5 | తాత్పర్యం | the meaning of the whole |
+| 6 | వ్యాకరణం | the grammar points, with the lesson to revise |
+
+> [memory] Read aloud three times :: First read the original aloud, then the split, then the original again. By the third reading your ear starts hearing the word boundaries inside the sandhi. This is how పాఠశాల children learn పద్యాలు: by ear first, by analysis second.
+
+> [note] Cover and test :: Cover the Telugu meaning with your hand, read the Sanskrit, and say the meaning. Then check. The flashcards for this unit do the same thing automatically.
+
+## Story prose: how a kathā begins
+Sanskrit stories (Pañcatantra, Hitopadeśa) open with a fixed formula: अस्ति ("there is") first, then the place in the 7th case, then the subject. Telugu does the same with "ఒకానొక ... లో ఒక ... ఉండేది".
+
+@ex
+src: Hitopadeśa, Prastāvikā
+sa: अस्ति भागीरथीतीरे पाटलिपुत्रनामधेयं नगरम् । / तत्र सर्वस्वामिगुणोपेतः सुदर्शनो नाम नरपतिरासीत् ॥
+split: अस्ति भागीरथीतीरे पाटलिपुत्रनामधेयं नगरम् । तत्र सर्वस्वामिगुणोपेतः सुदर्शनः नाम नरपतिः आसीत् ॥
+w: अस्ति = ఉంది; भागीरथीतीरे = గంగా తీరంలో; पाटलिपुत्रनामधेयम् = పాటలీపుత్రం అనే పేరు గల; नगरम् = నగరం; तत्र = అక్కడ; सर्वस्वामिगुणोपेतः = రాజుకు ఉండవలసిన అన్ని గుణాలు కలవాడు; सुदर्शनः नाम = సుదర్శనుడు అనే పేరు గల; नरपतिः = రాజు; आसीत् = ఉండేవాడు
+te: గంగా తీరంలో పాటలీపుత్రం అనే నగరం ఉంది. అక్కడ రాజుకు తగిన అన్ని గుణాలు గల సుదర్శనుడు అనే రాజు ఉండేవాడు.
+en: On the bank of the Gaṅgā there is a city named Pāṭaliputra. There lived a king named Sudarśana, endowed with every quality of a ruler.
+note: अस्ति comes first to mean "there is". आसीत् is the imperfect of अस् (lesson 6.4): stories switch to the past as soon as the hero appears.
+note: नाम after a name means "by name, called" (an indeclinable, lesson 10.3), exactly like Telugu "సుదర్శనుడు అనే".
+note: पाटलिपुत्रनामधेयम् is a bahuvrīhi (lesson 9.4): पाटलिपुत्रं नामधेयं यस्य तत्, "that whose name is Pāṭaliputra". It is neuter because नगरम् is neuter.
+note: सर्वस्वामिगुणोपेतः: सर्वे स्वामिनः गुणाः, तैः उपेतः, "endowed with all the qualities of a master" (tatpuruṣa with the 3rd case, lesson 9.2). उपेत = उप + इत, past participle of इ (lesson 7.1).
+@end
+
+@ex
+src: Hitopadeśa, Mitralābha
+sa: अस्ति गोदावरीतीरे विशालः शाल्मलीतरुः । / तत्र नानादिग्देशादागत्य रात्रौ पक्षिणो निवसन्ति ॥
+split: अस्ति गोदावरीतीरे विशालः शाल्मलीतरुः । तत्र नानादिग्देशात् आगत्य रात्रौ पक्षिणः निवसन्ति ॥
+w: अस्ति = ఉంది; गोदावरीतीरे = గోదావరి తీరంలో; विशालः = పెద్ద; शाल्मलीतरुः = బూరుగు చెట్టు; तत्र = అక్కడ; नानादिग्देशात् = నానా దిక్కుల ప్రదేశాల నుండి; आगत्य = వచ్చి; रात्रौ = రాత్రి వేళ; पक्षिणः = పక్షులు; निवसन्ति = నివసిస్తాయి
+te: గోదావరి తీరంలో ఒక పెద్ద బూరుగు చెట్టు ఉంది. అక్కడికి నానా దిక్కుల నుండి పక్షులు వచ్చి రాత్రి వేళ నివసిస్తాయి.
+en: On the bank of the Godāvarī there is a huge silk-cotton tree. Birds come there from regions in every direction and rest at night.
+note: The same opening, and a river every Telugu reader knows. रात्रौ is the 7th case of रात्रि (i-stem feminine, lesson 4.5): "at night".
+note: आगत्य = आ + गम् + -य: with a prefix the absolutive takes -य, and गम् loses its म् (lesson 7.3). Telugu "వచ్చి" is the same form.
+note: पक्षिणः is the nominative plural of पक्षिन् (-इन् stem, lesson 4.8). नानादिग्देशात्: नाना दिशः, तासां देशाः, तेभ्यः; ablative singular for "from places" taken as one group.
+@end
+
+## Ten subhāṣitas
+### 1. The ladder of learning
+@ex
+src: Hitopadeśa, Prastāvikā
+sa: विद्या ददाति विनयं विनयाद्याति पात्रताम् । / पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥
+split: विद्या ददाति विनयं विनयात् याति पात्रताम् । पात्रत्वात् धनम् आप्नोति धनात् धर्मं ततः सुखम् ॥
+anvaya: विद्या विनयं ददाति । (नरः) विनयात् पात्रतां याति । पात्रत्वात् धनम् आप्नोति । धनात् धर्मम् (आप्नोति) । ततः सुखम् (आप्नोति) ॥
+w: विद्या = విద్య; ददाति = ఇస్తుంది; विनयम् = వినయాన్ని; विनयात् = వినయం వల్ల; याति = పొందుతాడు; पात्रताम् = యోగ్యతను; पात्रत्वात् = యోగ్యత వల్ల; धनम् = ధనాన్ని; आप्नोति = పొందుతాడు; धनात् = ధనం వల్ల; धर्मम् = ధర్మాన్ని; ततः = దాని వల్ల; सुखम् = సుఖాన్ని
+te: విద్య వినయాన్ని ఇస్తుంది. వినయం వల్ల యోగ్యత, యోగ్యత వల్ల ధనం, ధనం వల్ల ధర్మం, ధర్మం వల్ల సుఖం లభిస్తాయి.
+en: Learning gives humility; from humility comes worthiness; from worthiness one gains wealth; from wealth, dharma; and from that, happiness.
+note: A chain of ablatives of cause (5th case, హేతువు "వల్ల", lesson 11.1): विनयात्, पात्रत्वात्, धनात्, and ततः, which is the indeclinable ablative of तद्.
+note: Sandhi: विनयात् + याति → विनयाद्याति and पात्रत्वात् + धनम् → पात्रत्वाद्धनम् (त् becomes द् before a voiced sound, lesson 8.3).
+note: पात्रता (f.) and पात्रत्व (n.) are the same word "fitness", made with the two abstract suffixes -ता and -त्व (lesson 10.2). The poet uses both for variety.
+note: The verb आप्नोति is understood in the last two clauses (Telugu అధ్యాహారం). Sanskrit verse leaves out a repeated verb freely.
+@end
+
+### 2. Speak the truth, pleasantly
+@ex
+src: Manusmṛti 4.138
+sa: सत्यं ब्रूयात् प्रियं ब्रूयात् न ब्रूयात् सत्यमप्रियम् । / प्रियं च नानृतं ब्रूयात् एष धर्मः सनातनः ॥
+split: सत्यं ब्रूयात् प्रियं ब्रूयात् न ब्रूयात् सत्यम् अप्रियम् । प्रियं च न अनृतं ब्रूयात् एषः धर्मः सनातनः ॥
+w: सत्यम् = నిజాన్ని; ब्रूयात् = చెప్పాలి; प्रियम् = ప్రియమైనదాన్ని; न ब्रूयात् = చెప్పకూడదు; अप्रियम् = అప్రియమైన; च = మరియు; अनृतम् = అబద్ధాన్ని; एषः = ఇదే; धर्मः = ధర్మం; सनातनः = సనాతనమైన
+te: నిజం చెప్పాలి, ప్రియంగా చెప్పాలి. అప్రియమైన నిజం చెప్పకూడదు. ప్రియమైనదైనా అబద్ధం చెప్పకూడదు. ఇదే సనాతన ధర్మం.
+en: Speak the truth; speak what is pleasant. Do not speak an unpleasant truth, and do not speak a pleasant falsehood. This is the eternal dharma.
+note: ब्रूयात् is the optative of ब्रू (class 2, lesson 6.3): "one should say". The optative is the mood of rules in every dharma text (lesson 6.6). Telugu uses "-ఆలి / -కూడదు" for the same job.
+note: एषः धर्मः → एष धर्मः: सः and एषः drop their visarga before any consonant (lesson 8.5). न + अनृतम् → नानृतम् (two a-vowels merge into ā, lesson 8.2).
+note: अप्रियम्, अनृतम्: the negative prefix is अ- before a consonant and अन्- before a vowel (lesson 9.2), exactly like Telugu borrowings అప్రియం, అనృతం.
+@end
+
+### 3. Effort, not wishes
+@ex
+src: Hitopadeśa, Prastāvikā
+sa: उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः । / न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः ॥
+split: उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः । न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः ॥
+anvaya: कार्याणि उद्यमेन हि सिध्यन्ति, मनोरथैः न । मृगाः सुप्तस्य सिंहस्य मुखे न हि प्रविशन्ति ॥
+w: उद्यमेन = ప్రయత్నంతో; हि = నిజంగా; सिध्यन्ति = నెరవేరుతాయి; कार्याणि = పనులు; न = కాదు; मनोरथैः = కోరికలతో; सुप्तस्य = నిద్రపోతున్న; सिंहस्य = సింహం యొక్క; मुखे = నోటిలో; प्रविशन्ति = ప్రవేశిస్తాయి; मृगाः = జంతువులు (జింకలు)
+te: పనులు ప్రయత్నంతోనే నెరవేరుతాయి, కోరికలతో కాదు. నిద్రపోతున్న సింహం నోటిలోకి జింకలు తమంతట తామే ప్రవేశించవు కదా.
+en: Tasks succeed through effort, not through wishes. Deer do not walk into the mouth of a sleeping lion.
+note: Two instrumentals of means: उद्यमेन (sg.) and मनोरथैः (pl.), lesson 4.2. Telugu "-తో" in both places.
+note: कार्याणि is neuter plural and the verb सिध्यन्ति is plural. Unlike Greek, Sanskrit neuter plurals take a plural verb.
+note: सुप्तस्य is the past participle of स्वप् with samprasāraṇa (व → उ, lesson 7.1). It agrees with सिंहस्य: masculine, 6th case, singular. मुखे: 7th case "into the mouth", where Telugu uses -లోకి.
+note: कार्य is a gerundive (कृ + ण्यत्, lesson 7.4) used as a noun: "what has to be done" = a task.
+@end
+
+### 4. The whole world is one family
+@ex
+src: Mahā Upaniṣad 6.71; also Hitopadeśa
+sa: अयं निजः परो वेति गणना लघुचेतसाम् । / उदारचरितानां तु वसुधैव कुटुम्बकम् ॥
+split: अयं निजः परः वा इति गणना लघुचेतसाम् । उदारचरितानां तु वसुधा एव कुटुम्बकम् ॥
+w: अयम् = ఇతడు; निजः = మనవాడు; परः = పరాయివాడు; वा = లేదా; इति = అని; गणना = లెక్క; लघुचेतसाम् = సంకుచిత మనస్కులది; उदारचरितानाम् = ఉదార స్వభావం గలవారికి; तु = అయితే; वसुधा = భూమి; एव = అంతా; कुटुम्बकम् = కుటుంబం
+te: "ఇతడు మనవాడు, ఇతడు పరాయివాడు" అనే లెక్క సంకుచిత మనస్కులది. ఉదార స్వభావం గలవారికి భూమి అంతా ఒకే కుటుంబం.
+en: "This one is mine, that one a stranger": such counting belongs to the small-minded. For the large-hearted, the whole earth is one family.
+note: इति closes the quoted thought "अयं निजः परो वा", like Telugu "అని" (lesson 10.3). वा + इति → वेति (a + i → e, lesson 8.2).
+note: लघुचेतसाम् is a bahuvrīhi on an -अस् stem: लघु चेतः येषां ते लघुचेतसः, genitive plural लघुचेतसाम् (lesson 4.9). The 6th case here means "belongs to, is the way of".
+note: वसुधा + एव → वसुधैव (a + e → ai, vṛddhi sandhi). कुटुम्बकम् adds the suffix -क to कुटुम्ब without changing the meaning (स्वार्थे कन्, a taddhita that keeps the meaning).
+@end
+
+### 5. The crow and the cuckoo
+@ex
+src: subhāṣita
+sa: काकः कृष्णः पिकः कृष्णः को भेदः पिककाकयोः । / वसन्तकाले सम्प्राप्ते काकः काकः पिकः पिकः ॥
+split: काकः कृष्णः पिकः कृष्णः कः भेदः पिककाकयोः । वसन्तकाले सम्प्राप्ते काकः काकः पिकः पिकः ॥
+w: काकः = కాకి; कृष्णः = నల్లనిది; पिकः = కోకిల; कः = ఏమిటి; भेदः = తేడా; पिककाकयोः = కోకిలకు కాకికి మధ్య; वसन्तकाले = వసంత కాలం; सम्प्राप्ते = వచ్చినప్పుడు
+te: కాకి నల్లగా ఉంటుంది, కోకిల నల్లగా ఉంటుంది. కోకిలకు కాకికి తేడా ఏమిటి? వసంత కాలం రాగానే కాకి కాకే, కోకిల కోకిలే.
+en: The crow is black, the cuckoo is black: what is the difference between them? When spring comes, the crow is a crow and the cuckoo a cuckoo.
+note: Nominal sentences with no verb (lesson 2.5): काकः कृष्णः = "the crow (is) black", just like Telugu "కాకి నలుపు".
+note: पिककाकयोः is a dvandva in the dual, 6th case (lesson 9.4): "of the cuckoo and the crow", meaning "between them".
+note: वसन्तकाले सम्प्राप्ते is a locative absolute (lesson 11.4): "spring having come". Telugu "వసంతం రాగానే".
+@end
+
+### 6. Where is happiness for the lazy?
+@ex
+src: subhāṣita
+sa: अलसस्य कुतो विद्या अविद्यस्य कुतो धनम् । / अधनस्य कुतो मित्रम् अमित्रस्य कुतः सुखम् ॥
+split: अलसस्य कुतः विद्या अविद्यस्य कुतः धनम् । अधनस्य कुतः मित्रम् अमित्रस्य कुतः सुखम् ॥
+w: अलसस्य = సోమరికి; कुतः = ఎక్కడ (ఎలా); विद्या = విద్య; अविद्यस्य = విద్య లేనివానికి; धनम् = ధనం; अधनस्य = ధనం లేనివానికి; मित्रम् = మిత్రుడు; अमित्रस्य = మిత్రుడు లేనివానికి; सुखम् = సుఖం
+te: సోమరికి విద్య ఎక్కడ? విద్య లేనివానికి ధనం ఎక్కడ? ధనం లేనివానికి మిత్రుడెక్కడ? మిత్రుడు లేనివానికి సుఖం ఎక్కడ?
+en: For the lazy, where is learning? For the unlearned, where is wealth? For the poor, where is a friend? For the friendless, where is happiness?
+note: Possession with the 6th case: अलसस्य … विद्या = "the lazy man's learning". Telugu uses the dative "సోమరికి" here; Sanskrit uses the genitive (lesson 2.3).
+note: अविद्यः, अधनः, अमित्रः are negative bahuvrīhis (lesson 9.4): न विद्या यस्य सः = "one who has no learning".
+note: कुतः ("from where, how could there be") is the ablative adverb of किम् with -तस् (lesson 10.3).
+note: विद्या अविद्यस्य is left without sandhi: at the break between the first and second quarter of a verse, sandhi is optional.
+@end
+
+### 7. Learning in books, money in other hands
+@ex
+src: Cāṇakya Nīti
+sa: पुस्तकस्था तु या विद्या परहस्तगतं धनम् । / कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥
+split: पुस्तकस्था तु या विद्या परहस्तगतं धनम् । कार्यकाले समुत्पन्ने न सा विद्या न तत् धनम् ॥
+w: पुस्तकस्था = పుస్తకంలోనే ఉన్న; या विद्या = ఏ విద్య; परहस्तगतम् = ఇతరుల చేతికి వెళ్ళిన; धनम् = ధనం; कार्यकाले = పని పడే సమయం; समुत्पन्ने = వచ్చినప్పుడు; सा विद्या न = అది విద్య కాదు; तत् धनम् न = అది ధనం కాదు
+te: పుస్తకంలోనే ఉండిపోయిన విద్య, ఇతరుల చేతికి వెళ్ళిన ధనం — అవసరం వచ్చినప్పుడు ఆ విద్య విద్య కాదు, ఆ ధనం ధనం కాదు.
+en: Learning that stays in a book and money that has gone into another's hands: when the time for action comes, that is neither learning nor money.
+note: पुस्तकस्था is an upapada compound with -स्थ "standing in" (lesson 9.2), feminine to agree with विद्या.
+note: परहस्तगतम्: परस्य हस्तं गतम् (a tatpuruṣa with the 2nd case, lesson 9.2), neuter to agree with धनम्.
+note: या … सा and (यत्) … तत्: relative and correlative (lesson 5.3). कार्यकाले समुत्पन्ने is another locative absolute. तत् + धनम् → तद्धनम्.
+@end
+
+### 8. A wish for everyone
+@ex
+src: traditional śānti verse
+sa: सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः । / सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत् ॥
+split: सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः । सर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाक् भवेत् ॥
+w: सर्वे = అందరూ; भवन्तु = అగుదురుగాక; सुखिनः = సుఖంగా ఉన్నవారు; सन्तु = ఉందురుగాక; निरामयाः = రోగాలు లేనివారు; भद्राणि = శుభాలను; पश्यन्तु = చూతురుగాక; मा = వద్దు; कश्चित् = ఎవరైనా; दुःखभाक् = దుఃఖం అనుభవించేవాడు; भवेत् = అవుగాక
+te: అందరూ సుఖంగా ఉండాలి; అందరూ రోగాలు లేకుండా ఉండాలి; అందరూ శుభాలను చూడాలి; ఎవరూ దుఃఖాన్ని అనుభవించకూడదు.
+en: May all be happy; may all be free from illness; may all see what is good; may no one have a share of sorrow.
+note: भवन्तु, सन्तु, पश्यन्तु are 3rd plural imperatives used for blessings (lesson 6.6). Telugu "-దురుగాక" is the same mood.
+note: सुखिनः is the nominative plural of सुखिन् (-इन् stem, lesson 4.8): "the happy ones".
+note: मा … भवेत्: मा with the optative for "may it not be". Pāṇini's rule pairs मा with the aorist (lesson 6.4); later verse often uses the optative instead.
+note: दुःखभाक् = दुःखं भजति इति, an upapada with भज् (lesson 7.5). Sandhi: दुःखभाक् + भवेत् → दुःखभाग्भवेत् (क् becomes ग् before a voiced sound); कश्चित् + दुःख → कश्चिद्दुःख.
+@end
+
+### 9. Four quarters of learning
+@ex
+src: traditional verse on study
+sa: आचार्यात् पादमादत्ते पादं शिष्यः स्वमेधया । / पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥
+split: आचार्यात् पादम् आदत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥
+w: शिष्यः = శిష్యుడు; आचार्यात् = గురువు నుండి; पादम् = నాలుగో వంతు; आदत्ते = గ్రహిస్తాడు; स्वमेधया = తన బుద్ధితో; सब्रह्मचारिभ्यः = తోటి విద్యార్థుల నుండి; कालक्रमेण = కాలక్రమంలో; च = మరియు
+te: శిష్యుడు నాలుగో వంతు గురువు నుండి, నాలుగో వంతు తన బుద్ధితో, నాలుగో వంతు తోటి విద్యార్థుల నుండి, మిగిలిన నాలుగో వంతు కాలక్రమంలో నేర్చుకుంటాడు.
+en: A student takes a quarter from the teacher, a quarter by his own intelligence, a quarter from fellow students, and a quarter with the passing of time.
+note: आदत्ते = आ + दा, ātmanepada: "takes for oneself". The prefix आ reverses दा "give" into "take" (lesson 6.10).
+note: Two ablatives of source (आचार्यात्, सब्रह्मचारिभ्यः plural) and two instrumentals of means (स्वमेधया, कालक्रमेण). One verb serves all four clauses.
+note: सब्रह्मचारिन् "fellow student" = समानं ब्रह्म (वेदं) चरति इति, with स- for समान- "same".
+@end
+
+### 10. Treat them as gods
+@ex
+src: Taittirīya Upaniṣad 1.11.2
+sa: मातृदेवो भव । पितृदेवो भव । / आचार्यदेवो भव । अतिथिदेवो भव ॥
+split: मातृदेवः भव । पितृदेवः भव । आचार्यदेवः भव । अतिथिदेवः भव ॥
+w: मातृदेवः = తల్లిని దైవంగా భావించేవాడు; भव = అవ్వు; पितृदेवः = తండ్రిని దైవంగా భావించేవాడు; आचार्यदेवः = గురువును దైవంగా భావించేవాడు; अतिथिदेवः = అతిథిని దైవంగా భావించేవాడు
+te: తల్లిని దైవంగా భావించు. తండ్రిని దైవంగా భావించు. గురువును దైవంగా భావించు. అతిథిని దైవంగా భావించు.
+en: Be one for whom the mother is a god; the father is a god; the teacher is a god; the guest is a god.
+note: Each word is a bahuvrīhi (lesson 9.4): माता देवः यस्य सः मातृदेवः, "he whose god is his mother". The meaning is not "mother-god" but a description of the student.
+note: In compounds ऋ-stems appear in their bare form: मातृ-, पितृ- (lesson 4.7). भव is the 2nd singular imperative of भू (lesson 6.6).
+note: मातृदेवः + भव → मातृदेवो भव (-अः becomes -ओ before a voiced consonant, lesson 8.5).
+@end
+
+## What the ten verses drilled
+| Grammar point | Verses | Lesson |
+|---|---|---|
+| ablative of cause and source | 1, 9 | 11.1 |
+| optative for rules | 2 | 6.6 |
+| instrumental of means | 3, 9 | 4.2 |
+| genitive of possession | 6 | 2.3 |
+| relative and correlative | 7 | 5.3 |
+| locative absolute | 5, 7 | 11.4 |
+| bahuvrīhi | 4, 6, 10 | 9.4 |
+| imperative of blessing | 8, 10 | 6.6 |
+| visarga sandhi | 2, 6, 10 | 8.5 |
+
+> [telugu] Sumati and Vemana :: Telugu has its own subhāṣita tradition in the సుమతీ శతకం and వేమన శతకం. Many of their ideas come from these Sanskrit verses. When you meet a Sanskrit subhāṣita, try to recall a Telugu padyam with the same thought; the pair is easy to remember.
+
+@quiz
+q: In विनयाद्याति, the first word is:
+* विनयात् (ablative: from humility)
+- विनयः (nominative)
+- विनये (locative)
+why: त् became द् before य (a voiced sound).
+
+q: ब्रूयात् in "सत्यं ब्रूयात्" is:
+* optative: one should say
+- imperative: say!
+- future: he will say
+why: The optative gives rules.
+
+q: In सर्वे भवन्तु सुखिनः, the mood of भवन्तु is:
+* imperative used as a blessing
+- present indicative
+- optative
+why: लोट् 3rd plural.
+
+q: लघुचेतसाम् means:
+* of the small-minded
+- of small thoughts
+- of the light ones
+why: A bahuvrīhi: those whose mind is small.
+
+q: वसन्तकाले सम्प्राप्ते is:
+* a locative absolute
+- a dvandva
+- an ablative
+why: Noun and participle in the 7th case: "spring having come".
+
+q: मातृदेवः means:
+* one for whom the mother is god
+- the mother goddess
+- a god's mother
+why: A bahuvrīhi describing the student.
+
+q: In अस्ति भागीरथीतीरे … नगरम्, the word अस्ति means:
+* there is
+- he is
+- it was
+why: अस्ति first in the sentence = "there is".
+
+q: पुस्तकस्था agrees with:
+* विद्या (feminine)
+- धनम्
+- कार्यकाले
+why: -स्था is feminine.
+@end

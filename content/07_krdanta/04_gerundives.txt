@@ -1,0 +1,107 @@
+@title చేయదగిన · Gerundives: "to be done" (कृत्य: तव्य, अनीय, य)
+@summary Telugu borrows these constantly: కర్తవ్యం, కార్యం, పూజ్యం, దర్శనీయం, స్మరణీయం. Three suffixes that mean "should be / can be / is to be done", how to form each, the agent in the 3rd or 6th case, and the Gītā's अच्छेद्यः अदाह्यः अक्लेद्यः अशोष्यः.
+
+## Three suffixes, one meaning
+| Suffix | Form | Example from कृ | Telugu |
+|---|---|---|---|
+| तव्यत् | -तव्य / -इतव्य | कर्तव्य | చేయవలసిన |
+| अनीयर् | -अनीय | करणीय | చేయదగిన |
+| यत् / ण्यत् / क्यप् | -य | कार्य, कृत्य | చేయవలసిన |
+
+All three are passive in meaning: कर्तव्यं कर्म "work to be done". They decline like राम / रमा / वन and agree with the thing to be done.
+
+> [memory] तव्य = infinitive with -व्य :: The -तव्य form uses the same root form as the infinitive: कर्तुम् → कर्तव्य, गन्तुम् → गन्तव्य, द्रष्टुम् → द्रष्टव्य, श्रोतुम् → श्रोतव्य, पठितुम् → पठितव्य. If you know one, you know the other.
+
+## Forms of common roots
+| Root | -तव्य | -अनीय | -य | Telugu loan |
+|---|---|---|---|---|
+| कृ | कर्तव्य | करणीय | कार्य, कृत्य | కర్తవ్యం, కార్యం, కృత్యం |
+| गम् | गन्तव्य | गमनीय | गम्य | గమ్యం, గంతవ్యం |
+| दृश् | द्रष्टव्य | दर्शनीय | दृश्य | దర్శనీయం, దృశ్యం |
+| श्रु | श्रोतव्य | श्रवणीय | श्राव्य | శ్రావ్యం |
+| दा | दातव्य | दानीय | देय | దేయం |
+| ज्ञा | ज्ञातव्य | ज्ञानीय | ज्ञेय | జ్ఞేయం |
+| पठ् | पठितव्य | पठनीय | पाठ्य | పఠనీయం, పాఠ్యం |
+| वच् | वक्तव्य | वचनीय | वाच्य | వక్తవ్యం, వాచ్యం |
+| पूज् | पूजितव्य | पूजनीय | पूज्य | పూజనీయం, పూజ్యం |
+| स्मृ | स्मर्तव्य | स्मरणीय | स्मार्य | స్మరణీయం |
+| वन्द् | वन्दितव्य | वन्दनीय | वन्द्य | వందనీయం |
+| भू | भवितव्य | भवनीय | भव्य | భవ్యం, భవితవ్యం |
+| त्यज् | त्यक्तव्य | त्यजनीय | त्याज्य | త్యాజ్యం |
+| हन् | हन्तव्य | हननीय | वध्य | వధ్యం |
+| स्तु | स्तोतव्य | स्तवनीय | स्तुत्य | స్తుత్యం |
+| चिन्त् | चिन्तयितव्य | चिन्तनीय | चिन्त्य | చింతనీయం, అచింత్యం |
+
+> [compare] Negatives with अ- / अन्- :: Telugu అనిర్వచనీయం, అచింత్యం, అజేయం, అభేద్యం, అమోఘం… are negated gerundives: अनिर्वचनीय "what cannot be described", अचिन्त्य "unthinkable", अजेय "unconquerable", अभेद्य "unbreakable".
+
+## The -य suffix: three varieties
+- **यत्** after vowels and labial-final roots: दा → देय, ज्ञा → ज्ञेय, गम् → गम्य, लभ् → लभ्य.
+- **ण्यत्** (vṛddhi) after consonants, ऋ / ॠ: कृ → कार्य, वच् → वाच्य, त्यज् → त्याज्य, पठ् → पाठ्य, हृ → हार्य.
+- **क्यप्** (no strengthening, adds त् after short vowels) for a few roots: कृ → कृत्य, स्तु → स्तुत्य, इ → इत्य, शास् → शिष्य (शिष्यः "one to be taught" = disciple!).
+
+> [memory] शिष्य and वाक्य :: Two everyday words are gerundives: शिष्यः "one to be taught" (शास्), and वाक्यम् "what is to be said" (वच्, च् → क्). Also भोज्यम् "food" (भुज्), पेयम् "drink" (पा), गेयम् "song" (गै).
+
+## Who must do it?
+The agent of a gerundive is in the **3rd** or **6th** case (कृत्यानां कर्तरि वा 2.3.71):
+- मया कर्तव्यम् / मम कर्तव्यम् "నేను చేయాలి"
+- त्वया गन्तव्यम् "నువ్వు వెళ్ళాలి"
+- बालकैः पाठः पठितव्यः "పిల్లలు పాఠం చదవాలి"
+- किं मया कर्तव्यम्? "నేనేం చేయాలి?"
+
+> [compare] Telugu -వలెను / -ఆలి :: Telugu నేను చేయాలి is active; Sanskrit मया कर्तव्यम् is passive: "by me (it is) to be done". Translating to Telugu, turn it active again.
+
+## Meanings beyond "should"
+| Sense | Example |
+|---|---|
+| obligation | कर्तव्यं कर्म "duty" |
+| possibility | दृश्यः "visible", अदृश्यः "invisible" |
+| worthiness | पूज्यः, वन्दनीयः "worthy of worship" |
+| future fate | भवितव्यम् "what must happen", भवितव्यता "destiny" |
+| impersonal | मया गन्तव्यम् "I must go" (intransitive → neuter) |
+
+@ex gita:2:24
+split: अच्छेद्यः अयम् अदाह्यः अयम् अक्लेद्यः अशोष्यः एव च । नित्यः सर्वगतः स्थाणुः अचलः अयं सनातनः ॥
+w: अच्छेद्यः = నరకలేనిది (अ + छिद्); अदाह्यः = కాల్చలేనిది (अ + दह्); अक्लेद्यः = తడుపలేనిది (अ + क्लिद्); अशोष्यः = ఎండించలేనిది (अ + शुष्); नित्यः = నిత్యం; सर्वगतः = సర్వత్రా ఉన్నది; स्थाणुः = స్థిరమైనది; अचलः = కదలనిది; सनातनः = సనాతనం
+note: Four negated -य gerundives in a row, each answering a verb of 2.23 (छिन्दन्ति, दहति, क्लेदयन्ति, शोषयति): "cannot be cut, burnt, wetted, dried".
+@end
+
+@ex gita:3:22
+split: न मे पार्थ अस्ति कर्तव्यं त्रिषु लोकेषु किञ्चन । न अनवाप्तम् अवाप्तव्यं वर्ते एव च कर्मणि ॥
+note: कर्तव्यम् "to be done" and अवाप्तव्यम् "to be attained" (अव + आप्): -तव्य gerundives. मे "for me" is the 6th case of the agent.
+@end
+
+@ex gita:18:5
+note: त्याज्यम् "to be abandoned" (त्यज्, ण्यत्) and कार्यम् "to be done" (कृ, ण्यत्): "Sacrifice, gift and austerity are not to be given up; they must be done."
+@end
+
+@quiz
+q: करणीय, कर्तव्य and कार्य all mean:
+* to be done
+- having done
+- doing
+why: Three gerundive suffixes: अनीयर्, तव्यत्, ण्यत्.
+
+q: "నేను వెళ్ళాలి":
+* मया गन्तव्यम्
+- अहं गन्तव्यम्
+- मम गमनीयः
+why: Agent in the 3rd case; intransitive, so neuter impersonal.
+
+q: शिष्य (disciple) literally means:
+* one to be taught
+- one who teaches
+- one who sits near
+why: शास् + क्यप्: शिष्य.
+
+q: अच्छेद्यः (2.24) is formed from:
+* अ + छिद् + य
+- अच्छ + इद्
+- अ + छेद + य (noun)
+why: Negated gerundive: "cannot be cut".
+
+q: The -तव्य form of दृश्:
+* द्रष्टव्य
+- दर्शितव्य
+- दृश्तव्य
+why: Same root form as the infinitive द्रष्टुम्.
+@end

@@ -1,0 +1,124 @@
+@title కారకాలు · The six kārakas
+@summary Pāṇini does not start from cases but from roles in an action (kārakas): doer, object, instrument, recipient, source, location. Each role has a definition sūtra and a default case, and many verbs bend the defaults (రుచ్ + 4th = నాకు నచ్చింది; భీ + 5th = దొంగకు భయపడు). The Gītā's ब्रह्मार्पणं verse shows all of them with one word.
+
+## Roles, definitions, default cases
+| Kāraka | Definition | Sūtra | Default case | Telugu marker |
+|---|---|---|---|---|
+| कर्ता (agent) | the independent one | स्वतन्त्रः कर्ता 1.4.54 | 1st (active) / 3rd (passive) | -డు, -ము (ప్రథమ) / చేత |
+| कर्म (object) | what the agent most wants to reach | कर्तुरीप्सिततमं कर्म 1.4.49 | 2nd (कर्मणि द्वितीया 2.3.2) | -ని, -ను, -కు |
+| करण (instrument) | the most effective means | साधकतमं करणम् 1.4.42 | 3rd (कर्तृकरणयोस्तृतीया 2.3.18) | -తో, -చేత |
+| सम्प्रदान (recipient) | the one the agent aims at with the object | कर्मणा यमभिप्रैति स सम्प्रदानम् 1.4.32 | 4th (चतुर्थी सम्प्रदाने 2.3.13) | -కి, -కు, కొరకు |
+| अपादान (source) | the fixed point of separation | ध्रुवमपायेऽपादानम् 1.4.24 | 5th (अपादाने पञ्चमी 2.3.28) | -నుండి, వల్ల |
+| अधिकरण (location) | the support | आधारोऽधिकरणम् 1.4.45 | 7th (सप्तम्यधिकरणे च 2.3.36) | -లో, -అందు, -మీద |
+
+The 6th case is **not** a kāraka: it expresses any other relation (षष्ठी शेषे 2.3.50), mostly between nouns. The vocative (सम्बोधन) is a form of the 1st case.
+
+> [memory] క-క-క-స-అ-అ :: Kartā, karma, karaṇa, sampradāna, apādāna, adhikaraṇa. One sentence with all six: रामः (1) वनात् (5) गृहम् (2) आगत्य हस्तेन (3) सीतायै (4) गृहे (7) पुष्पं ददाति. "రాముడు అడవి నుండి ఇంటికి వచ్చి చేతితో సీతకు ఇంట్లో పువ్వు ఇస్తాడు."
+
+## Verbs that bend the defaults
+### 2nd case
+| Rule | Sūtra | Example | Telugu |
+|---|---|---|---|
+| verbs with two objects (दुह्, याच्, पच्, दण्ड्, रुध्, प्रच्छ्, चि, ब्रू, शास्, जि, मथ्, मुष्, नी, हृ, कृष्, वह्) | अकथितं च 1.4.51 | गां दोग्धि पयः; शिष्यं धर्मं ब्रूते; माणवकं पन्थानं पृच्छति | ఆవు నుండి పాలు పితుకుతాడు; శిష్యునికి ధర్మం చెప్తాడు |
+| अधि + शी / स्था / आस् "dwell on, occupy" | अधिशीङ्स्थासां कर्म 1.4.46 | वैकुण्ठम् अधितिष्ठति हरिः | హరి వైకుంఠంలో ఉంటాడు |
+| उप / अनु / अधि / आ + वस् | उपान्वध्याङ्वसः 1.4.48 | हरिः वैकुण्ठम् उपवसति | వైకుంఠంలో నివసిస్తాడు |
+| time and distance throughout | कालाध्वनोरत्यन्तसंयोगे 2.3.5 | मासम् अधीते; क्रोशं कुटिला नदी | నెల రోజులు చదువుతాడు |
+| verbs of motion: goal | (default object) | ग्रामं गच्छति | ఊరికి వెళ్తాడు |
+
+> [compare] Telugu -కి for the goal :: Telugu ఊరికి వెళ్ళు uses the dative for the goal of motion; Sanskrit uses the 2nd case: ग्रामं गच्छति (the 4th is also allowed with गम्, 2.3.12: ग्रामाय गच्छति). And శిష్యునికి చెప్పు (Telugu dative) = शिष्यं ब्रूते (Sanskrit 2nd, a double accusative).
+
+### 3rd case
+| Rule | Example | Telugu |
+|---|---|---|
+| agent of a passive | रामेण रावणः हतः | రాముని చేత రావణుడు చంపబడ్డాడు |
+| with सह, साकम्, समम् | पुत्रेण सह | కొడుకుతో కలిసి |
+| a bodily defect | अक्ष्णा काणः, पादेन खञ्जः | ఒక కంట గుడ్డివాడు, కాలితో కుంటివాడు |
+| a mark (इत्थम्भूतलक्षणे 2.3.21) | जटाभिः तापसः | జడలను బట్టి తాపసి |
+| cause (हेतौ 2.3.23) | पुण्येन दृष्टः हरिः; अध्ययनेन वसति | పుణ్యం వల్ల హరి కనిపించాడు |
+| अलम्, किम्, कृतम् "enough of" | अलं विवादेन | వాదం చాలు |
+
+### 4th case
+| Rule | Sūtra | Example | Telugu |
+|---|---|---|---|
+| रुच् and verbs of pleasing | रुच्यर्थानां प्रीयमाणः 1.4.33 | हरये रोचते भक्तिः; मह्यं मोदकं रोचते | హరికి భక్తి నచ్చుతుంది; నాకు లడ్డు నచ్చుతుంది |
+| क्रुध्, द्रुह्, ईर्ष्य्, असूय् (anger, envy toward) | क्रुधद्रुहेर्ष्यासूयार्थानां यं प्रति कोपः 1.4.37 | हरये क्रुध्यति; कस्मै कुप्यसि? | ఎవరి మీద కోపపడుతున్నావు? |
+| धारि "owe" | धारेरुत्तमर्णः 1.4.35 | भक्ताय धारयति मोक्षं हरिः | |
+| स्पृह् "long for" | स्पृहेरीप्सितः 1.4.36 | पुष्पेभ्यः स्पृहयति | పువ్వుల కోసం ఆశపడతాడు |
+| purpose | तादर्थ्ये (vārttika) | मुक्तये हरिं भजति; युद्धाय (2.37) | ముక్తి కొరకు |
+| नमः, स्वस्ति, स्वाहा, स्वधा, अलम्, वषट् | नमःस्वस्तिस्वाहास्वधालंवषड्योगाच्च 2.3.16 | गणेशाय नमः | గణేశునికి నమస్కారం |
+
+> [compare] The Telugu dative subject finally has a home :: Telugu నాకు నచ్చింది, నాకు కోపం వచ్చింది look odd from the Sanskrit side (lesson 2.6), but रुच् is exactly like that: मह्यं रोचते "it pleases to me". This is the one place where the Telugu dative-experiencer and Sanskrit agree.
+
+### 5th case
+| Rule | Sūtra | Example | Telugu |
+|---|---|---|---|
+| fear, protection: the cause of fear | भीत्रार्थानां भयहेतुः 1.4.25 | चोरात् बिभेति; महतो भयात् त्रायते (2.40) | దొంగకు భయపడతాడు; గొప్ప భయం నుండి కాపాడుతుంది |
+| disgust, stopping, neglect | जुगुप्साविरामप्रमादार्थानाम् (vārttika) | पापात् जुगुप्सते; धर्मात् प्रमाद्यति | పాపం అంటే అసహ్యం; ధర్మం విషయంలో ఏమరుపాటు |
+| origin of birth | जनिकर्तुः प्रकृतिः 1.4.30 | कामात् क्रोधोऽभिजायते (2.62) | కోరిక నుండి కోపం పుడుతుంది |
+| learning from a teacher | आख्यातोपयोगे 1.4.29 | उपाध्यायात् अधीते | గురువు దగ్గర నేర్చుకుంటాడు |
+| hiding from | अन्तर्धौ येनादर्शनमिच्छति 1.4.28 | मातुः निलीयते कृष्णः | తల్లికి కనబడకుండా దాక్కుంటాడు |
+| comparison ("than") | पञ्चमी विभक्ते 2.3.42 | मत्तः परतरम् (7.7) | నాకంటే ఉన్నతమైనది |
+| cause (abstract) | विभाषा गुणेऽस्त्रियाम् 2.3.25 | अधर्माभिभवात् (1.41) | అధర్మం పెరగడం వల్ల |
+
+> [compare] Telugu భయపడు takes -కి :: Telugu దొంగకు భయపడు uses the dative; Sanskrit uses the 5th: चोरात् बिभेति ("fears from the thief"). Same for కాపాడు: Telugu భయం నుండి కాపాడు matches Sanskrit भयात् त्रायते.
+
+### 6th and 7th cases
+| Use | Example | Telugu |
+|---|---|---|
+| possession, relation | रामस्य पुत्रः | రాముని కొడుకు |
+| agent / object of a kṛt noun | वेदस्य अध्ययनम्; कृष्णस्य कृतिः | వేదాధ్యయనం |
+| with स्मृ "remember", ईश् "rule", दया "pity" | मातुः स्मरति | తల్లిని తలచుకుంటాడు |
+| the whole from which one is chosen (6th or 7th) | नराणां / नरेषु श्रेष्ठः | మనుషులలో శ్రేష్ఠుడు |
+| location, time | गृहे, प्रातःकाले | ఇంట్లో, పొద్దున |
+| the object of love, respect | मातरि स्निह्यति; गुरौ भक्तिः | తల్లిని ప్రేమిస్తాడు |
+| the target of an action (hunting for) | चर्मणि द्वीपिनं हन्ति | చర్మం కోసం పులిని చంపుతాడు |
+| "when", absolute (lesson 11.4) | रामे वनं गते | రాముడు అడవికి వెళ్ళగా |
+
+## The kārakas in one verse
+@ex gita:4:24
+split: ब्रह्म अर्पणं ब्रह्म हविः ब्रह्माग्नौ ब्रह्मणा हुतम् । ब्रह्म एव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥
+w: ब्रह्म अर्पणम् = అర్పించే సాధనం బ్రహ్మమే (करण); ब्रह्म हविः = హవిస్సు బ్రహ్మమే (कर्म); ब्रह्माग्नौ = బ్రహ్మమనే అగ్నిలో (अधिकरण); ब्रह्मणा = బ్రహ్మము చేత (कर्ता, passive agent); हुतम् = హోమం చేయబడింది; ब्रह्म एव = బ్రహ్మమే; तेन = అతని చేత; गन्तव्यम् = పొందదగినది; ब्रह्मकर्मसमाधिना = బ్రహ్మమనే కర్మలో సమాధి గలవాని చేత
+note: The Advaita reading of this verse rests on kāraka analysis: the instrument (अर्पणम्, the ladle), the object (हविः), the location (अग्नौ), the agent (ब्रह्मणा) and the goal (गन्तव्यम्) are all Brahman. Śaṅkara's commentary walks through each kāraka.
+@end
+
+@ex gita:15:15
+note: सर्वस्य (6th, relation), हृदि (7th, location), मत्तः (5th, source: "from me"), वेदैः (3rd, instrument: "by the Vedas"), वेद्यः (gerundive, "to be known").
+@end
+
+@quiz
+q: अपादान is expressed by:
+* the 5th case
+- the 4th case
+- the 6th case
+why: ध्रुवमपायेऽपादानम्; अपादाने पञ्चमी.
+
+q: "నాకు లడ్డు నచ్చుతుంది":
+* मह्यं मोदकं रोचते
+- मम मोदकं रोचते
+- अहं मोदकं रोचे
+why: रुच्: the one pleased is in the 4th case.
+
+q: चोरात् बिभेति — why the 5th case?
+* भी takes the cause of fear in the 5th
+- चोर is the source of motion
+- It is a comparison
+why: भीत्रार्थानां भयहेतुः 1.4.25.
+
+q: The 6th case is:
+* not a kāraka; it expresses other relations
+- the kāraka of possession
+- the same as the 4th
+why: षष्ठी शेषे 2.3.50.
+
+q: गां दोग्धि पयः has two 2nd cases because:
+* दुह् is a double-object verb
+- गाम् is an adverb
+- पयः is in the 1st case
+why: अकथितं च 1.4.51: the cow is the "unspecified" object.
+
+q: कामात् क्रोधोऽभिजायते: कामात् is 5th because:
+* it is the source from which anger is born
+- it is the cause of fear
+- it is compared
+why: जनिकर्तुः प्रकृतिः 1.4.30.
+@end

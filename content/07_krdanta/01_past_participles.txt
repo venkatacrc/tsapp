@@ -1,0 +1,107 @@
+@title భూతకాల కృదంతాలు · Past participles (क्त, क्तवतु)
+@summary The single most useful past form: कृत "done" and कृतवान् "(he) did". How -त, -इत and -न are chosen, which participles are passive and which active, how they decline in three genders, and how to use them as the main verb of a sentence.
+
+## Two participles
+| Suffix | Name | Form | Sense | Telugu |
+|---|---|---|---|---|
+| क्त | past passive participle | कृत | done (by someone) | చేయబడిన, చేసిన |
+| क्तवतु | past active participle | कृतवत् (कृतवान्) | (one) who did | చేసినవాడు |
+
+> [memory] क्तवतु = क्त + वत् :: Learn the क्त form; the active is the same plus -वत्: कृत → कृतवान्, गत → गतवान्, उक्त → उक्तवान्, दृष्ट → दृष्टवान्. One stem, two participles.
+
+## Which suffix shape
+| Shape | When | Examples |
+|---|---|---|
+| -त | most अनिट् roots | कृत, गत, हत, मत, ज्ञात, श्रुत, युक्त, त्यक्त, दृष्ट, लब्ध |
+| -इत | सेट् roots, class 10, causatives | पठित, लिखित, पतित, चलित, कथित, चिन्तित, स्थापित, दर्शित |
+| -न | roots in ॠ, many in द्, and a few others (8.2.42–45) | पूर्ण (पॄ), जीर्ण (जॄ), भिन्न (भिद्), छिन्न (छिद्), खिन्न (खिद्), प्रसन्न (प्र + सद्), लीन (ली), क्षीण (क्षि), हीन (हा), दीन, मग्न (मस्ज्), लग्न (लस्ज्), उद्विग्न (उद् + विज्) |
+
+> [compare] Telugu already has dozens :: ప్రసన్నం, పూర్ణం, జీర్ణం, దీనం, లీనం, మగ్నం, ఖిన్నం, ఉద్విగ్నం, క్షీణం, హీనం, ఛిన్నాభిన్నం: all Sanskrit -న participles. Telugu జీర్ణమైంది "is digested" is literally "has become worn out".
+
+## Passive or active?
+| Verb type | क्त means | Example | Telugu |
+|---|---|---|---|
+| transitive | passive: "done" | कृतं कर्म | చేయబడిన పని |
+| intransitive | active: "gone, stood" | गतः रामः, स्थितः अर्जुनः | వెళ్ళిన రాముడు, నిలిచిన అర్జునుడు |
+| motion + object | either | रामः वनं गतः | రాముడు అడవికి వెళ్ళాడు |
+
+## Declension in three genders
+क्त forms decline like राम (masc.), रमा (fem.) and वन (neut.):
+- गतः, गता, गतम्
+- कृतः, कृता, कृतम्
+
+क्तवतु forms decline like भगवत् (masc.), with -ई feminine:
+
+| कृतवत् | पुंलिङ्ग | स्त्रीलिङ्ग | नपुंसकलिङ्ग |
+|---|---|---|---|
+| ప్రథమ ఏక | कृतवान् | कृतवती | कृतवत् |
+| ప్రథమ ద్వి | कृतवन्तौ | कृतवत्यौ | कृतवती |
+| ప్రథమ బహు | कृतवन्तः | कृतवत्यः | कृतवन्ति |
+| ద్వితీయ ఏక | कृतवन्तम् | कृतवतीम् | कृतवत् |
+| తృతీయ ఏక | कृतवता | कृतवत्या | कृतवता |
+| షష్ఠీ బహు | कृतवताम् | कृतवतीनाम् | कृतवताम् |
+
+## Using them as the main verb
+Spoken and simple written Sanskrit uses participles for the past more than any lakāra. Supply अस् for the 1st and 2nd persons, or leave it out:
+
+| Sanskrit (active) | Sanskrit (passive) | Telugu |
+|---|---|---|
+| सः पुस्तकं पठितवान् | तेन पुस्तकं पठितम् | అతడు పుస్తకం చదివాడు |
+| सा गीतं गीतवती | तया गीतं गीतम् | ఆమె పాట పాడింది |
+| अहं भोजनं कृतवान् (अस्मि) | मया भोजनं कृतम् | నేను భోజనం చేశాను |
+| त्वं किम् उक्तवान्? | त्वया किम् उक्तम्? | నువ్వు ఏం చెప్పావు? |
+| ते ग्रामं गतवन्तः | तैः ग्रामः गतः | వాళ్ళు ఊరికి వెళ్ళారు |
+| बालिकाः क्रीडितवत्यः | बालिकाभिः क्रीडितम् (भावे) | అమ్మాయిలు ఆడుకున్నారు |
+
+> [memory] Gender agreement is the trap :: Telugu చదివాడు / చదివింది already shows gender, so you are used to it. In Sanskrit, the active participle agrees with the doer (सा पठितवती), the passive one with the thing done (तेन कथा पठिता, because कथा is feminine).
+
+## Participles as nouns and adjectives
+- Neuter क्त as an action noun: गतम् "going", हसितम् "laughter", जीवितम् "life", दत्तम् "a gift"
+- Common names and titles: दत्त, देवदत्त, कृष्णप्रिय, गीत "song", अमृत "nectar" (अ + मृत)
+- In compounds (unit 9): गतसन्देहः "whose doubt is gone", कृतनिश्चयः "who has made a resolve"
+
+@ex gita:18:73
+note: नष्टः (नश्), लब्धा (लभ्, feminine to agree with स्मृतिः), स्थितः (स्था, intransitive so active), गत- (गम्, in the compound गतसन्देहः).
+@end
+
+@ex gita:2:1
+split: तं तथा कृपया आविष्टम् अश्रुपूर्णाकुलेक्षणम् । विषीदन्तम् इदं वाक्यम् उवाच मधुसूदनः ॥
+w: तम् = అతనితో; तथा = ఆ విధంగా; कृपया = దయతో; आविष्टम् = ఆవరింపబడినవాడిని (PPP of आ + विश्); अश्रुपूर्णाकुलेक्षणम् = కన్నీళ్ళు నిండి కలత చెందిన కళ్ళు గలవాడిని; विषीदन्तम् = దుఃఖిస్తున్నవాడిని (pres. participle); इदम् = ఈ; वाक्यम् = మాటను; उवाच = పలికాడు; मधुसूदनः = మధుసూదనుడు
+note: आविष्टम् and -पूर्ण- (from पॄ, a -न participle) are past participles; विषीदन्तम् is a present participle (next lesson). All are in the 2nd case, agreeing with तम्.
+@end
+
+@ex gita:2:22
+note: जीर्णानि "worn out": the -न participle of जॄ, neuter plural, agreeing with वासांसि and later शरीराणि.
+@end
+
+@quiz
+q: Past passive participle of भिद् (split):
+* भिन्न
+- भित्त
+- भेदित
+why: Many द्-roots take -न: भिन्न, छिन्न, खिन्न.
+
+q: रामः वनं गतः means:
+* Rāma went to the forest
+- The forest was gone to by Rāma (only)
+- Rāma will go to the forest
+why: गम् is a verb of motion; गतः here is active.
+
+q: "ఆమె పుస్తకం చదివింది" with the active participle:
+* सा पुस्तकं पठितवती
+- सा पुस्तकं पठितवान्
+- तया पुस्तकं पठितवती
+why: पठितवत् agrees with the doer, feminine: पठितवती.
+
+q: तेन कथा ___ (he read the story):
+* पठिता
+- पठितः
+- पठितम्
+why: The passive participle agrees with कथा (feminine).
+
+q: Which of these is a past participle in -न?
+* पूर्ण
+- पठित
+- दत्त
+why: पॄ → पूर्ण (ॠ-ending roots take -न).
+@end

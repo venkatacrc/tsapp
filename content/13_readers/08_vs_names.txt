@@ -1,0 +1,180 @@
+@title సహస్ర నామాలు · Viṣṇu Sahasranāmam II: the grammar of the names
+@summary How the thousand names are made: kṛt nouns, upapadas, possessives in -इन् and -वत्, bahuvrīhis, gerundives with अ-, superlatives and taddhitas. How to find the name boundaries inside sandhi, and how each name becomes a dative for archana (ॐ विश्वस्मै नमः). Ten stotram verses analysed name by name.
+
+## The stotram is a list of nominatives
+The 107 verses of the stotram are almost nothing but names, each in the 1st case, with an occasional च or एव च to fill the metre. There is no verb until the very last verse (अभिरक्षतु). So the grammar of the stotram is the grammar of word formation: once you can see how a name is built, you know what it means.
+
+> [memory] Ten names a day :: The stotram has about 1000 names in 107 verses, roughly 9–10 per verse. Learn one verse a day: split it into names, say what type each name is, and give its Telugu meaning. In 107 days you know every name and you have revised all of units 7, 9 and 10.
+
+## Eleven ways a name is made
+| Type | How it is built | Examples from the stotram | Lesson |
+|---|---|---|---|
+| kṛt noun in -तृ | agent: "the one who …" | भर्ता, धाता, विधाता, त्वष्टा, नेता, स्रष्टा | 7.5 |
+| kṛt noun in -अन | "the one who causes …" | भावनः, मधुसूदनः, जनार्दनः, प्रतर्दनः | 7.5 |
+| upapada with a bare root | object + root | भूतकृत्, भूतभृत्, सर्ववित्, वेदवित्, शत्रुजित् | 7.5 |
+| upapada with -द, -ग, -ज्ञ, -स्थ | object + short root | प्राणदः, सिद्धिदः, सर्वगः, कृतज्ञः, सत्त्वस्थः | 9.2 |
+| possessive -इन्, -विन्, -वत्, -मत् | "having …" | विक्रमी, धन्वी, चक्री, मेधावी, आत्मवान्, श्रीमान् | 4.8 |
+| bahuvrīhi | "he whose … is …" | पुष्कराक्षः, पद्मनाभः, सहस्राक्षः, बहुशिराः, महामनाः | 9.4 |
+| tatpuruṣa | "lord of …, abode of …" | हृषीकेशः, सुरेशः, श्रीनिवासः, लोकस्वामी | 9.2 |
+| negative अ- / अन्- | "the one who is not …" | अच्युतः, अजः, अव्ययः, अनादिनिधनः | 9.2 |
+| gerundive | "to be …, -able" | अप्रमेयः, अग्राह्यः, असङ्ख्येयः, अक्षोभ्यः, मान्यः | 7.4 |
+| superlative | "most …" | स्थविष्ठः, ज्येष्ठः, श्रेष्ठः, सनातनतमः | 10.2 |
+| taddhita | "belonging to, descended from" | माधवः, वारुणः, सात्त्विकः, दाशार्हः | 10.1 |
+
+> [telugu] Telugu names work the same way :: Telugu given names are Sahasranāma names: శ్రీనివాస్, పద్మనాభం, హృషీకేశ్, మధుసూదన్, జనార్దన్, పురుషోత్తం, గోవింద్, కేశవ్. Each of them is a compound or a kṛt noun. When you meet a friend's name in the stotram, analyse it: that is the easiest way to remember a type.
+
+## Finding the name boundaries
+The names run into each other with sandhi. Split them with the method of lesson 8.6, and use these signs:
+1. Every name ends in a case ending, usually -ः, -म्, -आ or -ई. A र्, ो or ऽ in the middle of a line usually marks the end of a name: स्थाणुर्भूतादिः = स्थाणुः भूतादिः.
+2. च and एव च fill the metre; they are not names.
+3. A few splits are disputed, and commentators count the names differently. In verse 12, समात्माऽसम्मितः can be read as समात्मा + असम्मितः or समात्मा + सम्मितः; Śaṅkara explains both.
+4. Some names appear more than once (विष्णुः in verses 1 and 70). The commentators give each occurrence a different meaning, so nothing is counted twice.
+
+## Analysed verses
+@ex vs:stotram:2
+split: पूतात्मा परमात्मा च मुक्तानां परमा गतिः । अव्ययः पुरुषः साक्षी क्षेत्रज्ञः अक्षरः एव च ॥
+w: पूतात्मा = పవిత్ర స్వరూపుడు (bahuvrīhi); परमात्मा = పరమాత్మ (karmadhāraya); मुक्तानां परमा गतिः = ముక్తులకు పరమ గతి (a phrase-name); अव्ययः = మార్పు లేనివాడు (negative); पुरुषः = పురుషుడు; साक्षी = సాక్షి (-इन्); क्षेत्रज्ञः = క్షేత్రాన్ని ఎరిగినవాడు (upapada -ज्ञ); अक्षरः = నాశనం లేనివాడు
+note: मुक्तानां परमा गतिः is one name made of three words: a genitive plural, a feminine adjective and a feminine noun. Names do not have to be single words.
+note: पूतात्मा and परमात्मा are an-stems (आत्मन्), nominative -आ (lesson 4.9).
+note: क्षेत्रज्ञः + अक्षरः → क्षेत्रज्ञोऽक्षरः, and अक्षरः + एव → अक्षर एव (lesson 8.5).
+@end
+
+@ex vs:stotram:3
+split: योगः योगविदां नेता प्रधानपुरुषेश्वरः । नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥
+w: योगः = యోగ స్వరూపుడు; योगविदां नेता = యోగవిదులకు నాయకుడు; प्रधानपुरुषेश्वरः = ప్రకృతికి, జీవునికి ఈశ్వరుడు; नारसिंहवपुः = నరసింహ రూపం గలవాడు; श्रीमान् = శ్రీమంతుడు; केशवः = అందమైన కేశాలు గలవాడు; पुरुषोत्तमः = పురుషులలో ఉత్తముడు
+note: योगविदां नेता: a genitive plural (योगविद्, consonant stem) with an agent noun in -तृ (नेता, from नी).
+note: प्रधानपुरुषेश्वरः: प्रधानस्य पुरुषस्य च ईश्वरः, a dvandva inside a tatpuruṣa. नारसिंहवपुः: a bahuvrīhi on the -उस् stem वपुस्; नारसिंह is a taddhita from नरसिंह.
+note: पुरुषोत्तमः: पुरुषेषु उत्तमः (7th case of the group) or, with Gītā 15.18, the one beyond both the perishable and the imperishable.
+@end
+
+@ex vs:stotram:6
+split: अप्रमेयः हृषीकेशः पद्मनाभः अमरप्रभुः । विश्वकर्मा मनुः त्वष्टा स्थविष्ठः स्थविरः ध्रुवः ॥
+w: अप्रमेयः = కొలవలేనివాడు (negative gerundive); हृषीकेशः = ఇంద్రియాలకు ప్రభువు; पद्मनाभः = నాభిలో పద్మం గలవాడు; अमरप्रभुः = దేవతలకు ప్రభువు; विश्वकर्मा = విశ్వమే తన కర్మగా గలవాడు; मनुः = మననశీలుడు; त्वष्टा = (ప్రళయంలో) సంహరించేవాడు; स्थविष्ठः = అత్యంత స్థూలుడు; स्थविरः = పురాతనుడు; ध्रुवः = స్థిరుడు
+note: अप्रमेयः: न प्रमेयः, the gerundive of प्र + मा "measure" with the negative (lesson 7.4): "not to be measured".
+note: पद्मनाभः: पद्मं नाभौ यस्य सः. नाभि becomes -नाभ at the end of a bahuvrīhi. विश्वकर्मा is a bahuvrīhi on the an-stem कर्मन्.
+note: स्थविष्ठः is the irregular superlative of स्थूल "gross, large" (lesson 10.2). त्वष्टा is a -तृ agent noun.
+@end
+
+@ex vs:stotram:8
+split: ईशानः प्राणदः प्राणः ज्येष्ठः श्रेष्ठः प्रजापतिः । हिरण्यगर्भः भूगर्भः माधवः मधुसूदनः ॥
+w: ईशानः = పాలించేవాడు; प्राणदः = ప్రాణాన్ని ఇచ్చేవాడు; प्राणः = ప్రాణ స్వరూపుడు; ज्येष्ठः = అందరికంటే పెద్దవాడు; श्रेष्ठः = అందరికంటే శ్రేష్ఠుడు; प्रजापतिः = ప్రజలకు ప్రభువు; हिरण्यगर्भः = బంగారు గర్భం గలవాడు (బ్రహ్మ స్వరూపుడు); भूगर्भः = భూమిని గర్భంలో ధరించినవాడు; माधवः = లక్ష్మీపతి; मधुसूदनः = మధు అనే రాక్షసుని సంహరించినవాడు
+note: ईशानः: the ātmanepada participle of ईश् "rule" in -आन (lesson 7.2), used as a name.
+note: ज्येष्ठः and श्रेष्ठः are the irregular superlatives of वृद्ध "old" and प्रशस्य "praiseworthy" (lesson 10.2).
+note: माधवः: मा (= लक्ष्मी) + धव "husband", "husband of Lakṣmī"; it is also explained as a taddhita from मधु. मधुसूदनः: मधुं सूदयति इति, a kṛt noun in -अन (lesson 7.5).
+@end
+
+@ex vs:stotram:9
+split: ईश्वरः विक्रमी धन्वी मेधावी विक्रमः क्रमः । अनुत्तमः दुराधर्षः कृतज्ञः कृतिः आत्मवान् ॥
+w: ईश्वरः = ఈశ్వరుడు; विक्रमी = పరాక్రమం గలవాడు; धन्वी = ధనుస్సు గలవాడు; मेधावी = మేధ గలవాడు; विक्रमः = విశ్వాన్ని అడుగులతో కొలిచినవాడు; क्रमः = వ్యాపించినవాడు; अनुत्तमः = తనకంటే ఉత్తముడు లేనివాడు; दुराधर्षः = ఎదిరించలేనివాడు; कृतज्ञः = (జీవుల) కర్మలను ఎరిగినవాడు; कृतिः = కర్మ స్వరూపుడు; आत्मवान् = తనలోనే నిలిచినవాడు
+note: Four possessives: विक्रमी, धन्वी (-इन्), मेधावी (-विन्), आत्मवान् (-वत्). They all mean "having …" (lesson 4.8).
+note: अनुत्तमः: न विद्यते उत्तमः यस्मात् सः, "he than whom none is higher", a negative bahuvrīhi.
+note: दुराधर्षः: दुर् + आ + धृष् with the suffix खल् "hard to …", like दुर्लभ (Gītā 7.19).
+@end
+
+@ex vs:stotram:65
+split: श्रीदः श्रीशः श्रीनिवासः श्रीनिधिः श्रीविभावनः । श्रीधरः श्रीकरः श्रेयः श्रीमान् लोकत्रयाश्रयः ॥
+w: श्रीदः = సంపదను ఇచ్చేవాడు; श्रीशः = శ్రీకి ఈశుడు; श्रीनिवासः = శ్రీకి నివాసమైనవాడు; श्रीनिधिः = శ్రీకి నిధి; श्रीविभावनः = శ్రీని పంచి ఇచ్చేవాడు; श्रीधरः = శ్రీని (వక్షస్సుపై) ధరించినవాడు; श्रीकरः = శ్రీని కలిగించేవాడు; श्रेयः = శ్రేయస్సు స్వరూపుడు; श्रीमान् = శ్రీ గలవాడు; लोकत्रयाश्रयः = మూడు లోకాలకు ఆశ్రయం
+note: The श्री verse: nine names built on one word with nine different endings. A complete drill of upapadas (श्रीदः, श्रीधरः, श्रीकरः), tatpuruṣas (श्रीशः, श्रीनिवासः, श्रीनिधिः), a kṛt noun (श्रीविभावनः) and a possessive (श्रीमान्).
+note: श्रीमान् + लोक → श्रीमाँल्लोक: न् before ल becomes a nasalised ल्ल (lesson 8.4).
+note: श्रेयः is a neuter -अस् noun used as a name: "the highest good".
+@end
+
+@ex vs:stotram:96
+split: सनात् सनातनतमः कपिलः कपिः अव्ययः । स्वस्तिदः स्वस्तिकृत् स्वस्ति स्वस्तिभुक् स्वस्तिदक्षिणः ॥
+w: सनात् = అనాది కాలం; सनातनतमः = అత్యంత పురాతనుడు; कपिलः = కపిల వర్ణుడు; कपिः = సూర్య స్వరూపుడు; अव्ययः = నాశనం లేనివాడు; स्वस्तिदः = శుభాన్ని ఇచ్చేవాడు; स्वस्तिकृत् = శుభం చేసేవాడు; स्वस्ति = శుభ స్వరూపుడు; स्वस्तिभुक् = శుభాన్ని అనుభవించేవాడు (కాపాడేవాడు); स्वस्तिदक्षिणः = శుభాన్ని ఇవ్వడంలో సమర్థుడు
+note: The स्वस्ति verse: one word with -द, -कृत्, -भुक् and -दक्षिण.
+note: स्वस्तिभुक्: the root भुज् ends in -क् at the end of a word (lesson 8.3). In the archana it is restored: स्वस्तिभुजे नमः.
+note: सनातनतमः: the superlative -तम on सनातन "eternal": "most ancient of all" (lesson 10.2).
+@end
+
+@ex vs:stotram:105
+split: यज्ञभृत् यज्ञकृत् यज्ञी यज्ञभुक् यज्ञसाधनः । यज्ञान्तकृत् यज्ञगुह्यम् अन्नम् अन्नादः एव च ॥
+w: यज्ञभृत् = యజ్ఞాన్ని భరించేవాడు; यज्ञकृत् = యజ్ఞాన్ని సృష్టించినవాడు; यज्ञी = యజ్ఞాలకు ప్రధానుడు; यज्ञभुक् = యజ్ఞ ఫలాన్ని అనుభవించేవాడు; यज्ञसाधनः = యజ్ఞానికి సాధనమైనవాడు; यज्ञान्तकृत् = యజ్ఞ ఫలాన్ని ఇచ్చేవాడు; यज्ञगुह्यम् = యజ్ఞ రహస్యం; अन्नम् = అన్నం (భోగ్య స్వరూపుడు); अन्नादः = అన్నాన్ని తినేవాడు (భోక్త)
+note: The यज्ञ verse: five upapadas with bare roots (-भृत्, -कृत्, -भुक्, -अन्तकृत्) and one with -अद (अन्नादः = अन्नम् अत्ति इति).
+note: Final-consonant sandhi in a row: यज्ञभृत् + यज्ञ → यज्ञभृद्यज्ञ (त् → द् before य); यज्ञभुक् + यज्ञ → यज्ञभुग्यज्ञ (क् → ग्). Printed texts often keep a space after the changed consonant: यज्ञभृद् यज्ञकृद् (lesson 8.3).
+note: यज्ञगुह्यम् and अन्नम् are neuter names; their archana datives are यज्ञगुह्याय and अन्नाय.
+@end
+
+@ex vs:stotram:107
+split: शङ्खभृत् नन्दकी चक्री शार्ङ्गधन्वा गदाधरः । रथाङ्गपाणिः अक्षोभ्यः सर्वप्रहरणायुधः ॥
+w: शङ्खभृत् = శంఖం ధరించినవాడు; नन्दकी = నందకం అనే ఖడ్గం గలవాడు; चक्री = చక్రం గలవాడు; शार्ङ्गधन्वा = శార్ఙ్గం అనే ధనుస్సు గలవాడు; गदाधरः = గద ధరించినవాడు; रथाङ्गपाणिः = చక్రం చేతిలో గలవాడు; अक्षोभ्यः = కలతపెట్టలేనివాడు; सर्वप्रहरणायुधः = అన్ని రకాల ఆయుధాలు గలవాడు
+note: The weapons verse. Five ways to say "holding": -भृत् (upapada), -इन् (नन्दकी, चक्री), bahuvrīhi with -धन्वन् and -पाणि, and -धर (upapada).
+note: शार्ङ्गधन्वा: धनुस् becomes -धन्वन् at the end of a bahuvrīhi (धनुषश्च, Aṣṭādhyāyī 5.4.132), so its nominative is -धन्वा.
+note: शङ्खभृत् + नन्दकी → शङ्खभृन्नन्दकी (त् before a nasal becomes न्, lesson 8.4). अक्षोभ्यः is a negative gerundive.
+@end
+
+## The last verse: the only verb
+@ex vs:stotram:108
+split: वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी । श्रीमान् नारायणः विष्णुः वासुदेवः अभिरक्षतु ॥
+anvaya: वनमाली गदी शार्ङ्गी शङ्खी चक्री नन्दकी च श्रीमान् नारायणः विष्णुः वासुदेवः (अस्मान्) अभिरक्षतु ॥
+w: वनमाली = వనమాల ధరించినవాడు; गदी = గద గలవాడు; शार्ङ्गी = శార్ఙ్గ ధనుస్సు గలవాడు; शङ्खी = శంఖం గలవాడు; चक्री = చక్రం గలవాడు; नन्दकी = నందక ఖడ్గం గలవాడు; श्रीमान् = శ్రీమంతుడైన; नारायणः = నారాయణుడు; विष्णुः = విష్ణువు; वासुदेवः = వాసుదేవుడు; अभिरक्षतु = అన్ని వైపుల నుండి కాపాడుగాక
+note: Six -इन् possessives in one line (lesson 4.8). All are nominative singular in -ई.
+note: अभिरक्षतु is the first and only finite verb of the stotram: a 3rd singular imperative of blessing (lesson 6.6). After a thousand names, one prayer.
+note: वासुदेवः is a taddhita "son of Vasudeva" (lesson 10.1). नारायणः: नराणाम् अयनम्, with the न → ण rule (lesson 6.10).
+@end
+
+## From name to archana
+For archana (worship with flowers), each name is put in the 4th case and framed with ॐ … नमः. The dative ending depends on the stem, and a few names surprise you:
+
+| Name in the stotram | Stem | Archana form | Why |
+|---|---|---|---|
+| विश्वम् | विश्व (pronoun) | ॐ विश्वस्मै नमः | विश्व declines like सर्व |
+| विष्णुः | विष्णु | ॐ विष्णवे नमः | u-stem: guṇa + -ए |
+| वषट्कारः | वषट्कार | ॐ वषट्काराय नमः | a-stem |
+| भूतकृत् | भूतकृत् | ॐ भूतकृते नमः | consonant stem |
+| पूतात्मा | पूतात्मन् | ॐ पूतात्मने नमः | an-stem |
+| साक्षी | साक्षिन् | ॐ साक्षिणे नमः | -इन् stem (ण after क्ष) |
+| श्रीमान् | श्रीमत् | ॐ श्रीमते नमः | -मत् stem |
+| त्वष्टा | त्वष्टृ | ॐ त्वष्ट्रे नमः | ṛ-stem |
+| विश्वकर्मा | विश्वकर्मन् | ॐ विश्वकर्मणे नमः | an-stem (ण after र) |
+| बहुशिराः | बहुशिरस् | ॐ बहुशिरसे नमः | -अस् stem |
+| सहस्रपात् | सहस्रपाद् | ॐ सहस्रपदे नमः | weak stem -पद् |
+| शार्ङ्गधन्वा | शार्ङ्गधन्वन् | ॐ शार्ङ्गधन्वने नमः | an-stem |
+| स्वस्तिभुक् | स्वस्तिभुज् | ॐ स्वस्तिभुजे नमः | ज् restored |
+| लक्ष्मीः (101) | लक्ष्मी | ॐ लक्ष्म्यै नमः | ई-stem feminine |
+
+> [warning] Don't just add -आय :: Beginners write विष्णाय or आत्माय. Find the stem first (lessons 4.2–4.10), then take its dative. The stems that most often catch people: -अन् (आत्मने), -इन् (साक्षिणे), -तृ (त्वष्ट्रे) and the pronoun विश्व (विश्वस्मै).
+
+@quiz
+q: अप्रमेयः is formed as:
+* negative + gerundive of प्र + मा: "not to be measured"
+- a bahuvrīhi: "having no measure"
+- a superlative
+why: -य gerundive with अ-.
+
+q: How many finite verbs does the whole stotram (verses 1–108) have?
+* one: अभिरक्षतु in verse 108
+- about a hundred
+- none
+why: The stotram is a list of names.
+
+q: The archana form of विश्वम् is:
+* विश्वस्मै नमः
+- विश्वाय नमः
+- विश्वे नमः
+why: विश्व declines like the pronoun सर्व.
+
+q: शार्ङ्गधन्वा ends in -आ because:
+* धनुस् becomes -धन्वन् at the end of a bahuvrīhi
+- it is feminine
+- it is a -तृ noun
+why: धनुषश्च.
+
+q: In verse 65, श्रीमाँल्लोक splits as:
+* श्रीमान् लोक
+- श्रीमां लोक
+- श्रीमाल् लोक
+why: न् + ल → ँल्ल.
+
+q: स्वस्तिभुक् has the dative:
+* स्वस्तिभुजे
+- स्वस्तिभुके
+- स्वस्तिभुगे
+why: The root is भुज्; -क् is only the word-final form.
+
+q: Which of these is a possessive in -इन्?
+* चक्री
+- गदाधरः
+- रथाङ्गपाणिः
+why: चक्रम् अस्य अस्ति इति चक्री.
+@end

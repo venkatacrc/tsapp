@@ -1,0 +1,123 @@
+@title ఇకారాంత శబ్దాలు · i-stems: हरि, मति, वारि
+@summary हरिः (m.), मतिः (f.), वारि (n.). The guṇa forms हरये, हरेः, हे हरे; the locative हरौ; the feminine options मत्यै / मतये; and the many -ति nouns of the Gītā (भक्ति, शान्ति, बुद्धि, मुक्ति).
+
+## हरि (masculine)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| ప్రథమా (1) | हरिः | हरी | हरयः |
+| ద్వితీయా (2) | हरिम् | हरी | हरीन् |
+| తృతీయా (3) | हरिणा | हरिभ्याम् | हरिभिः |
+| చతుర్థీ (4) | हरये | हरिभ्याम् | हरिभ्यः |
+| పంచమీ (5) | हरेः | हरिभ्याम् | हरिभ्यः |
+| షష్ఠీ (6) | हरेः | हर्योः | हरीणाम् |
+| సప్తమీ (7) | हरौ | हर्योः | हरिषु |
+| సంబోధన (8) | हे हरे | हे हरी | हे हरयः |
+
+> [memory] ఇ becomes ఏ (guṇa) in four places :: हरये (4), हरेः (5, 6), हे हरे (8), and हरयः (1 pl., ए → अय्). These are the guṇa forms: इ → ए. The locative हरौ is unique: -औ. Everything else is stem + ending: हरिणा, हरिभिः, हरिषु.
+
+> [compare] हरि vs राम :: 3 sg. हरिणा (not -एन), 4 sg. हरये (not -आय), 5/6 sg. हरेः (not -आत्, -स्य), 7 sg. हरौ (not -ए). Plurals: हरयः, हरीन्, हरीणाम्. The dual is predictable as always: हरी, हरिभ्याम्, हर्योः.
+
+## मति (feminine)
+Like हरि, except: the accusative plural ends in **-ईः**, the instrumental is **मत्या** (no ण), and in the 4, 5, 6, 7 singular there is a second option borrowed from नदी:
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| ప్రథమా (1) | मतिः | मती | मतयः |
+| ద్వితీయా (2) | मतिम् | मती | मतीः |
+| తృతీయా (3) | मत्या | मतिभ्याम् | मतिभिः |
+| చతుర్థీ (4) | मत्यै / मतये | मतिभ्याम् | मतिभ्यः |
+| పంచమీ (5) | मत्याः / मतेः | मतिभ्याम् | मतिभ्यः |
+| షష్ఠీ (6) | मत्याः / मतेः | मत्योः | मतीनाम् |
+| సప్తమీ (7) | मत्याम् / मतौ | मत्योः | मतिषु |
+| సంబోధన (8) | हे मते | हे मती | हे मतयः |
+
+> [sutra] ङिति ह्रस्वश्च (1.4.6) :: Short i and u feminines may optionally take the नदी endings (-ऐ, -आः, -आम्) in the dative, ablative, genitive and locative singular. That is why मत्यै and मतये are both correct. The Gītā uses both kinds.
+
+## वारि (neuter)
+Neuter i-stems insert **न** before vowel endings: वारिणा, वारिणे, वारिणः. Only a few are common: वारि (water), अक्षि (eye; irregular), अस्थि (bone), दधि (curd), सुरभि (fragrant, as adjective).
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 / 2 | वारि | वारिणी | वारीणि |
+| 3 | वारिणा | वारिभ्याम् | वारिभिः |
+| 4 | वारिणे | वारिभ्याम् | वारिभ्यः |
+| 5 | वारिणः | वारिभ्याम् | वारिभ्यः |
+| 6 | वारिणः | वारिणोः | वारीणाम् |
+| 7 | वारिणि | वारिणोः | वारिषु |
+| 8 | हे वारे / वारि | हे वारिणी | हे वारीणि |
+
+## i-stems you know
+| Masculine (हरि) | Feminine (मति) |
+|---|---|
+| हरिः Hari | भक्तिः devotion |
+| कविः poet | शान्तिः peace |
+| मुनिः sage | बुद्धिः intellect |
+| ऋषिः seer | शक्तिः power |
+| अग्निः fire | मुक्तिः liberation |
+| रविः sun | कीर्तिः fame |
+| अतिथिः guest | रात्रिः night |
+| विधिः rule, fate | भूमिः earth |
+| निधिः treasure | गतिः goal, path |
+| पतिः lord (in compounds) | नीतिः conduct |
+| सारथिः charioteer | प्रकृतिः nature |
+| मणिः jewel | सृष्टिः creation |
+
+> [memory] -ति nouns are feminine :: Nouns made with the suffix -ति from a verb are always feminine and follow मति: भक्ति (भज्), शान्ति (शम्), मुक्ति (मुच्), गति (गम्), बुद्धि (बुध्), स्मृति (स्मृ), कीर्ति (कॄत्), सृष्टि (सृज्). Telugu భక్తి, శాంతి, ముక్తి keep the stem.
+
+@ex gita:18:78
+note: श्रीः, विजयः, भूतिः, नीतिः, मतिः: five nominatives. भूतिः, नीतिः, मतिः are -ति feminines (मति pattern); श्रीः is an ī-stem (lesson 4.6); विजयः follows राम.
+note: ध्रुवा "firm" is feminine to agree with नीतिः, and मम "my" goes with मतिः: "(this is) my conviction".
+@end
+
+@ex gita:2:66
+split: न अस्ति बुद्धिः अयुक्तस्य न च अयुक्तस्य भावना । न च अभावयतः शान्तिः अशान्तस्य कुतः सुखम् ॥
+w: न अस्ति = లేదు; बुद्धिः = బుద్ధి (1 sg., मति pattern); अयुक्तस्य = యోగయుక్తుడు కానివానికి (6 sg.); भावना = ధ్యానం (रमा pattern); अभावयतः = ధ్యానించనివానికి (6 sg. of a participle); शान्तिः = శాంతి; अशान्तस्य = శాంతి లేనివానికి; कुतः = ఎక్కడ నుండి; सुखम् = సుఖం
+note: Telugu says "అయుక్తునికి బుద్ధి లేదు" with the dative -కి. Sanskrit uses the genitive: अयुक्तस्य बुद्धिः नास्ति (possession = षष्ठी).
+note: बुद्धिः and शान्तिः are -ति feminines in the nominative.
+@end
+
+@ex
+sa: मुनिः अग्नौ हविः जुहोति । कविः हरिं स्तौति ।
+te: ముని అగ్నిలో హవిస్సును హోమం చేస్తున్నాడు. కవి హరిని స్తుతిస్తున్నాడు.
+en: The sage offers oblations into the fire. The poet praises Hari.
+w: मुनिः = ముని (1); अग्नौ = అగ్నిలో (7 sg., -औ); हविः = హవిస్సు (n., -इस् stem); जुहोति = హోమం చేస్తాడు; कविः = కవి; हरिम् = హరిని (2); स्तौति = స్తుతిస్తాడు
+note: अग्नौ shows the unusual i-stem locative -औ.
+@end
+
+@quiz
+q: Dative singular of हरि:
+* हरये
+- हराय
+- हरिणे
+why: Guṇa form: इ → ए → अय् + ए = हरये.
+
+q: Locative singular of अग्नि:
+* अग्नौ
+- अग्ने
+- अग्निणि
+why: i-stem masculines take -औ in the locative singular.
+
+q: Which two forms of मति are both correct for the dative singular?
+* मत्यै and मतये
+- मतिने and मतये
+- मत्याः and मतेः
+why: Feminine i-stems optionally take the नदी endings in 4–7 singular.
+
+q: Instrumental singular of बुद्धि:
+* बुद्ध्या
+- बुद्धिना
+- बुद्धिणा
+why: Feminine: मत्या pattern. Only masculines (and neuters) insert न: हरिणा.
+
+q: What is the gender of शान्तिः?
+* Feminine
+- Masculine
+- Neuter
+why: Action nouns in -ति are feminine.
+
+q: Accusative plural of मुनि:
+* मुनीन्
+- मुनीः
+- मुनयः
+why: Masculine -ईन् (हरीन्); feminine -ईः (मतीः); -अयः is nominative plural.
+@end

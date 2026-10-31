@@ -1,0 +1,116 @@
+@title విభక్తులు · Cases: Telugu ప్రత్యయాలు and Sanskrit सुप्
+@summary Both languages count eight cases with the same names, because Telugu grammarians took the names from Sanskrit. The Bālavyākaraṇam suffixes set against the Sanskrit endings, and the places where the two disagree.
+
+## The Bālavyākaraṇam table
+You learnt this verse-like list at school. Each line is one విభక్తి and its Telugu suffixes (ప్రత్యయాలు):
+
+| విభక్తి | Telugu ప్రత్యయాలు | Sanskrit ending (राम) | Main meaning |
+|---|---|---|---|
+| ప్రథమా | డు, ము, వు, లు | रामः | subject (కర్త), naming |
+| ద్వితీయా | నిన్, నున్, లన్, గూర్చి, గుఱించి | रामम् | object (కర్మ), goal of motion, "about" |
+| తృతీయా | చేతన్, చేన్, తోడన్, తోన్ | रामेण | instrument, agent of passive, "with" |
+| చతుర్థీ | కొఱకున్, కై | रामाय | recipient, purpose: "for, to" |
+| పంచమీ | వలనన్, కంటెన్, పట్టి | रामात् | source: "from", comparison "than", cause |
+| షష్ఠీ | కిన్, కున్, యొక్క, లోన్, లోపలన్ | रामस्य | possession "of", relation |
+| సప్తమీ | అందున్, నన్ | रामे | place, time: "in, on, at, among" |
+| సంబోధన | ఓ, ఓరి, ఓయి, ఓసి | हे राम | calling |
+
+> [memory] డుముపులు ప్రథమ… :: Chant the Telugu list as you learnt it — డుముపులు ప్రథమ, నిన్ నున్ లన్ గూర్చి గుఱించి ద్వితీయ, చేతన్ చేన్ తోడన్ తోన్ తృతీయ, కొఱకున్ కై చతుర్థి, వలనన్ కంటెన్ పట్టి పంచమి, కిన్ కున్ యొక్క లోన్ లోపలన్ షష్ఠి, అందున్ నన్ సప్తమి, ఓ ఓరి ఓయి ఓసి సంబోధన — and after each line say the Sanskrit form: रामः, रामम्, रामेण, रामाय, रामात्, रामस्य, रामे, हे राम.
+
+> [telugu] Why the names are the same :: Telugu grammarians (Nannaya, then Chinnaya Sūri) described Telugu with the Sanskrit framework, so they kept the Sanskrit names and numbers: ప్రథమా = प्रथमा ("first"), ద్వితీయా = द्वितीया ("second")… The cases **mean** mostly the same things, which is a great help.
+
+## Sanskrit: one ending = case + number
+Sanskrit has 7 cases + vocative, each in 3 numbers: 21 endings, called **सुप्** after Pāṇini's list.
+
+> [sutra] स्वौजसमौट्छष्टाभ्याम्भिस्ङेभ्याम्भ्यस्ङसिभ्याम्भ्यस्ङसोसाम्ङ्योस्सुप् (4.1.2) :: The 21 basic endings in one breath: सु औ जस् · अम् औट् शस् · टा भ्याम् भिस् · ङे भ्याम् भ्यस् · ङसि भ्याम् भ्यस् · ङस् ओस् आम् · ङि ओस् सुप्. Each noun class reshapes them (राम + टा → रामेण), but the skeleton is the same for all nouns. The name सुप् comes from the first (सु) and last (सुप्) endings.
+
+## Where Telugu and Sanskrit disagree
+The meanings line up well, but not perfectly. These mismatches cause most beginners' mistakes:
+
+| Meaning | Telugu | Sanskrit | Example |
+|---|---|---|---|
+| goal of motion "to a place" | -కి (dative/genitive) | ద్వితీయా | ఊరికి వెళ్తాను → ग्रामं गच्छामि |
+| "I have" (possession) | నాకు ఉంది (-కు) | षष्ठी + अस्ति | నాకు పుస్తకం ఉంది → मम पुस्तकम् अस्ति |
+| "I like" | నాకు ఇష్టం (-కు) | षष्ठी or चतुर्थी + रोचते | నాకు పండు ఇష్టం → मह्यं फलं रोचते |
+| "I know" | నాకు తెలుసు | प्रथमा + verb | నాకు తెలుసు → अहं जानामि |
+| "I am hungry" | నాకు ఆకలి | प्रथमा + बुभुक्षितः | अहं बुभुक्षितः अस्मि |
+| "with" (together) | -తో | तृतीया + सह | రామునితో → रामेण सह |
+| "with" (instrument) | -తో | तृतीया alone | కత్తితో కోస్తాడు → खड्गेन छिनत्ति |
+| "than" | -కంటే | पञ्चमी | రాముని కంటే → रामात् |
+| "among" | -లో | षष्ठी or सप्तमी | వారిలో శ్రేష్ఠుడు → तेषां / तेषु श्रेष्ठः |
+| "about" | గురించి | विषये + षष्ठी | రాముని గురించి → रामस्य विषये |
+| time "on Monday" | సోమవారం (bare) | सप्तमी | सोमवासरे |
+| subject of passive | -చేత | तृतीया | రామునిచేత చంపబడెను → रामेण हतः |
+
+> [warning] The -కి trap :: Telugu uses -కి / -కు for "to a place", "to a person", "I have", "I like" and "I know". Sanskrit uses four different cases. Ask what -కి really means each time: going somewhere → accusative (వనం గచ్ఛతి); giving to someone → dative (రామాయ దదాతి); having → genitive (మమ అస్తి).
+
+> [compare] షష్ఠీ for "among" :: Gītā 10.21 आदित्यानाम् अहं विष्णुः "among the Ādityas I am Viṣṇu" uses the genitive plural, Telugu ఆదిత్యులలో. Sanskrit uses षष्ठी or सप्तमी for "the best among" (निर्धारण): नराणां च नराधिपम् "and among men, the king" (10.27).
+
+## What Telugu does that Sanskrit doesn't: postpositions
+Telugu adds many meanings with separate words after the noun: మీద (on), కింద (under), దగ్గర (near), వెనుక (behind), ముందు (before), నుండి (from), వరకు (until), కోసం (for). Sanskrit uses either a case alone or an indeclinable with a case:
+
+| Telugu | Sanskrit | Case |
+|---|---|---|
+| ఇంటి ముందు | गृहस्य पुरतः / पुरः | षष्ठी |
+| ఇంటి వెనుక | गृहस्य पृष्ठतः / पश्चात् | षष्ठी |
+| ఇంటి దగ్గర | गृहस्य समीपे / अन्तिके | षष्ठी |
+| చెట్టు మీద | वृक्षस्य उपरि | षष्ठी |
+| చెట్టు కింద | वृक्षस्य अधः | षष्ठी |
+| ఊరి బయట | ग्रामात् बहिः | पञ्चमी |
+| సాయంత్రం వరకు | सायं यावत् | यावत् after the word |
+| మరణం వరకు | आ मरणात् | पञ्चमी with आ |
+| రాముడు లేకుండా | रामं विना / रामेण विना | ద్వితీయా / तृतीया |
+| రామునితో కలిసి | रामेण सह / साकम् | तृतीया |
+| రాముని కోసం | रामाय / रामार्थम् | चतुर्थी / compound |
+
+@ex gita:4:8
+note: परित्राणाय, विनाशाय, धर्मसंस्थापनार्थाय: three datives of purpose (చతుర్థీ, Telugu -కొఱకు, -కై).
+note: साधूनाम्, दुष्कृताम्: genitive plurals: "of the good", "of the evildoers".
+note: युगे युगे: locative of time, repeated: "in age after age", Telugu యుగయుగమునందు.
+@end
+
+@ex
+sa: मम पुस्तकम् अस्ति । अहं ग्रामं गच्छामि । मह्यं फलं रोचते ।
+te: నాకు పుస్తకం ఉంది. నేను ఊరికి వెళ్తున్నాను. నాకు పండు ఇష్టం.
+en: I have a book. I am going to the village. I like fruit.
+w: मम = నా (షష్ఠీ); पुस्तकम् = పుస్తకం; अस्ति = ఉంది; ग्रामम् = ఊరికి (ద్వితీయా!); गच्छामि = వెళ్తున్నాను; मह्यम् = నాకు (చతుర్థీ); रोचते = ఇష్టమవుతుంది
+note: Three Telugu "నాకు / -కి" sentences, three different Sanskrit cases: genitive, accusative, dative.
+@end
+
+@quiz
+q: "నాకు పుస్తకం ఉంది" in Sanskrit:
+* मम पुस्तकम् अस्ति
+- मह्यं पुस्तकम् अस्ति
+- अहं पुस्तकम् अस्ति
+why: Possession uses the genitive (षष्ठी): मम "of me".
+
+q: "రాముడు అడవికి వెళ్ళెను" — what case is "అడవికి" in Sanskrit?
+* Accusative: वनम्
+- Dative: वनाय
+- Locative: वने
+why: The goal of a motion verb is accusative: वनं गच्छति.
+
+q: Which Telugu suffixes belong to the తృతీయా?
+* చేతన్, చేన్, తోడన్, తోన్
+- కొఱకున్, కై
+- వలనన్, కంటెన్, పట్టి
+why: తృతీయా = instrument and agent: रामेण "by / with Rāma".
+
+q: "రాముని కంటే గొప్పవాడు" uses which Sanskrit case for रामः?
+* पञ्चमी: रामात्
+- षष्ठी: रामस्य
+- तृतीया: रामेण
+why: Comparison "than" takes the ablative: रामात् श्रेष्ठः.
+
+q: How many सुप् endings does Pāṇini list?
+* 21: 7 cases × 3 numbers
+- 24: 8 cases × 3 numbers
+- 8
+why: The vocative uses the nominative endings with small changes, so the list has 21.
+
+q: In गृहस्य पुरतः ("in front of the house"), गृहस्य is in which case?
+* षष्ठी (genitive)
+- सप्तमी
+- पञ्चमी
+why: Most "place" words (पुरतः, पृष्ठतः, उपरि, अधः, समीपे) take the genitive.
+@end

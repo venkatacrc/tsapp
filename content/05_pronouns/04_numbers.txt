@@ -1,0 +1,126 @@
+@title సంఖ్యలు · Numbers
+@summary Cardinals from one to a crore, how एक, द्वि, त्रि, चतुर् change with gender and case, the uninflected पञ्च to दश, ordinals (प्रथम, द्वितीय…), and numbers in the Gītā and the Sahasranāmam (सहस्र, अष्टोत्तरशत).
+
+## 1 to 20
+| # | Sanskrit | Telugu | # | Sanskrit | Telugu |
+|---|---|---|---|---|---|
+| 1 | एक | ఒకటి | 11 | एकादश | పదకొండు |
+| 2 | द्वि | రెండు | 12 | द्वादश | పన్నెండు |
+| 3 | त्रि | మూడు | 13 | त्रयोदश | పదమూడు |
+| 4 | चतुर् | నాలుగు | 14 | चतुर्दश | పద్నాలుగు |
+| 5 | पञ्चन् | ఐదు | 15 | पञ्चदश | పదిహేను |
+| 6 | षष् | ఆరు | 16 | षोडश | పదహారు |
+| 7 | सप्तन् | ఏడు | 17 | सप्तदश | పదిహేడు |
+| 8 | अष्टन् | ఎనిమిది | 18 | अष्टादश | పద్దెనిమిది |
+| 9 | नवन् | తొమ్మిది | 19 | नवदश / ऊनविंशतिः | పందొమ్మిది |
+| 10 | दशन् | పది | 20 | विंशतिः | ఇరవై |
+
+> [memory] Telugu festival days teach 11–15 :: ఏకాదశి (11th day), ద్వాదశి, త్రయోదశి, చతుర్దశి, పౌర్ణమి / అమావాస్య (15th). षोडश is in షోడశోపచార పూజ (16 offerings), अष्टादश in అష్టాదశ పురాణాలు and the 18 chapters of the Gītā.
+
+## Tens and beyond
+| # | Sanskrit | # | Sanskrit |
+|---|---|---|---|
+| 20 | विंशतिः (f.) | 100 | शतम् (n.) |
+| 30 | त्रिंशत् (f.) | 108 | अष्टोत्तरशतम् |
+| 40 | चत्वारिंशत् (f.) | 1,000 | सहस्रम् (n.) |
+| 50 | पञ्चाशत् (f.) | 10,000 | अयुतम् |
+| 60 | षष्टिः (f.) | 1,00,000 | लक्षम् |
+| 70 | सप्ततिः (f.) | 10,00,000 | प्रयुतम् / नियुतम् |
+| 80 | अशीतिः (f.) | 1,00,00,000 | कोटिः (f.) |
+| 90 | नवतिः (f.) | | |
+
+Numbers in between join the unit before the ten: द्वाविंशतिः (22), त्रयस्त्रिंशत् (33), अष्टाचत्वारिंशत् (48), पञ्चपञ्चाशत् (55), षट्षष्टिः (66), नवनवतिः (99). "One less than" uses ऊन-: ऊनविंशतिः (19), एकोनशतम् (99).
+
+> [telugu] అష్టోత్తర శతనామావళి, సహస్రనామం :: अष्टोत्तरशतम् "a hundred plus eight" = 108; सहस्रनाम = "a thousand names". Telugu uses the Sanskrit numbers in every pūjā book: త్రయస్త్రింశత్ కోటి దేవతలు (33 crore gods), చతుర్దశ భువనాలు (14 worlds).
+
+## How the numbers decline
+| Number | Behaviour | Example |
+|---|---|---|
+| एक | pronominal, singular, agrees in gender | एकः पुरुषः, एका नारी, एकं फलम्; एकस्मै, एकस्मिन् |
+| द्वि | dual only, agrees in gender | द्वौ (m.), द्वे (f./n.); द्वाभ्याम्; द्वयोः |
+| त्रि | plural, agrees in gender | त्रयः / तिस्रः / त्रीणि; त्रीन्; त्रिभिः; त्रयाणाम् / तिसृणाम् |
+| चतुर् | plural, agrees in gender | चत्वारः / चतस्रः / चत्वारि; चतुरः; चतुर्भिः; चतुर्णाम् |
+| पञ्चन् – दशन् | plural, same for all genders | पञ्च, पञ्चभिः, पञ्चभ्यः, पञ्चानाम्, पञ्चसु |
+| षष् | same for all genders | षट्, षड्भिः, षड्भ्यः, षण्णाम्, षट्सु |
+| अष्टन् | same for all genders | अष्ट / अष्टौ, अष्टाभिः, अष्टानाम्, अष्टासु |
+| विंशति – नवति | feminine singular nouns | विंशत्या पुरुषैः, षष्ट्याम् |
+| शत, सहस्र | neuter singular nouns | शतं पुरुषाः / पुरुषाणां शतम् |
+
+> [memory] 1–4 agree, 5–19 don't, 20 and up are nouns :: Like adjectives, 1–4 take the noun's gender: त्रयः पुत्राः, तिस्रः कन्याः, त्रीणि फलानि. From पञ्च to नवदश the number has one form for all genders. From विंशति up the number is itself a noun (feminine for the tens, neuter for शत, सहस्र) and the counted thing goes beside it in the same case or in the genitive plural.
+
+## Ordinals
+| Ordinal | Sanskrit (m. / f.) | Telugu |
+|---|---|---|
+| first | प्रथमः / प्रथमा | ప్రథమ, మొదటి |
+| second | द्वितीयः / द्वितीया | ద్వితీయ |
+| third | तृतीयः / तृतीया | తృతీయ |
+| fourth | चतुर्थः / चतुर्थी | చతుర్థ |
+| fifth | पञ्चमः / पञ्चमी | పంచమ |
+| sixth | षष्ठः / षष्ठी | షష్ఠ |
+| seventh | सप्तमः / सप्तमी | సప్తమ |
+| eighth | अष्टमः / अष्टमी | అష్టమ |
+| ninth | नवमः / नवमी | నవమ |
+| tenth | दशमः / दशमी | దశమ |
+| eleventh | एकादशः / एकादशी | ఏకాదశ |
+| twentieth | विंशः / विंशतितमः | |
+| hundredth | शततमः | |
+
+> [compare] The case names are ordinals :: प्रथमा, द्वितीया, तृतीया, चतुर्थी, पञ्चमी, षष्ठी, सप्तमी are the feminine ordinals, agreeing with an understood विभक्तिः (f.): "the first (case)". The lunar days (తిథులు) are the same feminine ordinals agreeing with तिथिः: ప్రతిపత్, ద్వితీయ, తృతీయ, చవితి (चतुर्थी), పంచమి, షష్ఠి, సప్తమి, అష్టమి, నవమి, దశమి.
+
+## Number words in the texts
+| Text | Number | Meaning |
+|---|---|---|
+| सहस्रनाम | सहस्र | thousand |
+| अष्टादशाध्यायी (the Gītā) | अष्टादश | eighteen chapters |
+| दिवि सूर्यसहस्रस्य (Gītā 11.12) | सहस्र | of a thousand suns |
+| चतुर्भुजेन (Gītā 11.46), चतुर्भुजम् (शुक्लाम्बरधरम्) | चतुर् | four-armed |
+| त्रिभिर्गुणमयैर्भावैः (Gītā 7.13) | त्रि | by the three guṇa-born states |
+| मनःषष्ठानि इन्द्रियाणि (Gītā 15.7) | षष्ठ | the senses with mind as the sixth |
+| त्रिककुब्धाम (Sahasranāmam 7) | त्रि | abode of the three regions |
+| रूपाणि शतशोऽथ सहस्रशः (Gītā 11.5) | शत, सहस्र | forms by hundreds and by thousands |
+
+@ex gita:15:7
+note: मनःषष्ठानि इन्द्रियाणि: "the senses, of which the mind is the sixth": a bahuvrīhi compound built on the ordinal षष्ठ, neuter plural to agree with इन्द्रियाणि.
+note: ममैवांशः: मम एव अंशः "a part of me alone".
+@end
+
+@ex
+sa: मम गृहे चत्वारः जनाः सन्ति । द्वौ पुत्रौ एका पुत्री च । तेषां त्रीणि पुस्तकानि सन्ति ।
+te: మా ఇంట్లో నలుగురు ఉన్నారు. ఇద్దరు కొడుకులు, ఒక కూతురు. వారికి మూడు పుస్తకాలు ఉన్నాయి.
+en: There are four people in my house: two sons and a daughter. They have three books.
+w: चत्वारः = నలుగురు (m. pl.); जनाः = జనులు; द्वौ = ఇద్దరు (m. du.); पुत्रौ = కొడుకులు; एका = ఒక (f.); पुत्री = కూతురు; तेषाम् = వారికి (6 pl.); त्रीणि = మూడు (n.); पुस्तकानि = పుస్తకాలు
+note: Each number takes the gender of its noun: चत्वारः जनाः (m.), द्वौ पुत्रौ (m. du.), एका पुत्री (f.), त्रीणि पुस्तकानि (n.).
+note: "వారికి ఉన్నాయి" (Telugu dative) becomes तेषाम् (genitive) for possession.
+@end
+
+@quiz
+q: "Three girls" in Sanskrit:
+* तिस्रः बालिकाः
+- त्रयः बालिकाः
+- त्रीणि बालिकाः
+why: त्रि agrees in gender: त्रयः (m.), तिस्रः (f.), त्रीणि (n.).
+
+q: How is 108 said?
+* अष्टोत्तरशतम्
+- शताष्ट
+- अष्टशतम्
+why: "a hundred with eight more". (अष्टशतम् would mean 800 or 108 ambiguously.)
+
+q: Does पञ्च change for gender?
+* No: पञ्च पुरुषाः, पञ्च नार्यः, पञ्च फलानि
+- Yes, like त्रि
+- Only in the dual
+why: 5–19 have one form for all genders.
+
+q: What is षष्ठी literally?
+* "the sixth (case)": feminine ordinal
+- "sixty"
+- "six times"
+why: The case names are feminine ordinals: प्रथमा, द्वितीया … सप्तमी.
+
+q: "Two fruits":
+* द्वे फले
+- द्वौ फलौ
+- द्वे फलानि
+why: द्वि is dual; neuter फल takes द्वे and the noun is dual too: फले.
+@end

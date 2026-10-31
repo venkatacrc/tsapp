@@ -1,0 +1,188 @@
+@title స్తోత్రాలు · The great stotras
+@summary Opening verses of the stotras heard in Telugu homes and temples: Śiva Pañcākṣara, Liṅgāṣṭakam, Madhurāṣṭakam, Mahālakṣmyaṣṭakam, the Hanumān and Rāma verses of the Rāmarakṣā, and the Śrī Veṅkaṭeśa Suprabhātam. Each is read word by word, with its metre and its grammar: datives, vocatives, accusatives with प्रपद्ये and नमामि, kṛt nouns with genitive objects, superlatives, and the imperative उत्तिष्ठ.
+
+## How a stotra is put together
+| Stotra | Verb that holds it together | Case of the epithets | Metre |
+|---|---|---|---|
+| Śiva Pañcākṣara | नमः | dative | indravajrā / upajāti |
+| Liṅgāṣṭakam | प्रणमामि | accusative | mātrā metre (16 per quarter) |
+| Madhurāṣṭakam | (no verb: "is sweet") | nominative | toṭaka (स स स स) |
+| Mahālakṣmyaṣṭakam | नमः अस्तु ते | vocative | anuṣṭubh |
+| Hanumān (Rāmarakṣā) | शरणं प्रपद्ये | accusative | upajāti |
+| Rāma verses | नमामि, नमः | accusative, dative | anuṣṭubh |
+| Suprabhātam | उत्तिष्ठ, कुरु | vocative | anuṣṭubh |
+
+> [memory] Find the verb, then the case :: A stotra verse usually has one verb or one नमः. Find it first. Then every epithet is in the case that verb wants: नमः → dative, नमामि / वन्दे / प्रपद्ये → accusative, नमः ते → vocative + ते. The epithets are almost always bahuvrīhis.
+
+## Śiva Pañcākṣara Stotram
+@ex
+title: शिवपञ्चाक्षरस्तोत्रम् 1 (attributed to Śaṅkara)
+sa: नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय । / नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥
+meter: इन्द्रवज्रा (त त ज ग ग)
+split: नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय । नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥
+w: नागेन्द्रहाराय = సర్పరాజును హారంగా ధరించినవానికి; त्रिलोचनाय = మూడు కన్నులు గలవానికి; भस्माङ्गरागाय = విభూతిని అంగరాగంగా పూసుకున్నవానికి; महेश्वराय = మహేశ్వరునికి; नित्याय = నిత్యునికి; शुद्धाय = శుద్ధునికి; दिगम्बराय = దిక్కులే వస్త్రంగా గలవానికి; तस्मै = ఆ; नकाराय = "న" కార స్వరూపునికి; शिवाय = శివునికి; नमः = నమస్కారం
+te: సర్పరాజును హారంగా, విభూతిని అంగరాగంగా ధరించిన త్రినేత్రుడు, మహేశ్వరుడు, నిత్యుడు, శుద్ధుడు, దిగంబరుడు, "న" కార స్వరూపుడు అయిన ఆ శివునికి నమస్కారం.
+en: To him who wears the king of serpents as a garland, the three-eyed, whose body-paint is sacred ash, the great lord, eternal, pure, clothed by the directions: to that Śiva, who is the syllable "na", salutations.
+note: Every epithet is a dative in -आय, governed by नमः at the end (lesson 11.2). There are four bahuvrīhis: नागेन्द्रः हारः यस्य, त्रीणि लोचनानि यस्य, भस्म अङ्गरागः यस्य, दिशः अम्बरं यस्य.
+note: नकार "the sound न": -कार after a letter names it (अकार, ककार, नकार). The five verses begin with न, म, शि, वा, य: नमः शिवाय, the pañcākṣarī.
+note: ना गेन् द्र · हा रा य · त्रि लो च · ना य = ऽऽ। ऽऽ। ।ऽ। ऽऽ: त त ज ग ग, the इन्द्रवज्रा (lesson 12.3). The य before त्रि is counted light: poets often allow this before a word beginning with a conjunct in र.
+@end
+
+## Liṅgāṣṭakam
+@ex
+title: लिङ्गाष्टकम् 1
+sa: ब्रह्ममुरारिसुरार्चितलिङ्गं निर्मलभासितशोभितलिङ्गम् । / जन्मजदुःखविनाशकलिङ्गं तत्प्रणमामि सदाशिवलिङ्गम् ॥
+split: ब्रह्ममुरारिसुरार्चितलिङ्गं निर्मलभासितशोभितलिङ्गम् । जन्मजदुःखविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥
+w: ब्रह्ममुरारिसुरार्चितलिङ्गम् = బ్రహ్మ, విష్ణువు, దేవతలచే పూజించబడిన లింగాన్ని; निर्मलभासितशोभितलिङ्गम् = నిర్మలమైన కాంతితో శోభించే లింగాన్ని; जन्मजदुःखविनाशकलिङ्गम् = జన్మ వల్ల కలిగే దుఃఖాన్ని నశింపజేసే లింగాన్ని; तत् = ఆ; सदाशिवलिङ्गम् = సదాశివ లింగాన్ని; प्रणमामि = నమస్కరిస్తున్నాను
+te: బ్రహ్మ, విష్ణువు, దేవతలచే పూజించబడినది, నిర్మలమైన కాంతితో శోభించేది, జన్మ దుఃఖాన్ని నశింపజేసేది అయిన ఆ సదాశివ లింగానికి నమస్కరిస్తున్నాను.
+en: The liṅga worshipped by Brahmā, Viṣṇu and the gods, radiant with pure light, destroyer of the sorrow born of birth: to that Sadāśiva liṅga I bow.
+note: ब्रह्ममुरारिसुरार्चित: a dvandva (ब्रह्मा च मुरारिः च सुराः च) inside a tṛtīyā tatpuruṣa with the past participle अर्चित "worshipped by" (lesson 9.5).
+note: जन्मजदुःखविनाशक: जन्मनः जातं दुःखम् (upapada -ज), तस्य विनाशकम्. -अक is a kṛt suffix for agents (ण्वुल्, lesson 7.5): विनाशक "destroyer", like पाठक, गायक.
+note: प्रणमामि takes the accusative, so every लिङ्गम् is 2nd case. The metre counts mātrās (16 per quarter), like Bhaja Govindam (lesson 13.11).
+@end
+
+## Madhurāṣṭakam
+@ex
+title: मधुराष्टकम् 1 (Vallabhācārya)
+sa: अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम् । / हृदयं मधुरं गमनं मधुरं मधुराधिपतेरखिलं मधुरम् ॥
+split: अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम् । हृदयं मधुरं गमनं मधुरं मधुराधिपतेः अखिलं मधुरम् ॥
+w: अधरम् = పెదవి; मधुरम् = మధురం; वदनम् = ముఖం; नयनम् = కన్ను; हसितम् = నవ్వు; हृदयम् = హృదయం; गमनम् = నడక; मधुराधिपतेः = మధురాధిపతి (కృష్ణుని); अखिलम् = సమస్తం
+te: మధురాధిపతి అయిన కృష్ణుని పెదవి మధురం, ముఖం మధురం, కన్నులు మధురం, నవ్వు మధురం, హృదయం మధురం, నడక మధురం — ఆయనకు సంబంధించిన సమస్తం మధురం.
+en: His lips are sweet, his face is sweet, his eyes are sweet, his smile is sweet; his heart is sweet, his gait is sweet: everything about the lord of Mathurā is sweet.
+note: The simplest grammar in all the stotras: nominal sentences "X (is) sweet" (lesson 2.5). Every noun is neuter, so मधुरम् is neuter too.
+note: अ ध रं · म धु रं · व द नं · म धु रं = ।।ऽ ।।ऽ ।।ऽ ।।ऽ: four स gaṇas, the तोटक metre (lesson 12.4).
+note: हसितम् and गमनम् are verbal nouns: हसित is a past participle used as a noun "smiling" (lesson 7.1); गमन is a kṛt noun in -अन "going" (lesson 7.5).
+note: मधुराधिपतेः is the genitive of the i-stem अधिपति, with guṇa: -एः (lesson 4.5). One genitive at the very end belongs to every noun in the verse.
+@end
+
+## Mahālakṣmyaṣṭakam
+@ex
+title: महालक्ष्म्यष्टकम् 1 (Indra's hymn, Padma Purāṇa)
+sa: नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते । / शङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ॥
+split: नमः ते अस्तु महामाये श्रीपीठे सुरपूजिते । शङ्खचक्रगदाहस्ते महालक्ष्मि नमः अस्तु ते ॥
+w: महामाये = ఓ మహామాయా; श्रीपीठे = శ్రీపీఠంపై వెలసినదానా; सुरपूजिते = దేవతలచే పూజించబడినదానా; शङ्खचक्रगदाहस्ते = శంఖ చక్ర గదలను చేతుల్లో ధరించినదానా; महालक्ष्मि = ఓ మహాలక్ష్మీ; ते = నీకు; नमः अस्तु = నమస్కారం
+te: ఓ మహామాయా, శ్రీపీఠంపై వెలసినదానా, దేవతలచే పూజించబడినదానా, శంఖ చక్ర గదలు చేతుల్లో గలదానా, ఓ మహాలక్ష్మీ, నీకు నమస్కారం.
+en: Salutations to you, O great Māyā, seated on the throne of Śrī, worshipped by the gods; O Mahālakṣmī with conch, discus and mace in your hands, salutations to you.
+note: Five feminine vocatives: four in -ए from ā-stems (महामाये, श्रीपीठे, सुरपूजिते, शङ्खचक्रगदाहस्ते), one in short -इ from the ई-stem लक्ष्मी (lesson 4.4).
+note: सुरपूजिते is a past participle "worshipped by the gods" (tṛtīyā tatpuruṣa) in the feminine vocative. शङ्खचक्रगदाहस्ते: a dvandva inside a bahuvrīhi, शङ्खचक्रगदाः हस्ते यस्याः सा.
+note: नमः ते अस्तु: the vocatives come between the dative ते and the end; both halves say the same thing.
+@end
+
+## Hanumān: the Rāmarakṣā verse
+@ex
+title: श्रीरामरक्षास्तोत्रम् 33
+sa: मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम् । / वातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये ॥
+meter: उपजाति (उपेन्द्रवज्रा + इन्द्रवज्रा)
+split: मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम् । वातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये ॥
+w: मनोजवम् = మనోవేగం గలవానిని; मारुततुल्यवेगम् = వాయువుతో సమానమైన వేగం గలవానిని; जितेन्द्रियम् = ఇంద్రియాలను జయించినవానిని; बुद्धिमताम् = బుద్ధిమంతులలో; वरिष्ठम् = శ్రేష్ఠుని; वातात्मजम् = వాయుపుత్రుని; वानरयूथमुख्यम् = వానర సమూహాలకు నాయకుని; श्रीरामदूतम् = శ్రీరామ దూతను; शरणम् = శరణుగా; प्रपद्ये = పొందుతున్నాను
+te: మనోవేగం గలవాడు, వాయువేగం గలవాడు, ఇంద్రియాలను జయించినవాడు, బుద్ధిమంతులలో శ్రేష్ఠుడు, వాయుపుత్రుడు, వానర సేనాధిపతి అయిన శ్రీరామదూతను శరణు పొందుతున్నాను.
+en: I take refuge in the messenger of Śrī Rāma: swift as the mind, fast as the wind, master of the senses, foremost of the wise, son of the Wind, chief of the monkey hosts.
+note: प्रपद्ये (प्र + पद्, ātmanepada, 1st singular) with शरणम्: "I go for refuge to". It takes the accusative, so all seven epithets are 2nd case.
+note: बुद्धिमतां वरिष्ठम्: the partitive genitive (बुद्धिमत्, -मत् stem, genitive plural) with वरिष्ठ, the superlative of उरु "broad, great" (lesson 10.2).
+note: मनोजवम्: मनसः इव जवः यस्य, a bahuvrīhi with a comparison. जितेन्द्रियम्: जितानि इन्द्रियाणि येन सः. वातात्मजम्: वातस्य आत्मजः, a tatpuruṣa.
+note: म नो ज · वं मा रु · त तुल् य · वे गं = ।ऽ। ऽऽ। ।ऽ। ऽऽ, an उपेन्द्रवज्रा line. With इन्द्रवज्रा lines it makes उपजाति (lesson 12.3).
+@end
+
+## Rāma: two verses
+@ex
+title: श्रीरामरक्षास्तोत्रम् 35
+sa: आपदामपहर्तारं दातारं सर्वसम्पदाम् । / लोकाभिरामं श्रीरामं भूयो भूयो नमाम्यहम् ॥
+split: आपदाम् अपहर्तारं दातारं सर्वसम्पदाम् । लोकाभिरामं श्रीरामं भूयः भूयः नमामि अहम् ॥
+w: आपदाम् = ఆపదలను; अपहर्तारम् = తొలగించేవానిని; सर्वसम्पदाम् = అన్ని సంపదలను; दातारम् = ఇచ్చేవానిని; लोकाभिरामम् = లోకానికి ఆనందం కలిగించేవానిని; श्रीरामम् = శ్రీరాముని; भूयः भूयः = మళ్ళీ మళ్ళీ; अहम् = నేను; नमामि = నమస్కరిస్తున్నాను
+te: ఆపదలను తొలగించేవాడు, సమస్త సంపదలను ఇచ్చేవాడు, లోకానికి ఆనందాన్ని ఇచ్చేవాడు అయిన శ్రీరామునికి మళ్ళీ మళ్ళీ నమస్కరిస్తున్నాను.
+en: To the remover of distress, the giver of all wealth, the delight of the world, Śrī Rāma, I bow again and again.
+note: अपहर्तारम् and दातारम् are agent nouns in -तृ, accusative (lesson 7.5). Their objects are in the 6th case: आपदाम्, सर्वसम्पदाम् (genitive plurals of the feminine consonant stems आपद्, सम्पद्).
+note: भूयः is the comparative of बहु "more", used as an adverb; doubled, भूयो भूयः means "again and again".
+note: नमामि takes the accusative, unlike नमः, which takes the dative.
+@end
+
+@ex
+title: traditional Rāma verse
+sa: रामाय रामभद्राय रामचन्द्राय वेधसे । / रघुनाथाय नाथाय सीतायाः पतये नमः ॥
+split: रामाय रामभद्राय रामचन्द्राय वेधसे । रघुनाथाय नाथाय सीतायाः पतये नमः ॥
+w: रामाय = రామునికి; रामभद्राय = రామభద్రునికి; रामचन्द्राय = రామచంద్రునికి; वेधसे = సృష్టికర్తకు; रघुनाथाय = రఘునాథునికి; नाथाय = నాథునికి; सीतायाः = సీతకు; पतये = భర్తకు; नमः = నమస్కారం
+te: రామునికి, రామభద్రునికి, రామచంద్రునికి, సృష్టికర్తకు, రఘునాథునికి, నాథునికి, సీతాపతికి నమస్కారం.
+en: To Rāma, Rāmabhadra, Rāmacandra, the creator, the lord of the Raghus, the lord, the husband of Sītā: salutations.
+note: वेधसे is the dative of the -अस् stem वेधस् "creator". सीतायाः is the genitive of the ā-stem सीता (lesson 4.4).
+note: पतये: Pāṇini's grammar gives पत्ये for पति "husband" standing alone, and पतये only in compounds (पतिः समास एव, Aṣṭādhyāyī 1.4.8). Stotras often use पतये anyway; recognise both.
+@end
+
+## Śrī Veṅkaṭeśa Suprabhātam
+The Suprabhātam sung at Tirumala opens with a verse from the Vālmīki Rāmāyaṇa (Bālakāṇḍa 23.2), where Viśvāmitra wakes the young Rāma.
+
+@ex
+title: श्रीवेङ्कटेशसुप्रभातम् 1 (Rāmāyaṇa 1.23.2)
+sa: कौसल्यासुप्रजा राम पूर्वा सन्ध्या प्रवर्तते । / उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम् ॥
+split: कौसल्या सुप्रजाः राम पूर्वा सन्ध्या प्रवर्तते । उत्तिष्ठ नरशार्दूल कर्तव्यं दैवम् आह्निकम् ॥
+w: राम = ఓ రామా; कौसल्या सुप्रजाः = కౌసల్య మంచి సంతానం గలది (నీ వంటి కుమారుడు గలది); पूर्वा सन्ध्या = ప్రాతః సంధ్య; प्रवर्तते = వస్తోంది; नरशार्दूल = నరులలో పులి వంటివాడా; उत्तिष्ठ = లే; दैवम् = దైవ సంబంధమైన; आह्निकम् = నిత్య కర్మ; कर्तव्यम् = చేయవలసి ఉంది
+te: ఓ రామా, కౌసల్య నీ వంటి మంచి కుమారుని పొందింది. ప్రాతః సంధ్య వస్తోంది. ఓ నరశార్దూలా, లే; దైవ సంబంధమైన నిత్య కర్మలు చేయవలసి ఉంది.
+en: Rāma, Kausalyā has a worthy son in you. The morning twilight is coming. Rise, tiger among men: the daily rites to the gods must be done.
+note: सुप्रजाः: प्रजा becomes -प्रजस् at the end of a bahuvrīhi (नित्यमसिच् प्रजामेधयोः, Aṣṭādhyāyī 5.4.122): शोभना प्रजा यस्याः सा सुप्रजाः. Before राम the visarga drops: सुप्रजा राम. Many readers take कौसल्यासुप्रजाः as one compound addressed to Rāma; the split above follows the usual Rāmāyaṇa commentaries.
+note: उत्तिष्ठ = उद् + स्था, imperative. The स् of स्था is lost after उद् (उदः स्थास्तम्भोः पूर्वस्य, Aṣṭādhyāyī 8.4.61), and स्था has the present stem तिष्ठ (lesson 6.3).
+note: कर्तव्यम् is a gerundive "must be done" (lesson 7.4). दैवम् and आह्निकम् are taddhitas with vṛddhi: from देव, and from अहन् "day" (lesson 10.2).
+note: नरशार्दूल: नरः शार्दूलः इव, a comparison compound, "a tiger among men".
+@end
+
+@ex
+title: श्रीवेङ्कटेशसुप्रभातम् 2
+sa: उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज । / उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥
+split: उत्तिष्ठ उत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज । उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥
+w: गोविन्द = ఓ గోవిందా; उत्तिष्ठ उत्तिष्ठ = లే, లే; गरुडध्वज = గరుడ ధ్వజం గలవాడా; कमलाकान्त = లక్ష్మీపతీ; त्रैलोक्यम् = మూడు లోకాలను; मङ्गलम् = మంగళంగా; कुरु = చేయి
+te: లే, లే గోవిందా! లే, గరుడధ్వజా! లే, కమలాకాంతా! మూడు లోకాలకు మంగళం చేయి.
+en: Rise, rise, Govinda! Rise, you whose banner bears Garuḍa! Rise, beloved of Kamalā, and make the three worlds auspicious.
+note: Three masculine vocatives in -अ: गोविन्द, गरुडध्वज (bahuvrīhi: गरुडः ध्वजे यस्य), कमलाकान्त (tatpuruṣa: कमलायाः कान्तः).
+note: उत्तिष्ठ + उत्तिष्ठ → उत्तिष्ठोत्तिष्ठ (a + u → o). But गोविन्द उत्तिष्ठ stays apart: verse often leaves a vowel unjoined after a vocative, at a natural pause.
+note: त्रैलोक्यम्: त्रयः लोकाः = त्रिलोकी; with the taddhita -य and vṛddhi it becomes the collective noun त्रैलोक्य "the three worlds". कुरु takes two accusatives: "make the three worlds auspicious".
+@end
+
+> [telugu] Suprabhātam in Telugu homes :: Many Telugu families play the Suprabhātam at dawn. Now that you can parse it, try the next verses on your own: they use the same vocatives, more imperatives (उत्तिष्ठ, जागृहि) and long bahuvrīhis for Veṅkaṭeśa. Read each verse with the method of lesson 11.5.
+
+@quiz
+q: In the Śiva Pañcākṣara, the epithets are in the dative because of:
+* नमः
+- शिवाय
+- तस्मै
+why: नमः takes the 4th case.
+
+q: नकार means:
+* the sound न
+- the one who is not
+- a demon
+why: -कार names a letter.
+
+q: In जन्मजदुःखविनाशक, -अक is:
+* an agent suffix: "destroyer"
+- a diminutive
+- a negative
+why: ण्वुल्, like पाठक "reader".
+
+q: In the Madhurāṣṭakam, मधुरम् is neuter because:
+* the nouns (अधरम्, वदनम्, …) are neuter
+- it is an adverb
+- Kṛṣṇa is neuter
+why: An adjective agrees with its noun.
+
+q: बुद्धिमतां वरिष्ठम् means:
+* the foremost among the wise
+- wiser than the wise
+- by the wise
+why: Partitive genitive with a superlative.
+
+q: अपहर्तारम् takes its object (आपदाम्) in which case?
+* the 6th
+- the 2nd
+- the 5th
+why: A kṛt noun's object goes into the 6th case.
+
+q: Pāṇini's dative of पति "husband" (alone) is:
+* पत्ये
+- पतये
+- पताय
+why: पतिः समास एव: पति is like हरि only in compounds.
+
+q: उत्तिष्ठ is built from:
+* उद् + स्था, imperative
+- उत् + तिष्ठ, a noun
+- उत्त + इष्
+why: The स् of स्था drops after उद्.
+@end

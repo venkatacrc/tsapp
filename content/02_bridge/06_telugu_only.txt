@@ -1,0 +1,95 @@
+@title తెలుగులో మాత్రమే · What Telugu has and Sanskrit lacks
+@summary Features of Telugu grammar with no Sanskrit counterpart: gender in verbs, inclusive "we", negative conjugation, ద్రుతం, human and non-human numbers, Telugu-only sandhis and more. Knowing them stops you carrying them into Sanskrit.
+
+## The list
+| Telugu feature | Example | In Sanskrit instead |
+|---|---|---|
+| Gender in verbs | వచ్చాడు / వచ్చింది | one form: आगच्छत् |
+| Feminine singular takes the neuter verb | సీత వచ్చింది (like చెట్టు పడింది) | सीता आगच्छत्, gender not on the verb |
+| Inclusive vs exclusive "we" | మనం (you and I) / మేము (we, not you) | one word: वयम् (dual आवाम्) |
+| Negative conjugation | చేయను, చేయవు, చేయడు, చేయదు | न + positive verb: न करोमि |
+| Plural suffix separate from case | ఇల్లు-లు-లో → ఇళ్ళలో | fused: गृहेषु |
+| Postpositions | ఇంటి ముందు, చెట్టు కింద | a case, or indeclinable + case |
+| ద్రుతం (the "flowing n") | ఇంటిన్, వచ్చెన్ | — |
+| Human vs non-human numbers | ఇద్దరు అబ్బాయిలు / రెండు ఆవులు | द्वौ बालकौ / द्वे धेनू: by gender, not humanness |
+| Words never end in a consonant | జగత్తు, మనస్సు | जगत्, मनः end in consonant / visarga |
+| Echo words | పుస్తకం-గిస్తకం, కాఫీ-గీఫీ | — |
+| Honorific -గారు | గురువుగారు | the pronoun भवान्, words like श्री, पूज्य |
+| Dative subject | నాకు ఆకలిగా ఉంది, నాకు తెలుసు | nominative subject: अहं बुभुक्षितः, अहं जानामि |
+| Question by -ఆ suffix | వచ్చావా? | किम् / अपि, or intonation |
+| Doubt by -ఓ | వస్తాడో రాడో | वा, or किं … उत … |
+| Emphasis by -ఏ | నేనే | separate word: अहम् एव |
+| "and" by -ఊ | రాముడూ సీతా | separate word: रामः सीता च |
+| Compound verbs | చదువుకొను, చేసిపెట్టు, వెళ్ళిపోవు | prefixes (उपसर्ग) and voice |
+| తద్ధర్మ tense (habit = future) | చేస్తాడు (does, will do) | two forms: करोति / करिष्यति |
+| Short ఎ, ఒ; ఱ; ౘ, ౙ | ఎద్దు, ఒక, ఱాయి | — |
+
+> [compare] Telugu -కొను and Sanskrit आत्मनेपद :: One near-match: Telugu -కొను adds "for oneself" (చేసుకొను, చదువుకొను). Sanskrit expresses "for oneself" with आत्मनेपद endings: यजते "he sacrifices for himself" vs यजति "he sacrifices (for another, as a priest)". Unit 6 explains when this distinction still matters.
+
+> [warning] Don't carry Telugu negatives into Sanskrit :: Telugu has a separate negative form for each person (చేయను, చేయవు, చేయడు). In Sanskrit, just put न before the ordinary verb: न करोमि, न करोषि, न करोति. And "don't!" is मा: मा शुचः "don't grieve" (Gītā 18.66).
+
+## Telugu-only sandhis
+Telugu has its own sandhis (తెలుగు సంధులు) alongside the Sanskrit ones it borrows. None of these exists in Sanskrit; the Sanskrit sandhis are in Unit 8.
+
+| Telugu sandhi | Rule | Example |
+|---|---|---|
+| అత్వసంధి | అ at a word end may drop before a vowel | మేన + అల్లుడు → మేనల్లుడు |
+| ఇత్వసంధి | ఇ of ఏమి, మఱి, అది… may drop | ఏమి + అంటివి → ఏమంటివి |
+| ఉత్వసంధి | final ఉ drops before a vowel (always) | రాముడు + అతడు → రాముడతడు |
+| యడాగమం | య is inserted between vowels when no sandhi | మా + అమ్మ → మాయమ్మ |
+| ఆమ్రేడిత సంధి | in a repeated word, the vowel may join | ఔర + ఔర → ఔరౌర, ఏమి + ఏమి → ఏమేమి |
+| ద్విరుక్తటకార సంధి | కుఱు, చిఱు, కడు, నడు, నిడు + vowel: ఱ, డ → ట్ట | కుఱు + ఉసురు → కుట్టుసురు |
+| గసడదవాదేశ సంధి | క చ ట త ప → గ స డ ద వ after ప్రథమ / ద్రుతం | వాడు + కొట్టె → వాడు గొట్టె |
+| త్రిక సంధి | ఆ, ఈ, ఏ + consonant: consonant doubles, vowel shortens | ఆ + కన్య → అక్కన్య |
+| పుంప్వాదేశ సంధి | కర్మధారయంలో ము → పు / ంపు | సరసము + మాట → సరసపు మాట |
+| రుగాగమ సంధి | పేద etc. + ఆలు → ర inserted | పేద + ఆలు → పేదరాలు |
+| టుగాగమ సంధి | కర్మధారయంలో ఉ + vowel → ట inserted | నిగ్గు + అద్దం → నిగ్గుటద్దం |
+| ప్రాతాది సంధి | ప్రాత, లేత… lose their final syllable | ప్రాత + ఇల్లు → ప్రాయిల్లు |
+
+> [note] Sanskrit sandhis used in Telugu :: Literary Telugu also uses the Sanskrit sandhis for Sanskrit words: సవర్ణదీర్ఘ (రామ + అయనం → రామాయణం), గుణ (మహా + ఇంద్ర → మహేంద్ర), వృద్ధి, యణాదేశ, జశ్త్వ, శ్చుత్వ, అనునాసిక, విసర్గ. Your school grammar called these సంస్కృత సంధులు. They are Pāṇini's rules and you will meet them all in Unit 8.
+
+## The ద్రుతం
+Many Telugu words end in a "flowing" న్ (ద్రుతం) that appears before vowels and disappears or changes elsewhere: పూచెను + పువ్వులు → పూచెఁ బువ్వులు, పూచెం బువ్వులు, పూచె పువ్వులు. Words with it are ద్రుతప్రకృతికాలు; others are కళలు. Sanskrit has nothing like this. Its final न् and म् follow regular sandhi.
+
+## Numbers that count people
+Telugu has human numbers (ఒకడు, ఇద్దరు, ముగ్గురు, నలుగురు) and non-human ones (ఒకటి, రెండు, మూడు, నాలుగు). Sanskrit numbers instead agree in **gender** with the noun: एकः बालः, एका बाला, एकं फलम्; द्वौ बालौ, द्वे बाले, द्वे फले; त्रयः बालाः, तिस्रः बालाः, त्रीणि फलानि.
+
+@ex
+sa: वयं गच्छामः । आवां गच्छावः ।
+te: మేము / మనము వెళ్తున్నాము. మేమిద్దరం / మనమిద్దరం వెళ్తున్నాము.
+en: We are going. We two are going.
+w: वयम् = మేము or మనము; गच्छामः = వెళ్తున్నాము (ఉత్తమ బహు.); आवाम् = మేమిద్దరం / మనమిద్దరం; गच्छावः = ఇద్దరం వెళ్తున్నాము (ఉత్తమ ద్వి.)
+note: Sanskrit does not distinguish inclusive and exclusive "we". It distinguishes "we two" from "we (three or more)".
+@end
+
+@quiz
+q: How does Sanskrit say both మనం and మేము?
+* वयम् (and आवाम् for exactly two)
+- Two different words, like Telugu
+- It uses भवन्तः
+why: Sanskrit has no inclusive/exclusive distinction; it has a dual instead.
+
+q: "నేను చేయను" in Sanskrit:
+* न करोमि
+- करोमि न
+- अकरोमि
+why: Put न before the positive verb. There are no negative conjugations.
+
+q: Which Telugu sandhi turns క చ ట త ప into గ స డ ద వ?
+* గసడదవాదేశ సంధి
+- త్రిక సంధి
+- యడాగమం
+why: వాడు + కొట్టె → వాడు గొట్టె. Sanskrit has a similar voicing rule (जश्त्व), but stated differently.
+
+q: Why does Telugu say జగత్తు where Sanskrit says जगत्?
+* Telugu words cannot end in a consonant, so it doubles and adds ఉ
+- జగత్తు is the Sanskrit accusative
+- Sanskrit drops the ending
+why: Sanskrit allows final consonants: जगत्, वाक्, मरुत्.
+
+q: In Sanskrit, numbers agree with their noun in:
+* Gender (and case)
+- Whether the noun is human
+- Nothing
+why: द्वौ बालकौ, द्वे बालिके, द्वे फले: masculine, feminine, neuter forms of "two".
+@end

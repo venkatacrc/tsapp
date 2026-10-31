@@ -1,0 +1,2 @@
+@title అక్షరమాల · Script and sounds
+@summary Telugu and Devanagari side by side, letter by letter: vowels, consonants, ం and ః, conjuncts, correct pronunciation, IAST, syllable weight and Pāṇini's sound list (the Māheśvara sūtras).

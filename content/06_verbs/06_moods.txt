@@ -1,0 +1,161 @@
+@title ఆజ్ఞ, విధి, ఆశీస్సు · The moods (लोट्, विधिलिङ्, आशीर्लिङ्)
+@summary Commands and wishes (లోట్), "should / would / may" (విధిలిఙ్), and blessings (ఆశీర్లిఙ్), with full tables, the irregular imperatives (देहि, जहि, विद्धि, ब्रूहि, शाधि, एहि), and the ten lakāras in one verse.
+
+## The ten lakāras in one verse
+> [memory] लट् वर्तमाने लेट् वेदे भूते लुङ् लङ् लिटस्तथा । विध्याशिषोस्तु लिङ्लोटौ लुट् लृट् लृङ् च भविष्यति :: "लट् for the present, लेट् only in the Veda; for the past लुङ्, लङ् and लिट्; for injunction and blessing लिङ् and लोट्; लुट्, लृट् and लृङ् for the future." All ten are named ल + a vowel + ट् or ङ्: the six ending in ट् (लट्, लिट्, लुट्, लृट्, लेट्, लोट्) are "primary", the four ending in ङ् (लङ्, लिङ्, लुङ्, लृङ्) use the shorter "secondary" endings (-त्, -अन्, -अम्).
+
+## लोट्: the imperative
+| परस्मैपद: भू | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | भवतु | भवताम् | भवन्तु |
+| మధ్యమ | भव | भवतम् | भवत |
+| ఉత్తమ | भवानि | भवाव | भवाम |
+
+| आत्मनेपद: लभ् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | लभताम् | लभेताम् | लभन्ताम् |
+| మధ్యమ | लभस्व | लभेथाम् | लभध्वम् |
+| ఉత్తమ | लभै | लभावहै | लभामहै |
+
+> [compare] Telugu has the same three persons :: భవతు = అగుగాక (let him be), भव = అవ్వు (be!), भवत = అవ్వండి, भवानि = అవుదునా / అవనీ (let me be), भवाम = అవుదాం (let's be). Telugu -గాక (blessing), -ఉ / -అండి (command), -దాం (let's) all fall under one lakāra in Sanskrit.
+
+### Irregular second-person singular imperatives
+| Root | Imperative | Telugu | Where |
+|---|---|---|---|
+| अस् | एधि | ఉండు | |
+| कृ | कुरु | చెయ్యి | योगस्थः कुरु कर्माणि (2.48) |
+| दा | देहि | ఇవ్వు | |
+| धा | धेहि | ఉంచు | |
+| हन् | जहि | చంపు | जहि शत्रुं महाबाहो (3.43) |
+| विद् | विद्धि | తెలుసుకో | तद्विद्धि प्रणिपातेन (4.34) |
+| ब्रू | ब्रूहि | చెప్పు | निश्चितं ब्रूहि तन्मे (2.7) |
+| शास् | शाधि | శాసించు / ఉపదేశించు | शाधि मां त्वां प्रपन्नम् (2.7) |
+| श्रु | शृणु | విను | तच्छृणु (7.1) |
+| आ + इ | एहि | రా | |
+| ग्रह् | गृहाण | తీసుకో | |
+| ज्ञा | जानीहि | తెలుసుకో | |
+| स्था (उत्) | उत्तिष्ठ | లే | उत्तिष्ठ कौन्तेय (2.37) |
+| सद् (प्र) | प्रसीद | అనుగ్రహించు | प्रसीद देवेश (11.45) |
+
+> [memory] -हि, -धि, and nothing :: Athematic roots ending in a consonant take **-धि** (विद्धि, शाधि, एधि); vowel-ending athematic roots take **-हि** (ब्रूहि, देहि, एहि, जानीहि); class 5 and 8 after a vowel take nothing (शृणु, कुरु); thematic verbs take nothing (भव, गच्छ, तिष्ठ).
+
+### Imperatives of the key irregular verbs
+| Root | 3 sg. | 3 pl. | 1 sg. |
+|---|---|---|---|
+| अस् | अस्तु | सन्तु | असानि |
+| कृ | करोतु | कुर्वन्तु | करवाणि |
+| दा | ददातु | ददतु | ददानि |
+| हन् | हन्तु | घ्नन्तु | हनानि |
+
+Uses of लोट्:
+- command: गच्छ "వెళ్ళు"
+- request (polite with भवान्): उपविशतु भवान् "మీరు కూర్చోండి"
+- blessing: शुभम् अस्तु, सर्वे भवन्तु सुखिनः "అందరూ సుఖంగా ఉందురుగాక"
+- "shall I / let me": किं करवाणि? "ఏం చేయను?"
+- with मा: मा ते सङ्गोऽस्त्वकर्मणि (2.47) "కర్మ మానడంలో నీకు ఆసక్తి వద్దు"
+
+## विधिलिङ्: the optative
+Thematic verbs: stem + **ए** + endings. Athematic parasmaipada: weak stem + **या**. Athematic ātmanepada: weak stem + **ई**.
+
+| परस्मैपद: भू | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | भवेत् | भवेताम् | भवेयुः |
+| మధ్యమ | भवेः | भवेतम् | भवेत |
+| ఉత్తమ | भवेयम् | भवेव | भवेम |
+
+| आत्मनेपद: लभ् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | लभेत | लभेयाताम् | लभेरन् |
+| మధ్యమ | लभेथाः | लभेयाथाम् | लभेध्वम् |
+| ఉత్తమ | लभेय | लभेवहि | लभेमहि |
+
+| अस् (athematic, या) | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | स्यात् | स्याताम् | स्युः |
+| మధ్యమ | स्याः | स्यातम् | स्यात |
+| ఉత్తమ | स्याम् | स्याव | स्याम |
+
+Other athematic optatives: कुर्यात् (कृ), दद्यात् (दा), जानीयात् (ज्ञा), हन्यात् (हन्), ब्रूयात् (ब्रू), विद्यात् (विद्), शृणुयात् (श्रु), युञ्जीत (युज्, Ā: योगी युञ्जीत सततम् 6.10).
+
+> [memory] The optative is the "ఏ" mood :: भवेत्, गच्छेत्, लभेत: an ए after the stem. Telugu -ఆలి / -వలెను (should), -ఏమో (might), -ఇతే … -తుంది (if … would): all of these are विधिलिङ् territory.
+
+### Six uses of the optative (3.3.161 and after)
+| Use | Sanskrit | Telugu |
+|---|---|---|
+| rule, duty (विधि) | सत्यं ब्रूयात् | నిజమే చెప్పాలి |
+| invitation (निमन्त्रण) | इह भवान् भुञ्जीत | మీరు ఇక్కడ భోజనం చేయాలి (చేయండి) |
+| permission (आमन्त्रण) | इह आसीत भवान् | మీరు ఇక్కడ కూర్చోవచ్చు |
+| request (अधीष्ट) | पुत्रम् अध्यापयेत् भवान् | మా అబ్బాయికి చదువు చెప్పండి |
+| deliberation (सम्प्रश्न) | किं नु खलु भो व्याकरणम् अधीयीय? | నేను వ్యాకరణం చదవాలా? |
+| wish (प्रार्थना) | भवेयम् अहं सुखी | నేను సుఖంగా ఉండాలని |
+| hypothesis (if … would) | यदि हन्युः … क्षेमतरं भवेत् (1.46) | చంపితే … మేలు అవుతుంది |
+
+## आशीर्लिङ्: the benedictive
+Root + **यास्** + endings (parasmaipada), used for blessings:
+
+| आशीर्लिङ्: भू | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | भूयात् | भूयास्ताम् | भूयासुः |
+| మధ్యమ | भूयाः | भूयास्तम् | भूयास्त |
+| ఉత్తమ | भूयासम् | भूयास्व | भूयास्म |
+
+- विजयी भूयाः "నువ్వు విజయం పొందుదువుగాక"
+- चिरं जीव्यात् "చిరకాలం జీవించుగాక"
+- मङ्गलं भूयात् "మంగళం అగుగాక"
+
+> [note] Blessings in practice :: In everyday prayers and letters, लोट् (अस्तु, भवतु) is far more common than आशीर्लिङ्. Recognise भूयात् when you see it; use अस्तु when you speak.
+
+@ex gita:6:5
+split: उद्धरेत् आत्मना आत्मानं न आत्मानम् अवसादयेत् । आत्मा एव हि आत्मनः बन्धुः आत्मा एव रिपुः आत्मनः ॥
+note: उद्धरेत् "one should lift up" (उत् + हृ, optative of rule); अवसादयेत् "one should (not) let sink" (causative of अव + सद्, optative).
+@end
+
+@ex gita:2:7
+note: स्यात् "would be" (optative of अस्); ब्रूहि "tell" (imperative of ब्रू); शाधि "instruct" (imperative of शास्). Three moods in one line of a disciple's request.
+@end
+
+@ex gita:1:46
+note: हन्युः "if they were to kill" and भवेत् "it would be": optatives for a hypothetical condition.
+@end
+
+@ex gita:3:24
+note: उत्सीदेयुः "would perish", कुर्याम् "(if) I did (not) do", स्याम् "I would be", उपहन्याम् "I would destroy": four optatives of hypothesis.
+@end
+
+@quiz
+q: The 2 sg. imperative of विद् (know):
+* विद्धि
+- वेदहि
+- विद
+why: Athematic consonant root + धि: विद्धि (4.34).
+
+q: स्यात् is:
+* the optative 3 sg. of अस्
+- the future of अस्
+- the imperative of अस्
+why: अस् + या → स्यात् ("may be, would be").
+
+q: "మనం వెళ్దాం" in Sanskrit:
+* गच्छाम
+- गच्छामः
+- गच्छेम
+why: लोट् 1 pl.: गच्छाम. (गच्छामः = we go; गच्छेम = we should go.)
+
+q: Which mood gives "one should do"?
+* विधिलिङ् (कुर्यात्)
+- लङ् (अकरोत्)
+- लुट् (कर्ता)
+why: विधि = rule: सत्यं ब्रूयात्.
+
+q: भूयात् is used for:
+* blessings
+- the remote past
+- questions
+why: आशीर्लिङ्: मङ्गलं भूयात्.
+
+q: The 2 sg. imperative of हन्:
+* जहि
+- हन्हि
+- हनु
+why: जहि शत्रुं महाबाहो (3.43).
+@end

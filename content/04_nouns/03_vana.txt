@@ -1,0 +1,106 @@
+@title అకారాంత నపుంసకలింగం · a-stem neuter: वन
+@summary The neuter partner of राम. Only the first two cases and the vocative differ; from the instrumental on, वन is exactly राम. The Telugu -ము words that are truly neuter.
+
+## The table
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం | తెలుగు |
+|---|---|---|---|---|
+| ప్రథమా (1) | वनम् | वने | वनानि | వనము / వనములు |
+| ద్వితీయా (2) | वनम् | वने | वनानि | వనమును |
+| తృతీయా (3) | वनेन | वनाभ्याम् | वनैः | వనముచేత |
+| చతుర్థీ (4) | वनाय | वनाभ्याम् | वनेभ्यः | వనముకొఱకు |
+| పంచమీ (5) | वनात् | वनाभ्याम् | वनेभ्यः | వనము వలన |
+| షష్ఠీ (6) | वनस्य | वनयोः | वनानाम् | వనము యొక్క |
+| సప్తమీ (7) | वने | वनयोः | वनेषु | వనమునందు |
+| సంబోధన (8) | हे वन | हे वने | हे वनानि | ఓ వనమా! |
+
+> [memory] Neuter = राम with a new head :: Only three rows are new: वनम् वने वनानि (1, 2 and 8). From वनेन onward, copy राम. The neuter nominative and accusative are always the same, so "the forest" as subject and as object look identical.
+
+> [sutra] अतोऽम् (7.1.24) · जश्शसोः शिः (7.1.20) :: For a-stem neuters the endings सु and अम् become अम् (वनम्); जस् and शस् (plural 1, 2) become शि → -आनि (वनानि, with a long आ and न inserted).
+
+## णत्व here too
+ण replaces न in the ending after र, ष, ऋ in the stem, exactly as with राम: वनानि but **पुराणानि**, **शरीराणि**, **क्षेत्राणि**, **पुष्पाणि**, **रूपाणि**.
+
+| Word | 1/2 pl. | 3 sg. | 6 pl. |
+|---|---|---|---|
+| वन | वनानि | वनेन | वनानाम् |
+| फल | फलानि | फलेन | फलानाम् |
+| ज्ञान | ज्ञानानि | ज्ञानेन | ज्ञानानाम् |
+| शरीर | शरीराणि | शरीरेण | शरीराणाम् |
+| क्षेत्र | क्षेत्राणि | क्षेत्रेण | क्षेत्राणाम् |
+| पुष्प | पुष्पाणि | पुष्पेण | पुष्पाणाम् |
+| मित्र | मित्राणि | मित्रेण | मित्राणाम् |
+| सुख | सुखानि | सुखेन | सुखानाम् |
+| दुःख | दुःखानि | दुःखेन | दुःखानाम् |
+
+## Common neuter a-stems
+| Sanskrit | Telugu | Meaning |
+|---|---|---|
+| ज्ञानम् | జ్ఞానము | knowledge |
+| फलम् | ఫలము | fruit, result |
+| पुष्पम् | పుష్పము | flower |
+| जलम् / तोयम् | జలము / తోయము | water |
+| शरीरम् | శరీరము | body |
+| सत्यम् | సత్యము | truth |
+| सुखम् / दुःखम् | సుఖము / దుఃఖము | happiness / sorrow |
+| कुलम् | కులము | family |
+| युद्धम् | యుద్ధము | battle |
+| पापम् / पुण्यम् | పాపము / పుణ్యము | sin / merit |
+| मित्रम् | మిత్రుడు | friend |
+| रूपम् | రూపము | form |
+| वचनम् / वाक्यम् | వచనము / వాక్యము | word, speech |
+| धनम् | ధనము | wealth |
+| गृहम् | గృహము | house |
+| पुस्तकम् | పుస్తకము | book |
+
+> [warning] Masculine or neuter? :: Telugu -ము covers both. Masculine: धर्मः, लोकः, ग्रामः, वृक्षः, देहः, कामः, क्रोधः, मोहः, योगः, यज्ञः. Neuter: ज्ञानम्, कर्म (n-stem), सुखम्, फलम्, शरीरम्, युद्धम्, पापम्. When in doubt, check how the Gītā uses it: अयं लोकः (m.), इदं शरीरम् (n.).
+
+@ex gita:9:26
+note: पत्रं पुष्पं फलं तोयं: four neuter a-stem accusatives (objects of प्रयच्छति). They look like nominatives, as neuters always do.
+note: भक्त्या "with devotion" is the instrumental of the i-stem feminine भक्ति (lesson 4.5).
+note: तत् … अश्नामि "that I eat": तत् is a neuter pronoun in the accusative, pointing back to the four offerings.
+@end
+
+@ex gita:2:22
+note: शरीराणि: neuter plural accusative with ण (र in the stem triggers णत्व).
+note: जीर्णानि, नवानि, अन्यानि, अपराणि: neuter plural adjectives agreeing with शरीराणि and वासांसि.
+@end
+
+@ex
+sa: उद्याने पुष्पाणि सन्ति । बालाः पुष्पाणि पश्यन्ति ।
+te: తోటలో పువ్వులు ఉన్నాయి. పిల్లలు పువ్వులను చూస్తున్నారు.
+en: There are flowers in the garden. The children are looking at the flowers.
+w: उद्याने = తోటలో (7 sg.); पुष्पाणि = పువ్వులు (1 pl.) / పువ్వులను (2 pl.); सन्ति = ఉన్నాయి; बालाः = పిల్లలు; पश्यन्ति = చూస్తున్నారు
+note: पुष्पाणि is the subject in the first sentence and the object in the second: same form.
+@end
+
+@quiz
+q: Nominative plural of फल:
+* फलानि
+- फलाः
+- फलाणि
+why: Neuter a-stems: -आनि. No र/ष/ऋ in फल, so न stays.
+
+q: Instrumental singular of शरीर:
+* शरीरेण
+- शरीरेन
+- शरीरम्
+why: र in the stem changes न to ण.
+
+q: From which case on is वन identical to राम?
+* From the instrumental (3) on
+- From the accusative on
+- Only in the locative
+why: Only 1, 2 and 8 differ: वनम् वने वनानि.
+
+q: Which word is neuter?
+* ज्ञानम्
+- धर्मः
+- लोकः
+why: धर्म and लोक are masculine despite Telugu ధర్మము, లోకము.
+
+q: In पत्रं पुष्पं फलं तोयं (Gītā 9.26), what case are the four words?
+* Accusative (objects of "offers")
+- Nominative (subjects)
+- Locative
+why: यो मे … प्रयच्छति: "who offers me…". Neuter accusatives look like nominatives.
+@end

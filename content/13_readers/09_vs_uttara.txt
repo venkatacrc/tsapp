@@ -1,0 +1,162 @@
+@title ఫలశ్రుతి · Viṣṇu Sahasranāmam III: the closing verses
+@summary The phala-śruti that follows the names, and the closing prayers. A study in the optative of result (whoever would hear … would gain), the passive optative मुच्येत, the -अर्थी pattern, the neuter plural for mixed subjects, a verse in vaṃśastha, the three meanings of an -ए ending in श्रीराम राम रामेति, and the passive imperative क्षम्यताम्.
+
+## The optative of "whoever … would"
+The phala-śruti promises results. Its grammar is almost always the same: यः + optative ("whoever would do X"), then the optative again for the result ("would gain Y"). Telugu says "ఎవరు … చదువుతారో, వారు … పొందుతారు".
+
+| Clause | Sanskrit | Mood | Telugu |
+|---|---|---|---|
+| condition | यः इदं शृणुयात् | optative | ఎవరు దీన్ని వింటారో |
+| result | सः न अशुभं प्राप्नुयात् | optative | వారు అశుభాన్ని పొందరు |
+| result (passive) | बद्धः मुच्येत | passive optative | బంధితుడు విడుదల అవుతాడు |
+
+## Whoever hears it
+@ex vs:uttara:Phala Śruti 2
+split: यः इदं शृणुयात् नित्यं यः च अपि परिकीर्तयेत् । न अशुभं प्राप्नुयात् किञ्चित् सः अमुत्र इह च मानवः ॥
+anvaya: यः मानवः इदं नित्यं शृणुयात्, यः च अपि परिकीर्तयेत्, सः अमुत्र इह च किञ्चित् अशुभं न प्राप्नुयात् ॥
+w: यः = ఎవరు; इदम् = దీన్ని; नित्यम् = నిత్యం; शृणुयात् = వింటారో; यः च अपि = ఎవరు కూడా; परिकीर्तयेत् = కీర్తిస్తారో; सः मानवः = ఆ మనిషి; अमुत्र = పరలోకంలో; इह च = ఇహలోకంలో కూడా; किञ्चित् = కొంచెమైనా; अशुभम् = అశుభాన్ని; न प्राप्नुयात् = పొందడు
+note: Three optatives: शृणुयात् (श्रु, class 5), परिकीर्तयेत् (class 10), प्राप्नुयात् (प्र + आप्, class 5): lesson 6.6.
+note: अमुत्र "there (in the next world)" and इह "here" are place adverbs; -त्र is the suffix of अत्र, तत्र, यत्र, सर्वत्र (lesson 10.3).
+note: Sandhi: यः + इदम् → य इदम् (lesson 8.5); शृणुयात् + नित्यम् → शृणुयान्नित्यम् (त् before a nasal becomes न्, lesson 8.4); सः + अमुत्र → सोऽमुत्र.
+@end
+
+## Each according to his station
+@ex vs:uttara:Phala Śruti 3
+split: वेदान्तगः ब्राह्मणः स्यात् क्षत्रियः विजयी भवेत् । वैश्यः धनसमृद्धः स्यात् शूद्रः सुखम् अवाप्नुयात् ॥
+w: ब्राह्मणः = బ్రాహ్మణుడు; वेदान्तगः = వేదాంత పారంగతుడు; स्यात् = అవుతాడు; क्षत्रियः = క్షత్రియుడు; विजयी = విజయం సాధించేవాడు; भवेत् = అవుతాడు; वैश्यः = వైశ్యుడు; धनसमृद्धः = ధనంతో సమృద్ధుడు; शूद्रः = శూద్రుడు; सुखम् = సుఖాన్ని; अवाप्नुयात् = పొందుతాడు
+note: स्यात् and भवेत् are the optatives of अस् and भू: both mean "would be, becomes". The verse alternates them for variety.
+note: स्यात् + शूद्रः → स्याच्छूद्रः: त् + श becomes च्छ (lesson 8.3).
+note: वेदान्तगः: वेदान्तं गच्छति इति, an upapada with -ग. धनसमृद्धः: धनेन समृद्धः, a tṛtīyā tatpuruṣa. विजयी is a possessive in -इन्.
+@end
+
+## Whatever one seeks
+@ex vs:uttara:Phala Śruti 4
+split: धर्मार्थी प्राप्नुयात् धर्मम् अर्थार्थी च अर्थम् आप्नुयात् । कामान् अवाप्नुयात् कामी प्रजार्थी च आप्नुयात् प्रजाः ॥
+w: धर्मार्थी = ధర్మాన్ని కోరేవాడు; धर्मम् = ధర్మాన్ని; प्राप्नुयात् = పొందుతాడు; अर्थार्थी = ధనాన్ని కోరేవాడు; अर्थम् = ధనాన్ని; आप्नुयात् = పొందుతాడు; कामी = కోరికలు గలవాడు; कामान् = కోరికలను; अवाप्नुयात् = పొందుతాడు; प्रजार्थी = సంతానాన్ని కోరేవాడు; प्रजाः = సంతానాన్ని
+note: -अर्थी "one who seeks" is a possessive in -इन् on अर्थ "aim": धर्मः अर्थः यस्य, धर्मार्थी "whose aim is dharma". The pattern is X-अर्थी X-म् आप्नुयात्.
+note: Three verbs from the same root आप्: आप्नुयात्, प्राप्नुयात् (प्र-), अवाप्नुयात् (अव-). The prefixes change the meaning only slightly here (lesson 6.10).
+note: प्रजाः is the accusative plural of the ā-stem प्रजा (lesson 4.4); it looks like the nominative.
+@end
+
+## Released from every bond
+@ex vs:uttara:Phala Śruti 8
+split: रोगार्तः मुच्यते रोगात् बद्धः मुच्येत बन्धनात् । भयात् मुच्येत भीतः तु मुच्येत आपन्नः आपदः ॥
+w: रोगार्तः = రోగంతో బాధపడేవాడు; रोगात् = రోగం నుండి; मुच्यते = విముక్తుడవుతాడు; बद्धः = బంధితుడు; बन्धनात् = బంధం నుండి; मुच्येत = విడుదల పొందుతాడు; भीतः = భయపడినవాడు; भयात् = భయం నుండి; आपन्नः = ఆపదలో ఉన్నవాడు; आपदः = ఆపద నుండి
+note: Four ablatives of release (lesson 11.1): रोगात्, बन्धनात्, भयात्, and आपदः, the ablative of the feminine consonant stem आपद् (it looks like a nominative plural).
+note: मुच्यते is the passive present; मुच्येत is the passive optative (lesson 6.8): the passive stem मुच्य- + the ātmanepada optative ending -एत.
+note: बद्धः, भीतः, आपन्नः are past participles used as nouns: "the bound, the frightened, the one in distress" (lesson 7.1). रोगार्तः = रोगेण आर्तः.
+note: मुच्येत + आपन्नः → मुच्येतापन्नः; आपन्नः + आपदः → आपन्न आपदः (lesson 8.5).
+@end
+
+> [memory] The release verse :: Four sufferers, four ablatives, one root: रोगार्तः–रोगात्, बद्धः–बन्धनात्, भीतः–भयात्, आपन्नः–आपदः. Each sufferer is named from the same root as his trouble. Recite it when you revise the ablative.
+
+## The one whose refuge is Vāsudeva
+@ex vs:uttara:Phala Śruti 10
+split: वासुदेवाश्रयः मर्त्यः वासुदेवपरायणः । सर्वपापविशुद्धात्मा याति ब्रह्म सनातनम् ॥
+w: वासुदेवाश्रयः = వాసుదేవుడే ఆశ్రయంగా గల; वासुदेवपरायणः = వాసుదేవుడే పరమ గమ్యంగా గల; मर्त्यः = మనిషి; सर्वपापविशुद्धात्मा = అన్ని పాపాల నుండి శుద్ధమైన ఆత్మ గలవాడై; सनातनम् = సనాతనమైన; ब्रह्म = బ్రహ్మాన్ని; याति = పొందుతాడు
+note: Three bahuvrīhis describing मर्त्यः (lesson 9.4): वासुदेवः आश्रयः यस्य सः; वासुदेवः परायणं यस्य सः; सर्वेभ्यः पापेभ्यः विशुद्धः आत्मा यस्य सः.
+note: ब्रह्म here is the accusative of the neuter ब्रह्मन्, the object of याति "goes to". Neuter nominative and accusative are the same.
+note: मर्त्य "mortal" is formed with the suffix -य from मृ "die".
+@end
+
+## Everything is held by Vāsudeva
+@ex vs:uttara:Phala Śruti 14
+split: द्यौः सचन्द्रार्कनक्षत्रा खं दिशः भूः महोदधिः । वासुदेवस्य वीर्येण विधृतानि महात्मनः ॥
+w: सचन्द्रार्कनक्षत्रा = చంద్ర సూర్య నక్షత్రాలతో కూడిన; द्यौः = ఆకాశం (ద్యులోకం); खम् = అంతరిక్షం; दिशः = దిక్కులు; भूः = భూమి; महोदधिः = మహాసముద్రం; महात्मनः = మహాత్ముడైన; वासुदेवस्य = వాసుదేవుని; वीर्येण = శక్తి చేత; विधृतानि = ధరించబడి ఉన్నాయి
+note: द्यौः is the nominative of the irregular feminine दिव् "sky" (lesson 4.10). सचन्द्रार्कनक्षत्रा agrees with it: feminine. स- means "together with" (सह) and makes a bahuvrīhi.
+note: The subjects are feminine (द्यौः, दिशः, भूः), neuter (खम्) and masculine (महोदधिः). A shared adjective for subjects of different genders is put in the neuter plural: विधृतानि.
+note: विधृतानि is a past participle in a passive with the instrumental वीर्येण (lesson 6.8).
+@end
+
+## Be the protector
+@ex vs:uttara:Phala Śruti 23
+split: पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम । भक्तानाम् अनुरक्तानां त्राता भव जनार्दन ॥
+w: पद्मपत्रविशालाक्ष = తామర రేకుల వంటి విశాల నేత్రాలు గలవాడా; पद्मनाभ = ఓ పద్మనాభా; सुरोत्तम = దేవతలలో ఉత్తముడా; जनार्दन = ఓ జనార్దనా; अनुरक्तानाम् = అనురాగం గల; भक्तानाम् = భక్తులకు; त्राता = రక్షకుడివి; भव = అవ్వు
+note: Four masculine vocatives in -अ: the bare stem (lesson 4.2).
+note: त्राता is an agent noun in -तृ (त्रै "protect"). Its object is in the 6th case, भक्तानाम्, as with every kṛt noun (कर्तृकर्मणोः कृति; compare Gītā 16.21).
+note: भव is the imperative of भू: "become (the protector)".
+@end
+
+## One verse is enough
+@ex vs:uttara:Phala Śruti 24
+split: यः मां नामसहस्रेण स्तोतुम् इच्छति पाण्डव । सः अहम् एकेन श्लोकेन स्तुतः एव न संशयः ॥
+w: पाण्डव = ఓ పాండవా; यः = ఎవరు; माम् = నన్ను; नामसहस्रेण = వెయ్యి నామాలతో; स्तोतुम् = స్తుతించాలని; इच्छति = కోరుకుంటారో; सः अहम् = ఆ నేను; एकेन श्लोकेन = ఒక్క శ్లోకంతోనే; स्तुतः एव = స్తుతించబడినవాడినే; न संशयः = సందేహం లేదు
+note: स्तोतुम् इच्छति: the infinitive with इच्छति "wishes to praise" (lesson 7.3).
+note: सः अहम् "that I": the correlative सः agrees with the first-person अहम्. Sanskrit freely uses सः with अहम् or त्वम्: सोऽहम्.
+note: स्तुतः is the past participle of स्तु; with एकेन श्लोकेन it means "(am) praised by a single verse". स्तुतः + एव → स्तुत एव (lesson 8.5).
+@end
+
+## One ending, three meanings
+@ex vs:uttara:Phala Śruti 27
+split: श्रीराम राम राम इति रमे रामे मनोरमे । सहस्रनाम तत्तुल्यं रामनाम वरानने ॥
+anvaya: वरानने, "श्रीराम राम राम" इति (जपन्) मनोरमे रामे रमे । रामनाम सहस्रनाम-तत्तुल्यम् ॥
+w: वरानने = ఓ సుందరవదనా (పార్వతీ); श्रीराम राम राम इति = "శ్రీరామ రామ రామ" అని; मनोरमे = మనోహరుడైన; रामे = రామునిలో; रमे = రమిస్తాను (ఆనందిస్తాను); रामनाम = రామ నామం; सहस्रनाम = సహస్ర నామాలకు; तत्तुल्यम् = సమానం
+note: Three words ending in -ए, with three different grammars: रमे is a verb (रम्, ātmanepada, 1st singular present, "I delight"); रामे is a noun (locative of राम, "in Rāma"); वरानने is a vocative (feminine ā-stem, "O lovely-faced one").
+note: मनोरमे can be taken two ways: as a locative agreeing with रामे ("in the charming Rāma"), or as a second vocative to Pārvatī ("O charming one"). Both readings are traditional.
+note: Śiva is speaking to Pārvatī. सहस्रनाम is the neuter nominative of -नामन्; तत्तुल्यम् = तेन तुल्यम् "equal to that".
+@end
+
+> [compare] Telugu -ఏ and Sanskrit -ए :: In Telugu, -ఏ at the end of a word is usually emphasis (రాముడే). In Sanskrit, -ए can be a 1st singular ātmanepada verb (रमे, वन्दे), a locative (रामे), a feminine vocative (देवि is -इ, but रमे, सीते are -ए), a dative ending (हरये) or a dual (फले). Always ask "which stem, which case?" before translating.
+
+## A verse in vaṃśastha
+@ex vs:uttara:Phala Śruti 28
+meter: वंशस्थ (ज त ज र)
+split: नमः अस्तु अनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे । सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटीयुगधारिणे नमः ॥
+w: अनन्ताय = అనంతునికి; सहस्रमूर्तये = వేల రూపాలు గలవానికి; सहस्रपादाक्षिशिरोरुबाहवे = వేల పాదాలు, కన్నులు, శిరస్సులు, తొడలు, బాహువులు గలవానికి; सहस्रनाम्ने = వేల నామాలు గలవానికి; शाश्वते = శాశ్వతుడైన; पुरुषाय = పురుషునికి; सहस्रकोटीयुगधारिणे = వేల కోట్ల యుగాలను ధరించేవానికి; नमः अस्तु = నమస్కారం
+note: Datives of five stem types: -अ (अनन्ताय, पुरुषाय), -इ (सहस्रमूर्तये), -उ (बाहवे), -अन् (सहस्रनाम्ने: the अ of नामन् drops before -ए) and -इन् (धारिणे).
+note: सहस्रपादाक्षिशिरोरुबाहवे: a dvandva of five body parts (पाद, अक्षि, शिरस्, ऊरु, बाहु) inside a bahuvrīhi with सहस्र- (lesson 9.5). The bahuvrīhi takes the last stem, बाहु, so the dative is -बाहवे.
+note: न मोस् त्व · नन् ता य · स हस् र · मूर् त ये = ।ऽ। ऽऽ। ।ऽ। ऽ।ऽ: ज त ज र, twelve syllables, the वंशस्थ metre (lesson 12.4).
+@end
+
+## Asking forgiveness
+@ex vs:uttara:Kṣamā Prārthanā
+split: यत् अक्षरपदभ्रष्टं मात्राहीनं तु यत् भवेत् । तत् सर्वं क्षम्यतां देव नारायण नमः अस्तु ते ॥
+w: यत् = ఏదైతే; अक्षरपदभ्रष्टम् = అక్షరం గాని పదం గాని తప్పినదో; मात्राहीनम् = మాత్ర తగ్గినదో; तु = మరి; यत् भवेत् = ఏది ఉన్నదో; तत् सर्वम् = అదంతా; देव = ఓ దేవా; क्षम्यताम् = క్షమించబడుగాక; नारायण = ఓ నారాయణా; ते = నీకు; नमः अस्तु = నమస్కారం
+note: क्षम्यताम् is a passive imperative (lesson 6.8): passive stem क्षम्य- + the ātmanepada imperative ending -ताम्, "let it be forgiven". Polite Sanskrit prefers the passive: it does not order the god directly.
+note: यत् … यत् … तत् सर्वम्: two relative clauses gathered by one correlative (lesson 11.3).
+note: अक्षरपदभ्रष्टम्: अक्षरात् पदात् वा भ्रष्टम्, a pañcamī tatpuruṣa with a dvandva inside. मात्राहीनम्: मात्रया हीनम्, a tṛtīyā tatpuruṣa.
+@end
+
+@quiz
+q: In "यः इदं शृणुयात् … न अशुभं प्राप्नुयात्", both verbs are:
+* optatives (condition and result)
+- imperatives
+- futures
+why: The phala-śruti pattern: whoever would … would.
+
+q: मुच्येत is:
+* passive optative: "would be released"
+- active present
+- passive imperative
+why: Passive stem मुच्य- + optative -एत.
+
+q: आपदः in "मुच्येत आपन्न आपदः" is:
+* ablative singular: "from distress"
+- nominative plural
+- genitive plural
+why: A feminine consonant stem; the ablative with मुच्.
+
+q: In Phala Śruti 14, why is विधृतानि neuter plural?
+* the subjects are of mixed genders
+- all the subjects are neuter
+- it agrees with वीर्येण
+why: A shared adjective for mixed genders goes into the neuter plural.
+
+q: In श्रीराम राम रामेति रमे, the word रमे is:
+* a verb: "I delight" (रम्, ātmanepada)
+- a vocative: "O Ramā"
+- a locative
+why: Read with रामे: "I delight in Rāma".
+
+q: क्षम्यताम् means:
+* let it be forgiven
+- forgive (active)
+- he forgave
+why: Passive imperative of क्षम्.
+
+q: The metre of "नमोऽस्त्वनन्ताय सहस्रमूर्तये" is:
+* वंशस्थ (ज त ज र)
+- अनुष्टुभ्
+- इन्द्रवज्रा
+why: Twelve syllables: ।ऽ।ऽऽ।।ऽ।ऽ।ऽ.
+@end

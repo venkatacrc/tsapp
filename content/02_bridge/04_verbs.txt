@@ -1,0 +1,113 @@
+@title క్రియలు · Verbs: Telugu forms and Sanskrit लकारs
+@summary Every Telugu verb form you know (చేసెను, చేయుచున్నాడు, చేయును, చేయుము, చేసి, చేయుచు, చేయుటకు, చేసిన…) and its Sanskrit equivalent: a lakāra (tense or mood) or a kṛdanta (participle). Persons and numbers, which even share their names.
+
+## పురుషలు — the same names, the same order
+Both traditions count persons from the **third**: the one spoken about comes first. The names are identical.
+
+| Telugu | Sanskrit | Pronoun | Telugu form | Sanskrit form |
+|---|---|---|---|---|
+| ప్రథమ పురుష | प्रथमपुरुषः | వాడు / सः | వాడు చేస్తాడు | सः करोति |
+| మధ్యమ పురుష | मध्यमपुरुषः | నీవు / त्वम् | నీవు చేస్తావు | त्वं करोषि |
+| ఉత్తమ పురుష | उत्तमपुरुषः | నేను / अहम् | నేను చేస్తాను | अहं करोमि |
+
+> [warning] "First person" means opposite things :: In English grammar "first person" is I. In both Telugu and Sanskrit grammar, ప్రథమ పురుష / प्रथमपुरुषः is **he/she/it**, and ఉత్తమ పురుష / उत्तमपुरुषः is **I**. Sanskrit verb tables list he → you → I.
+
+> [memory] ప్రథమ మధ్యమ ఉత్తమ = తి సి మి :: The present tense of every Sanskrit verb runs -ति, -सि, -मि in the singular: भवति (he is), भवसि (you are), भवामि (I am). Read the table he–you–I and the endings almost spell "ti si mi".
+
+## Telugu verb forms and their Sanskrit counterparts
+Chinnaya Sūri lists the Telugu verb forms by meaning (అర్థకాలు). Here is each one with its Sanskrit match, using కృ / చేయు (do).
+
+| Telugu form | Name | Sanskrit | Name |
+|---|---|---|---|
+| చేసెను / చేశాడు | భూతకాలం | अकरोत् · चकार · अकार्षीत् · कृतवान् | लङ्, लिट्, लुङ् (past tenses); क्तवतु |
+| చేయుచున్నాడు / చేస్తున్నాడు | వర్తమానం | करोति | लट् (present) |
+| చేయును / చేస్తాడు | తద్ధర్మం (habit, future) | करोति (habit) · करिष्यति (future) | लट् · लृट् |
+| చేయగలడు | శక్యార్థం | कर्तुं शक्नोति | तुमुन् + शक् |
+| చేయుము / చెయ్యి | విధ్యర్థకం (command) | कुरु (you), करोतु (he) | लोट् |
+| చేయుగాక | ఆశీరర్థకం (wish) | क्रियात् · करोतु | आशीर्लिङ्, लोट् |
+| చేయవలెను / చేయాలి | కర్తవ్యం (should) | कुर्यात् · कर्तव्यम् | विधिलिङ्, तव्य |
+| చేయకుము / చేయవద్దు | నిషేధార్థకం | मा कार्षीः · मा कुरु | मा + लुङ् (classical), मा + लोट् |
+| చేయడు / చేయలేదు | వ్యతిరేకం | न करोति · न अकरोत् | न + any form |
+| చేసినచో / చేస్తే | చేదర్థకం (if) | यदि करोति · अकरिष्यत् (would have) | यदि + लट्; लृङ् |
+| చేసినను / చేసినా | అప్యర్థకం (even if) | कृत्वा अपि · यद्यपि करोति | अपि |
+| చేసి | క్త్వార్థకం | कृत्वा · प्रकृत्य | क्त्वा, ल्यप् |
+| చేయుచు / చేస్తూ | శత్రర్థకం | कुर्वन् | शतृ |
+| చేయుటకు / చేయడానికి | తుమున్నర్థకం | कर्तुम् | तुमुन् |
+| చేసిన (adj.) | భూతకాలిక విశేషణం | कृतः (done) · कृतवान् (who did) | क्त, क्तवतु |
+| చేయుచున్న / చేస్తున్న | వర్తమాన విశేషణం | कुर्वन् · कुर्वाणः | शतृ, शानच् |
+| చేయబోవు | భవిష్యద్విశేషణం | करिष्यन् | स्यतृ |
+| చేయబడెను | కర్మణి | क्रियते · कृतम् | कर्मणि प्रयोग |
+| చేయించెను | ప్రేరణార్థకం | कारयति | णिच् (causative) |
+
+> [telugu] క్త్వార్థకం, శత్రర్థకం, తుమున్నర్థకం :: These Telugu grammar terms **are** Sanskrit suffix names: క్త్వా (→ कृत्वा), శతృ (→ कुर्वन्), తుమున్ (→ कर्तुम्). Chinnaya Sūri named the Telugu forms after the Sanskrit suffixes with the same meaning. So you already know the Sanskrit terms: you just need the forms.
+
+## The ten लकारs at a glance
+Sanskrit has ten tense/mood sets, all named with ल + a vowel. Unit 6 teaches each one.
+
+| लकार | Use | भू (to be) | Telugu |
+|---|---|---|---|
+| लट् | present | भवति | అవుతున్నాడు / ఉన్నాడు |
+| लिट् | remote past (not seen) | बभूव | అయ్యెను (పూర్వం) |
+| लुट् | future (not today) | भविता | రేపు అవుతాడు |
+| लृट् | future | भविष्यति | అవుతాడు |
+| लेट् | Vedic subjunctive | — | — |
+| लोट् | command, wish | भवतु | అగుగాక / అవ్వు |
+| लङ् | past (not today) | अभवत् | అయ్యెను |
+| विधिलिङ् | should, may, would | भवेत् | కావలెను / అయితే |
+| आशीर्लिङ् | blessing | भूयात् | అగుగాక |
+| लुङ् | past (recent, general) | अभूत् | అయ్యెను |
+| लृङ् | would have (unreal) | अभविष्यत् | అయ్యేవాడు |
+
+> [memory] लट् वर्तमाने लेट् वेदे :: The traditional verse: लट् वर्तमाने लेट् वेदे भूते लुङ् लङ् लिटस्तथा । विध्याशिषोस्तु लिङ्लोटौ लुट् लृट् लृङ् च भविष्यति ॥ "लट् for the present, लेट् in the Veda; लुङ्, लङ्, लिट् for the past; लिङ् and लोट् for command and blessing; लुट्, लृट्, लृङ् for the future." Chant it until it's automatic.
+
+## Two things Sanskrit verbs have that Telugu verbs don't
+1. **Two "voices" of endings: परस्मैपद and आत्मनेपद.** भवति, करोति use one set; वर्तते, लभते, मन्यते use another. Some verbs take both (करोति / कुरुते): traditionally the आत्मनेपद is "for oneself". Telugu has nothing like it.
+2. **Dual endings:** भवतः (two are), भवथः (you two are), भवावः (we two are).
+
+And one thing Telugu verbs have that Sanskrit verbs don't: **gender**. వచ్చాడు / వచ్చింది / వచ్చారు — Sanskrit says आगच्छत् for all three singulars. (Sanskrit participles like गतः / गता / गतम् do show gender, which is why spoken Sanskrit often uses them.)
+
+@ex gita:2:47
+split: कर्मणि एव अधिकारः ते मा फलेषु कदाचन । मा कर्मफलहेतुः भूः मा ते सङ्गः अस्तु अकर्मणि ॥
+w: कर्मणि = కర్మయందు; एव = మాత్రమే; अधिकारः = అధికారం; ते = నీకు; मा = వద్దు; फलेषु = ఫలాలయందు; कदाचन = ఎప్పుడూ; कर्मफलहेतुः = కర్మఫలానికి కారణం; भूः = అవ్వకు (मा + लुङ्); सङ्गः = ఆసక్తి; अस्तु = ఉండుగాక (लोट्); अकर्मणि = కర్మ చేయకపోవడంలో
+note: मा भूः "do not be" is the classical prohibitive: मा + aorist (लुङ्) without the augment अ: अभूः → भूः. Telugu నిషేధార్థకం: కాకుము.
+note: अस्तु "let it be" is लोट् (command / wish), 3rd person: Telugu ఉండుగాక.
+note: ते is the short form of तव / तुभ्यम् "your / to you". Telugu నీకు.
+@end
+
+@quiz
+q: In Sanskrit grammar, प्रथमपुरुषः refers to:
+* he / she / it (third person in English terms)
+- I
+- you
+why: As in Telugu ప్రథమ పురుష, the person spoken about comes first: सः भवति.
+
+q: The Telugu క్త్వార్థకం "చేసి" corresponds to:
+* कृत्वा
+- कर्तुम्
+- कुर्वन्
+why: क्त्वा = "having done". కర్తుమ్ is తుమున్ (to do), కుర్వన్ is శతృ (doing).
+
+q: Which lakāra is used for commands?
+* लोट्
+- लट्
+- लृट्
+why: लोट्: कुरु (do!), भवतु (let it be). लट् is present, लृट् future.
+
+q: "నీవు చేయకుము" in classical Sanskrit:
+* मा कार्षीः
+- न करोषि
+- न कुरु
+why: The prohibitive is मा + aorist without augment. न + imperative is avoided in classical Sanskrit.
+
+q: Which feature do Telugu verbs have that Sanskrit verbs lack?
+* Gender of the subject
+- Person
+- Number
+why: వచ్చాడు / వచ్చింది vs आगच्छत् for both.
+
+q: What is the Sanskrit form for "to do" (Telugu చేయుటకు)?
+* कर्तुम्
+- कृत्वा
+- कृतः
+why: तुमुन् = infinitive of purpose: Telugu తుమున్నర్థకం.
+@end

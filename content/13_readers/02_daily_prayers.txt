@@ -1,0 +1,233 @@
+@title నిత్య ప్రార్థనలు · The daily prayers
+@summary The verses many Telugu homes recite every day, from waking up to going to sleep, read word by word. They are the best grammar drill there is: almost every one is a string of vocatives and datives with नमः, an imperative of request, or a bahuvrīhi describing the deity.
+
+## Why prayers teach grammar so well
+Almost every prayer has the same three parts, and each part has one grammatical form:
+
+| Part | Function | Case or mood | Example |
+|---|---|---|---|
+| calling the deity | సంబోధన | vocative (8th case) | वक्रतुण्ड, देवि, सरस्वति |
+| bowing to the deity | నమస్కారం | dative (4th case) with नमः | कृष्णाय, हरये, गुरवे |
+| asking for something | ప్రార్థన | imperative (लोट्) | कुरु, देहि, भवतु, क्षमस्व |
+
+> [memory] Call, bow, ask :: సంబోధన → చతుర్థి + నమః → లోట్. If you can find these three in a prayer, you have understood its grammar. The adjectives in between are almost always bahuvrīhis ("he who has …").
+
+> [telugu] Telugu does the same :: "ఓ రామా (సంబోధన), నీకు (చతుర్థి) నమస్కారం, నన్ను కాపాడు (ఆజ్ఞార్థకం)". Telugu prayers borrow the Sanskrit vocative too: శ్రీరామా, దేవీ, స్వామీ.
+
+## On waking: looking at the palms
+@ex
+src: prātaḥ smaraṇam
+sa: कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती । / करमूले तु गोविन्दः प्रभाते करदर्शनम् ॥
+split: कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती । करमूले तु गोविन्दः प्रभाते करदर्शनम् ॥
+w: कराग्रे = అరచేతి కొనలో (వేళ్ళ కొనలలో); वसते = నివసిస్తుంది; लक्ष्मीः = లక్ష్మి; करमध्ये = అరచేతి మధ్యలో; सरस्वती = సరస్వతి; करमूले = అరచేతి మూలంలో; तु = మరి; गोविन्दः = గోవిందుడు; प्रभाते = ఉదయాన; करदर्शनम् = అరచేతులను చూడటం (చేయాలి)
+te: అరచేతి కొనలో లక్ష్మి, మధ్యలో సరస్వతి, మూలంలో గోవిందుడు నివసిస్తారు. కాబట్టి ఉదయాన్నే అరచేతులను చూడాలి.
+en: At the tips of the hand lives Lakṣmī, in the middle Sarasvatī, and at the base Govinda. So, at dawn, look at your palms.
+note: Three locative tatpuruṣas (lesson 9.2): करस्य अग्रे, करस्य मध्ये, करस्य मूले. Each gives a place, 7th case.
+note: वसते is the ātmanepada form of वस् "dwell". Classical prose uses वसति (parasmaipada); prayer verses often use whichever pada fits the metre.
+note: The last quarter has no verb: (कर्तव्यम्) "is to be done" is understood. Some versions read करमूले स्थिता गौरी "at the base stands Gaurī".
+@end
+
+## Touching the earth
+@ex
+src: prātaḥ smaraṇam
+sa: समुद्रवसने देवि पर्वतस्तनमण्डले । / विष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्व मे ॥
+split: समुद्रवसने देवि पर्वतस्तनमण्डले । विष्णुपत्नि नमः तुभ्यं पादस्पर्शं क्षमस्व मे ॥
+w: समुद्रवसने = సముద్రాన్ని వస్త్రంగా ధరించినదానా; देवि = ఓ దేవీ; पर्वतस्तनमण्डले = పర్వతాలనే స్తనమండలం గలదానా; विष्णुपत्नि = ఓ విష్ణుపత్నీ; नमः = నమస్కారం; तुभ्यम् = నీకు; पादस्पर्शम् = (నిన్ను) కాలితో తాకడాన్ని; क्षमस्व = క్షమించు; मे = నా
+te: సముద్రాన్ని వస్త్రంగా ధరించినదానా, పర్వతాలే స్తనమండలంగా గలదానా, విష్ణుపత్నివైన ఓ భూదేవీ, నీకు నమస్కారం. నిన్ను కాలితో తాకుతున్నందుకు నన్ను క్షమించు.
+en: O goddess whose garment is the ocean, whose breasts are the mountains, O wife of Viṣṇu, salutations to you. Forgive me for touching you with my feet.
+note: Four feminine vocatives. समुद्रवसना and पर्वतस्तनमण्डला are bahuvrīhis in -आ; their vocative ends in -ए (lesson 4.4): समुद्रवसने. देवी and विष्णुपत्नी are ई-stems; their vocative shortens to -इ: देवि, विष्णुपत्नि.
+note: नमः with the dative तुभ्यम् (lesson 5.1). क्षमस्व is the 2nd singular imperative ātmanepada of क्षम् (lesson 6.6).
+note: मे here is the enclitic genitive "my (touching)". The same मे can also be dative "to me"; context decides (lesson 5.1).
+@end
+
+## Before beginning anything: Gaṇeśa
+@ex
+src: Gaṇeśa prārthanā
+sa: वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ । / निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
+split: वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ । निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
+w: वक्रतुण्ड = వంకర తొండం గలవాడా; महाकाय = పెద్ద శరీరం గలవాడా; सूर्यकोटिसमप्रभ = కోటి సూర్యులతో సమానమైన కాంతి గలవాడా; देव = ఓ దేవా; मे = నాకు; सर्वकार्येषु = అన్ని పనులలో; सर्वदा = ఎల్లప్పుడూ; निर्विघ्नम् = విఘ్నం లేనిదిగా; कुरु = చేయి
+te: వంకర తొండం గలవాడా, పెద్ద శరీరం గలవాడా, కోటి సూర్యుల కాంతి గలవాడా, ఓ దేవా! నా అన్ని పనులలో ఎల్లప్పుడూ విఘ్నాలు లేకుండా చేయి.
+en: O curved-trunked one, great-bodied one, radiant as ten million suns: O Lord, make all my undertakings free of obstacles, always.
+note: Three masculine bahuvrīhi vocatives in -अ (lesson 9.4): वक्रं तुण्डं यस्य सः वक्रतुण्डः, vocative वक्रतुण्ड. A vocative in -अ is just the bare stem.
+note: सूर्यकोटिसमप्रभ: सूर्याणां कोटिः, तया समा प्रभा यस्य सः. A tatpuruṣa inside a bahuvrīhi (lesson 9.5).
+note: कुरु is the irregular 2nd singular imperative of कृ (lesson 6.6). निर्विघ्नम् is used as an adverb: "obstacle-free(ly)".
+@end
+
+## Before study: Sarasvatī
+@ex
+src: Sarasvatī prārthanā
+sa: सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । / विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥
+split: सरस्वति नमः तुभ्यं वरदे कामरूपिणि । विद्यारम्भं करिष्यामि सिद्धिः भवतु मे सदा ॥
+w: सरस्वति = ఓ సరస్వతీ; नमः तुभ्यम् = నీకు నమస్కారం; वरदे = వరాలు ఇచ్చేదానా; कामरूपिणि = కోరిన రూపం ధరించేదానా; विद्यारम्भम् = విద్యారంభాన్ని; करिष्यामि = చేయబోతున్నాను; सिद्धिः = సిద్ధి (విజయం); भवतु = కలుగుగాక; मे = నాకు; सदा = ఎల్లప్పుడూ
+te: ఓ సరస్వతీ, వరాలిచ్చేదానా, కోరిన రూపం ధరించేదానా, నీకు నమస్కారం. నేను విద్యారంభం చేయబోతున్నాను; నాకు ఎల్లప్పుడూ సిద్ధి కలుగుగాక.
+en: O Sarasvatī, giver of boons, who takes any form at will, salutations to you. I am going to begin my studies; may I always succeed.
+note: वरदे is the vocative of वरदा (वरं ददाति इति, upapada, lesson 9.2). कामरूपिणि is the vocative of the feminine -इनी stem कामरूपिणी (lesson 4.8).
+note: करिष्यामि: simple future, 1st singular (lesson 6.5). भवतु: 3rd singular imperative for a wish (lesson 6.6). सिद्धिः + भवतु → सिद्धिर्भवतु (visarga after इ becomes र् before a voiced sound, lesson 8.5).
+@end
+
+## Before a meal: Annapūrṇā
+@ex
+src: Annapūrṇā stotram (Śaṅkara)
+sa: अन्नपूर्णे सदापूर्णे शङ्करप्राणवल्लभे । / ज्ञानवैराग्यसिद्ध्यर्थं भिक्षां देहि च पार्वति ॥
+split: अन्नपूर्णे सदापूर्णे शङ्करप्राणवल्लभे । ज्ञानवैराग्यसिद्ध्यर्थं भिक्षां देहि च पार्वति ॥
+w: अन्नपूर्णे = ఓ అన్నపూర్ణా; सदापूर्णे = ఎల్లప్పుడూ నిండుగా ఉండేదానా; शङ्करप्राणवल्लभे = శంకరునికి ప్రాణప్రియమైనదానా; पार्वति = ఓ పార్వతీ; ज्ञानवैराग्यसिद्ध्यर्थम् = జ్ఞాన వైరాగ్యాలు సిద్ధించడం కోసం; भिक्षाम् = భిక్షను; देहि = ఇవ్వు; च = కూడా
+te: ఓ అన్నపూర్ణా, ఎల్లప్పుడూ పరిపూర్ణురాలా, శంకరుని ప్రాణప్రియా, ఓ పార్వతీ! జ్ఞానం, వైరాగ్యం సిద్ధించడానికి నాకు భిక్ష ప్రసాదించు.
+en: O Annapūrṇā, ever full, beloved as life to Śaṅkara, O Pārvatī: give me alms, so that knowledge and detachment may be fulfilled.
+note: देहि is the irregular 2nd singular imperative of दा (lesson 6.6). Memorise it with कुरु (कृ) and एधि (अस्): the three most-used irregular imperatives.
+note: -अर्थम् at the end of a compound means "for the sake of" (lesson 9.2): ज्ञानवैराग्यसिद्ध्यर्थम् = ज्ञानवैराग्ययोः सिद्ध्यै.
+note: Four feminine vocatives again: -आ stems in -ए (अन्नपूर्णे, वल्लभे), and the ई-stem पार्वती with a short -इ.
+@end
+
+## The meal itself
+The verse ब्रह्मार्पणं ब्रह्म हविः (Gītā 4.24) is recited before eating. It was read in full in lesson 11.1 as the model of the six kārakas.
+
+@ex
+src: Bhāgavatam 10.73.16
+sa: कृष्णाय वासुदेवाय हरये परमात्मने । / प्रणतक्लेशनाशाय गोविन्दाय नमो नमः ॥
+split: कृष्णाय वासुदेवाय हरये परमात्मने । प्रणतक्लेशनाशाय गोविन्दाय नमः नमः ॥
+w: कृष्णाय = కృష్ణునికి; वासुदेवाय = వాసుదేవునికి; हरये = హరికి; परमात्मने = పరమాత్మకు; प्रणतक्लेशनाशाय = శరణన్నవారి కష్టాలు పోగొట్టేవానికి; गोविन्दाय = గోవిందునికి; नमः नमः = మళ్ళీ మళ్ళీ నమస్కారం
+te: కృష్ణునికి, వాసుదేవునికి, హరికి, పరమాత్మకు, శరణు వేడినవారి కష్టాలను పోగొట్టేవానికి, గోవిందునికి మళ్ళీ మళ్ళీ నమస్కారం.
+en: To Kṛṣṇa, Vāsudeva, Hari, the Supreme Self, the remover of the distress of those who bow, to Govinda: salutations again and again.
+note: One verse, three dative endings: -आय for a-stems (कृष्णाय), -ए with guṇa for i-stems (हरि → हरये, lesson 4.5), -ने for an-stems (आत्मन् → परमात्मने, lesson 4.9).
+note: प्रणतक्लेशनाशाय: प्रणतानां क्लेशान् नाशयति इति, a ṣaṣṭhī tatpuruṣa ending in an agent noun (lesson 9.2).
+note: नमो नमः: repetition for intensity, exactly like Telugu "నమో నమః" (and the Telugu doubling "మళ్ళీ మళ్ళీ").
+@end
+
+| Stem | Dative singular | Prayer example |
+|---|---|---|
+| -अ (राम) | -आय | कृष्णाय, गोविन्दाय |
+| -इ (हरि) | -ए (guṇa) | हरये |
+| -उ (गुरु) | -ए (guṇa) | गुरवे, विष्णवे |
+| -अन् (आत्मन्) | -ने | परमात्मने, ब्रह्मणे |
+| -इन् (योगिन्) | -इने | योगिने |
+| -ई f. (देवी) | -ऐ | देव्यै, लक्ष्म्यै |
+| -आ f. (दुर्गा) | -आयै | दुर्गायै |
+| irregular पति | पत्ये (अधिपतये in compounds) | stotras often say पतये |
+| pronoun तद् | तस्मै / तस्यै (f.) | तस्मै नमः |
+
+> [memory] "-āya, -aye, -ave, -ne, -yai" :: Chant the five dative endings as a small mantra: -आय (राम), -अये (हरि), -अवे (गुरु), -ने (आत्मन्), -यै (देवी). Every नमः in the Sahasranāma and the stotras uses one of them.
+
+## The guru
+@ex
+src: Guru Gītā
+sa: गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः । / गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः ॥
+split: गुरुः ब्रह्मा गुरुः विष्णुः गुरुः देवः महेश्वरः । गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः ॥
+w: गुरुः = గురువు; ब्रह्मा = బ్రహ్మ (సృష్టికర్త); विष्णुः = విష్ణువు; देवः महेश्वरः = మహేశ్వర దేవుడు; साक्षात् = ప్రత్యక్షంగా; परम् = పరమ; ब्रह्म = బ్రహ్మం; तस्मै = ఆ; श्रीगुरवे = శ్రీగురువుకు; नमः = నమస్కారం
+te: గురువే బ్రహ్మ, గురువే విష్ణువు, గురువే మహేశ్వరుడు. గురువే ప్రత్యక్ష పరబ్రహ్మం. అటువంటి శ్రీగురువుకు నమస్కారం.
+en: The guru is Brahmā, the guru is Viṣṇu, the guru is the god Maheśvara. The guru is the Supreme Brahman itself. To that revered guru, salutations.
+note: ब्रह्मा and ब्रह्म are two different words. ब्रह्मन् (m.) "the creator god" has the nominative ब्रह्मा; ब्रह्मन् (n.) "the Absolute" has the nominative ब्रह्म (lesson 4.9). The verse uses both.
+note: Nominal sentences with no verb. Visarga sandhi: गुरुः + ब्रह्मा → गुरुर्ब्रह्मा, देवः + महेश्वरः → देवो महेश्वरः (lesson 8.5).
+note: तस्मै … गुरवे: the correlative pronoun in the dative agrees with the noun (lesson 5.2). गुरवे: u-stem dative with guṇa (उ → अव्).
+@end
+
+## The great Upaniṣad prayers
+@ex
+src: Bṛhadāraṇyaka Upaniṣad 1.3.28
+sa: असतो मा सद्गमय । तमसो मा ज्योतिर्गमय । / मृत्योर्मा अमृतं गमय ॥
+split: असतः मा सत् गमय । तमसः मा ज्योतिः गमय । मृत्योः मा अमृतं गमय ॥
+w: असतः = అసత్యం నుండి; मा = నన్ను; सत् = సత్యం వైపు; गमय = నడిపించు; तमसः = చీకటి నుండి; ज्योतिः = వెలుగు వైపు; मृत्योः = మృత్యువు నుండి; अमृतम् = అమృతత్వం వైపు
+te: అసత్యం నుండి సత్యం వైపు నన్ను నడిపించు. చీకటి నుండి వెలుగు వైపు నన్ను నడిపించు. మృత్యువు నుండి అమృతత్వం వైపు నన్ను నడిపించు.
+en: Lead me from the unreal to the real. Lead me from darkness to light. Lead me from death to immortality.
+note: मा here is NOT the prohibitive "don't". It is the short enclitic form of माम् "me" (lesson 5.1). The word order (after an ablative, before the verb) shows it is a pronoun.
+note: गमय is the causative imperative of गम् "make go, lead" (lesson 6.9). It takes two accusatives: the person led (मा) and the goal (सत्, ज्योतिः, अमृतम्).
+note: Three ablatives of separation: असतः (from असत्), तमसः (from तमस्), मृत्योः (from मृत्यु, u-stem, lesson 4.6).
+@end
+
+@ex
+src: Kaṭha and Taittirīya Upaniṣads, śānti pāṭha
+sa: ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । / तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥
+split: ॐ सह नौ अवतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नौ अधीतम् अस्तु । मा विद्विषावहै ॥
+w: सह = కలిసి; नौ = మమ్మల్ని ఇద్దరినీ; अवतु = (ఆయన) కాపాడుగాక; भुनक्तु = పోషించుగాక; वीर्यम् = శక్తిని (పరాక్రమాన్ని); करवावहै = (మనం ఇద్దరం) సాధిద్దాం; नौ = మన ఇద్దరి; अधीतम् = అధ్యయనం; तेजस्वि = తేజస్సుతో కూడినది; अस्तु = అగుగాక; मा विद्विषावहै = (మనం ఇద్దరం) ద్వేషించుకోకుందాం
+te: ఆ పరమాత్మ మా ఇద్దరినీ (గురు శిష్యులను) కలిసి కాపాడుగాక; కలిసి పోషించుగాక. మనం కలిసి శక్తిని సాధిద్దాం. మన అధ్యయనం తేజోవంతమగుగాక. మనం ఒకరినొకరు ద్వేషించకుందాం.
+en: May He protect us both together; may He nourish us both together. May we work together with vigour. May our study be brilliant. May we not hate each other.
+note: The whole prayer is in the dual (lesson 2.2): teacher and student. नौ is the enclitic dual pronoun "us two, of us two" (lesson 5.1). करवावहै and विद्विषावहै are 1st dual imperatives, ātmanepada.
+note: मा with an imperative (मा विद्विषावहै) is Vedic usage. Classical Sanskrit uses मा with the aorist or optative.
+note: भुनक्तु: भुज् is a class 7 root with the infix न (भुनक्ति, lesson 6.2). अधीतम् is the past participle of अधि + इ "study" used as a noun.
+@end
+
+@ex
+src: Īśa Upaniṣad, śānti pāṭha (Bṛhadāraṇyaka 5.1.1)
+sa: ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । / पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+split: ॐ पूर्णम् अदः पूर्णम् इदं पूर्णात् पूर्णम् उदच्यते । पूर्णस्य पूर्णम् आदाय पूर्णम् एव अवशिष्यते ॥
+w: अदः = అది; पूर्णम् = పూర్ణం; इदम् = ఇది; पूर्णात् = పూర్ణం నుండి; उदच्यते = ఉద్భవిస్తుంది; पूर्णस्य = పూర్ణం యొక్క; आदाय = తీసుకుంటే; एव = కూడా; अवशिष्यते = మిగులుతుంది
+te: అది పూర్ణం, ఇది పూర్ణం. పూర్ణం నుండి పూర్ణం ఉద్భవిస్తుంది. పూర్ణం నుండి పూర్ణాన్ని తీసివేసినా పూర్ణమే మిగులుతుంది.
+en: That is full, this is full. From the full, the full arises. Taking the full from the full, the full alone remains.
+note: अदः "that (far away)" and इदम् "this (here)" are the two demonstratives of distance (lesson 5.2). Both are neuter nominatives.
+note: उदच्यते (उद् + अञ्च्) and अवशिष्यते (अव + शिष्) are passives with no agent (lesson 6.8): "is drawn out", "is left over".
+note: आदाय = आ + दा + -य, the absolutive after a prefix (lesson 7.3). पूर्णस्य पूर्णम् आदाय: "having taken the full of the full", the 6th case for the source of a part.
+@end
+
+## The Gāyatrī: a taste of Vedic grammar
+@ex
+src: Ṛgveda 3.62.10
+sa: ॐ भूर्भुवः स्वः । तत्सवितुर्वरेण्यं / भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥
+split: ॐ भूः भुवः स्वः । तत् सवितुः वरेण्यं भर्गः देवस्य धीमहि । धियः यः नः प्रचोदयात् ॥
+anvaya: यः नः धियः प्रचोदयात्, (तस्य) सवितुः देवस्य तत् वरेण्यं भर्गः धीमहि ॥
+w: भूः भुवः स्वः = భూః భువః సువః అనే మూడు లోకాలు; तत् = ఆ; सवितुः = సవితృ (సూర్య) దేవుని; वरेण्यम् = వరించదగిన; भर्गः = తేజస్సును; देवस्य = దేవుని; धीमहि = ధ్యానిద్దాం; यः = ఎవడు; नः = మా; धियः = బుద్ధులను; प्रचोदयात् = ప్రేరేపించునో
+te: ఏ సవితృ దేవుడు మా బుద్ధులను ప్రేరేపిస్తాడో, ఆ దేవుని వరించదగిన తేజస్సును మేము ధ్యానిస్తాము.
+en: We meditate on that excellent radiance of the god Savitṛ; may he inspire our thoughts.
+note: Vedic Sanskrit has forms that Classical Sanskrit lost. धीमहि is a Vedic 1st plural (of धी / ध्यै, "let us meditate"). प्रचोदयात् is in the Vedic optative/subjunctive range: "may he impel".
+note: सवितुः is the genitive of the ṛ-stem सवितृ (like पितुः, lesson 4.7). भर्गः is a neuter -अस् stem (भर्गस्), so भर्गः is accusative here, not masculine nominative.
+note: Pāṇini covers Vedic grammar in separate rules marked छन्दसि "in the Veda". This course teaches Classical Sanskrit; the Vedic differences are noted where you meet them.
+@end
+
+## At the end of any worship
+@ex vs:uttara:Samargaṇa
+split: कायेन वाचा मनसा इन्द्रियैः वा बुद्ध्या आत्मना वा प्रकृतेः स्वभावात् । करोमि यत् यत् सकलं परस्मै नारायणाय इति समर्पयामि ॥
+w: कायेन = శరీరంతో; वाचा = మాటతో; मनसा = మనసుతో; इन्द्रियैः = ఇంద్రియాలతో; वा = గాని; बुद्ध्या = బుద్ధితో; आत्मना = ఆత్మతో; प्रकृतेः स्वभावात् = ప్రకృతి స్వభావం వల్ల; यत् यत् = ఏది ఏది; सकलम् = అంతా; करोमि = చేస్తానో; परस्मै = పరమమైన; नारायणाय = నారాయణునికి; इति = అని; समर्पयामि = సమర్పిస్తాను
+note: Six instrumentals of means in a row (lesson 4.2): कायेन (a-stem), वाचा (वाच्, consonant stem), मनसा (मनस्), इन्द्रियैः (plural), बुद्ध्या (i-stem f.), आत्मना (an-stem). A complete review of the 3rd case.
+note: यद्यत् "whatever": the relative doubled for "every single thing that" (lesson 5.3). Telugu doubles the same way: "ఏది ఏది".
+note: मनसा + इन्द्रियैः → मनसेन्द्रियैः (a + i → e) and नारायणाय + इति → नारायणायेति. परस्मै is a pronominal dative (like तस्मै), not पराय.
+@end
+
+> [compare] Prayers and the Sahasranāma :: The datives with नमः and the bahuvrīhi epithets you have just learned are the whole grammar of the nāmāvalī: ॐ विश्वाय नमः, ॐ विष्णवे नमः, ॐ वषट्काराय नमः … The names of the Sahasranāma (lesson 13.8) are turned into exactly these datives for archana.
+
+@quiz
+q: In असतो मा सद्गमय, मा means:
+* me (short for माम्)
+- don't
+- mother
+why: Enclitic accusative of अस्मद्.
+
+q: The vocative of the feminine bahuvrīhi समुद्रवसना is:
+* समुद्रवसने
+- समुद्रवसना
+- समुद्रवसनि
+why: -आ stems make the vocative in -ए.
+
+q: The dative of हरि is:
+* हरये
+- हराय
+- हरिणे
+why: i-stems take guṇa: इ → अय्.
+
+q: देहि is:
+* imperative of दा, "give"
+- optative of दा
+- dative of देह
+why: Irregular imperative, like कुरु and एधि.
+
+q: In गुरुर्ब्रह्मा, ब्रह्मा is:
+* the creator god (masculine)
+- the Absolute (neuter)
+- a dative
+why: Masculine ब्रह्मन्, nominative ब्रह्मा.
+
+q: नौ in सह नाववतु is:
+* the dual pronoun "us two"
+- a boat
+- the negative "not"
+why: Enclitic dual of अस्मद्.
+
+q: The six instrumentals in कायेन वाचा … end the prayer with:
+* समर्पयामि (I offer)
+- नमः
+- भवतु
+why: Causative of सम् + ऋ, 1st singular.
+
+q: धीमहि in the Gāyatrī is:
+* a Vedic verb: "let us meditate"
+- a noun: "intellect"
+- a Classical future
+why: Vedic grammar has verb forms that Classical Sanskrit lost.
+@end

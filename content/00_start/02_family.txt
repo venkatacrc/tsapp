@@ -1,0 +1,110 @@
+@title మీకు ఇప్పటికే తెలిసిన సంస్కృతం · The Sanskrit you already know
+@summary Telugu is a Dravidian language, but half its learned vocabulary is Sanskrit. Tatsama and tadbhava words, the Telugu endings that hide Sanskrit stems, and how to recover the stem from the Telugu word.
+
+## రెండు కుటుంబాలు, ఒకే పదసంపద
+Telugu and Sanskrit belong to different language families: Telugu is Dravidian (with Tamil, Kannada, Malayalam), Sanskrit is Indo-European (with Greek, Latin, Persian). Their **grammars** are built differently, as Unit 2 shows. But for more than a thousand years Telugu has borrowed Sanskrit words, so a Telugu speaker already knows thousands of Sanskrit stems. Your job is mostly to learn how Sanskrit *inflects* words you already know.
+
+> [telugu] తత్సమం, తద్భవం, దేశ్యం :: Traditional Telugu grammar sorts words into four kinds. **తత్సమం** (same as that, i.e. Sanskrit) words are Sanskrit stems with a Telugu ending added: రాముడు, వనము, నది. **తద్భవం** (born from that) words were reshaped by Prakrit and Telugu sound changes: అక్కరము from अक्षरम्, బ్రహ్మ → బమ్మ, ఆజ్ఞ → ఆన. **దేశ్యం** words are native Telugu: అమ్మ, ఇల్లు, ఊరు, చెట్టు. **అన్యదేశ్యం** are other borrowings: కుర్చీ, బస్సు.
+
+## Telugu endings that hide the Sanskrit word
+A tatsama in Telugu is the Sanskrit **stem** plus a Telugu ending. Strip the Telugu ending, then add the Sanskrit one.
+
+| Telugu ending | Example | Sanskrit stem | Sanskrit nominative |
+|---|---|---|---|
+| -డు (masc. అ-stem) | రాముడు, దేవుడు | राम, देव | रामः, देवः |
+| -ము / -o (often neuter) | వనము / వనం, ఫలము | वन, फल | वनम्, फलम् |
+| -ము (masc. in Sanskrit!) | ధర్మము, లోకము | धर्म, लोक | धर्मः, लोकः |
+| -ఆ (fem. ā-stem) | సీత, లత, విద్య | सीता, लता, विद्या | सीता, लता, विद्या |
+| -ఇ (i-stem) | కవి, ముని, మతి | कवि, मुनि, मति | कविः, मुनिः, मतिः |
+| -ఈ (ī-stem) | నది, దేవి | नदी, देवी | नदी, देवी |
+| -వు (u-stem) | గురువు, విష్ణువు, ధేనువు | गुरु, विष्णु, धेनु | गुरुः, विष्णुः, धेनुः |
+| -త (ṛ-stem) | పిత, మాత, దాత | पितृ, मातृ, दातृ | पिता, माता, दाता |
+| -ంతుడు / -మంతుడు | గుణవంతుడు, బుద్ధిమంతుడు, శ్రీమంతుడు | गुणवत्, बुद्धिमत्, श्रीमत् | गुणवान्, बुद्धिमान्, श्रीमान् |
+| -స్సు | మనస్సు, తపస్సు, యశస్సు | मनस्, तपस्, यशस् | मनः, तपः, यशः |
+| -త్తు | జగత్తు, విద్యుత్తు, మరుత్తు | जगत्, विद्युत्, मरुत् | जगत्, विद्युत्, मरुत् |
+| -ఉడు on -इन् stems | యోగి, జ్ఞాని, స్వామి | योगिन्, ज्ञानिन्, स्वामिन् | योगी, ज्ञानी, स्वामी |
+| -ఆ on -अन् stems | బ్రహ్మ, ఆత్మ, రాజు | ब्रह्मन्, आत्मन्, राजन् | ब्रह्मा, आत्मा, राजा |
+| -ము on -अन् neuters | కర్మము, జన్మము, నామము | कर्मन्, जन्मन्, नामन् | कर्म, जन्म, नाम |
+
+> [memory] -డు is రామః, -స్సు is मनः, -త్తు is जगत् :: The Telugu ending tells you the Sanskrit class. -డు → masculine అ-stem (రాముడు → रामः). -స్సు → s-stem neuter (మనస్సు → मनः). -త్తు → t-stem (జగత్తు → जगत्). -మంతుడు/-వంతుడు → -मत्/-वत् (బుద్ధిమంతుడు → बुद्धिमान्). Telugu doubled the final consonant and added ఉ because a Telugu word cannot end in a consonant.
+
+> [warning] The Telugu word is not the Sanskrit nominative :: You cannot say రాముడు or గురువు in Sanskrit, and మనస్సు is not a Sanskrit form at all (Sanskrit says मनः). Always ask: what is the stem, and which Sanskrit ending does it take? A good habit: when you meet a tatsama in Telugu, say its Sanskrit nominative to yourself.
+
+## Meaning shifts
+Some tatsama words changed meaning in Telugu. Reading the Gītā with the Telugu meaning gives the wrong sense.
+
+| Word | Telugu meaning | Sanskrit meaning |
+|---|---|---|
+| उपन्यासः | lecture, talk (ఉపన్యాసం) | putting near; a statement, a proposal |
+| कल्याणम् | wedding (కళ్యాణం) | welfare, auspiciousness |
+| अवसरः | need (అవసరం) | opportunity, the right moment |
+| सन्तोषः | happiness (సంతోషం) | contentment, being satisfied with what one has |
+| प्रमादः | accident (ప్రమాదం) | carelessness, negligence |
+| विचारः | sorrow, worry (విచారం) | reflection, inquiry, deliberation |
+| मर्यादा | respect, courtesy (మర్యాద) | boundary, limit, rule of conduct |
+| आलोचना | thought (ఆలోచన) | seeing, considering |
+| अनुमानम् | doubt, suspicion (అనుమానం) | inference (a means of knowledge) |
+| अभिमानः | fondness, affection (అభిమానం) | pride, conceit (Gītā 16.4 lists it among demonic traits) |
+
+> [compare] प्रमादः in the Gītā :: Gītā 14.8 says तमस् binds through प्रमाद, आलस्य, निद्रा: carelessness, laziness, sleep. Not "accidents". When a word looks familiar, check it in a Sanskrit dictionary before trusting the Telugu meaning.
+
+## Sounds that Telugu changed
+| Sanskrit | Telugu tadbhava | Change |
+|---|---|---|
+| अक्षरम् | అక్కరము | क्ष → క్క |
+| आज्ञा | ఆన | ज्ञ → న |
+| ब्रह्मा | బమ్మ | र drops, ह्म → మ్మ |
+| स्नानम् | తానము | conjunct simplified |
+| विष्णुः | వెన్నుడు | ष्ण → న్న, vowel change |
+| यज्ञः | జన్నము | य → జ, ज्ञ → న్న |
+| पक्षः | పక్కము | క్ష → క్క |
+| रक्षा | రక్క | క్ష → క్క |
+
+> [note] Telugu pronunciation of Sanskrit :: Telugu speakers pronounce Sanskrit very well compared with most Indian languages: aspirates, ఋ, ష, ణ and the long vowels survive in educated speech. Unit 1 lists the few habits to correct: జ్ఞ said as గ్న, short ఎ/ఒ, ఋ as రు, and dropping the visarga.
+
+## What this means for you
+1. **Vocabulary is mostly free.** Of the first hundred words in the Gītā, a Telugu speaker recognises most: धर्म, क्षेत्र, पुत्र, युद्ध, आचार्य, सेना, शङ्ख, रथ, धनुस्...
+2. **Grammar is the new part.** Sanskrit inflects nouns in 8 cases × 3 numbers and verbs in 10 tenses/moods × 3 persons × 3 numbers × 2 voices. Telugu agglutinates suffixes instead. Unit 2 shows how the two systems line up.
+3. **Telugu helps with sandhi and compounds.** Telugu has its own sandhis and compounds (సమాసాలు), and literary Telugu uses Sanskrit compounds and sandhis (సవర్ణదీర్ఘ, గుణ, వృద్ధి, యణాదేశ) directly. You learnt them at school.
+
+@ex
+sa: धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
+te: ధర్మక్షేత్రమైన కురుక్షేత్రంలో యుద్ధం చేయాలనే కోరికతో చేరినవారు…
+en: On the field of dharma, on the field of the Kurus, assembled and eager to fight…
+w: धर्मक्षेत्रे = ధర్మక్షేత్రంలో; कुरुक्षेत्रे = కురుక్షేత్రంలో; समवेताः = కూడినవారు; युयुत्सवः = యుద్ధం చేయగోరేవారు
+note: Every stem is familiar: ధర్మ, క్షేత్ర, కురు, సమవేత. What is new are the endings: -ए (locative "in"), -आः and -अवः (nominative plural).
+note: The first word of the Gītā already teaches the locative ending -ए = Telugu -లో / -అందు.
+@end
+
+@quiz
+q: The Telugu word బుద్ధిమంతుడు comes from which Sanskrit stem?
+* बुद्धिमत् (nominative बुद्धिमान्)
+- बुद्धिमन्त
+- बुद्धिमन्तुड
+why: Telugu -మంతుడు = Sanskrit -मत्. The nominative masculine is बुद्धिमान्, like श्रीमान्, हनुमान्.
+
+q: మనస్సు in Sanskrit (nominative) is:
+* मनः
+- मनस्सु
+- मनसः
+- मनसु
+why: The stem is मनस्; its nominative/accusative neuter singular is मनः. Telugu doubled the s and added ఉ.
+
+q: In the Gītā, प्रमादः means:
+* carelessness, negligence
+- accident
+- happiness
+why: Telugu ప్రమాదం has shifted to "accident"; Sanskrit प्रमाद is "heedlessness".
+
+q: Which kind of word is ఇల్లు?
+* దేశ్యం (native Telugu)
+- తత్సమం
+- తద్భవం
+why: ఇల్లు is Dravidian. The Sanskrit word for house is गृहम्, which Telugu also has as గృహము (tatsama).
+
+q: విష్ణువు is a Telugu form of which Sanskrit nominative?
+* विष्णुः
+- विष्णुवः
+- विष्णू
+why: Telugu adds -వు to u-stems: గురువు (गुरुः), విష్ణువు (विष्णुः), ధేనువు (धेनुः).
+@end

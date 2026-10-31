@@ -1,0 +1,113 @@
+@title సంభాషణలు · Short dialogues
+@summary Four everyday conversations: at home, at the market, at the temple, and with a teacher. Family and food words, and every construction from this unit used in context.
+
+## Family words
+| Sanskrit | Telugu | Gender |
+|---|---|---|
+| पिता | నాన్న / తండ్రి | m. (पितृ) |
+| माता | అమ్మ / తల్లి | f. (मातृ) |
+| भ्राता | అన్న / తమ్ముడు | m. (भ्रातृ) |
+| ज्येष्ठभ्राता / अनुजः | అన్న / తమ్ముడు | m. |
+| भगिनी | అక్క / చెల్లెలు | f. |
+| पुत्रः | కొడుకు | m. |
+| पुत्री / कन्या | కూతురు | f. |
+| पितामहः / पितामही | తాత / నాయనమ్మ | m. / f. |
+| मातामहः / मातामही | తాత / అమ్మమ్మ | m. / f. |
+| पतिः / भर्ता | భర్త | m. |
+| पत्नी / भार्या | భార్య | f. |
+| मित्रम् | స్నేహితుడు | n. |
+
+## Food and home
+| Sanskrit | Telugu |
+|---|---|
+| ओदनः / अन्नम् | అన్నం |
+| सूपः | పప్పు |
+| दुग्धम् / क्षीरम् | పాలు |
+| दधि | పెరుగు |
+| तक्रम् | మజ్జిగ |
+| घृतम् | నెయ్యి |
+| शाकम् | కూర |
+| फलम् | పండు |
+| जलम् | నీళ్ళు |
+| लवणम् | ఉప్పు |
+| गृहम् | ఇల్లు |
+| पाकशाला | వంటిల్లు |
+| द्वारम् | తలుపు |
+| आसन्दः | కుర్చీ |
+
+## At home
+@ex
+title: गृहे · At home
+sa: अम्ब, किं पचसि ? / अद्य ओदनं सूपं शाकं च पचामि । / अहम् अपि साहाय्यं करोमि । / समीचीनम् । शाकं कर्तय ।
+te: అమ్మా, ఏమి వండుతున్నావు? / ఈరోజు అన్నం, పప్పు, కూర వండుతున్నాను. / నేను కూడా సహాయం చేస్తాను. / మంచిది. కూరగాయలు తరుగు.
+en: Mother, what are you cooking? / Today I'm cooking rice, dal and a vegetable. / I'll help too. / Good. Cut the vegetables.
+w: अम्ब = అమ్మా (vocative of अम्बा); पचसि = వండుతున్నావు; ओदनम् = అన్నం; सूपम् = పప్పు; शाकम् = కూర; साहाय्यम् = సహాయం; समीचीनम् = మంచిది; कर्तय = కోయి / తరుగు
+note: Feminine ā-stems usually take -ए in the vocative (लते, सीते), but words meaning "mother" shorten instead: अम्बा → अम्ब (अम्बार्थनद्योर्ह्रस्वः, 7.3.107).
+note: ओदनं सूपं शाकं च: च after the last item, as in the bridge unit.
+@end
+
+## At the market
+@ex
+title: आपणे · At the market
+sa: कदलीफलानि सन्ति वा ? / आम्, सन्ति । कति इच्छति भवान् ? / द्वादश ददातु । मूल्यं कियत् ? / षष्टिः रूप्यकाणि ।
+te: అరటిపండ్లు ఉన్నాయా? / అవును, ఉన్నాయి. మీకు ఎన్ని కావాలి? / పన్నెండు ఇవ్వండి. ధర ఎంత? / అరవై రూపాయలు.
+en: Do you have bananas? / Yes. How many would you like? / Give me twelve. How much? / Sixty rupees.
+w: कदलीफलानि = అరటిపండ్లు; सन्ति = ఉన్నాయి; वा = ఆ (question); कति = ఎన్ని; इच्छति = కోరుతున్నారు; द्वादश = పన్నెండు; ददातु = ఇవ్వండి; मूल्यम् = ధర; कियत् = ఎంత; षष्टिः = అరవై; रूप्यकाणि = రూపాయలు
+note: वा at the end turns a statement into a question in spoken Sanskrit: सन्ति वा? "are there?"
+note: इच्छति with भवान्: the polite 3rd person.
+@end
+
+## At the temple
+@ex
+title: देवालये · At the temple
+sa: अत्र कस्य देवस्य मन्दिरम् ? / श्रीवेङ्कटेश्वरस्य । / दर्शनं कदा भविष्यति ? / सायं षड्वादने ।
+te: ఇక్కడ ఏ దేవుని గుడి? / శ్రీవేంకటేశ్వరునిది. / దర్శనం ఎప్పుడు? / సాయంత్రం ఆరు గంటలకు.
+en: Whose temple is this? / Śrī Veṅkaṭeśvara's. / When is darśan? / At six in the evening.
+w: अत्र = ఇక్కడ; कस्य = ఎవరి (షష్ఠీ of कः); देवस्य = దేవుని; मन्दिरम् = గుడి; श्रीवेङ्कटेश्वरस्य = శ్రీవేంకటేశ్వరుని; दर्शनम् = దర్శనం; कदा = ఎప్పుడు; भविष्यति = అవుతుంది; सायम् = సాయంత్రం; षड्वादने = ఆరు గంటలకు
+note: कस्य देवस्य: the question word कः agrees with देवः, both in the genitive.
+@end
+
+## With a teacher
+@ex
+title: गुरुणा सह · With a teacher
+sa: गुरो, एतस्य श्लोकस्य अर्थः कः ? / प्रथमं पदच्छेदं कुरु, ततः अन्वयं वद । / पदच्छेदं कृतवान् । / उत्तमम् । इदानीम् अर्थं चिन्तय ।
+te: గురువుగారూ, ఈ శ్లోకానికి అర్థం ఏమిటి? / ముందు పదచ్ఛేదం చెయ్యి, తర్వాత అన్వయం చెప్పు. / పదచ్ఛేదం చేశాను. / చాలా బాగుంది. ఇప్పుడు అర్థం ఆలోచించు.
+en: Sir, what does this verse mean? / First split the words, then give the prose order. / I've split the words. / Excellent. Now think about the meaning.
+w: गुरो = గురువుగారూ (vocative of गुरु); एतस्य = ఈ; श्लोकस्य = శ్లోకానికి; अर्थः = అర్థం; प्रथमम् = ముందు; पदच्छेदम् = పదచ్ఛేదం; कुरु = చెయ్యి; ततः = తర్వాత; अन्वयम् = అన్వయం; वद = చెప్పు; कृतवान् = చేశాను; उत्तमम् = చాలా బాగుంది; इदानीम् = ఇప్పుడు; चिन्तय = ఆలోచించు
+note: गुरो is the vocative of the u-stem गुरु: -उ becomes -ओ (हे गुरो, हे विष्णो, हे प्रभो).
+note: "ఈ శ్లోకానికి అర్థం" uses the Telugu dative; Sanskrit uses the genitive: श्लोकस्य अर्थः.
+@end
+
+> [memory] Speak ten minutes a day :: Describe what you are doing as you do it: अहं जलं पिबामि। अहं पुस्तकं पठामि। अहं कार्यालयं गच्छामि। Talking to yourself in Sanskrit is how Samskrita Bharati teaches thousands of people each year to speak in ten days.
+
+@quiz
+q: "అమ్మా!" (calling mother) in Sanskrit:
+* अम्ब
+- अम्बा
+- अम्बाः
+why: Words for "mother" shorten in the vocative: अम्बा → अम्ब. Other ā-stems take -ए: सीते, लते.
+
+q: "ఈ శ్లోకానికి అర్థం" uses which case for श्लोकः?
+* Genitive: श्लोकस्य अर्थः
+- Dative: श्लोकाय अर्थः
+- Locative: श्लोके अर्थः
+why: Sanskrit uses the genitive for "the meaning of".
+
+q: How do you call out to a teacher (గురువు) in Sanskrit?
+* गुरो
+- गुरु
+- गुरुः
+why: u-stems take -ओ in the vocative: गुरो, विष्णो, प्रभो.
+
+q: In spoken Sanskrit, सन्ति वा? means:
+* Are there (any)?
+- There are or not
+- There aren't
+why: वा at the end makes a yes/no question.
+
+q: "మజ్జిగ" in Sanskrit:
+* तक्रम्
+- दधि
+- घृतम्
+why: तक्रम् = buttermilk, दधि = curd, घृतम् = ghee.
+@end

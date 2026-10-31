@@ -1,0 +1,155 @@
+@title సాధిత ధాతువులు · Derived verbs: causative, desiderative, intensive, denominative
+@summary From any root Sanskrit makes new verbs: "make someone do" (णिच्, Telugu -ఇంచు), "wish to do" (सन्), "do again and again" (यङ्) and verbs from nouns (नामधातु). With the Gītā's स्थापय, भावयत, क्लेदयन्ति, युयुत्सवः, जिजीविषामः, नमस्यन्तः.
+
+## The four derived conjugations
+| Type | Suffix | Meaning | Example | Telugu |
+|---|---|---|---|---|
+| णिजन्त (causative) | -अय- | make someone do | कारयति | చేయించు |
+| सन्नन्त (desiderative) | reduplication + -स- | wish to do | चिकीर्षति | చేయాలనుకొను |
+| यङन्त (intensive) | reduplication + -य- (Ā) | do repeatedly / intensely | देदीप्यते | మెరిసి మెరిసి వెలుగు |
+| नामधातु (denominative) | noun + -य- / -आय- | treat as, act like, want | नमस्यति, पुत्रीयति | నమస్కరించు |
+
+## णिजन्त: the causative
+Root + **णिच्** (= अय) with strengthening, then the class-1 endings in either pada (हेतुमति च 3.1.26):
+
+| Root | Rule | Causative | Telugu |
+|---|---|---|---|
+| कृ | final ऋ → vṛddhi आर् | कारयति | చేయించు |
+| भू | final ऊ → vṛddhi आव् | भावयति | కలిగించు, పోషించు |
+| नी | final ई → vṛddhi आय् | नाययति | నడిపించు |
+| पठ् | medial अ (light) → आ | पाठयति | చదివించు |
+| दृश् | medial ऋ → guṇa अर् | दर्शयति | చూపించు |
+| बुध् | medial उ → guṇa ओ | बोधयति | తెలియజేయు |
+| विद् | medial इ → guṇa ए | वेदयति | తెలియజేయు |
+| क्लिद् | → guṇa | क्लेदयति | తడుపు |
+| शुष् | → guṇa | शोषयति | ఎండించు |
+| सद् | medial अ → आ | सादयति | కూలదీయు |
+| गम् | -अम् roots keep अ | गमयति | పంపు |
+| स्था | आ-roots add प् | स्थापयति | నిలుపు |
+| दा | आ-roots add प् | दापयति | ఇప్పించు |
+| ज्ञा | आ-roots add प् | ज्ञापयति | తెలియజేయు |
+| अधि + इ | add आप् | अध्यापयति | చదువు చెప్పు |
+| पा | irregular | पाययति | తాగించు |
+| रुह् | irregular | रोहयति / रोपयति | ఎక్కించు / నాటు |
+
+> [compare] Telugu -ఇంచు / -పించు is the same idea :: చేయు → చేయించు, చదువు → చదివించు, తిను → తినిపించు, చూచు → చూపించు. Telugu even uses the Sanskrit causative stems as loans: బోధించు (बोधय), స్థాపించు (स्थापय), దర్శించు (दर्शय), భావించు (भावय), పాలించు (पालय). Telugu verbs in -ఇంచు often hide a Sanskrit causative.
+
+### Who does what: cases with the causative
+The original agent (the one made to act) goes into:
+- the **2nd case** with verbs of going, knowing, eating, speaking / learning, and intransitive verbs (1.4.52): गुरुः शिष्यं वेदम् अध्यापयति "గురువు శిష్యునికి వేదం నేర్పుతాడు"; माता बालं ग्रामं गमयति "తల్లి పిల్లవాణ్ణి ఊరికి పంపుతుంది"; माता बालम् अन्नं भोजयति.
+- the **3rd case** with other verbs: रामः भृत्येन कटं कारयति "రాముడు సేవకుని చేత చాప చేయిస్తాడు".
+
+> [compare] Telugu uses చేత / -కు the same way :: సేవకుని చేత చేయించు = भृत्येन कारयति (3rd case); శిష్యునికి నేర్పు = शिष्यम् अध्यापयति (Sanskrit uses the 2nd case where Telugu uses -కి).
+
+### Causative in the Gītā
+| Form | Root | Where | Meaning |
+|---|---|---|---|
+| स्थापय | स्था | रथं स्थापय मेऽच्युत (1.21) | నిలుపు |
+| व्यदारयत् | वि + दॄ | हृदयानि व्यदारयत् (1.19) | చీల్చింది |
+| अभ्यनुनादयन् | अभि + अनु + नद् | (1.19) | ప్రతిధ్వనింపజేస్తూ |
+| भावयत, भावयन्तु | भू | देवान् भावयतानेन (3.11) | పోషించండి |
+| क्लेदयन्ति, शोषयति | क्लिद्, शुष् | (2.23) | తడుపవు, ఎండించదు |
+| अवसादयेत् | अव + सद् | (6.5) | కుంగదీయకూడదు |
+| दर्शय | दृश् | तदेव मे दर्शय देव रूपम् (11.45) | చూపించు |
+| कीर्तयन्तः | कीर्त् (class 10) | सततं कीर्तयन्तो माम् (9.14) | కీర్తిస్తూ |
+
+> [note] Class 10 looks exactly like a causative :: चोरयति, चिन्तयति, कथयति, कीर्तयति have the same -अय- but are ordinary verbs with no causative sense. मोक्षयिष्यामि (18.66) is the future of मोक्षय- (class 10 मोक्ष्), "I shall set free".
+
+## सन्नन्त: the desiderative
+Reduplicate (with इ or उ in the first syllable), add **स** (often → ष), then class-1 endings (धातोः कर्मणः समानकर्तृकादिच्छायां वा 3.1.7):
+
+| Root | Desiderative | Noun / adjective | Telugu |
+|---|---|---|---|
+| कृ | चिकीर्षति | चिकीर्षा | చేయాలనే కోరిక |
+| युध् | युयुत्सते | युयुत्सु (1.1) | యుద్ధం చేయగోరు |
+| जीव् | जिजीविषति | जिजीविषा | బ్రతకాలని కోరు |
+| ज्ञा | जिज्ञासते | जिज्ञासा, जिज्ञासु (7.16) | తెలుసుకోవాలనే కోరిక |
+| मुच् | मुमुक्षते | मुमुक्षु, मुमुक्षा | మోక్షం కోరు |
+| भुज् | बुभुक्षते | बुभुक्षा | ఆకలి |
+| पा | पिपासति | पिपासा | దాహం |
+| श्रु | शुश्रूषते | शुश्रूषा | సేవ (వినాలనే కోరిక) |
+| दृश् | दिदृक्षते | दिदृक्षा | చూడాలనే కోరిక |
+| लभ् | लिप्सते | लिप्सा | పొందాలనే ఆశ |
+| हन् | जिघांसति | जिघांसु | చంపగోరు |
+| गम् | जिगमिषति | जिगमिषा | వెళ్ళాలనే కోరిక |
+
+> [memory] अथातो ब्रह्मजिज्ञासा :: The first Brahma-sūtra, "now, therefore, the desire to know Brahman", has a desiderative noun. The ordinary way to say "wish to do" is infinitive + इच्छति: द्रष्टुम् इच्छामि (11.3) = दिदृक्षामि.
+
+## यङन्त: the intensive
+Reduplication with a strong vowel + **य** + ātmanepada: "again and again, intensely".
+- दीप् → देदीप्यते "shines brilliantly"
+- भू → बोभूयते "becomes again and again"
+- क्रम् → चङ्क्रम्यते "walks up and down"
+- लप् → लालप्यते "babbles"
+- Without य (यङ्लुक्, parasmaipada): बोभवीति, चर्करीति
+
+## नामधातु: verbs from nouns
+| Noun | Verb | Meaning |
+|---|---|---|
+| नमस् | नमस्यति | bows (నమస్కరిస్తాడు): नमस्यन्तश्च माम् (9.14) |
+| पुत्र | पुत्रीयति | wants a son / treats as a son |
+| कृष्ण | कृष्णायते | behaves like Kṛṣṇa |
+| सुख | सुखायते | feels happy |
+| शब्द | शब्दायते | makes a sound |
+| तपस् | तपस्यति | practises austerity |
+| कथा | कथयति | tells (class 10) |
+| श्येन | श्येनायते | swoops like a hawk |
+
+@ex gita:1:21
+note: स्थापय "place, make stand": causative imperative of स्था (आ-root + प् + अय). Arjuna asks Kṛṣṇa to make the chariot stand between the armies.
+note: आह "spoke": perfect of अह् / ब्रू (lesson 6.4).
+@end
+
+@ex gita:3:11
+split: देवान् भावयत अनेन ते देवाः भावयन्तु वः । परस्परं भावयन्तः श्रेयः परम् अवाप्स्यथ ॥
+w: देवान् = దేవతలను; भावयत = పోషించండి (caus. imperative 2 pl. of भू); अनेन = దీనితో (యజ్ఞంతో); ते देवाः = ఆ దేవతలు; भावयन्तु = పోషించుదురుగాక (caus. imperative 3 pl.); वः = మిమ్మల్ని; परस्परम् = ఒకరినొకరు; भावयन्तः = పోషిస్తూ (caus. present participle); श्रेयः = శ్రేయస్సును; परम् = పరమమైన; अवाप्स्यथ = పొందుతారు (future 2 pl.)
+note: The same causative stem भावय- (भू "be" → "make be, nourish") in three forms: imperative, imperative, participle.
+@end
+
+@ex gita:2:23
+note: क्लेदयन्ति "make wet" and शोषयति "make dry": causatives of क्लिद् (be wet) and शुष् (be dry), both with guṇa.
+note: छिन्दन्ति (class 7) and दहति (class 1): plain actives.
+@end
+
+@ex gita:2:6
+note: जिजीविषामः "we wish to live": desiderative of जीव्. The deck text prints it split as जिजीविषाम स्ते-: read जिजीविषामः ते.
+note: जयेम, जयेयुः: optatives (lesson 6.6).
+@end
+
+@quiz
+q: Causative of कृ:
+* कारयति
+- करयति
+- क्रियति
+why: Final ऋ takes vṛddhi: आर् + अय → कारयति (చేయించు).
+
+q: Causative of स्था:
+* स्थापयति
+- स्थायति
+- तिष्ठयति
+why: आ-ending roots insert प्: स्थापय (1.21).
+
+q: युयुत्सवः (1.1) means:
+* desiring to fight
+- having fought
+- fighting repeatedly
+why: Desiderative of युध्: युयुत्सु.
+
+q: In रामः भृत्येन कटं कारयति, why is भृत्येन in the 3rd case?
+* It is the agent made to act, and कृ is not a verb of going/knowing/eating/speaking
+- It is the instrument
+- It is the passive agent
+why: 1.4.52: only those verb groups put the causee in the 2nd case.
+
+q: Which Telugu suffix matches the causative?
+* -ఇంచు / -పించు
+- -కు
+- -తూ
+why: చేయించు = कारयति, చదివించు = पाठयति.
+
+q: नमस्यति is formed from:
+* the noun नमस् (denominative)
+- the root नम् + causative
+- the root नश्
+why: Noun + य: नमस्यन्तश्च मां भक्त्या (9.14).
+@end

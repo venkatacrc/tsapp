@@ -1,0 +1,116 @@
+@title విశేష శబ్దాలు · Irregular nouns
+@summary The handful of nouns that follow no table but appear everywhere: गो (cow), पुंस् (man), श्वन् (dog), पथिन् (path), सखि (friend), पति (husband), अप् (water), अहन् (day), दिव् (sky), वाच् and दिश्. Several of them are in Gītā 5.18 and 2.62.
+
+## गो (cow, ox)
+| | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| 1 | गौः | गावौ | गावः |
+| 2 | गाम् | गावौ | गाः |
+| 3 | गवा | गोभ्याम् | गोभिः |
+| 4 | गवे | गोभ्याम् | गोभ्यः |
+| 5 / 6 | गोः | गोभ्याम् / गवोः | गोभ्यः / गवाम् |
+| 7 | गवि | गवोः | गोषु |
+| 8 | हे गौः | हे गावौ | हे गावः |
+
+> [telugu] గోవు, గవి, గోవిందుడు :: Telugu గోవు is built on the stem. In Sanskrit compounds the stem is गो-: गोपालः, गोविन्दः, गोकुलम्, गोमाता. Gītā 5.18 ब्राह्मणे गवि हस्तिनि "in a Brāhmaṇa, in a cow, in an elephant": गवि is the locative.
+
+## पुंस् (man, male)
+| | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| 1 | पुमान् | पुमांसौ | पुमांसः |
+| 2 | पुमांसम् | पुमांसौ | पुंसः |
+| 3 | पुंसा | पुम्भ्याम् | पुम्भिः |
+| 4 | पुंसे | पुम्भ्याम् | पुम्भ्यः |
+| 5 / 6 | पुंसः | पुम्भ्याम् / पुंसोः | पुम्भ्यः / पुंसाम् |
+| 7 | पुंसि | पुंसोः | पुंसु |
+| 8 | हे पुमन् | हे पुमांसौ | हे पुमांसः |
+
+Gītā 2.62 ध्यायतो विषयान् पुंसः "of a man dwelling on sense objects": पुंसः is the genitive singular. Gītā 2.71 विहाय कामान् यः सर्वान् पुमांश्चरति निःस्पृहः: पुमान् (+ च → पुमांश्च).
+
+## श्वन् (dog)
+श्वा श्वानौ श्वानः, श्वानम् श्वानौ **शुनः**; **शुना**, शुने, शुनः, शुनः शुनोः शुनाम्, **शुनि** शुनोः श्वसु; हे श्वन्. In the weak cases व becomes उ (सम्प्रसारण): शुन्-. Gītā 5.18 शुनि चैव श्वपाके च "in a dog and in a dog-eater".
+
+> [memory] Gītā 5.18 is an irregular-noun drill :: विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि । शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥ Five locatives: ब्राह्मणे (राम), गवि (गो), हस्तिनि (हस्तिन्, -इन् stem), शुनि (श्वन्), श्वपाके (राम). Chant the verse and you remember three hard locatives.
+
+## पथिन् (path)
+पन्थाः पन्थानौ पन्थानः, पन्थानम् पन्थानौ **पथः**; **पथा** पथिभ्याम् पथिभिः, पथे, पथः, पथः पथोः पथाम्, पथि पथोः पथिषु; हे पन्थाः. Similar: मथिन् (churning stick), ऋभुक्षिन्.
+
+## सखि (friend) and पति (husband)
+| | सखि | पति (alone, "husband") |
+|---|---|---|
+| 1 sg. | सखा | पतिः |
+| 1 du. / pl. | सखायौ / सखायः | पती / पतयः |
+| 2 sg. / pl. | सखायम् / सखीन् | पतिम् / पतीन् |
+| 3 sg. | सख्या | पत्या |
+| 4 sg. | सख्ये | पत्ये |
+| 5/6 sg. | सख्युः | पत्युः |
+| 7 sg. | सख्यौ | पत्यौ |
+| 8 sg. | हे सखे | हे पते |
+
+> [note] पति in compounds follows हरि :: पति alone (husband) is irregular, but at the end of a compound it follows हरि normally: भूपतिना, प्रजापतये, सेनापतेः. Gītā 11.41 हे कृष्ण हे यादव हे सखेति "O Kṛṣṇa, O Yādava, O friend": सखे is the vocative of सखि.
+
+## अप् (water), only plural, feminine
+आपः, अपः, **अद्भिः**, **अद्भ्यः**, अद्भ्यः, अपाम्, **अप्सु**. Before भ् the प् becomes द्. Gītā 2.23 न चैनं क्लेदयन्त्यापः "nor do waters wet it"; 7.8 रसोऽहमप्सु "I am the taste in water".
+
+## अहन् (day), neuter
+अहः, अह्नी / अहनी, अहानि; अह्ना, **अहोभ्याम्**, **अहोभिः**; अह्नः; अह्नि / अहनि, अहःसु. In compounds अहः- or अह-: अहोरात्रम्, मध्याह्नः, अपराह्णः. Sahasranāmam 10 अहः संवत्सरो व्यालः "the Day, the Year…".
+
+## Other useful irregulars
+| Word | Key forms | Meaning |
+|---|---|---|
+| दिव् / द्यौ (f.) | द्यौः, दिवम्, दिवा, दिवि, दिवः | sky, heaven |
+| वाच् (f.) | वाक्, वाचौ, वाचः, वाचा, वाग्भिः, वाक्षु | speech |
+| दिश् (f.) | दिक्, दिशौ, दिशः, दिशा, दिग्भिः, दिक्षु | direction |
+| नौ (f.) | नौः, नावौ, नावः, नावम्, नावा, नौभिः | boat |
+| रै (m.) | राः, रायौ, रायः, राया, राभिः | wealth |
+| अक्षि (n.) | अक्षि, अक्षिणी, अक्षीणि, अक्ष्णा, अक्ष्णः | eye |
+| अस्थि, दधि, सक्थि (n.) | like अक्षि: अस्थ्ना, दध्ना | bone, curd, thigh |
+| विद्वस् (m.) | विद्वान्, विद्वांसौ, विद्वांसः, विदुषः, विदुषा | learned man |
+| अनडुह् (m.) | अनड्वान्, अनड्वाहौ, अनडुहा | ox |
+
+> [memory] Consonant-final nouns change their last consonant :: वाक् / वाग्भिः / वाचा, दिक् / दिग्भिः / दिशा. The final consonant is hard (क्) at a pause, soft (ग्) before भ्, and the true sound (च्, श्) before vowels. Telugu వాక్కు and దిక్కు took the pause form + ఉ.
+
+@ex gita:5:18
+split: विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि । शुनि च एव श्वपाके च पण्डिताः समदर्शिनः ॥
+anvaya: पण्डिताः विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि शुनि च श्वपाके च एव समदर्शिनः (भवन्ति) ॥
+w: विद्याविनयसम्पन्ने = విద్యావినయాలు గల (7 sg.); ब्राह्मणे = బ్రాహ్మణునియందు; गवि = గోవునందు (7 sg. of गो); हस्तिनि = ఏనుగునందు (7 sg. of हस्तिन्); शुनि = కుక్కయందు (7 sg. of श्वन्); श्वपाके = కుక్కమాంసం తినువానియందు; पण्डिताः = జ్ఞానులు; समदर्शिनः = సమదృష్టి గలవారు (1 pl. of -इन्)
+note: A string of locatives: "in X, in Y, in Z (they see the same)". Telugu ...యందు throughout.
+note: समदर्शिनः is the nominative plural of समदर्शिन् (योगिनः pattern).
+@end
+
+@ex gita:2:23
+note: आपः "waters" (always plural, feminine) is the subject of क्लेदयन्ति (plural verb).
+note: शस्त्राणि, पावकः, मारुतः: the other three subjects (neuter plural, masculine singular twice), each with its own verb.
+@end
+
+@quiz
+q: Locative singular of गो:
+* गवि
+- गवे
+- गोषु
+why: गवि "in a cow" (Gītā 5.18). गवे is dative; गोषु locative plural.
+
+q: Genitive singular of पुंस्:
+* पुंसः
+- पुमानः
+- पुमांसस्य
+why: Weak stem पुंस् + अः (Gītā 2.62 ध्यायतो विषयान् पुंसः).
+
+q: Locative singular of श्वन् (dog):
+* शुनि
+- श्वनि
+- श्वने
+why: In weak cases व → उ: शुन्- + इ.
+
+q: Which word for water is always plural?
+* आपः (अप्)
+- जलम्
+- तोयम्
+why: अप् is feminine and used only in the plural: आपः, अद्भिः, अप्सु.
+
+q: Vocative singular of सखि:
+* हे सखे
+- हे सखा
+- हे सखि
+why: Gītā 11.41: हे कृष्ण हे यादव हे सखेति.
+@end

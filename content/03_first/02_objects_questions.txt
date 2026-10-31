@@ -1,0 +1,100 @@
+@title ఏమిటి, ఎక్కడ, ఎప్పుడు · Objects and questions
+@summary Putting an object in the accusative (-म्), the question words कः, किम्, कुत्र, कदा, कथम्, किमर्थम्, and answering with the matching "there, then, thus" words.
+
+## The object takes -म्
+In Telugu the object takes -ని / -ను (or nothing for things): రాముని చూశాను, పుస్తకం చదివాను. In Sanskrit the object of a verb goes into the **accusative** (ద్వితీయా):
+
+| Nominative | Accusative | Sentence | Telugu |
+|---|---|---|---|
+| रामः | रामम् | अहं रामं पश्यामि | నేను రాముని చూస్తున్నాను |
+| फलम् | फलम् | सः फलं खादति | అతడు పండు తింటున్నాడు |
+| पुस्तकम् | पुस्तकम् | त्वं पुस्तकं पठसि | నువ్వు పుస్తకం చదువుతున్నావు |
+| सीता | सीताम् | रामः सीतां पश्यति | రాముడు సీతను చూస్తున్నాడు |
+| जलम् | जलम् | बालः जलं पिबति | పిల్లవాడు నీళ్ళు తాగుతున్నాడు |
+| ग्रामः | ग्रामम् | वयं ग्रामं गच्छामः | మేము ఊరికి వెళ్తున్నాము |
+| नदी | नदीम् | सा नदीं पश्यति | ఆమె నదిని చూస్తోంది |
+| गुरुः | गुरुम् | शिष्यः गुरुं नमति | శిష్యుడు గురువుకు నమస్కరిస్తాడు |
+
+> [memory] -म् for the object, almost always :: Masculine अ-stems: -अः → -अम्. Feminine आ-stems: -आ → -आम्. ई-stems: -ई → -ईम्. इ/उ-stems: -इम्, -उम्. Neuter: the object form is the same as the subject form (फलम्, जलम्). Later units fill in the rest; for now, "-म् = ని/ను".
+
+> [warning] Telugu -కి and -కు objects :: గురువుకు నమస్కరిస్తాడు and ఊరికి వెళ్తాడు use -కు/-కి in Telugu but the **accusative** in Sanskrit: गुरुं नमति, ग्रामं गच्छति. Ask "what does the verb act on or go to?" and use -म्.
+
+## Question words and their answers
+Sanskrit question words start with **क**; the matching "this/there" words start with **त** (or **अ**/**इ** for "here"); relative words start with **य**.
+
+| Question | Telugu | Answer word | Telugu | Relative |
+|---|---|---|---|---|
+| कः / का / किम् | ఎవరు / ఏమిటి | सः / सा / तत् | అతడు / ఆమె / అది | यः / या / यत् |
+| कुत्र / क्व | ఎక్కడ | तत्र / अत्र | అక్కడ / ఇక్కడ | यत्र |
+| कदा | ఎప్పుడు | तदा / इदानीम् | అప్పుడు / ఇప్పుడు | यदा |
+| कथम् | ఎలా | तथा / इत्थम् / एवम् | అలా / ఇలా | यथा |
+| कुतः | ఎక్కడ నుండి / ఎందుకు | ततः / अतः | అక్కడ నుండి / అందువలన | यतः |
+| कियत् | ఎంత | तावत् / इयत् | అంత / ఇంత | यावत् |
+| किमर्थम् | ఎందుకు | तदर्थम् | అందుకు | यदर्थम् |
+| कति | ఎన్ని | तति | అన్ని | यति |
+| कतमः / कतरः | ఏది (many / two) | — | — | यतमः |
+
+> [memory] క asks, త answers, య links :: కుత్ర? → తత్ర. కదా? → తదా. కథమ్? → తథా. And in a long sentence య…త pairs link the parts: యత్ర కృష్ణః తత్ర విజయః "where Kṛṣṇa is, there is victory". Learn the క-column and you get the other two for free.
+
+## Yes and no
+| Sanskrit | Telugu |
+|---|---|
+| आम् | అవును |
+| न / नहि | కాదు / లేదు |
+| किम्…? / अपि…? | …ఆ? |
+| किं भवान् आगच्छति? आम्, अहम् आगच्छामि। | మీరు వస్తున్నారా? అవును, వస్తున్నాను. |
+| किं सः पठति? न, सः क्रीडति। | అతడు చదువుతున్నాడా? లేదు, ఆడుకుంటున్నాడు. |
+
+@ex
+sa: भवान् कुत्र गच्छति ? अहं देवालयं गच्छामि । किमर्थम् ? देवं द्रष्टुम् ।
+te: మీరు ఎక్కడికి వెళ్తున్నారు? నేను గుడికి వెళ్తున్నాను. ఎందుకు? దేవుని చూడటానికి.
+en: Where are you going? I am going to the temple. Why? To see God.
+w: कुत्र = ఎక్కడికి; देवालयम् = గుడికి (ద్వితీయా); किमर्थम् = ఎందుకు; देवम् = దేవుని; द्रष्टुम् = చూడటానికి (तुमुन्)
+note: देवालयं गच्छामि: the goal of motion is accusative, not dative.
+note: द्रष्टुम् is the infinitive (తుమున్నర్థకం) of दृश्: "to see".
+@end
+
+@ex
+sa: एषः कः ? एषः मम मित्रम् । तस्य नाम किम् ? तस्य नाम कृष्णः ।
+te: ఇతడు ఎవరు? ఇతడు నా స్నేహితుడు. అతని పేరు ఏమిటి? అతని పేరు కృష్ణ.
+en: Who is this? This is my friend. What is his name? His name is Kṛṣṇa.
+w: एषः = ఇతడు; कः = ఎవరు; मम = నా; मित्रम् = స్నేహితుడు (neuter noun!); तस्य = అతని; नाम = పేరు; किम् = ఏమిటి
+note: मित्रम् "friend" is a neuter word in Sanskrit even for a man. (मित्रः, masculine, is the sun-god Mitra.)
+@end
+
+@ex gita:18:78
+note: यत्र … यत्र … तत्र: two "where" clauses and one "there". A relative–correlative pair from the table above.
+note: योगेश्वरः, कृष्णः, पार्थः, धनुर्धरः: nominatives (subjects of an unstated "is").
+@end
+
+@quiz
+q: "అతడు పండు తింటున్నాడు":
+* सः फलं खादति
+- सः फलः खादति
+- सः फलाय खादति
+why: फलम् is the object; neuter objects look like their subject forms.
+
+q: The answer word for कदा (when?) is:
+* तदा (then)
+- तत्र
+- यदा
+why: क asks, त answers, य links: कदा → तदा, यदा.
+
+q: "నేను ఊరికి వెళ్తున్నాను":
+* अहं ग्रामं गच्छामि
+- अहं ग्रामाय गच्छामि
+- अहं ग्रामे गच्छामि
+why: Destination = accusative.
+
+q: What does कुतः mean?
+* from where? / why?
+- where?
+- how many?
+why: कुतः (from क + -तः "from") = ఎక్కడ నుండి, and by extension ఎందుకు.
+
+q: How do you say "yes" in Sanskrit?
+* आम्
+- न
+- अपि
+why: आम् = అవును; न = కాదు / లేదు.
+@end

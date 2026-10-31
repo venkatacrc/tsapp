@@ -1,0 +1,108 @@
+@title విసర్గ సంధి · Visarga sandhi
+@summary The visarga (ः) changes more than any other sound: it becomes स्, श्, ष्, र्, ओ, or disappears, depending on the vowel before it and the sound after it. One decision table, the special words सः / एषः, words with an original र् (पुनर्, अन्तर्), and the double-र् rule.
+
+## Where visarga comes from
+A visarga stands for a final **स्** or **र्** (ससजुषो रुः 8.2.66, खरवसानयोर्विसर्जनीयः 8.3.15). Most visargas are case endings: रामः (1 sg.), रामाः (1 pl.), हरेः (6 sg.), गुरुः, मनः. A few words have an original र्: पुनः (पुनर्), अन्तः (अन्तर्), प्रातः (प्रातर्), स्वः (स्वर्), and the vocative of ऋ-stems (पितः = पितर्).
+
+## The decision table
+Look at (1) the vowel before ः, (2) the sound after it.
+
+| Before ः | After | Result | Sūtra | Example |
+|---|---|---|---|---|
+| any | क ख प फ, pause | stays ः | 8.3.15, 8.3.37 | रामः करोति, रामः पठति |
+| any | च छ | श्च / श्छ | 8.3.34 + 8.4.40 | रामः + च → रामश्च; निः + चलः → निश्चलः |
+| any | ट ठ | ष्ट / ष्ठ | 8.3.34 + 8.4.41 | धनुः + टङ्कारः → धनुष्टङ्कारः |
+| any | त थ | स्त / स्थ | 8.3.34 | ततः + ततः → ततस्ततः; अधिकारः + ते → अधिकारस्ते (2.47) |
+| any | श ष स | same sibilant, or stays | वा शरि 8.3.36 | रामः शेते / रामश्शेते; हरिः साक्षात् / हरिस्साक्षात् |
+| अः | अ | ओऽ | 6.1.113, 6.1.109 | रामः + अयम् → रामोऽयम्; सङ्गः + अस्तु → सङ्गोऽस्तु (2.47) |
+| अः | voiced consonant | ओ | हशि च 6.1.114 | रामः + गच्छति → रामो गच्छति; मनः + रथः → मनोरथः |
+| अः | vowel other than अ | अ (gap) | 8.3.17, 8.3.19 | अर्जुनः + उवाच → अर्जुन उवाच; रामः + इति → राम इति |
+| आः | vowel or voiced consonant | आ (gap) | 8.3.17, 8.3.22 | देवाः + इह → देवा इह; समवेताः + युयुत्सवः → समवेता युयुत्सवः (1.1) |
+| other vowel (इः उः एः…) | vowel or voiced consonant | र् | 8.2.66 (रु stays र्) | हरिः + अयम् → हरिरयम्; गुरुः + जयति → गुरुर्जयति; -हेतुः + भूः → -हेतुर्भूः (2.47) |
+| other vowel | र | ः drops, vowel lengthens | रो रि 8.3.14, 6.3.111 | हरिः + रम्यः → हरी रम्यः; निः + रोगः → नीरोगः |
+
+> [memory] Three questions :: (1) Is the next sound voiceless (क च ट त प, श ष स)? Then a sibilant of that row (or ः before क / प). (2) Is it voiced, and is the vowel before ः अ or आ? Then अः → ओ (अ before अ: ओऽ; other vowels: अ + gap), आः → आ + gap. (3) Voiced, after any other vowel? Then र्.
+
+> [compare] Telugu school examples :: మనః + రథం → మనోరథం (అః + voiced); నిః + చలం → నిశ్చలం (+ చ); దుః + ఆచారం → దురాచారం (ఉః + vowel → ర్); అంతః + ఆత్మ → అంతరాత్మ (original ర్); నిః + రోగం → నీరోగం (double ర్); పునః + జన్మ → పునర్జన్మ (original ర్); తపః + వనం → తపోవనం (అః + voiced).
+
+## Words with an original र्
+These behave like "other vowel + ः" even after अ: the र् returns before vowels and voiced consonants (8.2.70 and after):
+- पुनः + अपि → पुनरपि (not पुनोऽपि); पुनः + जन्म → पुनर्जन्म
+- अन्तः + आत्मा → अन्तरात्मा; अन्तः + गतः → अन्तर्गतः
+- प्रातः + एव → प्रातरेव; स्वः + गः → स्वर्गः
+- हे पितः + अत्र → पितरत्र
+
+## सः and एषः
+The pronouns सः and एषः drop the visarga before any consonant (एतत्तदोः सुलोपोऽकोरनञ्समासे हलि 6.1.132), and follow the normal rules before vowels:
+
+| Join | Result |
+|---|---|
+| सः + गच्छति | स गच्छति |
+| सः + यत् प्रमाणम् | स यत्प्रमाणम् (3.21) |
+| एषः + धर्मः | एष धर्मः |
+| सः + अहम् | सोऽहम् |
+| सः + एव | स एव |
+
+> [note] भोः and friends :: भोः, भगोः, अघोः and plural -आः before a vowel or voiced consonant drop the visarga entirely (भोभगोअघोअपूर्वस्य योऽशि 8.3.17 + 8.3.22): भोः + देवाः → भो देवाः.
+
+## Undoing visarga sandhi
+| You see | Could be |
+|---|---|
+| -ओ before a consonant | -अः (रामो गच्छति = रामः गच्छति) |
+| -ओऽ | -अः + अ- (रामोऽयम् = रामः अयम्) |
+| -अ + vowel gap | -अः or -ए + vowel (राम इति; हर इह = हरे इह) |
+| -आ + gap / voiced | -आः (देवा इह) |
+| -र् before vowel / voiced | -इः, -उः, etc., or an original र् |
+| -श्च, -स्त, -ष्ट | -ः + च, त, ट |
+| -ई / -ऊ + र | -इः / -उः + र (हरी रम्यः) |
+
+@ex gita:1:1
+split: धर्मक्षेत्रे कुरुक्षेत्रे समवेताः युयुत्सवः । मामकाः पाण्डवाः च एव किम् अकुर्वत सञ्जय ॥
+note: समवेताः + युयुत्सवः → समवेता युयुत्सवः (आः + voiced → आ). पाण्डवाः + च → पाण्डवाश्च (ः + च → श्च). च + एव → चैव (vṛddhi).
+@end
+
+@ex gita:2:47
+note: Visarga in three forms in one verse: अधिकारस्ते (ः + त → स्त), -हेतुर्भूः (उः + voiced → उर्), सङ्गोऽस्तु (अः + अ → ओऽ).
+@end
+
+@ex gita:2:14
+note: मात्रास्पर्शाः + तु → मात्रास्पर्शास्तु; आगमापायिनः + अनित्याः → आगमापायिनोऽनित्याः (अः + अ); अनित्याः + तान् → अनित्यास्तान्; तान् + तितिक्षस्व → तांस्तितिक्षस्व (nasal rule).
+@end
+
+@quiz
+q: रामः + गच्छति →
+* रामो गच्छति
+- रामर्गच्छति
+- राम गच्छति
+why: अः before a voiced consonant → ओ (हशि च).
+
+q: हरिः + अयम् →
+* हरिरयम्
+- हरोऽयम्
+- हरि अयम्
+why: Visarga after इ before a vowel → र्.
+
+q: अर्जुनः + उवाच →
+* अर्जुन उवाच
+- अर्जुनो उवाच
+- अर्जुनरुवाच
+why: अः before a vowel other than अ → अ, with a gap.
+
+q: पुनः + अपि →
+* पुनरपि
+- पुनोऽपि
+- पुन अपि
+why: पुनः has an original र्.
+
+q: निः + रोगः →
+* नीरोगः
+- निर्रोगः
+- निरोगः
+why: र् + र्: the first drops and the vowel before it lengthens.
+
+q: सः + गच्छति →
+* स गच्छति
+- सो गच्छति
+- सर्गच्छति
+why: सः and एषः lose the visarga before consonants.
+@end

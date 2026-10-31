@@ -1,0 +1,167 @@
+@title జ్ఞాపక పద్ధతులు · How to remember grammar
+@summary Why Sanskrit grammar is easier to remember than it looks, the methods of the pāṭhaśālā (chanting, kārikās, Pāṇini's own compression tricks), the methods of memory research (spaced repetition, active recall, interleaving), how the app's six review boxes work, and an anchor verse for every major rule.
+
+## Sanskrit was built to be memorised
+For two thousand years Sanskrit grammar was learned without books. Pāṇini wrote his grammar for memory, and the tradition built a whole set of techniques around it. You can use the same ones.
+
+| Technique | What it is | Where you met it |
+|---|---|---|
+| सूत्र | rules compressed to a few syllables | every [sutra] tip |
+| प्रत्याहार | one syllable naming a whole group of sounds (अच्, हल्, यण्) | lesson 1.9 |
+| इत् markers | silent letters that carry information (डुकृञ्) | lessons 6.2, 13.11 |
+| अनुवृत्ति | a word stated once is understood in the rules that follow | below |
+| कारिका | a verse summary of a topic | lessons 6.2, 6.6, 12.2 |
+| शब्दमञ्जरी / धातुमञ्जरी | chanting noun and verb tables daily | lesson 4.1 |
+| कण्ठपाठ | learning verses by heart before analysing them | unit 13 |
+
+An example of अनुवृत्ति: इको यणचि (6.1.77) says "इ उ ऋ ऌ become य व र ल before a vowel". The next rule, एचोऽयवायावः (6.1.78), says only "ए ओ ऐ औ become अय् अव् आय् आव्". It does not repeat "before a vowel": अचि carries over from the rule before. Pāṇini's 4000 rules are short because most of their words are inherited this way.
+
+> [memory] Brevity is the point :: Grammarians say they rejoice at saving half a short vowel as much as at the birth of a son (अर्धमात्रालाघवेन पुत्रोत्सवं मन्यन्ते वैयाकरणाः). Every rule in this course has been reduced to something you can say in one breath. Say it aloud; don't just read it.
+
+## The pāṭhaśālā method: chant, then understand
+1. **Chant the table.** Say each noun table in rows of three (singular, dual, plural), case by case: रामः रामौ रामाः · रामं रामौ रामान् … Chant each verb table in rows of three, person by person: भवति भवतः भवन्ति · भवसि भवथः भवथ · भवामि भवावः भवामः.
+2. **Chant the kārikā.** Learn the summary verses by heart: the ten classes (भ्वाद्यदादी …), the ten lakāras (लट् वर्तमाने …), the anuṣṭubh rule (पञ्चमं लघु सर्वत्र …).
+3. **Learn a verse that uses the rule.** A rule without an example fades. A rule tied to a verse you can recite stays.
+4. **Only then analyse.** Understanding comes faster when the forms are already in your mouth.
+
+> [telugu] You did this already :: Telugu schools teach the vibhakti list by chanting: "డుముపులు ప్రథమా విభక్తి, నిన్ నున్ లన్ గూర్చి గురించి ద్వితీయా విభక్తి…". You still remember it decades later. The Sanskrit tables work the same way: chant them until they are as automatic as డుముపులు.
+
+## What memory research adds
+| Method | What to do | Why it works |
+|---|---|---|
+| spaced repetition | review a card just before you would forget it, at growing gaps | each successful recall makes the memory last longer |
+| active recall | cover the answer and produce it yourself; then check | recalling strengthens memory far more than re-reading |
+| interleaving | mix card types (nouns, verbs, sandhi, verses) in one session | you learn to recognise which rule applies, not just the rule |
+| elaboration | connect each new form to something you know (Telugu, a verse) | connected memories are easier to find |
+| sleep | review before sleeping; test the next morning | memories are consolidated during sleep |
+| little and often | 20 minutes daily beats 3 hours on Sunday | spacing is built into the habit |
+
+## How the app's flashcards work
+Every table row, worked verse and memory aid in the course becomes a card. The app keeps each card in one of six boxes:
+
+@nocards
+| Box | Next review | How a card gets there |
+|---|---|---|
+| 0 | tomorrow | new, or answered wrongly |
+| 1 | after 1 day | answered right once |
+| 2 | after 3 days | right twice in a row |
+| 3 | after 7 days | right three times, or marked "Known" in Learn mode |
+| 4 | after 16 days | right four times |
+| 5 | after 35 days | right five times; it stays here while you keep answering right |
+
+> [memory] Be honest with the button :: The boxes only work if you mark a card wrong when you hesitated or guessed. A wrongly marked "right" sends a weak card away for weeks. When in doubt, press wrong: it costs you one extra review tomorrow.
+
+A good daily routine with the app:
+1. **Due today** first: clear every due card (10–15 minutes).
+2. **New** cards from the lesson you are studying (5–10 a day is plenty).
+3. **Marked for review**: the cards you flagged as hard.
+4. Once a week, take the quizzes of the last few lessons again.
+
+## The Telugu bridge as a memory tool
+About half of literary Telugu vocabulary is Sanskrit (tatsama or tadbhava). Use it:
+- **Know the stem from Telugu.** Telugu రాముడు, వనము, సీత, హరి, గురువు, రాజు, మనస్సు give you the Sanskrit stems राम, वन, सीता, हरि, गुरु, राजन्, मनस्. The Telugu ending even tells you the stem type (lesson 0.2).
+- **Use Telugu compounds.** దేవాలయం, విద్యార్థి, మహాత్ముడు, పద్మనాభుడు are Sanskrit compounds. Analyse the ones you already know before learning new ones.
+- **Use Telugu names.** Every friend called శ్రీనివాస్, హృషీకేశ్ or జనార్దన్ is a Sahasranāma name and a compound type (lesson 13.8).
+- **Watch for false friends.** Telugu meanings sometimes drift: Telugu "సంసారం" means family life, but Sanskrit संसार is the cycle of births; Telugu "ఉపన్యాసం" is a speech, Sanskrit उपन्यास is a statement or proposal.
+
+## One anchor verse per rule
+Learn these lines by heart. Each one is a complete, memorable example of one rule. When you forget a rule, recite its anchor and the rule comes back with it.
+
+| Rule | Anchor | Source | Lesson |
+|---|---|---|---|
+| tatpuruṣa | धर्मक्षेत्रे कुरुक्षेत्रे | Gītā 1.1 | 9.2 |
+| bahuvrīhi | स्थितधीर्मुनिरुच्यते | Gītā 2.56 | 9.4 |
+| dvandva (dual) | सुकृतदुष्कृते | Gītā 2.50 | 9.4 |
+| bahuvrīhi with -अक्ष | पद्मपत्रविशालाक्ष | Sahasranāma | 13.9 |
+| vowel sandhi | न त्वेवाहं जातु नासम् | Gītā 2.12 | 8.2 |
+| visarga sandhi | दृष्टोऽन्तस्त्वनयोः | Gītā 2.16 | 8.5 |
+| consonant sandhi | विनयाद्याति पात्रताम् | Hitopadeśa | 8.3 |
+| perfect | सञ्जय उवाच | Gītā 1.2 | 6.4 |
+| imperfect | किमकुर्वत सञ्जय | Gītā 1.1 | 6.4 |
+| aorist with मा | मा शुचः | Gītā 18.66 | 6.4 |
+| future | करिष्ये वचनं तव | Gītā 18.73 | 6.5 |
+| imperative | उत्तिष्ठ नरशार्दूल | Suprabhātam | 6.6 |
+| optative of rule | सत्यं ब्रूयात् प्रियं ब्रूयात् | Manusmṛti | 6.6 |
+| benedictive | भूयाद्भारतपङ्कजम् | Gītā Dhyānam 7 | 6.6 |
+| passive with agent | दृष्टः … तत्त्वदर्शिभिः | Gītā 2.16 | 6.8 |
+| passive imperative | तत्सर्वं क्षम्यताम् | Sahasranāma | 6.8 |
+| causative | असतो मा सद्गमय | Bṛhadāraṇyaka | 6.9 |
+| desiderative | अथातो ब्रह्मजिज्ञासा | Brahmasūtra 1.1.1 | 6.9 |
+| intensive | पेपीयमानं मुदा | Gītā Dhyānam 7 | 6.9 |
+| denominative | ध्यायन् स्तुवन् नमस्यन् | Sahasranāma | 6.9 |
+| past participle | स्तुत एव न संशयः | Sahasranāma | 7.1 |
+| present participle | स्तुवन्नामसहस्रेण | Sahasranāma | 7.2 |
+| absolutive chain | संन्यस्य … भूत्वा युध्यस्व | Gītā 3.30 | 7.3 |
+| infinitive + अर्ह् | न त्वं शोचितुमर्हसि | Gītā 2.27 | 7.3 |
+| gerundive | अपरिहार्येऽर्थे | Gītā 2.27 | 7.4 |
+| agent noun -तृ | दोग्धा गोपालनन्दनः | Gītā Dhyānam 4 | 7.5 |
+| kṛt noun with genitive | नाशनमात्मनः | Gītā 16.21 | 7.5 |
+| patronymic | कौन्तेय, पार्थ, पाण्डव | Gītā | 10.1 |
+| possessive -इन् | वनमाली गदी शार्ङ्गी | Sahasranāma 108 | 4.8 |
+| possessive -वत् | श्रद्धावान् भजते यो माम् | Gītā 6.47 | 4.8 |
+| superlative + genitive | योगिनाम् … युक्ततमः | Gītā 6.47 | 10.2 |
+| comparative + ablative | गुह्याद्गुह्यतरम् | Gītā 18.63 | 10.2 |
+| ablative of cause | क्रोधाद्भवति संमोहः | Gītā 2.63 | 11.1 |
+| locative absolute | वसन्तकाले सम्प्राप्ते | subhāṣita | 11.4 |
+| relative and correlative | यदा यदा हि धर्मस्य … तदा | Gītā 4.7 | 11.3 |
+| doubled relative | यतो यतो … ततस्ततः | Gītā 6.26 | 5.3 |
+| dative with नमः | कृष्णाय वासुदेवाय | Bhāgavatam | 13.2 |
+| feminine vocative | सरस्वति नमस्तुभ्यम् | prayer | 4.4 |
+| dual | सह नाववतु | Kaṭha Upaniṣad | 5.1 |
+| nominal sentence | योगः कर्मसु कौशलम् | Gītā 2.50 | 2.5 |
+| anuṣṭubh | कर्मण्येवाधिकारस्ते | Gītā 2.47 | 12.2 |
+| triṣṭubh | वासांसि जीर्णानि यथा विहाय | Gītā 2.22 | 12.3 |
+
+> [memory] Build your own anchors :: When you learn a new rule from a verse you love, add a line to this table in a notebook. The best anchor is a line you already chant: from the Sahasranāma, the Suprabhātam, or a stotra your family recites.
+
+## A memory palace for the cases
+If you like visual memory, put the eight cases in the rooms of a house you know well (your childhood home in Andhra or Telangana works perfectly):
+
+| Room | Case | Image |
+|---|---|---|
+| front door | प्रथमा (who) | Rāma standing at the door: रामः |
+| verandah | द्वितीया (whom, where to) | he looks at the forest: वनं पश्यति |
+| kitchen | तृतीया (with what, by whom) | cooking with a ladle: दर्व्या |
+| pūjā room | चतुर्थी (for whom) | an offering: कृष्णाय नमः |
+| back door | पञ्चमी (from where) | someone runs out: गृहात् निर्गच्छति |
+| cupboard | षष्ठी (whose) | father's box: पितुः पेटिका |
+| bedroom | सप्तमी (where, when) | sleeping in the room: गृहे स्वपिति |
+| window | सम्बोधन (calling) | calling out: हे राम |
+
+@quiz
+q: In the app, a card answered wrongly goes to:
+* box 0, due tomorrow
+- box 5
+- it is deleted
+why: Missed cards start again.
+
+q: अनुवृत्ति means:
+* a word from an earlier rule is understood in the following rules
+- a repeated verse
+- a commentary
+why: Pāṇini's compression trick.
+
+q: Active recall means:
+* producing the answer yourself before looking
+- re-reading the lesson
+- listening to a recording
+why: Recall strengthens memory more than re-reading.
+
+q: The anchor for the locative absolute is:
+* वसन्तकाले सम्प्राप्ते
+- क्रोधाद्भवति संमोहः
+- सत्यं ब्रूयात्
+why: Noun and participle in the 7th case.
+
+q: Which is a Telugu–Sanskrit false friend?
+* సంసారం (Telugu "family life", Sanskrit "cycle of births")
+- రాముడు
+- దేవాలయం
+why: The meaning drifted in Telugu.
+
+q: A card marked "Known" in Learn mode goes to:
+* box 3, due in a week
+- box 5
+- box 0
+why: Known cards skip the first boxes.
+@end

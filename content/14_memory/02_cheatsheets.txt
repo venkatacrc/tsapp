@@ -1,0 +1,410 @@
+@title సారాంశ పట్టికలు · Cheat sheets
+@summary The whole grammar on a few pages: noun endings for the main stems, the personal pronouns and तद्, verb endings for all ten lakāras, participles, sandhi, compounds, kṛt and taddhita suffixes, kārakas and the words that demand a case, an ending finder for reading, and the Telugu-only and Sanskrit-only lists. Use these for revision after the lessons, not instead of them.
+
+## How to use these sheets
+Each sheet collects a part of the grammar you have already met. The lesson number in each heading takes you back to the full explanation, examples and exceptions.
+
+> [memory] Cover and recite :: Cover one column with a card and say the forms aloud, top to bottom. Then cover a row and say it across. When you can do both without looking, move to the next sheet. Ten minutes on one sheet a day goes through all of them in two weeks.
+
+> [note] No flash cards here :: These tables are not turned into flash cards: every row already has a card in its own lesson.
+
+## Nouns: singular (lessons 4.2–4.7)
+@nocards
+| విభక్తి | राम (m) | वन (n) | रमा (f) | हरि (m) | गुरु (m) | नदी (f) | पितृ (m) |
+|---|---|---|---|---|---|---|---|
+| ప్రథమా | रामः | वनम् | रमा | हरिः | गुरुः | नदी | पिता |
+| ద్వితీయా | रामम् | वनम् | रमाम् | हरिम् | गुरुम् | नदीम् | पितरम् |
+| తృతీయా | रामेण | वनेन | रमया | हरिणा | गुरुणा | नद्या | पित्रा |
+| చతుర్థీ | रामाय | वनाय | रमायै | हरये | गुरवे | नद्यै | पित्रे |
+| పంచమీ | रामात् | वनात् | रमायाः | हरेः | गुरोः | नद्याः | पितुः |
+| షష్ఠీ | रामस्य | वनस्य | रमायाः | हरेः | गुरोः | नद्याः | पितुः |
+| సప్తమీ | रामे | वने | रमायाम् | हरौ | गुरौ | नद्याम् | पितरि |
+| సంబోధన | राम | वन | रमे | हरे | गुरो | नदि | पितः |
+
+## Nouns: dual (lessons 4.2–4.7, 5.1)
+@nocards
+| విభక్తి | राम | वन | रमा | हरि | गुरु | नदी | पितृ |
+|---|---|---|---|---|---|---|---|
+| ప్రథమా, ద్వితీయా, సంబోధన | रामौ | वने | रमे | हरी | गुरू | नद्यौ | पितरौ |
+| తృతీయా, చతుర్థీ, పంచమీ | रामाभ्याम् | वनाभ्याम् | रमाभ्याम् | हरिभ्याम् | गुरुभ्याम् | नदीभ्याम् | पितृभ्याम् |
+| షష్ఠీ, సప్తమీ | रामयोः | वनयोः | रमयोः | हर्योः | गुर्वोः | नद्योः | पित्रोः |
+
+> [memory] Three forms for the dual :: Every noun has only three dual forms: one for 1st/2nd/vocative, one ending -भ्याम् for 3rd/4th/5th, one ending -ओः for 6th/7th. Learn the dual of a stem in one breath: रामौ रामाभ्याम् रामयोः.
+
+## Nouns: plural (lessons 4.2–4.7)
+@nocards
+| విభక్తి | राम | वन | रमा | हरि | गुरु | नदी | पितृ |
+|---|---|---|---|---|---|---|---|
+| ప్రథమా, సంబోధన | रामाः | वनानि | रमाः | हरयः | गुरवः | नद्यः | पितरः |
+| ద్వితీయా | रामान् | वनानि | रमाः | हरीन् | गुरून् | नदीः | पितॄन् |
+| తృతీయా | रामैः | वनैः | रमाभिः | हरिभिः | गुरुभिः | नदीभिः | पितृभिः |
+| చతుర్థీ, పంచమీ | रामेभ्यः | वनेभ्यः | रमाभ्यः | हरिभ्यः | गुरुभ्यः | नदीभ्यः | पितृभ्यः |
+| షష్ఠీ | रामाणाम् | वनानाम् | रमाणाम् | हरीणाम् | गुरूणाम् | नदीनाम् | पितॄणाम् |
+| సప్తమీ | रामेषु | वनेषु | रमासु | हरिषु | गुरुषु | नदीषु | पितृषु |
+
+> [memory] What never changes :: Look down the plural columns: -भिः, -भ्यः, -नाम्/-णाम् and -सु/-षु are the same for every stem except राम and वन (रामैः, रामेभ्यः). Learn those four endings once and you know a third of every plural table.
+
+> [memory] Neuter is masculine with three changes :: वन is declined exactly like राम except in the 1st and 2nd cases (and vocative): वनम्, वने, वनानि. The other a-stem neuters work the same way. Neuter i- and u-stems (वारि, मधु) also add न् before vowel endings: वारिणे, मधुनः.
+
+## The Telugu case list and Sanskrit (lesson 2.3)
+@nocards
+| విభక్తి | తెలుగు ప్రత్యయాలు | సంస్కృతం (राम, ఏకవచనం) | తెలుగు అర్థం |
+|---|---|---|---|
+| ప్రథమా | డు, ము, వు, లు | रामः | రాముడు |
+| ద్వితీయా | ని, ను, ల, గూర్చి, గురించి | रामम् | రాముని |
+| తృతీయా | చేత, చే, తోడ, తో | रामेण | రామునిచేత, రామునితో |
+| చతుర్థీ | కొఱకు, కై | रामाय | రాముని కొఱకు, రామునికై |
+| పంచమీ | వలన, కంటె, పట్టి | रामात् | రాముని వలన, రాముని కంటె |
+| షష్ఠీ | కి, కు, యొక్క, లో, లోపల | रामस्य | రాముని యొక్క |
+| సప్తమీ | అందు, న | रामे | రామునియందు |
+| సంబోధన | ఓ, ఓరి, ఓయి, ఓసి | हे राम | ఓ రామా |
+
+> [compare] Same names, different jobs :: Telugu borrowed the eight names from Sanskrit, but the jobs differ at the edges. Telugu "రామునికి ఇచ్చాడు" uses షష్ఠీ కి for "to", where Sanskrit uses the 4th case (रामाय ददाति). Telugu "ఇంటిలో" is షష్ఠీ లో, where Sanskrit uses the 7th (गृहे). Trust the Sanskrit case, not the Telugu label.
+
+## Personal pronouns (lesson 5.1)
+@nocards
+| విభక్తి | अस्मद् ఏక | ద్వి | బహు | युष्मद् ఏక | ద్వి | బహు |
+|---|---|---|---|---|---|---|
+| ప్రథమా | अहम् | आवाम् | वयम् | त्वम् | युवाम् | यूयम् |
+| ద్వితీయా | माम् (मा) | आवाम् (नौ) | अस्मान् (नः) | त्वाम् (त्वा) | युवाम् (वाम्) | युष्मान् (वः) |
+| తృతీయా | मया | आवाभ्याम् | अस्माभिः | त्वया | युवाभ्याम् | युष्माभिः |
+| చతుర్థీ | मह्यम् (मे) | आवाभ्याम् (नौ) | अस्मभ्यम् (नः) | तुभ्यम् (ते) | युवाभ्याम् (वाम्) | युष्मभ्यम् (वः) |
+| పంచమీ | मत् | आवाभ्याम् | अस्मत् | त्वत् | युवाभ्याम् | युष्मत् |
+| షష్ఠీ | मम (मे) | आवयोः (नौ) | अस्माकम् (नः) | तव (ते) | युवयोः (वाम्) | युष्माकम् (वः) |
+| సప్తమీ | मयि | आवयोः | अस्मासु | त्वयि | युवयोः | युष्मासु |
+
+> [memory] The short forms in brackets :: मे, ते, नः, वः, नौ, वाम्, मा, त्वा never begin a sentence or a verse quarter. You know them from prayers: "मे" in "कुरु मे देव", "नः" in "शं नो मित्रः", "ते" in "नमस्ते".
+
+> [compare] No gender in "I" and "you" :: अस्मद् and युष्मद् are the same for men, women and things, just like నేను and నువ్వు. Gender begins with "he, she, it" (तद्).
+
+## तद् "he, she, it, that" (lesson 5.2)
+@nocards
+| విభక్తి | पुं ఏక | ద్వి | బహు | स्त्री ఏక | ద్వి | బహు |
+|---|---|---|---|---|---|---|
+| ప్రథమా | सः | तौ | ते | सा | ते | ताः |
+| ద్వితీయా | तम् | तौ | तान् | ताम् | ते | ताः |
+| తృతీయా | तेन | ताभ्याम् | तैः | तया | ताभ्याम् | ताभिः |
+| చతుర్థీ | तस्मै | ताभ्याम् | तेभ्यः | तस्यै | ताभ्याम् | ताभ्यः |
+| పంచమీ | तस्मात् | ताभ्याम् | तेभ्यः | तस्याः | ताभ्याम् | ताभ्यः |
+| షష్ఠీ | तस्य | तयोः | तेषाम् | तस्याः | तयोः | तासाम् |
+| సప్తమీ | तस्मिन् | तयोः | तेषु | तस्याम् | तयोः | तासु |
+
+The neuter is तत् ते तानि in the 1st and 2nd cases and the same as the masculine everywhere else. एतद् "this" is तद् with ए- in front (एषः, एषा, एतत्), and यद् "who, which" follows the same pattern (यः, या, यत्). सर्व "all" uses the pronoun endings -स्मै, -स्मात्, -स्मिन्, -षाम् but is otherwise like राम.
+
+> [memory] सर्वनाम endings :: Pronouns differ from राम in five places: -स्मै (not -आय), -स्मात् (not -आत्), -स्मिन् (not -ए) and -ते, -एषाम् in the plural (not -आः, -आणाम्). "स्मै स्मात् स्मिन्": the pronoun signature. You hear it in "तस्मै श्रीगुरवे नमः".
+
+## Verb endings: the present system of भू, परस्मैपद (lessons 6.3, 6.4, 6.6)
+@nocards
+| | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| लट् ప్రథమ పురుష | भवति | भवतः | भवन्ति |
+| लट् మధ్యమ | भवसि | भवथः | भवथ |
+| लट् ఉత్తమ | भवामि | भवावः | भवामः |
+| लङ् ప్రథమ | अभवत् | अभवताम् | अभवन् |
+| लङ् మధ్యమ | अभवः | अभवतम् | अभवत |
+| लङ् ఉత్తమ | अभवम् | अभवाव | अभवाम |
+| लोट् ప్రథమ | भवतु | भवताम् | भवन्तु |
+| लोट् మధ్యమ | भव | भवतम् | भवत |
+| लोट् ఉత్తమ | भवानि | भवाव | भवाम |
+| विधिलिङ् ప్రథమ | भवेत् | भवेताम् | भवेयुः |
+| विधिलिङ् మధ్యమ | भवेः | भवेतम् | भवेत |
+| विधिलिङ् ఉత్తమ | भवेयम् | भवेव | भवेम |
+
+> [warning] ప్రథమ పురుష is "he", not "I" :: Sanskrit grammar counts persons from the other end. प्रथम पुरुष is the 3rd person (he, she, it), मध्यम पुरुष is "you", and उत्तम पुरुष is "I, we". Telugu school grammar follows the same Sanskrit names, so this should already feel familiar.
+
+## Verb endings: लभ्, आत्मनेपद (lessons 6.3, 6.4, 6.6)
+@nocards
+| | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| लट् ప్రథమ | लभते | लभेते | लभन्ते |
+| लट् మధ్యమ | लभसे | लभेथे | लभध्वे |
+| लट् ఉత్తమ | लभे | लभावहे | लभामहे |
+| लङ् ప్రథమ | अलभत | अलभेताम् | अलभन्त |
+| लङ् మధ్యమ | अलभथाः | अलभेथाम् | अलभध्वम् |
+| लङ् ఉత్తమ | अलभे | अलभावहि | अलभामहि |
+| लोट् ప్రథమ | लभताम् | लभेताम् | लभन्ताम् |
+| लोट् మధ్యమ | लभस्व | लभेथाम् | लभध्वम् |
+| लोट् ఉత్తమ | लभै | लभावहै | लभामहै |
+| विधिलिङ् ప్రథమ | लभेत | लभेयाताम् | लभेरन् |
+| विधिलिङ् మధ్యమ | लभेथाः | लभेयाथाम् | लभेध्वम् |
+| विधिलिङ् ఉత్తమ | लभेय | लभेवहि | लभेमहि |
+
+> [memory] परस्मैपद "i", आत्मनेपद "e" :: In the present, परस्मैपद endings end in -इ (ति, सि, मि, न्ति) and आत्मनेपद endings end in -ए (ते, से, ए, न्ते). "भवति, लभते": i for the other, e for oneself.
+
+## All ten lakāras at a glance (lessons 6.3–6.6)
+@nocards
+| लकार | ఉపయోగం | తెలుగు | भू: 3 ఏక | 3 బహు | 1 ఏక | लभ्: 3 ఏక | 3 బహు | 1 ఏక |
+|---|---|---|---|---|---|---|---|---|
+| लट् | present | చేస్తున్నాడు, చేస్తాడు | भवति | भवन्ति | भवामि | लभते | लभन्ते | लभे |
+| लङ् | past (imperfect) | చేశాడు | अभवत् | अभवन् | अभवम् | अलभत | अलभन्त | अलभे |
+| लिट् | remote past, unseen | చేశాడట | बभूव | बभूवुः | बभूव | लेभे | लेभिरे | लेभे |
+| लुङ् | past (aorist); with मा, a prohibition | చేశాడు; చేయకు | अभूत् | अभूवन् | अभूवम् | अलब्ध | अलप्सत | अलप्सि |
+| लृट् | future | చేస్తాడు | भविष्यति | भविष्यन्ति | भविष्यामि | लप्स्यते | लप्स्यन्ते | लप्स्ये |
+| लुट् | future on a definite day | (రేపు) చేస్తాడు | भविता | भवितारः | भवितास्मि | लब्धा | लब्धारः | लब्धाहे |
+| लृङ् | conditional, "would have" | చేసి ఉండేవాడు | अभविष्यत् | अभविष्यन् | अभविष्यम् | अलप्स्यत | अलप्स्यन्त | अलप्स्ये |
+| लोट् | command, wish | చెయ్యి, చేయుగాక | भवतु | भवन्तु | भवानि | लभताम् | लभन्ताम् | लभै |
+| विधिलिङ् | should, may, would | చేయాలి, చేయవచ్చు | भवेत् | भवेयुः | भवेयम् | लभेत | लभेरन् | लभेय |
+| आशीर्लिङ् | blessing | చేయుగాక (ఆశీస్సు) | भूयात् | भूयासुः | भूयासम् | लप्सीष्ट | लप्सीरन् | लप्सीय |
+
+> [memory] The names are a code :: The ten names are ल + a vowel + ट् or ङ्: लट् लिट् लुट् लृट् लेट् लोट् and लङ् लिङ् लुङ् लृङ्. (लेट् is the Vedic subjunctive and is not used in Classical Sanskrit, which is why there are ten and not eleven.) The three ङ् lakāras that are pasts, लङ् लुङ् लृङ्, are exactly the ones that take the augment अ- (अभवत्, अभूत्, अभविष्यत्), by Pāṇini 6.4.71. "ङ् and past: put अ in front."
+
+> [memory] Find the future by its स्य :: Any verb with -स्य- or -ष्य- before the ending is future (लृट्) or conditional (लृङ्): भविष्यति, करिष्यति, लप्स्यते, दास्यति. If it also has the augment अ- in front, it is the conditional: अभविष्यत्.
+
+## Participles and verbal nouns (lessons 7.1–7.4)
+@nocards
+| धातु | భూతకృదంతం (क्त) | వర్తమాన (शतृ/शानच्) | చేసి (क्त्वा) | prefix + చేసి (ल्यप्) | చేయడానికి (तुमुन्) | చేయదగిన (तव्य / य) |
+|---|---|---|---|---|---|---|
+| कृ చేయు | कृत | कुर्वत् (कुर्वन्) | कृत्वा | -कृत्य (उपकृत्य) | कर्तुम् | कर्तव्य, कार्य |
+| गम् వెళ్ళు | गत | गच्छत् | गत्वा | -गम्य, -गत्य (आगम्य, आगत्य) | गन्तुम् | गन्तव्य |
+| भू అగు | भूत | भवत् | भूत्वा | -भूय (सम्भूय) | भवितुम् | भवितव्य, भव्य |
+| दृश् చూచు | दृष्ट | पश्यत् | दृष्ट्वा | -दृश्य (सन्दृश्य) | द्रष्टुम् | द्रष्टव्य, दृश्य |
+| श्रु విను | श्रुत | शृण्वत् | श्रुत्वा | -श्रुत्य (संश्रुत्य) | श्रोतुम् | श्रोतव्य |
+| दा ఇచ్చు | दत्त | ददत् | दत्त्वा | -दाय (प्रदाय) | दातुम् | दातव्य, देय |
+| त्यज् విడుచు | त्यक्त | त्यजत् | त्यक्त्वा | -त्यज्य (परित्यज्य) | त्यक्तुम् | त्यक्तव्य, त्याज्य |
+| लभ् పొందు | लब्ध | लभमान | लब्ध्वा | -लभ्य (उपलभ्य) | लब्धुम् | लब्धव्य, लभ्य |
+
+> [memory] One stem, three forms :: The past participle, the absolutive and the infinitive usually share one stem: कृ-त, कृ-त्वा, कर्-तुम्; दृष्-ट, दृष्-ट्वा, द्रष्-टुम्. Learn the -त form first: -त्वा almost always follows it, and -तुम् usually has the same consonant, with a strengthened vowel.
+
+> [telugu] Telugu has every one of these :: చేయబడిన (कृत), చేస్తున్న (कुर्वत्), చేసి (कृत्वा), చేయడానికి (कर्तुम्), చేయదగిన/చేయవలసిన (कर्तव्य). The Telugu forms are your translation key: "చేసి" in Telugu is always क्त्वा or ल्यप् in Sanskrit.
+
+## Vowel sandhi (lesson 8.2)
+@nocards
+| మొదటి పదం ముగింపు + రెండవ పదం మొదలు | ఫలితం | పేరు | ఉదాహరణ |
+|---|---|---|---|
+| अ/आ + अ/आ | आ | सवर्णदीर्घ | राम + अयनम् → रामायणम् |
+| इ/ई + इ/ई | ई | सवर्णदीर्घ | हरि + ईशः → हरीशः |
+| उ/ऊ + उ/ऊ | ऊ | सवर्णदीर्घ | गुरु + उपदेशः → गुरूपदेशः |
+| अ/आ + इ/ई | ए | गुण | देव + इन्द्रः → देवेन्द्रः |
+| अ/आ + उ/ऊ | ओ | गुण | सूर्य + उदयः → सूर्योदयः |
+| अ/आ + ऋ | अर् | गुण | महा + ऋषिः → महर्षिः |
+| अ/आ + ए/ऐ | ऐ | वृद्धि | सदा + एव → सदैव |
+| अ/आ + ओ/औ | औ | वृद्धि | वन + ओषधिः → वनौषधिः |
+| इ/ई + other vowel | य् + vowel | यण् | इति + आदि → इत्यादि |
+| उ/ऊ + other vowel | व् + vowel | यण् | सु + आगतम् → स्वागतम् |
+| ऋ + other vowel | र् + vowel | यण् | पितृ + आज्ञा → पित्राज्ञा |
+| ए + vowel (inside a word) | अय् | अयादि | ने + अनम् → नयनम् |
+| ओ + vowel (inside a word) | अव् | अयादि | पो + अनः → पवनः |
+| ऐ + vowel | आय् | अयादि | नै + अकः → नायकः |
+| औ + vowel | आव् | अयादि | पौ + अकः → पावकः |
+| ए/ओ (word end) + अ | ए/ओ + ऽ | पूर्वरूप | हरे + अत्र → हरेऽत्र |
+| dual ई, ऊ, ए + vowel | no change | प्रगृह्य | हरी एतौ |
+
+> [telugu] You know four of these by name :: Telugu grammar teaches సవర్ణదీర్ఘ, గుణ, వృద్ధి and యణాదేశ సంధి for Sanskrit words in Telugu: విద్యార్థి, దేవేంద్రుడు, సదైవ, ప్రత్యేకం. They are the same rules.
+
+## Visarga sandhi (lesson 8.5)
+@nocards
+| ముందు | తరువాత | ఫలితం | ఉదాహరణ |
+|---|---|---|---|
+| -अः | अ | -ओऽ | रामः + अपि → रामोऽपि |
+| -अः | voiced consonant | -ओ | रामः + गच्छति → रामो गच्छति |
+| -अः | other vowel | -अ (gap stays) | रामः + इति → राम इति |
+| -आः | vowel or voiced consonant | -आ (gap stays) | रामाः + गच्छन्ति → रामा गच्छन्ति |
+| -इः, -उः etc. | vowel or voiced consonant | -र् | हरिः + गच्छति → हरिर्गच्छति |
+| -इः, -उः | र | drops; vowel lengthens | हरिः + रमते → हरी रमते |
+| any | च, छ | -श् | रामः + च → रामश्च |
+| any | ट, ठ | -ष् | धनुः + टङ्कारः → धनुष्टङ्कारः |
+| any | त, थ | -स् | रामः + तत्र → रामस्तत्र |
+| any | क, ख, प, फ | stays ः | रामः + करोति → रामः करोति |
+| any | श, ष, स | stays ः, or doubles the sibilant | रामः + शेते → रामः शेते, रामश्शेते |
+| सः, एषः | any consonant | drops | सः + गच्छति → स गच्छति |
+| सः, एषः | अ | -ओऽ | सः + अपि → सोऽपि |
+
+> [memory] Two questions settle visarga :: First: what vowel is before the ः? Then: what sound comes after it? अः + soft becomes ओ; आः + soft just loses the ः; any other vowel + soft gives र्. Before a hard consonant, the ः turns into the sibilant of that consonant's row (श् for च, ष् for ट, स् for त) or stays.
+
+## Consonant sandhi (lessons 8.3, 8.4)
+@nocards
+| నియమం | ఉదాహరణ |
+|---|---|
+| final stop becomes voiced before a vowel or voiced consonant | जगत् + ईशः → जगदीशः, वाक् + ईशः → वागीशः |
+| final stop becomes nasal before a nasal | जगत् + नाथः → जगन्नाथः, वाक् + मयम् → वाङ्मयम् |
+| त् + च, छ → च्च, च्छ | सत् + चित् → सच्चित् |
+| त् + ज → ज्ज | सत् + जनः → सज्जनः |
+| त् + ल → ल्ल | तत् + लीनः → तल्लीनः |
+| त् + श → च्छ | तत् + शिवः → तच्छिवः |
+| त् + ह → द्ध | तत् + हितम् → तद्धितम् |
+| म् + consonant → anusvāra | रामम् + वन्दे → रामं वन्दे |
+| म् + vowel stays | अहम् + अपि → अहमपि |
+| न् + च, त → ंश्च, ंस्त | तान् + च → तांश्च; तान् + तत्र → तांस्तत्र |
+| न् + ल → ँल्ल | विद्वान् + लिखति → विद्वाँल्लिखति |
+| short vowel + ङ्, न् + vowel → doubled | गच्छन् + अस्ति → गच्छन्नस्ति |
+| short vowel + छ → च्छ | शिव + छाया → शिवच्छाया |
+
+> [memory] Sounds move toward their neighbour :: Almost every consonant sandhi makes the first sound more like the second: voiced before voiced, nasal before nasal, palatal before palatal (त् + च → च्च), ल before ल. Say the two words fast and your mouth does the sandhi for you.
+
+## Compounds (lessons 9.1–9.4)
+@nocards
+| సమాసం | గుర్తు | విగ్రహ వాక్యం | ఉదాహరణ |
+|---|---|---|---|
+| अव्ययीभाव | first word an indeclinable; whole is an adverb | शक्तिम् अनतिक्रम्य | यथाशक्ति, प्रतिदिनम् |
+| तत्पुरुष (విభక్తి) | first word in a case relation to the second | राज्ञः पुत्रः | राजपुत्रः, देवदत्तः |
+| नञ् तत्पुरुष | first word अ-/अन- "not" | न धर्मः | अधर्मः, अनन्तः |
+| उपपद तत्पुरुष | second word a root noun | कुम्भं करोति इति | कुम्भकारः, सर्वज्ञः |
+| कर्मधारय | both words describe one thing | महान् राजा | महाराजः, नीलकमलम् |
+| उपमान कर्मधारय | "X-like Y" | घन इव श्यामः | घनश्यामः |
+| द्विगु | first word a number | त्रयाणां लोकानां समाहारः | त्रिलोकी, पञ्चवटी |
+| इतरेतर द्वन्द्व | "and"; dual or plural | रामश्च लक्ष्मणश्च | रामलक्ष्मणौ |
+| समाहार द्वन्द्व | collective; neuter singular | पाणी च पादौ च | पाणिपादम् |
+| बहुव्रीहि | describes someone else: "one who has…" | पीतम् अम्बरं यस्य सः | पीताम्बरः, चक्रपाणिः |
+
+> [memory] Four questions in order :: Is the whole an adverb? अव्ययीभाव. Does it mean "X and Y"? द्वन्द्व. Does it describe someone not named in it? बहुव्रीहि. Otherwise it is a तत्पुरुष (with कर्मधारय and द्विगु as its kinds). Ask in this order and you will rarely be wrong.
+
+## Suffixes that make nouns from roots: कृत् (lesson 7.5)
+@nocards
+| ప్రత్యయం | అర్థం | ఉదాహరణ |
+|---|---|---|
+| ण्वुल् (-अक) | the doer | कृ → कारक, पठ् → पाठक |
+| तृच् (-तृ) | the doer | कृ → कर्तृ (कर्ता), दा → दातृ (दाता) |
+| ल्युट् (-अन) | the action or its instrument | गम् → गमन, नी → नयन |
+| क्तिन् (-ति) | the action; feminine | गम् → गति, मन् → मति, भज् → भक्ति |
+| घञ् (-अ, with guṇa or vṛddhi) | the action; masculine | त्यज् → त्याग, भू → भाव, पठ् → पाठ |
+| अण् (-अ, after an object) | the doer, in a compound | कुम्भकार, ग्रन्थकार |
+| क्विप् (nothing added) | the doer, at the end of a compound | सर्वजित्, वेदविद्, कर्मकृत् |
+
+## Suffixes that make words from words: तद्धित (lessons 10.1, 10.2)
+@nocards
+| ప్రత్యయం | అర్థం | ఉదాహరణ |
+|---|---|---|
+| अण् (vṛddhi + -अ) | descendant of; belonging to | वसुदेव → वासुदेव, पाण्डु → पाण्डव, शिव → शैव |
+| इञ् (-इ) | son of | दशरथ → दाशरथि |
+| ढक् (-एय) | son of (a mother) | कुन्ती → कौन्तेय, गङ्गा → गाङ्गेय |
+| ठक् (-इक) | relating to | धर्म → धार्मिक, वेद → वैदिक |
+| त्व, तल् (-ता) | -ness | गुरु → गुरुत्व, सम → समता |
+| ष्यञ् (vṛddhi + -य) | -ness | पण्डित → पाण्डित्य, सुन्दर → सौन्दर्य |
+| मतुप् (-मत्, -वत्) | possessing | श्री → श्रीमत्, भग → भगवत् |
+| इनि (-इन्) | possessing | धन → धनिन्, योग → योगिन् |
+| तरप्, तमप् | more, most | प्रिय → प्रियतर, प्रियतम |
+| ईयसुन्, इष्ठन् | more, most | गुरु → गरीयस्, गरिष्ठ |
+| -तः, -त्र, -था, -दा | from, where, how, when | ततः, यत्र, यथा, यदा |
+
+> [memory] vṛddhi says "of" :: When the first vowel of a familiar name has grown (अ → आ, इ → ऐ, उ → औ) and the word has a suffix, read it as "son of, follower of, belonging to": वासुदेव, शैव, वैष्णव, कौन्तेय, पार्थ (पृथा's son). The Gītā calls Arjuna by a dozen of these.
+
+## Kārakas and cases (lesson 11.1)
+@nocards
+| కారకం | అర్థం | విభక్తి | సూత్రం | ఉదాహరణ |
+|---|---|---|---|---|
+| कर्ता | the independent doer | 1st (active), 3rd (passive) | स्वतन्त्रः कर्ता 1.4.54 | रामः पठति, रामेण पठ्यते |
+| कर्म | what the doer most wants to reach | 2nd (active), 1st (passive) | कर्तुरीप्सिततमं कर्म 1.4.49 | ग्रन्थं पठति, ग्रन्थः पठ्यते |
+| करण | the most effective means | 3rd | साधकतमं करणम् 1.4.42 | हस्तेन लिखति |
+| सम्प्रदान | the one the act is aimed at | 4th | कर्मणा यमभिप्रैति स सम्प्रदानम् 1.4.32 | विप्राय गां ददाति |
+| अपादान | the fixed point something moves away from | 5th | ध्रुवमपायेऽपादानम् 1.4.24 | वृक्षात् पत्रं पतति |
+| अधिकरण | the place or time | 7th | आधारोऽधिकरणम् 1.4.45 | गृहे वसति |
+| (सम्बन्ध) | relation between nouns; not a kāraka | 6th | षष्ठी शेषे 2.3.50 | रामस्य पुस्तकम् |
+
+> [memory] Six roles, one sentence :: "In the garden (अधिकरण), Rāma (कर्ता) plucks with his hand (करण) a flower (कर्म) from the tree (अपादान) for Sītā (सम्प्रदान)": उद्याने रामः हस्तेन वृक्षात् सीतायै पुष्पं चिनोति. One sentence that holds all six roles. Say it daily for a week.
+
+## Words that demand a case (lesson 11.2)
+@nocards
+| పదం | విభక్తి | ఉదాహరణ |
+|---|---|---|
+| नमः, स्वस्ति, स्वाहा, स्वधा | 4th | रामाय नमः, प्रजाभ्यः स्वस्ति |
+| सह, साकम्, सार्धम् | 3rd | पुत्रेण सह |
+| अलम् "enough of" | 3rd | अलं विवादेन |
+| विना | 2nd, 3rd or 5th | रामं / रामेण / रामात् विना |
+| ऋते "without" | 5th | ज्ञानात् ऋते |
+| प्रति, अनु "towards, after" | 2nd | गृहं प्रति |
+| अभितः, परितः, सर्वतः, उभयतः | 2nd | ग्रामं परितः |
+| comparison "than" | 5th | धनात् विद्या श्रेष्ठा |
+| "afraid of", भी | 5th | चोरात् बिभेति |
+| "angry with", क्रुध् | 4th | पुत्राय क्रुध्यति |
+| "likes", रुच् | 4th of the one who likes | मह्यं मोदकं रोचते |
+
+> [telugu] These are Telugu postpositions :: सह is "తో", विना is "లేకుండా", प्रति is "వైపు", परितः is "చుట్టూ". Telugu puts the postposition after the noun; Sanskrit does the same with these words, but also changes the noun's case.
+
+## Ending finder: what is this word? (for reading)
+When you meet an unknown word in a verse, look at its end. This table lists the commonest endings and what they usually are.
+@nocards
+| ముగింపు | సాధారణంగా | ఉదాహరణ |
+|---|---|---|
+| -आय | 4th singular, a-stem | कृष्णाय |
+| -एन, -एण | 3rd singular, a-stem | धर्मेण |
+| -आत् | 5th singular, a-stem | मोहात् |
+| -स्य | 6th singular, a-stem or pronoun | तस्य |
+| -स्मै, -स्मात्, -स्मिन् | 4th, 5th, 7th singular of a pronoun | सर्वस्मिन् |
+| -ऐः | 3rd plural, a-stem | देवैः |
+| -भिः | 3rd plural | मुनिभिः |
+| -भ्यः | 4th or 5th plural | भूतेभ्यः |
+| -भ्याम् | 3rd, 4th or 5th dual | पादाभ्याम् |
+| -ओः | 6th or 7th dual | उभयोः |
+| -नाम्, -णाम् | 6th plural | सर्वेषाम्, भूतानाम् |
+| -सु, -षु | 7th plural | कर्मसु |
+| -ति, -न्ति | verb, present, he / they (P) | ददाति, पश्यन्ति |
+| -ते, -न्ते | verb, present, he / they (Ā); or 7th sing. of a -त noun | लभते, कृते |
+| -तु, -न्तु | verb, command, let him / them | भवतु |
+| अ- before the root, past ending (-त्, -न्, -त, -न्त) | verb, past (augment) | अभवत्, अकुर्वत |
+| -स्य-, -ष्य- before the ending | verb, future | करिष्यति |
+| -एत्, -एयुः | verb, "should" (विधिलिङ्) | भवेत् |
+| -त, -न (adjective) | past participle | कृत, दत्त, लीन |
+| -अत्, -अन्, -मान | present participle | पश्यन्, स्तुवन्, लभमान |
+| -त्वा | "having done" | दृष्ट्वा |
+| prefix + -य | "having done" (ल्यप्) | प्रणम्य, आश्रित्य |
+| -तुम् | "to do" | योद्धुम् |
+| -तव्य, -अनीय | "to be done" | कर्तव्यम्, स्मरणीयम् |
+
+> [memory] Read words from the right :: Telugu speakers already read from the right: in రాముని యొక్క the meaning sits in the ending. Sanskrit is the same, only more so. Train your eye to jump to the last two syllables of a word before reading the start.
+
+## What Telugu has that Sanskrit lacks (lesson 2.6)
+- Gender in the verb: చేశాడు, చేసింది. Sanskrit verbs show person and number only: अकरोत् for both.
+- Inclusive and exclusive "we": మనం and మేము. Sanskrit has only वयम्.
+- A whole negative conjugation: చేయను, చేయడు. Sanskrit adds न to the positive verb.
+- Human versus non-human in the plural: వాళ్ళు versus అవి. Sanskrit uses grammatical gender.
+- Telugu-only sandhis: ఆమ్రేడిత, గసడదవాదేశ, ద్రుతప్రకృతికం, త్రిక సంధి and others.
+- The ద్రుతం (the final న్ of Telugu words that comes and goes).
+- Postpositions instead of case endings, and a single plural ending -లు.
+- Verb-final word order, which is fixed; Sanskrit word order is free.
+
+## What Sanskrit has that Telugu lacks (lesson 2.7)
+- The dual number: रामौ, भवतः.
+- Three genders that do not follow meaning: दाराः "wife" is masculine plural.
+- Adjectives that agree with the noun in gender, number and case.
+- Many noun classes, each with its own endings.
+- Ten lakāras and two sets of endings, परस्मैपद and आत्मनेपद.
+- Ten verb classes (gaṇas), 22 verb prefixes and derived verbs (causative, desiderative, intensive, denominative).
+- Obligatory sandhi between words, inside sentences.
+- Long compounds and the absolute constructions (सति सप्तमी).
+- Free word order, because the endings carry the meaning.
+
+> [memory] Pack light, then pack heavy :: Before reading Sanskrit, put down the Telugu-only items (gender in the verb, మనం/మేము, negative verbs). Then pick up the Sanskrit-only items one at a time, in the order of the lessons.
+
+@quiz
+q: Which form is the 4th case singular of गुरु?
+* गुरवे
+- गुरोः
+- गुरौ
+- गुरुणा
+why: गुरु takes guṇa before the 4th-case ending: गुरु → गुरो → गुरव् + ए = गुरवे. गुरोः is 5th/6th and गुरौ is 7th.
+
+q: In Telugu "రాముడు అడవికి వెళ్ళాడు", అడవికి uses షష్ఠీ కి. What case does Sanskrit use for "to the forest"?
+* the 2nd: वनं गच्छति
+- the 6th: वनस्य गच्छति
+- the 4th: वनाय गच्छति
+- the 7th: वने गच्छति
+why: The destination of a verb of motion is its कर्म, so it takes the 2nd case: वनं गच्छति. The Telugu case label is not a guide here.
+
+q: Which lakāra is अभविष्यत्?
+* लृङ्, the conditional "would have been"
+- लृट्, the future
+- लङ्, the past
+- लुङ्, the aorist
+why: -ष्य- makes it a future-system form, and the augment अ- in front makes it the conditional, लृङ्.
+
+q: तद्धितम् comes from तत् + हितम्. Which rule applies?
+* त् + ह → द्ध
+- visarga before a voiced consonant
+- savarṇa-dīrgha
+- म् before a consonant becomes anusvāra
+why: Final त् becomes द् before a voiced sound, and the following ह takes on the voiced aspiration of द: द्ध.
+
+q: पीताम्बरः "the one whose garment is yellow" is which compound?
+* बहुव्रीहि
+- कर्मधारय
+- द्वन्द्व
+- अव्ययीभाव
+why: It describes someone (Kṛṣṇa) who is not named in the compound: पीतम् अम्बरं यस्य सः. पीतम् अम्बरम् alone, "the yellow garment", would be a कर्मधारय.
+
+q: What does प्रणम्य tell you, before you even know the root?
+* prefix + -य: an absolutive, "having done"
+- a gerundive, "to be done"
+- a 4th-case noun
+- a passive verb
+why: A word starting with a prefix (प्र-) and ending in -य is usually ल्यप्, the absolutive used with prefixes: प्रणम्य "having bowed".
+@end

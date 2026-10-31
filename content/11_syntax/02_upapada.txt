@@ -1,0 +1,129 @@
+@title ఉపపద విభక్తులు · Words that demand a case
+@summary Beyond the kāraka roles, many single words (prepositions, adjectives, nouns like प्रयोजन, the karmapravacanīyas) decide the case of the noun next to them. One reference table per case, adverbial accusatives (సుఖం వసతి), and Gītā lines where the rule is visible: किं नो राज्येन, लोकान्नोद्विजते, सोऽमृतत्वाय कल्पते.
+
+## Kāraka case vs. upapada case
+A **kāraka** case comes from the noun's role in the action (lesson 11.1). An **upapada** case comes from a nearby word (उपपदविभक्तेः कारकविभक्तिर्बलीयसी: when both apply, the kāraka case wins). In practice: learn the word together with its case, as you learn Telugu postpositions with their oblique forms.
+
+## 2nd case (ద్వితీయ)
+| Word | Meaning | Example | Telugu |
+|---|---|---|---|
+| अभितः, परितः, सर्वतः, उभयतः | around, on both sides | ग्रामं परितः वनम् | ఊరి చుట్టూ అడవి |
+| समया, निकषा | near | ग्रामं समया | ఊరి దగ్గర |
+| अन्तरा, अन्तरेण | between; without | त्वां मां च अन्तरा | నీకూ నాకూ మధ్య |
+| प्रति | toward, regarding | गृहं प्रति, मां प्रति | ఇంటి వైపు, నా విషయంలో |
+| धिक्, हा | shame on, alas for | धिक् दुर्जनम् | దుర్జనుడికి ఛీ |
+| अनु (karmapravacanīya) | after, along, inferior to | अनु हरिं सुराः | హరి తర్వాత దేవతలు |
+| विना | without (also 3rd, 5th) | धर्मं विना | ధర్మం లేకుండా |
+| यावत् | up to | वनं यावत् | అడవి వరకు |
+
+## 3rd case (తృతీయ)
+| Word | Meaning | Example | Telugu |
+|---|---|---|---|
+| सह, साकम्, सार्धम्, समम् | with | मित्रेण सह | మిత్రునితో |
+| किम्, कोऽर्थः, प्रयोजनम् | what use is | किं नो राज्येन (1.32) | రాజ్యంతో మాకేం పని? |
+| अलम्, कृतम् | enough of | अलं शोकेन | దుఃఖం చాలు |
+| तुल्य, सदृश, सम (also 6th) | equal to, like | गगनेन सदृशः; पित्रा तुल्यः | ఆకాశంతో సమానుడు; తండ్రితో సమానుడు |
+| ऊन, हीन, रहित | short of, without | धनेन हीनः | ధనం లేనివాడు |
+| युक्त, सहित, समेत | joined with | गुणैः युक्तः | గుణాలతో కూడినవాడు |
+
+## 4th case (చతుర్థి)
+| Word | Meaning | Example | Telugu |
+|---|---|---|---|
+| नमः, स्वस्ति, स्वाहा, स्वधा, वषट् | salutation etc. | शिवाय नमः | శివునికి నమస్కారం |
+| हितम्, सुखम् | good for | बालाय हितम् | పిల్లవాడికి మంచిది |
+| कल्पते, सम्पद्यते | becomes, is fit for | सः अमृतत्वाय कल्पते (2.15) | అతడు అమృతత్వానికి అర్హుడవుతాడు |
+| अलम्, समर्थः, प्रभुः | able for, a match for | दैत्येभ्यः हरिः अलम् | రాక్షసులకు హరి చాలు |
+| रोचते, कुप्यति, स्पृहयति | (lesson 11.1) | मह्यं रोचते | నాకు నచ్చుతుంది |
+
+## 5th case (పంచమి)
+| Word | Meaning | Example | Telugu |
+|---|---|---|---|
+| ऋते, विना | without | ज्ञानात् ऋते न मुक्तिः | జ్ఞానం లేకుండా ముక్తి లేదు |
+| बहिः | outside | ग्रामात् बहिः | ఊరి బయట |
+| आरात्, दूरम्, अन्तिकम् (also 6th) | far from, near | ग्रामात् दूरम् | ఊరికి దూరంగా |
+| अन्य, इतर, भिन्न | other than | रामात् अन्यः | రాముడు కాక వేరొకడు |
+| पूर्व, पर, उत्तर (in time / direction) | before, after, north of | ग्रामात् पूर्वः; स्नानात् परम् | ఊరికి తూర్పున; స్నానం తర్వాత |
+| प्रभृति, आरभ्य | starting from | बाल्यात् प्रभृति | చిన్నతనం నుండి |
+| comparatives (-तर, -ईयस्) | than | रामात् प्रियतरः | రాముని కంటే ప్రియుడు |
+| उद्विज्, भी, त्रा | (lesson 11.1) | लोकात् न उद्विजते (12.15) | లోకానికి భయపడడు |
+
+## 6th case (షష్ఠి)
+| Word | Meaning | Example | Telugu |
+|---|---|---|---|
+| उपरि, अधः, पुरः, अग्रे, पश्चात् | above, below, in front, behind | वृक्षस्य अधः | చెట్టు కింద |
+| कृते, अर्थे, हेतोः | for the sake of | येषाम् अर्थे (1.33); कस्य हेतोः? | ఎవరి కోసం; ఏ కారణంగా? |
+| समक्षम्, प्रत्यक्षम् | in the presence of | गुरोः समक्षम् | గురువు ఎదుట |
+| प्रिय, द्वेष्य, ईश, स्वामिन् | dear to, hateful to, lord of | न मे द्वेष्यः न प्रियः (9.29) | నాకు ద్వేషింపదగినవాడు లేడు |
+| कर्ता, कर्तव्य (gerundive agent) | (lessons 7.4, 7.5) | मम कर्तव्यम् | నేను చేయాలి |
+| स्मृ, दया | remember, pity | दीनानां दया | దీనుల మీద దయ |
+
+## 7th case (సప్తమి)
+| Word | Meaning | Example | Telugu |
+|---|---|---|---|
+| साधु, निपुण, कुशल, प्रवीण | good at | युद्धे निपुणः | యుద్ధంలో నిపుణుడు |
+| स्निह्, अनुराग, भक्ति, विश्वास | love, devotion, trust in | मयि भक्तिः | నా మీద భక్తి |
+| सम | equal toward | समः सर्वभूतेषु (9.29) | అన్ని జీవుల పట్ల సమానుడు |
+| the group chosen from | among | नरेषु श्रेष्ठः | మనుషులలో శ్రేష్ఠుడు |
+| आसक्त, रत, लग्न | attached to | कर्मणि आसक्तः | కర్మలో ఆసక్తి గలవాడు |
+
+## Adverbial accusative (క్రియావిశేషణం)
+The neuter 2nd case singular of an adjective works as an adverb (क्रियाविशेषणानां कर्मत्वं नपुंसकत्वं च):
+- सुखं वसति "సుఖంగా ఉంటాడు"
+- मन्दं मन्दं गच्छति "మెల్ల మెల్లగా వెళ్తాడు"
+- शीघ्रम् आगच्छ "త్వరగా రా"
+- उच्चैः (indeclinable) वदति "బిగ్గరగా చెప్తాడు"
+- मोघं पार्थ स जीवति (3.16) "he lives in vain"
+
+> [compare] Telugu -గా = Sanskrit -म् :: Telugu turns adjectives into adverbs with -గా (సుఖంగా, మెల్లగా, త్వరగా). Sanskrit uses the neuter accusative: सुखम्, मन्दम्, शीघ्रम्. Same idea, different marker.
+
+@ex gita:1:32
+split: न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च । किं नः राज्येन गोविन्द किं भोगैः जीवितेन वा ॥
+w: न काङ्क्षे = కోరను; विजयम् = విజయాన్ని; कृष्ण = ఓ కృష్ణా; न च राज्यम् = రాజ్యాన్నీ కాదు; सुखानि च = సుఖాలనూ; किम् = ఏం ప్రయోజనం; नः = మాకు; राज्येन = రాజ్యంతో; गोविन्द = ఓ గోవిందా; भोगैः = భోగాలతో; जीवितेन = జీవితంతో; वा = లేదా
+note: किम् + 3rd case = "what use is…?": किं राज्येन, किं भोगैः, किं जीवितेन. नः (6th / 4th of अस्मद्) = "to us".
+@end
+
+@ex gita:12:15
+note: यस्मात् न उद्विजते लोकः "from whom the world does not shrink", लोकात् न उद्विजते "who does not shrink from the world": उद् + विज् takes the source of fear in the 5th case. हर्षामर्षभयोद्वेगैः मुक्तः "freed from joy, anger, fear and agitation" (3rd case with मुक्त).
+@end
+
+@ex gita:9:29
+note: समः सर्वभूतेषु "equal toward all beings" (7th with सम); न मे द्वेष्यः न प्रियः "none is hateful or dear to me" (6th with द्वेष्य, प्रिय); मयि ते तेषु च अपि अहम् "they are in me and I in them" (7th, location).
+@end
+
+@quiz
+q: "ఊరి చుట్టూ":
+* ग्रामं परितः
+- ग्रामस्य परितः
+- ग्रामे परितः
+why: परितः takes the 2nd case.
+
+q: किं नो राज्येन — the 3rd case is due to:
+* किम् "what use"
+- the passive
+- सह
+why: किम्, प्रयोजनम्, कोऽर्थः take the 3rd.
+
+q: सः अमृतत्वाय कल्पते: why the 4th?
+* कल्पते "becomes fit for" takes the 4th
+- It is the recipient of a gift
+- नमः is implied
+why: क्लृपि सम्पद्यमाने च.
+
+q: "రాముడు కాక వేరొకడు":
+* रामात् अन्यः
+- रामस्य अन्यः
+- रामेण अन्यः
+why: अन्य, इतर take the 5th.
+
+q: "త్వరగా రా":
+* शीघ्रम् आगच्छ
+- शीघ्रेण आगच्छ
+- शीघ्रः आगच्छ
+why: Adverbial neuter accusative.
+
+q: When a kāraka case and an upapada case conflict:
+* the kāraka case wins
+- the upapada case wins
+- both are used
+why: उपपदविभक्तेः कारकविभक्तिर्बलीयसी.
+@end

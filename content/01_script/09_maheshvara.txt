@@ -1,0 +1,98 @@
+@title మాహేశ్వర సూత్రాలు · Pāṇini's sound list
+@summary The fourteen Śiva sūtras that open Pāṇini's grammar, and the pratyāhāra trick that lets one short word name a whole group of sounds. You need a few of them to read sandhi rules.
+
+## The story
+Tradition says that at the end of his dance, Śiva (Naṭarāja) sounded his ḍamaru fourteen times, and Pāṇini heard in it the fourteen sūtras that list every Sanskrit sound in a clever order. They are chanted at the start of grammar study:
+
+> [memory] నృత్తావసానే నటరాజరాజో ననాద ఢక్కాం నవపఞ్చవారమ్ :: "At the end of his dance, the king of dancers sounded his drum nine and five times, to raise up Sanaka and the other sages; these are the Śiva sūtras." The verse continues उद्धर्तुकामः सनकादिसिद्धान् एतद्विमर्शे शिवसूत्रजालम् ॥ — learn it with the sūtras.
+
+## The fourteen sūtras
+Each sūtra lists sounds (with an अ added only for pronunciation) and ends with a **marker consonant** (इत्, shown in brackets) that is not part of the list.
+
+@literal
+| # | Sūtra | Sounds | Marker |
+|---|---|---|---|
+| 1 | अइउण् | a i u | ण् |
+| 2 | ऋऌक् | ṛ ḷ | क् |
+| 3 | एओङ् | e o | ङ् |
+| 4 | ऐऔच् | ai au | च् |
+| 5 | हयवरट् | h y v r | ट् |
+| 6 | लण् | l | ण् |
+| 7 | ञमङणनम् | ñ m ṅ ṇ n | म् |
+| 8 | झभञ् | jh bh | ञ् |
+| 9 | घढधष् | gh ḍh dh | ष् |
+| 10 | जबगडदश् | j b g ḍ d | श् |
+| 11 | खफछठथचटतव् | kh ph ch ṭh th c ṭ t | व् |
+| 12 | कपय् | k p | य् |
+| 13 | शषसर् | ś ṣ s | र् |
+| 14 | हल् | h | ल् |
+
+> [memory] Chant them in four breaths :: అఇఉణ్ ఋఌక్ ఏఓఙ్ ఐఔచ్ (vowels) · హయవరట్ లణ్ (semivowels) · ఞమఙణనమ్ ఝభఞ్ ఘఢధష్ జబగడదశ్ (voiced stops) · ఖఫఛఠథచటతవ్ కపయ్ శషసర్ హల్ (unvoiced and sibilants). Four breaths, fourteen sūtras.
+
+## प्रत्याहारः — naming a group with two letters
+Take any sound, then a marker: the **pratyāhāra** means "from this sound up to the marker", leaving out the markers in between.
+
+> [sutra] आदिरन्त्येन सहेता (1.1.71) :: A first sound together with a final marker denotes itself and everything in between.
+
+| Pratyāhāra | From … to marker | Sounds | Used for |
+|---|---|---|---|
+| अक् | अ … क् (sūtra 2) | a i u ṛ ḷ | simple vowels (सवर्णदीर्घ: अकः सवर्णे दीर्घः) |
+| अच् | अ … च् (sūtra 4) | all vowels | इको यणचि: "before a vowel" |
+| इक् | इ … क् | i u ṛ ḷ | vowels that turn into y v r l (यण्) |
+| एच् | ए … च् | e o ai au | diphthongs |
+| एङ् | ए … ङ् | e o | the vowels in एङः पदान्तादति (सोऽहम्) |
+| यण् | य … ण् (sūtra 6) | y v r l | semivowels |
+| हल् | ह … ल् (sūtra 14) | all consonants | |
+| अल् | अ … ल् | every sound | |
+| झल् | झ … ल् | every consonant except nasals and य व र ल | झलां जशोऽन्ते |
+| जश् | ज … श् | j b g ḍ d (column 3) | झलां जशोऽन्ते: finals become soft |
+| खर् | ख … र् | unvoiced stops and sibilants | खरि च: before unvoiced, become hard |
+| ञम् | ञ … म् | the nasals | |
+| शर् | श … र् | ś ṣ s | sibilants |
+| हश् | ह … श् | voiced consonants | हशि च: visarga before voiced |
+
+> [note] Why ह appears twice :: ह is listed in sūtra 5 (among the voiced sounds, so it is in हश्) and again in sūtra 14 (so that शल्, the sibilants plus ह, can be named). The ण् marker also appears twice (sūtras 1 and 6); context decides which is meant.
+
+## Seeing them in action
+The rule **इको यणचि** (6.1.77) reads: "इक् (i u ṛ ḷ) becomes यण् (y v r l) before अच् (a vowel)". In one breath it gives you four sandhis:
+
+| Before a vowel | becomes | Example |
+|---|---|---|
+| इ / ई | य् | इति + आदि → इत्यादि |
+| उ / ऊ | व् | सु + आगतम् → स्वागतम् |
+| ऋ | र् | पितृ + आज्ञा → पित्राज्ञा |
+| ऌ | ल् | ऌ + आकृतिः → लाकृतिः |
+
+> [telugu] యణాదేశ సంధి :: Telugu school grammar teaches this very rule as యణాదేశ సంధి: "ఇ ఉ ఋ లకు అసవర్ణములైన అచ్చులు పరమగునపుడు క్రమముగా య వ ర లు ఆదేశమగును". Now you know its Pāṇini form: इको यणचि.
+
+@quiz
+q: What does the pratyāhāra अच् name?
+* All the vowels
+- All the consonants
+- Only a, i, u
+why: अ … च् runs from sūtra 1 to the end of sūtra 4: a i u ṛ ḷ e o ai au.
+
+q: What sounds does यण् name?
+* य व र ल
+- य र ल व श
+- the vowels
+why: From य in sūtra 5 to the marker ण् of sūtra 6: y v r l.
+
+q: In अइउण्, what is ण्?
+* A marker (इत्) that is not one of the sounds
+- A sound in the list
+- The visarga
+why: The final consonant of each sūtra marks the end of a group, so that pratyāhāras can be formed.
+
+q: The rule इको यणचि means:
+* i u ṛ ḷ become y v r l before a vowel
+- vowels become long before a similar vowel
+- final consonants become voiced
+why: इक् = i u ṛ ḷ; यण् = y v r l; अचि = before a vowel. Telugu calls it యణాదేశ సంధి.
+
+q: According to tradition, where did the sūtras come from?
+* Śiva's ḍamaru at the end of his dance
+- Pāṇini's teacher
+- The Ṛgveda
+why: नृत्तावसाने नटराजराजो ननाद ढक्कां नवपञ्चवारम्: fourteen strokes of the drum.
+@end

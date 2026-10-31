@@ -1,0 +1,74 @@
+@title సంధి పరిచయం · What sandhi is, and the names you already know
+@summary Sandhi is sound-joining at word and morpheme boundaries. Where it is compulsory and where optional, the three families (vowel, consonant, visarga), and a map from the Telugu school names (సవర్ణదీర్ఘ, గుణ, వృద్ధి, యణాదేశ, జశ్త్వ, శ్చుత్వ, అనునాసిక, విసర్గ) to Pāṇini's sūtras.
+
+## Why sandhi exists
+Sanskrit is recited as an unbroken stream. When two sounds come into close contact (परः सन्निकर्षः संहिता 1.4.109), they adjust to each other. Writing records the adjusted sounds, so a verse looks like one long word: कर्मण्येवाधिकारस्ते = कर्मणि एव अधिकारः ते.
+
+> [memory] Where sandhi is compulsory :: संहितैकपदे नित्या नित्या धातूपसर्गयोः । नित्या समासे वाक्ये तु सा विवक्षामपेक्षते — "Sandhi is compulsory within a word, between a prefix and a root, and inside a compound; between the words of a sentence it depends on the speaker's wish." In verse, poets almost always apply it; in simple prose you may leave words apart.
+
+## Three families
+| Family | Sanskrit name | Meets | Example |
+|---|---|---|---|
+| vowel sandhi | अच्-सन्धि | vowel + vowel | देव + इन्द्रः → देवेन्द्रः |
+| consonant sandhi | हल्-सन्धि | consonant + any sound | वाक् + ईशः → वागीशः |
+| visarga sandhi | विसर्ग-सन्धि | ः + any sound | रामः + अयम् → रामोऽयम् |
+
+## The Telugu school names
+Telugu textbooks teach these as సంస్కృత సంధులు. Here are the same rules with their sūtras; the following lessons cover each in detail.
+
+| Telugu name | Rule | Sūtra | Example |
+|---|---|---|---|
+| సవర్ణదీర్ఘ సంధి | like vowels → one long vowel | अकः सवर्णे दीर्घः 6.1.101 | రామ + అయనం → రామాయణం; విద్యా + ఆలయం → విద్యాలయం |
+| గుణ సంధి | अ/आ + इ/उ/ऋ → ए/ओ/अर् | आद्गुणः 6.1.87 | దేవ + ఇంద్ర → దేవేంద్ర; మహా + ఉత్సవం → మహోత్సవం; మహా + ఋషి → మహర్షి |
+| వృద్ధి సంధి | अ/आ + ए/ऐ/ओ/औ → ऐ/औ | वृद्धिरेचि 6.1.88 | ఏక + ఏక → ఏకైక; వన + ఓషధి → వనౌషధి |
+| యణాదేశ సంధి | इ/उ/ऋ + unlike vowel → य्/व्/र् | इको यणचि 6.1.77 | అతి + అంతం → అత్యంతం; మను + అంతరం → మన్వంతరం; పితృ + ఆజ్ఞ → పిత్రాజ్ఞ |
+| అయవాయావ (no school name) | ए/ऐ/ओ/औ + vowel → अय्/आय्/अव्/आव् | एचोऽयवायावः 6.1.78 | నే + అనం → నయనం; పో + అనం → పవనం |
+| పూర్వరూప | ए/ओ at word end + अ → ऽ | एङः पदान्तादति 6.1.109 | రామో + అయం → రామోఽయం |
+| జశ్త్వ సంధి | final stop → voiced before voiced sounds | झलां जशोऽन्ते 8.2.39, झलां जश् झशि 8.4.53 | వాక్ + ఈశుడు → వాగీశుడు; జగత్ + ఈశుడు → జగదీశుడు |
+| శ్చుత్వ సంధి | स्/dental + श्/palatal → श्/palatal | स्तोः श्चुना श्चुः 8.4.40 | సత్ + చిత్ → సచ్చిత్; రామస్ + శేతే → రామశ్శేతే |
+| ష్టుత్వ సంధి | स्/dental + ष्/retroflex → ष्/retroflex | ष्टुना ष्टुः 8.4.41 | తత్ + టీకా → తట్టీకా |
+| అనునాసిక సంధి | final stop + nasal → nasal | यरोऽनुनासिकेऽनुनासिको वा 8.4.45 | వాక్ + మయం → వాఙ్మయం; జగత్ + నాథుడు → జగన్నాథుడు |
+| విసర్గ సంధి | ः changes by what follows | 8.3.15 ff., 6.1.113 ff. | మనః + రథం → మనోరథం; నిః + చలం → నిశ్చలం |
+
+> [compare] What Telugu does differently :: Telugu sandhis (అత్వ, ఉత్వ, యడాగమం, గసడదవాదేశ…) apply to Telugu words; these Sanskrit sandhis apply to Sanskrit words, also inside Telugu. Notice the overlap: గసడదవాదేశ (వాడు + కొట్టె → వాడు గొట్టె) is close to Sanskrit voicing (जश्त्व), and యడాగమం resembles अयादि (an inserted य). Telugu ఉత్వసంధి (final ఉ drops) has no Sanskrit match: Sanskrit उ becomes व्.
+
+## Order of rules
+Pāṇini's sūtras from 8.2.1 on (त्रिपादी) are treated as applying after all earlier ones, and in their own order (पूर्वत्रासिद्धम् 8.2.1). In practice, for splitting verses: undo visarga and consonant sandhi first (they are the "outer" changes), then vowel sandhi.
+
+@ex gita:2:47
+split: कर्मणि एव अधिकारः ते मा फलेषु कदाचन । मा कर्मफलहेतुः भूः मा ते सङ्गः अस्तु अकर्मणि ॥
+w: कर्मणि = కర్మలో; एव = మాత్రమే; अधिकारः = అధికారం; ते = నీకు; मा = వద్దు; फलेषु = ఫలాలలో; कदाचन = ఎప్పుడూ; कर्मफलहेतुः = కర్మఫలానికి కారణం; भूः = కాకు (aorist, with मा); सङ्गः = ఆసక్తి; अस्तु = ఉండుగాక; अकर्मणि = కర్మ చేయకపోవడంలో
+note: Five sandhis in one verse: कर्मणि एव → कर्मण्येव (यण्); एव अधिकारः → एवाधिकारः (सवर्णदीर्घ); अधिकारः ते → अधिकारस्ते (visarga → स्); -हेतुः भूः → -हेतुर्भूः (visarga → र्); सङ्गः अस्तु → सङ्गोऽस्तु (visarga → ओ, then पूर्वरूप); अस्तु अकर्मणि → अस्त्वकर्मणि (यण्).
+@end
+
+@quiz
+q: Which Telugu school name corresponds to आद्गुणः?
+* గుణ సంధి
+- వృద్ధి సంధి
+- సవర్ణదీర్ఘ సంధి
+why: अ + इ → ए: దేవ + ఇంద్ర → దేవేంద్ర.
+
+q: Where is sandhi optional?
+* Between the words of a sentence
+- Inside a compound
+- Between a prefix and a root
+why: वाक्ये तु सा विवक्षामपेक्षते.
+
+q: అత్యంతం (अति + अन्तम्) shows:
+* యణాదేశ సంధి (इ → य्)
+- గుణ సంధి
+- పూర్వరూప సంధి
+why: इको यणचि 6.1.77.
+
+q: జగన్నాథ (जगत् + नाथ) shows:
+* అనునాసిక సంధి
+- శ్చుత్వ సంధి
+- జశ్త్వ సంధి
+why: त् before a nasal becomes a nasal: न्.
+
+q: When splitting a verse, undo which first?
+* visarga and consonant sandhi
+- vowel sandhi
+- the meter
+why: They apply last (त्रिपादी), so they are the outermost layer.
+@end

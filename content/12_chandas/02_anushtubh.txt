@@ -1,0 +1,100 @@
+@title అనుష్టుప్ · The śloka (अनुष्टुभ्)
+@summary About 650 of the Gītā's 700 verses and almost all of the Sahasranāma are in the anuṣṭubh: four quarters of eight syllables, with fixed weights only at positions 5, 6 and 7. The rule verse, full scansions of Gītā 2.47 and 4.7, the permitted variants (vipulā), and how to chant it.
+
+## The rule
+> [memory] पञ्चमं लघु सर्वत्र सप्तमं द्विचतुर्थयोः । षष्ठं गुरु विजानीयात् एतत् पद्यस्य लक्षणम् :: "The fifth syllable is light everywhere; the seventh is light in the second and fourth quarters; know the sixth to be heavy. This is the mark of the śloka." (The seventh in the first and third quarters is then usually heavy.)
+
+| Position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Odd quarters (1, 3) | x | x | x | x | । | ऽ | ऽ | x |
+| Even quarters (2, 4) | x | x | x | x | । | ऽ | । | x |
+
+(x = either; the 8th is free as the pāda end.) So the end of each half is ।ऽ। x, the "cadence" that makes the śloka sound like a śloka: …कदाचन, …युगे युगे, …सृजाम्यहम्.
+
+> [compare] Telugu has no anuṣṭubh :: Telugu poets didn't use the 8-syllable śloka for Telugu verse; the closest Telugu sound is the దేశి rhythm of the ద్విపద. But every Telugu household knows the anuṣṭubh by ear from the Gītā and the Sahasranāma: listen for the ta-TUM-ta cadence at the end of each half-line.
+
+## Scansion of Gītā 2.47
+@literal
+@nocards
+| Quarter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| कर्मण्येवाधिकारस्ते | कर् ऽ | मण् ऽ | ये ऽ | वा ऽ | धि । | का ऽ | रस् ऽ | ते ऽ |
+| मा फलेषु कदाचन | मा ऽ | फ । | ले ऽ | षु । | क । | दा ऽ | च । | न x |
+| मा कर्मफलहेतुर्भूः | मा ऽ | कर् ऽ | म । | फ । | ल । | हे ऽ | तुर् ऽ | भूः ऽ |
+| मा ते सङ्गोऽस्त्वकर्मणि | मा ऽ | ते ऽ | सङ् ऽ | गोस् ऽ | त्व । | कर् ऽ | म । | णि x |
+
+Check: position 5 is । in all four (धि, क, ल, त्व); position 6 is ऽ (का, दा, हे, कर्); position 7 is । in quarters 2 and 4 (च, म) and ऽ in 1 and 3 (रस्, तुर्). A perfect pathyā śloka.
+
+## Scansion of Gītā 4.7
+@literal
+@nocards
+| Quarter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| यदा यदा हि धर्मस्य | य । | दा ऽ | य । | दा ऽ | हि । | धर् ऽ | मस् ऽ | य x |
+| ग्लानिर्भवति भारत | ग्ला ऽ | निर् ऽ | भ । | व । | ति । | भा ऽ | र । | त x |
+| अभ्युत्थानमधर्मस्य | अभ् ऽ | युत् ऽ | था ऽ | न । | म । | धर् ऽ | मस् ऽ | य x |
+| तदाऽऽत्मानं सृजाम्यहम् | त । | दात् ऽ | मा ऽ | नं ऽ | सृ । | जाम् ऽ | य । | हम् x |
+
+> [note] Why अ in अभ्युत्थानम् is heavy :: अ is short, but the conjunct भ्य follows, so the syllable is अभ्: heavy. In the third quarter, position 4 (न) is light because only one consonant (म) follows.
+
+## Permitted variants (vipulā)
+In the odd quarters, positions 5–7 may take other shapes, provided positions 2–3 are not both light. The commonest:
+
+| Name | Positions 5–7 | Example |
+|---|---|---|
+| पथ्या (normal) | । ऽ ऽ | धर्मक्षेत्रे कुरु**क्षेत्रे** |
+| न-विपुला | । । । | (positions 5–7 all light) |
+| भ-विपुला | ऽ । । | |
+| म-विपुला | ऽ ऽ ऽ | |
+| र-विपुला | ऽ । ऽ | |
+
+The even quarters are always strict: । ऽ । x.
+
+## How to chant
+- Pause briefly after each quarter and longer after each half (the daṇḍa ।).
+- Hold heavy syllables for two beats and light ones for one. In 2.47: KAR-MAN-YE-VĀ-dhi-KĀ-RAS-TE / MĀ-pha-LE-ṣu-ka-DĀ-ca-na.
+- Recitation traditions (Vedic schools, the Sahasranāma pārāyaṇa) use a simple two- or three-note melody; the metre carries the tune.
+
+> [memory] Clap the cadence :: Clap on heavy syllables 6 and (in odd quarters) 7. In every quarter there must be a clap on the 6th syllable; in even quarters, none on the 7th. Practise with the Sahasranāma: विश्वं विष्णुर्वषट्कारो / भूतभव्यभवत्प्रभुः.
+
+@ex vs:stotram:1
+meter: अनुष्टुभ्
+note: Quarter 2 भूतभव्यभवत्प्रभुः: भू ऽ · त । · भव् ऽ · य । · भ । · वत् ऽ · प्र । · भुः x. Positions 5, 6, 7 = । ऽ । (even quarter). Note that वत् is heavy because the conjunct त्प्र follows.
+@end
+
+@ex gita:18:66
+meter: अनुष्टुभ्
+note: Quarter 1 सर्वधर्मान्परित्यज्य: सर् ऽ · व । · धर् ऽ · मान् ऽ · प । · रित् ऽ · यज् ऽ · य x. Positions 5–7 = । ऽ ऽ (pathyā).
+@end
+
+@quiz
+q: In every quarter of a śloka, the 5th syllable is:
+* light
+- heavy
+- free
+why: पञ्चमं लघु सर्वत्र.
+
+q: The 7th syllable is light in:
+* the 2nd and 4th quarters
+- the 1st and 3rd quarters
+- all quarters
+why: सप्तमं द्विचतुर्थयोः.
+
+q: The 6th syllable is:
+* heavy
+- light
+- free
+why: षष्ठं गुरु विजानीयात्.
+
+q: How many syllables in a full anuṣṭubh verse?
+* 32
+- 44
+- 48
+why: 4 quarters × 8.
+
+q: In मा फलेषु कदाचन, positions 5–7 (क-दा-च) are:
+* । ऽ ।
+- ऽ ऽ ।
+- । । ऽ
+why: Even quarter: light, heavy, light.
+@end

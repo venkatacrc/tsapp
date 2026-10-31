@@ -1,0 +1,123 @@
+@title దినచర్య · Time, days and a daily routine
+@summary Numbers one to ten, telling the time, today and tomorrow, the days of the week (the same names as Telugu), and describing your day with the locative of time.
+
+## One to ten
+| Number | Sanskrit (counting) | Telugu | Telugu tatsama |
+|---|---|---|---|
+| 1 | एकम् | ఒకటి | ఏక- (ఏకాదశి) |
+| 2 | द्वे | రెండు | ద్వి- (ద్వితీయ) |
+| 3 | त्रीणि | మూడు | త్రి- (త్రిమూర్తులు) |
+| 4 | चत्वारि | నాలుగు | చతుర్- (చతుర్వేదాలు) |
+| 5 | पञ्च | ఐదు | పంచ- (పంచభూతాలు) |
+| 6 | षट् | ఆరు | షట్- (షట్చక్రాలు) |
+| 7 | सप्त | ఏడు | సప్త- (సప్తర్షులు) |
+| 8 | अष्ट | ఎనిమిది | అష్ట- (అష్టలక్ష్మి) |
+| 9 | नव | తొమ్మిది | నవ- (నవగ్రహాలు) |
+| 10 | दश | పది | దశ- (దశావతారాలు) |
+
+> [memory] You already know them from compounds :: ఏకాదశి, ద్వితీయ, త్రిమూర్తులు, చతుర్ముఖ, పంచామృతం, షణ్ముఖ, సప్తగిరి, అష్టోత్తరం, నవరాత్రులు, దశావతారాలు. The Sanskrit numbers are hiding in Telugu festival and temple words.
+
+> [note] Numbers 1–4 change with gender :: एकः / एका / एकम्, द्वौ / द्वे / द्वे, त्रयः / तिस्रः / त्रीणि, चत्वारः / चतस्रः / चत्वारि. From पञ्च on they don't. The full story is in Unit 5.
+
+## Telling the time
+Spoken Sanskrit uses **वादनम्** ("striking (of the clock)") with the number: एकवादनम् (1 o'clock), पञ्चवादनम् (5 o'clock).
+
+| Time | Sanskrit | Telugu |
+|---|---|---|
+| 7:00 | सप्तवादनम् | ఏడు గంటలు |
+| 7:15 | सपाद-सप्तवादनम् | ఏడుంబావు |
+| 7:30 | सार्ध-सप्तवादनम् | ఏడున్నర |
+| 7:45 | पादोन-अष्टवादनम् | ఎనిమిదికి పావు తక్కువ |
+| "What time is it?" | कः समयः? / समयः कः? | టైం ఎంత? |
+| "At 6 o'clock" | षड्वादने | ఆరు గంటలకు |
+
+> [telugu] సపాద, సార్ధ, పాదోన :: Telugu ఒకటింబావు, ఒకటిన్నర, రెండుకు పావు తక్కువ map exactly onto सपाद (with a quarter), सार्ध (with a half) and पादोन (less a quarter). Telugu also has the Sanskrit words in సార్ధశతం (150).
+
+## Days and times
+| Sanskrit | Telugu |
+|---|---|
+| अद्य | ఈరోజు |
+| श्वः | రేపు |
+| ह्यः | నిన్న |
+| परश्वः | ఎల్లుండి |
+| प्रातः | ఉదయం |
+| मध्याह्ने | మధ్యాహ్నం |
+| सायम् | సాయంత్రం |
+| रात्रौ | రాత్రి |
+| इदानीम् / अधुना | ఇప్పుడు |
+| शीघ्रम् | త్వరగా |
+| प्रतिदिनम् | ప్రతిరోజు |
+| सर्वदा / सदा | ఎల్లప్పుడూ |
+
+## The days of the week
+| Sanskrit | Telugu | Ruled by |
+|---|---|---|
+| भानुवासरः / रविवासरः | ఆదివారం | the sun |
+| सोमवासरः | సోమవారం | the moon |
+| मङ्गलवासरः | మంగళవారం | Mars |
+| बुधवासरः | బుధవారం | Mercury |
+| गुरुवासरः | గురువారం | Jupiter |
+| शुक्रवासरः | శుక్రవారం | Venus |
+| शनिवासरः | శనివారం | Saturn |
+
+> [memory] Only Sunday differs :: The Telugu names are Sanskrit. Only ఆదివారం (from ఆది, "first") is different: Sanskrit says भानुवासरः or रविवासरः, "the sun's day".
+
+## Time goes in the locative
+"On Monday", "at night", "in the morning": Sanskrit puts the time word in the **locative** (సప్తమీ), exactly as the Gītā does in युगे युगे:
+
+| Sanskrit | Telugu |
+|---|---|
+| सोमवासरे | సోమవారం (నాడు) |
+| रात्रौ | రాత్రి (పూట) |
+| प्रभाते | తెల్లవారుజామున |
+| बाल्ये | చిన్నతనంలో |
+| तस्मिन् काले | ఆ సమయంలో |
+
+@ex
+sa: अहं प्रातः पञ्चवादने उत्तिष्ठामि । स्नानं कृत्वा देवं नमामि । ततः कार्यालयं गच्छामि ।
+te: నేను ఉదయం ఐదు గంటలకు లేస్తాను. స్నానం చేసి దేవునికి నమస్కరిస్తాను. తర్వాత ఆఫీసుకు వెళ్తాను.
+en: I get up at five in the morning. After bathing I bow to God. Then I go to the office.
+w: प्रातः = ఉదయం; पञ्चवादने = ఐదు గంటలకు (సప్తమీ); उत्तिष्ठामि = లేస్తాను (उत् + स्था); स्नानम् = స్నానం; कृत्वा = చేసి; देवम् = దేవుని; नमामि = నమస్కరిస్తాను; ततः = తర్వాత; कार्यालयम् = ఆఫీసుకు (ద్వితీయా)
+note: कृत्वा "having done" = Telugu చేసి: the absolutive joins actions in sequence.
+note: उत्तिष्ठामि: उत् + स्था → उत्तिष्ठ-. Gītā 2.3 says उत्तिष्ठ परन्तप "stand up, O scorcher of foes".
+@end
+
+@ex
+sa: श्वः रविवासरः । अद्य शनिवासरः । ह्यः शुक्रवासरः आसीत् ।
+te: రేపు ఆదివారం. ఈరోజు శనివారం. నిన్న శుక్రవారం.
+en: Tomorrow is Sunday. Today is Saturday. Yesterday was Friday.
+w: श्वः = రేపు; अद्य = ఈరోజు; ह्यः = నిన్న; आसीत् = ఉండెను (past of अस्)
+note: आसीत् "was" is the past tense of अस्ति. The present अस्ति can be left out, the past cannot.
+@end
+
+@quiz
+q: "7:30" in spoken Sanskrit:
+* सार्ध-सप्तवादनम्
+- सपाद-सप्तवादनम्
+- पादोन-सप्तवादनम्
+why: सार्ध = "with a half". सपाद is a quarter past, पादोन a quarter to.
+
+q: "ఆదివారం" in Sanskrit:
+* भानुवासरः / रविवासरः
+- आदिवासरः
+- सोमवासरः
+why: Telugu ఆది- "first" is native; Sanskrit names the day after the sun.
+
+q: "At night" in Sanskrit:
+* रात्रौ
+- रात्रिः
+- रात्रिम्
+why: Time "when" goes in the locative: रात्रौ (from रात्रि).
+
+q: "రేపు" in Sanskrit:
+* श्वः
+- ह्यः
+- अद्य
+why: श्वः tomorrow, ह्यः yesterday, अद्य today.
+
+q: Which Telugu word hides the Sanskrit number 8?
+* అష్టలక్ష్మి
+- నవరాత్రి
+- సప్తగిరి
+why: अष्ट = 8. नव = 9, सप्त = 7.
+@end

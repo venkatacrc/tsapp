@@ -1,0 +1,108 @@
+@title శబ్దరూపాలు ఎలా నేర్చుకోవాలి · How noun declension works
+@summary The stem classes, the 21 endings and how each class reshapes them, the forms that always coincide, and a reverse table for recognising any ending in a verse. Learn the system once and every new table is just a variation.
+
+## Stem + ending
+Every Sanskrit noun has a **stem** (प्रातिपदिकम्, what the dictionary lists) and takes one of 21 endings (सुप्). The **last sound of the stem** decides the class. Traditional Telugu teachers name a word by its class: "రామశబ్దః అకారాంతః పుంలింగః" — "the word rāma: a-final, masculine". That name tells you the whole table.
+
+| Class | Masculine | Feminine | Neuter | Lesson |
+|---|---|---|---|---|
+| अ / आ (अकारान्त, आकारान्त) | राम | रमा | वन | 4.2, 4.4, 4.3 |
+| इ | हरि | मति | वारि | 4.5 |
+| ई | (सुधी, rare) | नदी, लक्ष्मी, श्री | — | 4.6 |
+| उ | गुरु | धेनु | मधु | 4.6 |
+| ऊ | — | वधू, भू | — | 4.6 |
+| ऋ | पितृ, दातृ | मातृ, स्वसृ | (कर्तृ n.) | 4.7 |
+| ओ, औ | गो | नौ | — | 4.10 |
+| त् / द् | मरुत्, भगवत्, गच्छत् | — | जगत् | 4.8 |
+| इन् | योगिन्, ज्ञानिन् | — | — | 4.8 |
+| अन् | राजन्, आत्मन् | — | कर्मन्, नामन् | 4.9 |
+| अस्, इस्, उस् | (चन्द्रमस्) | (अप्सरस्) | मनस्, हविस्, धनुस् | 4.9 |
+| others | पुंस्, श्वन्, पथिन्, सखि, पति | वाच्, दिश् | अहन्, अक्षि | 4.10 |
+
+> [memory] अजन्त and हलन्त :: Stems ending in a vowel are **अजन्त** (అజంత); stems ending in a consonant are **हलन्त** (హలంత). Telugu grammar uses the same words. Vowel stems are 80% of what you will read, and राम / वन / रमा alone are about half.
+
+## The forms that always coincide
+These hold for **every** noun class, so you only have to learn them once:
+
+| Rule | Example |
+|---|---|
+| Dual: 1, 2, 8 are the same | रामौ, वने, हरी, गुरू |
+| Dual: 3, 4, 5 are the same (-भ्याम्) | रामाभ्याम्, हरिभ्याम्, मनोभ्याम् |
+| Dual: 6, 7 are the same (-ओः) | रामयोः, हर्योः, मनसोः |
+| Plural: 4, 5 are the same (-भ्यः) | रामेभ्यः, हरिभ्यः, मनोभ्यः |
+| Plural 1 and 8 are the same | रामाः, हरयः, गुरवः |
+| Neuter: 1 and 2 are the same in all numbers | वनम्, वने, वनानि; मनः, मनसी, मनांसि |
+| Genitive plural ends in -आम् | रामाणाम्, हरीणाम्, मनसाम्, राज्ञाम् |
+| Locative plural ends in -सु / -षु | रामेषु, हरिषु, मनःसु, राजसु |
+| Instrumental plural ends in -भिः (or -ऐः for अ-stems) | हरिभिः, गुरुभिः, रामैः |
+
+> [memory] 21 endings, 13 to learn :: Because of these coincidences, each noun has at most about 13 distinct forms, not 24. For a new class, learn singular 1-2-3-4-5-6-7-8, then the plural 1-2-3 and 6-7. Dual and the other plurals follow the rules above.
+
+## Reverse table: what case is this?
+When you meet a word in a verse, look at its end:
+
+| Ending | Likely case | Example |
+|---|---|---|
+| -अः, -इः, -उः | 1 sg. (also 5/6 sg. -उः of ऋ, 5/6 -एः, -ओः) | रामः, हरिः, गुरुः |
+| -आः | 1 pl. (m./f.) | रामाः, रमाः |
+| -अम् | 2 sg. (m./f.) / 1-2 sg. neuter | रामम्, वनम् |
+| -आन्, -ईन्, -ऊन्, -ॄन् | 2 pl. masculine | रामान्, हरीन्, गुरून्, पितॄन् |
+| -एन / -एण / -आ / -णा | 3 sg. | रामेण, रमया, हरिणा, मत्या |
+| -ऐः, -भिः | 3 pl. | रामैः, हरिभिः |
+| -आय, -ए, -ऐ, -अये | 4 sg. | रामाय, हरये, मत्यै |
+| -भ्यः | 4 or 5 pl. | रामेभ्यः |
+| -आत् | 5 sg. (अ-stems) | रामात् |
+| -स्य | 6 sg. (अ-stems) | रामस्य |
+| -एः, -ओः, -उः, -आः, -अः | 5/6 sg. (other classes) | हरेः, गुरोः, पितुः, रमायाः, राज्ञः |
+| -ओः | 6/7 dual | रामयोः |
+| -आम्, -णाम्, -नाम् | 6 pl. | रामाणाम्, नदीनाम् |
+| -ए, -औ, -इ, -आम् | 7 sg. | रामे, हरौ, आत्मनि, रमायाम् |
+| -सु, -षु | 7 pl. | रामेषु, नदीषु, मनःसु |
+| -भ्याम् | 3, 4 or 5 dual | रामाभ्याम् |
+
+> [warning] One ending, several cases :: -ः ends 1 sg. (रामः), 5/6 sg. (हरेः, गुरोः), 1 pl. (रामाः), 2 pl. feminine (मतीः) and more. Decide by context: which word is the verb's subject, which is "of" or "from" something? In a verse, first find the verb, then its subject (1st case), then the rest.
+
+## How to learn a table
+1. **Chant it** in rows of three (1 sg., du., pl.), as the Śabdamañjarī tradition does.
+2. **Write it** once from memory and check.
+3. **Find it** in a verse: each lesson gives a Gītā or Sahasranāmam line for each case.
+4. **Compare** with राम: say what is different (हरि: हरिणा not हरिण, हरये not हराय, हरेः not हरस्य).
+
+> [telugu] శబ్దమంజరి :: Telugu pāṭhaśālās teach the Śabdamañjarī, a book of noun tables chanted daily: రామః రామౌ రామాః, రామం రామౌ రామాన్… The same book is used across South India. Chanting while walking or travelling works: ten minutes a day for two weeks fixes a table for life.
+
+@ex gita:6:5
+note: One word in four cases: आत्मना (3, by the self), आत्मानम् (2, the self), आत्मनः (6, of the self) twice, and आत्मा (1, the self) twice. A whole verse built on one declension.
+note: उद्धरेत्, अवसादयेत् are optative (विधिलिङ्) verbs: "one should raise, one should not lower".
+@end
+
+@quiz
+q: In every noun class, which dual forms are identical?
+* 3, 4 and 5 (-भ्याम्)
+- 1 and 3
+- 6 and 2
+why: Also 1-2-8 and 6-7. Learn the dual once, apply it everywhere.
+
+q: For a neuter noun, which cases always look the same?
+* Nominative and accusative
+- Nominative and genitive
+- Instrumental and locative
+why: वनम्/वनम्, वने/वने, वनानि/वनानि; मनः/मनः.
+
+q: What does "हलन्त" mean?
+* A stem ending in a consonant
+- A stem ending in a vowel
+- A feminine stem
+why: हल् = consonants, अच् = vowels; అజంత / హలంత in Telugu grammar.
+
+q: What case is रामेभ्यः?
+* Dative or ablative plural
+- Genitive plural
+- Instrumental plural
+why: 4 and 5 plural always coincide (-भ्यः).
+
+q: How many cases does आत्मन् take in Gītā 6.5?
+* Four: 1, 2, 3, 6
+- Two
+- One
+why: आत्मा, आत्मानम्, आत्मना, आत्मनः all appear.
+@end

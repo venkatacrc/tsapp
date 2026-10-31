@@ -1,0 +1,112 @@
+@title నిన్న, రేపు · Past and future, the easy way
+@summary Three shortcuts that let you talk about yesterday and tomorrow before you learn the full tense system: the participle गतवान् / गतवती, present + स्म, and the future -स्यति.
+
+## Shortcut 1: गतवान् "(he) went"
+The **क्तवतु** participle is an adjective meaning "who has done". It ends in **-तवान्** (m.), **-तवती** (f.), and works for all persons, because it agrees with the subject like an adjective. Telugu speakers love it: like Telugu, it shows gender!
+
+| Root | Masculine | Feminine | Telugu |
+|---|---|---|---|
+| गम् (go) | गतवान् | गतवती | వెళ్ళాడు / వెళ్ళింది |
+| आ + गम् (come) | आगतवान् | आगतवती | వచ్చాడు / వచ్చింది |
+| पठ् (read) | पठितवान् | पठितवती | చదివాడు / చదివింది |
+| लिख् (write) | लिखितवान् | लिखितवती | రాశాడు / రాసింది |
+| खाद् (eat) | खादितवान् | खादितवती | తిన్నాడు / తిన్నది |
+| पा (drink) | पीतवान् | पीतवती | తాగాడు / తాగింది |
+| दृश् (see) | दृष्टवान् | दृष्टवती | చూశాడు / చూసింది |
+| कृ (do) | कृतवान् | कृतवती | చేశాడు / చేసింది |
+| वच् (say) | उक्तवान् | उक्तवती | చెప్పాడు / చెప్పింది |
+| श्रु (hear) | श्रुतवान् | श्रुतवती | విన్నాడు / వింది |
+| दा (give) | दत्तवान् | दत्तवती | ఇచ్చాడు / ఇచ్చింది |
+| स्था (stand, stay) | स्थितवान् | स्थितवती | ఉన్నాడు / ఉంది |
+
+| Subject | Form |
+|---|---|
+| अहं (a man) | गतवान् (అహం గతవాన్ = నేను వెళ్ళాను) |
+| अहं (a woman) | गतवती |
+| त्वं / सः / भवान् | गतवान् |
+| सा / भवती | गतवती |
+| वयं / ते (men) | गतवन्तः |
+| ताः (women) | गतवत्यः |
+
+> [memory] -वान् he, -वती she, -वन्तः they :: The same as Telugu -మంతుడు / -వంతుడు in గుణవంతుడు: Sanskrit -वत् is "having". गतवान् = "having gone". It never changes for person, so अहं गतवान्, त्वं गतवान्, सः गतवान्.
+
+## Shortcut 2: present + स्म
+Add **स्म** after a present-tense verb and it becomes past: गच्छति स्म "he went", वदति स्म "he said". Stories (कथाः) use it constantly: एकः राजा आसीत्। सः प्रतिदिनं वनं गच्छति स्म…
+
+## Shortcut 3: the future -स्यति
+The simple future (लृट्) adds **-स्य-** (often **-इष्य-**) and then the present endings:
+
+| Person | Singular | Dual | Plural |
+|---|---|---|---|
+| ప్రథమ | पठिष्यति | पठिष्यतः | पठिष्यन्ति |
+| మధ్యమ | पठिष्यसि | पठिष्यथः | पठिष्यथ |
+| ఉత్తమ | पठिष्यामि | पठिष्यावः | पठिष्यामः |
+
+| Root | Future (he will) | Telugu |
+|---|---|---|
+| गम् | गमिष्यति | వెళ్తాడు |
+| पठ् | पठिष्यति | చదువుతాడు |
+| भू | भविष्यति | అవుతాడు |
+| कृ | करिष्यति | చేస్తాడు |
+| दा | दास्यति | ఇస్తాడు |
+| दृश् | द्रक्ष्यति | చూస్తాడు |
+| वद् | वदिष्यति | చెప్తాడు |
+| स्था | स्थास्यति | ఉంటాడు |
+| लभ् | लप्स्यते | పొందుతాడు |
+| मुच् (causative) | मोक्षयिष्यति | విడిపిస్తాడు |
+
+> [memory] స్య = will :: Spot -ष्य- or -स्य- in the middle of a verb and it is future: भविष्यति, करिष्यामि, मोक्षयिष्यामि (Gītā 18.66), लप्स्यसे. Telugu needs context to tell చేస్తాను "I do" from "I will do"; Sanskrit marks the future.
+
+@ex gita:18:73
+note: नष्टः मोहः "delusion (is) destroyed", स्मृतिः लब्धा "memory (is) regained": past participles agreeing with masculine मोहः and feminine स्मृतिः.
+note: स्थितः अस्मि "I stand": participle + अस्मि.
+note: करिष्ये वचनं तव "I will do your word": करिष्ये is the future (आत्मनेपद ending -ए) of कृ.
+@end
+
+@ex
+sa: ह्यः अहं देवालयं गतवान् । श्वः माता अपि गमिष्यति ।
+te: నిన్న నేను గుడికి వెళ్ళాను. రేపు అమ్మ కూడా వెళ్తుంది.
+en: Yesterday I went to the temple. Tomorrow mother will go too.
+w: ह्यः = నిన్న; गतवान् = వెళ్ళాను (m.); श्वः = రేపు; माता = అమ్మ; अपि = కూడా; गमिष्यति = వెళ్తుంది (future)
+note: A woman would say अहं देवालयं गतवती.
+@end
+
+@ex
+sa: पुरा एकः राजा आसीत् । सः प्रतिदिनं वनं गच्छति स्म ।
+te: పూర్వం ఒక రాజు ఉండేవాడు. అతడు ప్రతిరోజు అడవికి వెళ్ళేవాడు.
+en: Long ago there was a king. Every day he used to go to the forest.
+w: पुरा = పూర్వం; एकः = ఒక; राजा = రాజు; आसीत् = ఉండెను; प्रतिदिनम् = ప్రతిరోజు; वनम् = అడవికి; गच्छति स्म = వెళ్ళేవాడు
+note: गच्छति स्म is the storyteller's past.
+@end
+
+@quiz
+q: A woman says "I came":
+* अहम् आगतवती
+- अहम् आगतवान्
+- अहम् आगच्छामि स्म only
+why: -वती is feminine; the participle agrees with the speaker.
+
+q: What does वदति स्म mean?
+* he said / used to say
+- he will say
+- he is saying
+why: स्म after a present verb makes it past.
+
+q: Which form is future?
+* करिष्यामि
+- करोमि
+- कृतवान्
+why: -ष्य- marks the future: "I will do".
+
+q: "They (men) went":
+* ते गतवन्तः
+- ते गतवान्
+- ते गमिष्यन्ति
+why: Plural masculine of the क्तवतु participle: -वन्तः.
+
+q: In Gītā 18.66, मोक्षयिष्यामि means:
+* I will free (you)
+- I freed
+- free (me)!
+why: -इष्यामि = future 1st singular, of the causative मोक्षय "make free".
+@end

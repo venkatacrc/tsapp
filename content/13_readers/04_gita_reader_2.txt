@@ -1,0 +1,156 @@
+@title గీతా పఠనం 2 · Gītā reader II: action, knowledge and meditation (chapters 3–6)
+@summary Eight verses from Karma Yoga, Jñāna Yoga, Karma-saṃnyāsa Yoga and Dhyāna Yoga. The grammar steps up: chains of absolutives ending in one imperative, double relative pairs, a simile with a shared verb, genitive bahuvrīhis, the doubled relative यतो यतो, and the superlative with the partitive genitive.
+
+## Work without attachment
+@ex gita:3:19
+split: तस्मात् असक्तः सततं कार्यं कर्म समाचर । असक्तः हि आचरन् कर्म परम् आप्नोति पूरुषः ॥
+anvaya: तस्मात् असक्तः (सन्) सततं कार्यं कर्म समाचर । हि असक्तः कर्म आचरन् पूरुषः परम् आप्नोति ॥
+w: तस्मात् = కాబట్టి; असक्तः = ఆసక్తి లేనివాడివై; सततम् = ఎల్లప్పుడూ; कार्यम् = చేయవలసిన; कर्म = కర్మను; समाचर = చక్కగా ఆచరించు; हि = ఎందుకంటే; कर्म आचरन् = కర్మ చేస్తూ; पूरुषः = మనిషి; परम् = పరమాత్మను; आप्नोति = పొందుతాడు
+note: कार्यम् is a gerundive (कृ + ण्यत्, lesson 7.4): "the action that must be done", agreeing with कर्म (neuter).
+note: समाचर = सम् + आ + चर्, 2nd singular imperative (lesson 6.6). आचरन् is the present participle, nominative masculine singular (lesson 7.2).
+note: असक्तः is the past participle of सञ्ज् "attach" with the negative अ- (lesson 7.1). पूरुषः is पुरुषः with the first vowel lengthened for the metre, a licence of epic verse.
+note: हि + आचरन् → ह्याचरन् (i → y before a vowel, lesson 8.2).
+@end
+
+## Offer everything and fight
+@ex gita:3:30
+split: मयि सर्वाणि कर्माणि संन्यस्य अध्यात्मचेतसा । निराशीः निर्ममः भूत्वा युध्यस्व विगतज्वरः ॥
+anvaya: अध्यात्मचेतसा सर्वाणि कर्माणि मयि संन्यस्य, निराशीः निर्ममः विगतज्वरः भूत्वा युध्यस्व ॥
+w: अध्यात्मचेतसा = ఆత్మలో నిలిచిన మనసుతో; सर्वाणि कर्माणि = అన్ని కర్మలను; मयि = నాలో (నాకు); संन्यस्य = సమర్పించి; निराशीः = ఆశలు లేనివాడివై; निर्ममः = "నాది" లేనివాడివై; विगतज्वरः = మనస్తాపం పోయినవాడివై; भूत्वा = అయి; युध्यस्व = యుద్ధం చేయి
+note: Two absolutives and then one finite imperative: संन्यस्य (prefix सम् + नि, so -य), भूत्वा (no prefix, so -त्वा), युध्यस्व (lesson 7.3). Telugu runs exactly the same chain: "సమర్పించి, … అయి, యుద్ధం చేయి" (lesson 2.4).
+note: निराशीः is the nominative of the -इस् stem निराशिस् "free of hopes". अध्यात्मचेतसा is the instrumental of an -अस् stem (चेतस्, lesson 4.9).
+note: युध्यस्व: युध् class 4, ātmanepada, 2nd singular imperative.
+@end
+
+> [telugu] One verb at the end :: Both languages keep only one finite verb at the end of a long sentence and turn everything before it into absolutives: "స్నానం చేసి, భోజనం చేసి, బడికి వెళ్ళాడు" = स्नात्वा भुक्त्वा पाठशालाम् अगच्छत्. When a Gītā verse feels long, look for the one finite verb and attach every -त्वा / -य to it.
+
+## As they come to me
+@ex gita:4:11
+split: ये यथा मां प्रपद्यन्ते तान् तथा एव भजामि अहम् । मम वर्त्म अनुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥
+anvaya: ये यथा मां प्रपद्यन्ते, अहं तान् तथा एव भजामि । पार्थ, मनुष्याः सर्वशः मम वर्त्म अनुवर्तन्ते ॥
+w: ये = ఎవరు; यथा = ఏ విధంగా; माम् = నన్ను; प्रपद्यन्ते = ఆశ్రయిస్తారో; अहम् = నేను; तान् = వారిని; तथा एव = ఆ విధంగానే; भजामि = అనుగ్రహిస్తాను; पार्थ = ఓ పార్థా; मनुष्याः = మనుషులు; सर्वशः = అన్ని విధాలా; मम = నా; वर्त्म = మార్గాన్ని; अनुवर्तन्ते = అనుసరిస్తారు
+note: Two relative pairs at once (lesson 11.3): ये … तान् (who … them) and यथा … तथा (as … so).
+note: प्रपद्यन्ते (प्र + पद्, class 4) and अनुवर्तन्ते (अनु + वृत्, class 1) are both ātmanepada (lesson 6.1).
+note: तान् + तथा → तांस्तथा (न् before त becomes ं + स्, lesson 8.4). सर्वशः "in every way" is an adverb with the taddhita suffix -शस्, like बहुशः "often" and अनेकशः "in many ways". वर्त्म is the accusative of the neuter an-stem वर्त्मन्.
+note: पार्थ is a vocative of the taddhita पार्थ "son of Pṛthā" (lesson 10.1).
+@end
+
+## Nothing purifies like knowledge
+@ex gita:4:38
+split: न हि ज्ञानेन सदृशं पवित्रम् इह विद्यते । तत् स्वयं योगसंसिद्धः कालेन आत्मनि विन्दति ॥
+anvaya: इह ज्ञानेन सदृशं पवित्रं न हि विद्यते । योगसंसिद्धः कालेन तत् स्वयम् आत्मनि विन्दति ॥
+w: इह = ఈ లోకంలో; ज्ञानेन सदृशम् = జ్ఞానంతో సమానమైన; पवित्रम् = పవిత్రం చేసేది; न हि विद्यते = నిజంగా లేదు; योगसंसिद्धः = యోగంలో సిద్ధి పొందినవాడు; कालेन = కాలక్రమంలో; तत् = దానిని; स्वयम् = తనంతట తానే; आत्मनि = తనలోనే; विन्दति = పొందుతాడు
+note: सदृश "like" takes the instrumental (lesson 11.2): ज्ञानेन सदृशम्. Telugu uses -తో as well: "జ్ఞానంతో సమానం".
+note: कालेन is an instrumental of time: "in the course of time".
+note: Three roots spelled विद्: विद्यते "exists" (class 4), विन्दति "finds" (class 6, with an inserted न्), वेत्ति "knows" (class 2). This verse has the first two.
+@end
+
+| Root | Class | Present | Meaning | Gītā |
+|---|---|---|---|---|
+| विद् (ज्ञाने) | 2 | वेत्ति, वेद | knows | 2.21 वेदाविनाशिनम् |
+| विद् (सत्तायाम्) | 4 | विद्यते | exists | 2.16, 4.38 |
+| विद् (लाभे) | 6 | विन्दति | finds | 4.38, 18.46 |
+| विद् (विचारणे) | 7 | विन्ते | considers | rare |
+
+## Like a lotus leaf
+@ex gita:5:10
+split: ब्रह्मणि आधाय कर्माणि सङ्गं त्यक्त्वा करोति यः । लिप्यते न सः पापेन पद्मपत्रम् इव अम्भसा ॥
+anvaya: यः कर्माणि ब्रह्मणि आधाय, सङ्गं त्यक्त्वा करोति, सः, अम्भसा पद्मपत्रम् इव, पापेन न लिप्यते ॥
+w: यः = ఎవడు; कर्माणि = కర్మలను; ब्रह्मणि = బ్రహ్మంలో (పరమాత్మకు); आधाय = సమర్పించి; सङ्गम् = ఆసక్తిని; त्यक्त्वा = వదిలి; करोति = చేస్తాడో; सः = అతడు; पापेन = పాపంతో; न लिप्यते = అంటబడడు; पद्मपत्रम् = తామరాకు; इव = వలె; अम्भसा = నీటితో
+note: लिप्यते is a passive (लिप् "smear") with the instrumental of the thing that would stick: पापेन, अम्भसा (lesson 6.8).
+note: The simile with इव shares the verb: "as a lotus leaf (is not wetted) by water". Sanskrit states the verb once.
+note: आधाय (आ + धा, -य) and त्यक्त्वा (त्यज् + त्वा, with ज् → क्) are absolutives (lesson 7.3). ब्रह्मणि is the locative of the neuter ब्रह्मन् (lesson 4.9).
+note: सः + लिप्यते: सः drops its visarga before a consonant: स पापेन (lesson 8.5).
+@end
+
+> [telugu] తామరాకు మీద నీటిబొట్టు :: The Telugu idiom "తామరాకు మీద నీటిబొట్టులా" for someone untouched by his surroundings comes straight from this verse. Telugu took the simile; Sanskrit gave it the grammar of a passive with the instrumental.
+
+## Moderation
+@ex gita:6:17
+split: युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु । युक्तस्वप्नावबोधस्य योगः भवति दुःखहा ॥
+anvaya: युक्ताहारविहारस्य, कर्मसु युक्तचेष्टस्य, युक्तस्वप्नावबोधस्य (पुरुषस्य) योगः दुःखहा भवति ॥
+w: युक्ताहारविहारस्य = నియమిత ఆహార విహారాలు గలవానికి; कर्मसु = పనులలో; युक्तचेष्टस्य = తగిన ప్రయత్నం చేసేవానికి; युक्तस्वप्नावबोधस्य = నియమిత నిద్ర మెలకువలు గలవానికి; योगः = యోగం; दुःखहा = దుఃఖాన్ని పోగొట్టేది; भवति = అవుతుంది
+note: Three bahuvrīhis in the 6th case, each with a dvandva inside (lesson 9.5): युक्तौ आहारविहारौ यस्य सः, "one whose eating and recreation are measured".
+note: The 6th case "for such a person" is where Telugu uses the dative "-కి" (lesson 2.3).
+note: दुःखहा: दुःखं हन्ति इति, an upapada with -हन्; its nominative is -हा, like राजा (lesson 4.9).
+@end
+
+## Bringing the mind back
+@ex gita:6:26
+split: यतः यतः निश्चरति मनः चञ्चलम् अस्थिरम् । ततः ततः नियम्य एतत् आत्मनि एव वशं नयेत् ॥
+anvaya: चञ्चलम् अस्थिरं मनः यतः यतः निश्चरति, ततः ततः एतत् नियम्य आत्मनि एव वशं नयेत् ॥
+w: चञ्चलम् = చంచలమైన; अस्थिरम् = స్థిరం లేని; मनः = మనసు; यतः यतः = ఎక్కడెక్కడికి (ఏ ఏ కారణం వల్ల); निश्चरति = బయటకు తిరుగుతుందో; ततः ततः = అక్కడక్కడి నుండి; एतत् = దీనిని; नियम्य = అదుపు చేసి; आत्मनि एव = ఆత్మలోనే; वशम् = వశానికి; नयेत् = తీసుకురావాలి
+note: Doubling a relative and its correlative (आम्रेडित) gives "wherever … from there each time": यतो यतो … ततस्ततः. Telugu doubles in exactly the same way (ద్విరుక్తి): ఎక్కడెక్కడ … అక్కడక్కడ.
+note: नयेत् is the optative of नी used for an instruction: "one should bring" (lesson 6.6). वशं नी "bring under control" is a fixed phrase.
+note: नियम्य = नि + यम् + -य (lesson 7.3). मनः + चञ्चलम् → मनश्चञ्चलम् (visarga becomes श् before च, lesson 8.5).
+@end
+
+## The best of yogis
+@ex gita:6:47
+split: योगिनाम् अपि सर्वेषां मद्गतेन अन्तरात्मना । श्रद्धावान् भजते यः मां सः मे युक्ततमः मतः ॥
+anvaya: सर्वेषां योगिनाम् अपि यः श्रद्धावान् मद्गतेन अन्तरात्मना मां भजते, सः मे युक्ततमः मतः ॥
+w: सर्वेषां योगिनाम् अपि = యోగులందరిలోనూ; यः = ఎవడు; श्रद्धावान् = శ్రద్ధ గలవాడై; मद्गतेन = నాలో లగ్నమైన; अन्तरात्मना = అంతరాత్మతో; माम् = నన్ను; भजते = భజిస్తాడో; सः = అతడు; मे = నా అభిప్రాయంలో; युक्ततमः = అత్యంత శ్రేష్ఠమైన యోగి; मतः = అని భావించబడ్డాడు
+note: The partitive genitive with a superlative (निर्धारणे षष्ठी, lesson 11.1): योगिनाम् … युक्ततमः "the most yoked among yogis". Telugu says యోగులలో, with the locative; Sanskrit allows either.
+note: -तम makes a superlative (lesson 10.2). श्रद्धावान् is the -वत् possessive "having faith" (lesson 4.8).
+note: मे मतः "considered by me": with past participles of thinking and knowing, the person is put in the 6th case, not the 3rd (क्तस्य च वर्तमाने, Aṣṭādhyāyī 2.3.67). Compare राज्ञां मतः "esteemed by kings".
+note: मद्गतेन: मयि गतम् "gone to me", a tatpuruṣa with the compound stem मत्- of अस्मद् (lesson 5.1).
+@end
+
+## Chapters 3–6 grammar summary
+| Point | Verse | Lesson |
+|---|---|---|
+| gerundive कार्य | 3.19 | 7.4 |
+| participle + imperative | 3.19 | 7.2, 6.6 |
+| absolutive chain → one imperative | 3.30 | 7.3 |
+| two relative pairs | 4.11 | 11.3 |
+| सदृश with instrumental | 4.38 | 11.2 |
+| the three विद् roots | 4.38 | 6.2 |
+| passive with simile | 5.10 | 6.8 |
+| genitive bahuvrīhis | 6.17 | 9.5 |
+| doubled relatives | 6.26 | 5.3 |
+| superlative with partitive genitive | 6.47 | 10.2, 11.1 |
+| genitive agent with मत | 6.47 | 11.1 |
+
+@quiz
+q: In 3.30, how many finite verbs are there?
+* one: युध्यस्व
+- three: संन्यस्य, भूत्वा, युध्यस्व
+- none
+why: संन्यस्य and भूत्वा are absolutives.
+
+q: तांस्तथैव splits as:
+* तान् तथा एव
+- तां तथा एव
+- तान् तथैव इव
+why: न् + त → ंस्त; a + e → ai.
+
+q: विन्दति means:
+* finds
+- knows
+- exists
+why: विद् class 6.
+
+q: In 5.10, अम्भसा is:
+* instrumental: "by water"
+- ablative: "from water"
+- locative: "in water"
+why: With the passive लिप्यते.
+
+q: दुःखहा is the nominative of:
+* दुःखहन्, "destroyer of sorrow"
+- दुःखहा, a feminine noun
+- दुःखह
+why: -हन् stems have the nominative in -हा.
+
+q: यतो यतो … ततस्ततः is an example of:
+* doubled relative and correlative
+- dvandva
+- reduplicated perfect
+why: आम्रेडित doubling: "wherever … from there".
+
+q: In सः मे युक्ततमः मतः, मे means:
+* by me (in my view)
+- to me
+- my
+why: The 6th case with a past participle of thinking.
+@end

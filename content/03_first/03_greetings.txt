@@ -1,0 +1,104 @@
+@title నమస్కారం · Greetings and introductions
+@summary The phrases spoken Sanskrit uses every day: greetings, thanks, apologies, introducing yourself and asking after someone. Each phrase is taken apart so that you can see the grammar inside it.
+
+## Everyday phrases
+| Sanskrit | Telugu | What's inside |
+|---|---|---|
+| नमस्ते / नमस्कारः | నమస్కారం | नमः "bow" + ते "to you" |
+| नमो नमः | నమో నమః (to many / respectfully) | नमः repeated; ः → ो before न |
+| सुप्रभातम् | శుభోదయం | सु "good" + प्रभातम् "dawn" |
+| शुभरात्रिः | శుభరాత్రి | शुभ + रात्रिः (f.) |
+| स्वागतम् | స్వాగతం | सु + आगतम् "well come" (यण् sandhi) |
+| धन्यवादः | ధన్యవాదాలు | "words of thanks" |
+| क्षम्यताम् | క్షమించండి | passive imperative: "let it be forgiven" |
+| कृपया | దయచేసి | instrumental of कृपा: "with kindness" |
+| अस्तु / भवतु | సరే, అలాగే | "let it be" (लोट्) |
+| चिन्ता मास्तु | పర్వాలేదు | "let there be no worry": मा + अस्तु |
+| पुनः मिलामः | మళ్ళీ కలుద్దాం | "we meet again" |
+| शुभम् अस्तु | శుభం కలుగుగాక | "may there be good" |
+| सर्वं कुशलम् | అంతా బాగుంది | "all (is) well" |
+| जयतु | జయము | "may (he/it) win" |
+| आगच्छतु | రండి | "let (your honour) come" |
+| उपविशतु | కూర్చోండి | "let (your honour) sit" |
+
+> [compare] Polite commands use the 3rd person :: Telugu says రండి, కూర్చోండి with a plural/honorific 2nd person. Sanskrit says आगच्छतु, उपविशतु — "let your honour come / sit" — the 3rd-person imperative that goes with भवान्. To a friend: आगच्छ, उपविश.
+
+## Introducing yourself
+| Sanskrit | Telugu |
+|---|---|
+| भवतः नाम किम्? (to a man) | మీ పేరు ఏమిటి? |
+| भवत्याः नाम किम्? (to a woman) | మీ పేరు ఏమిటి? |
+| मम नाम वेङ्कटः। | నా పేరు వెంకట్. |
+| भवान् कुतः आगच्छति? | మీరు ఎక్కడ నుండి వస్తున్నారు? |
+| अहं विजयवाटिकातः आगच्छामि। | నేను విజయవాడ నుండి వస్తున్నాను. |
+| भवान् कुत्र निवसति? | మీరు ఎక్కడ ఉంటారు? |
+| अहं हैदराबाद-नगरे निवसामि। | నేను హైదరాబాదులో ఉంటాను. |
+| भवान् किं करोति? | మీరు ఏమి చేస్తారు? |
+| अहं अभियन्ता अस्मि। | నేను ఇంజనీరును. |
+| अहं शिक्षकः / शिक्षिका अस्मि। | నేను ఉపాధ్యాయుడిని / ఉపాధ్యాయురాలిని. |
+| मम मातृभाषा तेलुगु। | నా మాతృభాష తెలుగు. |
+| अहं संस्कृतं पठामि। | నేను సంస్కృతం నేర్చుకుంటున్నాను. |
+
+> [memory] -तः = నుండి :: Add -तः to a place name for "from": विजयवाटिकातः, ग्रामतः, गृहतः, अमेरिकातः. It is an indeclinable suffix that works like the ablative, and it is the easiest way to say "from" in speech.
+
+## Asking after someone
+| Sanskrit | Telugu |
+|---|---|
+| कथम् अस्ति भवान्? / भवती? | మీరు ఎలా ఉన్నారు? |
+| कुशली वा? | క్షేమమేనా? |
+| अहं कुशली (m.) / कुशलिनी (f.) | నేను క్షేమంగా ఉన్నాను |
+| गृहे सर्वे कुशलिनः वा? | ఇంట్లో అందరూ క్షేమమేనా? |
+| आम्, सर्वे कुशलिनः। | అవును, అందరూ క్షేమం. |
+| बहु समीचीनम्! | చాలా బాగుంది! |
+
+> [note] कुशली changes for gender :: कुशली (m.), कुशलिनी (f.), कुशलिनः (m. pl.): it is an adjective (कुशलिन् "well") and agrees with the person. Telugu క్షేమం never changes.
+
+@ex
+sa: नमस्ते । मम नाम लक्ष्मीः । भवत्याः नाम किम् ?
+te: నమస్కారం. నా పేరు లక్ష్మి. మీ పేరు ఏమిటి?
+en: Hello. My name is Lakṣmī. What is your name?
+w: नमस्ते = నమస్కారం; मम = నా; नाम = పేరు (neuter, నామ); लक्ष्मीः = లక్ష్మి; भवत्याः = మీ (to a woman, षष्ठी of भवती); किम् = ఏమిటి
+note: लक्ष्मीः keeps its visarga: it is one of the few ई-stems with -ः in the nominative.
+note: भवत्याः is the genitive of the feminine भवती; to a man you would say भवतः.
+@end
+
+@ex
+sa: क्षम्यताम्, अहं विलम्बेन आगतवान् । चिन्ता मास्तु, उपविशतु ।
+te: క్షమించండి, నేను ఆలస్యంగా వచ్చాను. పర్వాలేదు, కూర్చోండి.
+en: Sorry, I came late. Never mind, please sit.
+w: क्षम्यताम् = క్షమించబడుగాక; विलम्बेन = ఆలస్యంగా (తృతీయా); आगतवान् = వచ్చాను (past, m.); चिन्ता = చింత; मास्तु = ఉండకుగాక; उपविशतु = కూర్చోండి
+note: आगतवान् "(I) came" is a past participle with -वत्: the easy past tense of spoken Sanskrit (lesson 3.6). A woman says आगतवती.
+note: विलम्बेन "with delay": the instrumental used as an adverb, like Telugu ఆలస్యంగా.
+@end
+
+@quiz
+q: What does नमस्ते literally mean?
+* "Bow to you": नमः + ते
+- "Good morning"
+- "Thank you"
+why: ते is the short dative of त्वम्: "to you".
+
+q: To ask a woman her name politely:
+* भवत्याः नाम किम्?
+- भवतः नाम किम्?
+- तव नाम कः?
+why: भवती (f.), genitive भवत्याः. भवतः is for a man.
+
+q: "కూర్చోండి" (polite):
+* उपविशतु
+- उपविशामि
+- उपविशसि
+why: 3rd-person imperative with भवान् implied: "let your honour sit".
+
+q: "నేను బెంగళూరు నుండి వస్తున్నాను":
+* अहं बेङ्गलूरुतः आगच्छामि
+- अहं बेङ्गलूरुम् आगच्छामि
+- अहं बेङ्गलूरौ आगच्छामि
+why: -तः = "from". बेङ्गलूरुम् would mean "to Bengaluru".
+
+q: What is a woman's form of "I am well"?
+* अहं कुशलिनी
+- अहं कुशली
+- अहं कुशलः
+why: कुशलिन् agrees with the speaker: कुशली (m.), कुशलिनी (f.).
+@end

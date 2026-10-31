@@ -1,0 +1,108 @@
+@title ఎవరు, ఏది, అందరూ · यद्, किम्, सर्व and friends
+@summary The relative यद् and the interrogative किम् (both decline like तद्), the indefinites कश्चित्, कोऽपि, किञ्चित्, the pronominal adjectives सर्व, अन्य, एक, उभ, the reflexives स्व, स्वयम्, आत्मन्, and the polite भवत्.
+
+## यद् (who, which: relative) and किम् (who? what?)
+Both follow तद् exactly, with य- or क- in place of त-:
+
+| Case | यद् m. | यद् f. | यद् n. | किम् m. | किम् f. | किम् n. |
+|---|---|---|---|---|---|---|
+| 1 sg. | यः | या | यत् | कः | का | किम् |
+| 2 sg. | यम् | याम् | यत् | कम् | काम् | किम् |
+| 3 sg. | येन | यया | येन | केन | कया | केन |
+| 4 sg. | यस्मै | यस्यै | यस्मै | कस्मै | कस्यै | कस्मै |
+| 5 sg. | यस्मात् | यस्याः | यस्मात् | कस्मात् | कस्याः | कस्मात् |
+| 6 sg. | यस्य | यस्याः | यस्य | कस्य | कस्याः | कस्य |
+| 7 sg. | यस्मिन् | यस्याम् | यस्मिन् | कस्मिन् | कस्याम् | कस्मिन् |
+| 1 pl. | ये | याः | यानि | के | काः | कानि |
+| 6 pl. | येषाम् | यासाम् | येषाम् | केषाम् | कासाम् | केषाम् |
+
+> [memory] य…त: relative and correlative :: A Sanskrit relative clause starts with a य-word and the main clause picks it up with a त-word: **यः** … **सः**, **यत्** … **तत्**, **यदा** … **तदा**, **यत्र** … **तत्र**, **यथा** … **तथा**. Telugu does the same with ఏ … ఆ: ఎవడు చేస్తాడో, వాడు పొందుతాడు = यः करोति सः लभते.
+
+## Indefinites: किम् + चित् / चन / अपि
+| Sanskrit | Telugu | Note |
+|---|---|---|
+| कश्चित् / कोऽपि | ఎవడో, ఎవడైనా | कः + चित् / अपि |
+| काचित् / कापि | ఎవరో (స్త్రీ) | |
+| किञ्चित् / किमपि | ఏదో, కొంచెం | न किञ्चित् = ఏమీ లేదు |
+| कदाचित् / कदाचन | ఎప్పుడో, ఎప్పుడైనా | न कदाचन = ఎప్పుడూ కాదు |
+| क्वचित् | ఎక్కడో | |
+| कथञ्चित् | ఏదో విధంగా | |
+| केचित् | కొందరు | |
+
+> [compare] Gītā 2.47 मा फलेषु कदाचन :: "never (have a right) to the fruits": मा + कदाचन = "never". Telugu: ఎప్పుడూ ఫలాల మీద కాదు. Gītā 2.20 न जायते म्रियते वा कदाचित् "it is never born, nor does it die". With न, the indefinite becomes "never / nothing / nobody".
+
+## Pronominal adjectives
+These decline like तद् (pronominal endings), not like राम, in the masculine and neuter dat., abl., loc. sg. and nom. and gen. pl.:
+
+| Word | Meaning | Key forms |
+|---|---|---|
+| सर्व | all, every | सर्वे (all, m. pl.), सर्वस्मै, सर्वस्मिन्, सर्वेषाम्, सर्वासाम् |
+| विश्व | all, whole | विश्वस्मै, विश्वे |
+| अन्य | other | अन्यत् (n. sg.!), अन्ये, अन्यस्मिन् |
+| इतर | other | इतरत्, इतरे |
+| एक | one, a certain | एकस्मै, एकस्मिन्; pl. एके "some" |
+| उभ | both (dual only) | उभौ, उभे, उभाभ्याम्, उभयोः |
+| उभय | both (sg./pl.) | उभयम्, उभये |
+| पूर्व, पर, अवर, दक्षिण, उत्तर | prior, later, south, north… | optional: पूर्वे / पूर्वाः, पूर्वस्मिन् / पूर्वे |
+| स्व | own | स्वे / स्वाः |
+| कतर, कतम | which (of two / many) | कतरत्, कतमत् |
+
+> [warning] अन्यत्, not अन्यम्, for the neuter :: Neuter nominative/accusative singular of अन्य, इतर, कतर, कतम is -त्: अन्यत्, इतरत्, कतरत्. Gītā 7.7 नान्यत् किञ्चिदस्ति "nothing else exists". But सर्व and एक have सर्वम्, एकम् as usual.
+
+## Reflexives: स्व, स्वयम्, आत्मन्
+| Sanskrit | Telugu | Example |
+|---|---|---|
+| स्व- (own; in compounds) | తన, స్వ- | स्वधर्मः "one's own duty" (3.35), स्वजनम् (1.28) |
+| स्वयम् (oneself, indeclinable) | తానే | स्वयं योगसंसिद्धः (4.38) |
+| आत्मन् (self, as reflexive) | తనను తాను | उद्धरेदात्मनाऽऽत्मानम् (6.5) |
+| निज (own) | సొంత | निजकर्मोपात्तम् (Bhaja Govindam 2) |
+
+> [telugu] తాను and आत्मन् :: Telugu reflexive తాను / తన refers back to the subject. Sanskrit uses आत्मन् in any case (आत्मानम्, आत्मना, आत्मनः) for "oneself", स्व- in compounds, and स्वयम् for "by oneself". There is no separate reflexive pronoun table.
+
+## भवत् (your honour)
+भवान् (m.) / भवती (f.) decline like भगवत्: भवान् भवन्तौ भवन्तः, भवन्तम्, भवता, भवते, भवतः, भवति; fem. भवती, भवतीम्, भवत्या, भवत्यै, भवत्याः, भवत्याम्. Always with the **3rd-person** verb: भवान् किं करोति?
+
+@ex gita:3:21
+split: यत् यत् आचरति श्रेष्ठः तत् तत् एव इतरः जनः । सः यत् प्रमाणं कुरुते लोकः तत् अनुवर्तते ॥
+w: यत् यत् = ఏదేది; आचरति = ఆచరిస్తాడో; श्रेष्ठः = శ్రేష్ఠుడు; तत् तत् एव = దానినే; इतरः = ఇతర (pronominal adj.); जनः = జనుడు; सः = అతడు; यत् प्रमाणम् = ఏ ప్రమాణాన్ని; कुरुते = చేస్తాడో; लोकः = లోకం; तत् = దానిని; अनुवर्तते = అనుసరిస్తుంది
+note: यत् … तत्, twice. Telugu ఏది … అదే: the same relative-correlative structure.
+note: इतरः "other" is a pronominal adjective; its nominative singular masculine looks ordinary (इतरः), but its neuter is इतरत्.
+@end
+
+@ex gita:9:22
+note: ये जनाः … तेषाम्: relative ये "those who" picked up by तेषाम् "for them".
+note: अनन्याः "having no other": अन्य with the negative अन्-, plural to agree with जनाः.
+note: योगक्षेमं वहाम्यहम् "I carry their welfare": the main clause.
+@end
+
+@quiz
+q: Dative singular masculine of सर्व:
+* सर्वस्मै
+- सर्वाय
+- सर्वस्य
+why: सर्व is a sarvanāma and takes the pronominal endings.
+
+q: "Nothing else exists" (Gītā 7.7):
+* नान्यत् किञ्चिदस्ति
+- नान्यं किञ्चिदस्ति
+- नान्यः कश्चिदस्ति
+why: The neuter of अन्य is अन्यत्; किञ्चित् "anything".
+
+q: What does कदाचन mean with मा or न?
+* never
+- always
+- sometimes only
+why: मा फलेषु कदाचन (2.47): "never to the fruits".
+
+q: The correlative of यत्र (where…) is:
+* तत्र (there)
+- कुत्र
+- सर्वत्र
+why: य-words relate, त-words pick up: यत्र … तत्र (18.78).
+
+q: How does भवान् take its verb?
+* 3rd person: भवान् करोति
+- 2nd person: भवान् करोषि
+- 1st person
+why: भवत् is grammatically "your honour", so the verb is 3rd person.
+@end

@@ -1,0 +1,116 @@
+@title నేను, నువ్వు, అతడు · I, you, he: the present tense
+@summary Your first nine verb forms. The pronouns अहम्, त्वम्, सः, सा, the polite भवान्, the verb "to be", and everyday verbs in the present (लट्).
+
+## The pronouns
+| Telugu | Sanskrit | Note |
+|---|---|---|
+| నేను | अहम् | |
+| నువ్వు | त्वम् | to friends, children, God (in prayer) |
+| మీరు (respect) | भवान् (m.) / भवती (f.) | takes the **3rd person** verb |
+| అతడు / వాడు | सः | |
+| ఆమె | सा | |
+| అది | तत् | |
+| ఇతడు / ఇది | एषः / एषा / एतत् | this (near) |
+| మేము / మనము | वयम् | |
+| మీరు (plural) | यूयम् / भवन्तः | |
+| వారు | ते (m.) / ताः (f.) / तानि (n.) | |
+
+> [compare] భవాన్ is "your honour" :: Telugu మీరు takes a 2nd-person verb (మీరు వచ్చారు). Sanskrit भवान् literally means "your honour" and takes the 3rd-person verb: भवान् कुत्र गच्छति? "Where is your honour going?" = మీరు ఎక్కడికి వెళ్తున్నారు?
+
+## The present tense: -ति, -सि, -मि
+Take the stem **पठ** (read) and add these endings. This set (भ्वादि परस्मैपद) covers thousands of verbs.
+
+| Person | Singular | Dual | Plural |
+|---|---|---|---|
+| ప్రథమ (he/she/it) | पठति | पठतः | पठन्ति |
+| మధ్యమ (you) | पठसि | पठथः | पठथ |
+| ఉత్తమ (I / we) | पठामि | पठावः | पठामः |
+
+> [memory] తి తః అంతి · సి థః థ · ఆమి ఆవః ఆమః :: Chant the endings in rows: -ति -तः -अन्ति, -सि -थः -थ, -आमि -आवः -आमः. In the ఉత్తమ row the stem vowel becomes long: पठामि, पठावः, पठामः. Then chant any verb with them: गच्छति गच्छतः गच्छन्ति…
+
+> [telugu] Telugu endings to compare :: Telugu: చదువుతాడు / చదువుతావు / చదువుతాను, plural చదువుతారు / చదువుతారు / చదువుతాము. Telugu has 3 + 3 forms plus gender (చదువుతుంది); Sanskrit has 3 × 3 = 9 and no gender.
+
+## Everyday verbs
+| Sanskrit | Telugu | Root |
+|---|---|---|
+| गच्छति | వెళ్తాడు | गम् |
+| आगच्छति | వస్తాడు | आ + गम् |
+| पठति | చదువుతాడు | पठ् |
+| लिखति | రాస్తాడు | लिख् |
+| वदति | మాట్లాడతాడు / చెప్తాడు | वद् |
+| पश्यति | చూస్తాడు | दृश् |
+| खादति | తింటాడు | खाद् |
+| पिबति | తాగుతాడు | पा |
+| तिष्ठति | నిలబడతాడు | स्था |
+| उपविशति | కూర్చుంటాడు | उप + विश् |
+| धावति | పరిగెత్తుతాడు | धाव् |
+| हसति | నవ్వుతాడు | हस् |
+| स्मरति | గుర్తుచేసుకుంటాడు | स्मृ |
+| नमति | నమస్కరిస్తాడు | नम् |
+| पृच्छति | అడుగుతాడు | प्रच्छ् |
+| जानाति | ఎరుగును (తెలుసు) | ज्ञा |
+| इच्छति | కోరుతాడు | इष् |
+| करोति | చేస్తాడు | कृ |
+
+> [note] Not all verbs look the same :: गच्छति, पश्यति, तिष्ठति, पिबति, जानाति, करोति have stems that differ from their roots (गम् → गच्छ, दृश् → पश्य, स्था → तिष्ठ, पा → पिब). Learn the 3rd person singular form; the endings are then regular (except करोति and जानाति, Unit 6).
+
+## The verb "to be": अस्
+| Person | Singular | Dual | Plural |
+|---|---|---|---|
+| ప్రథమ | अस्ति | स्तः | सन्ति |
+| మధ్యమ | असि | स्थः | स्थ |
+| ఉత్తమ | अस्मि | स्वः | स्मः |
+
+@ex gita:10:20
+note: अहम् आत्मा "I (am) the Self" — no verb: the "is" sentence of the bridge unit.
+note: Gītā 10.21 continues with मरीचिर्मरुताम् अस्मि "among the Maruts I am Marīci": अस्मि is ఉత్తమ ఏకవచనం of अस्.
+@end
+
+@ex
+sa: अहं पठामि । त्वं लिखसि । सः गच्छति । सा हसति ।
+te: నేను చదువుతున్నాను. నువ్వు రాస్తున్నావు. అతడు వెళ్తున్నాడు. ఆమె నవ్వుతోంది.
+en: I read. You write. He goes. She laughs.
+w: अहम् = నేను; पठामि = చదువుతున్నాను; त्वम् = నువ్వు; लिखसि = రాస్తున్నావు; सः = అతడు; गच्छति = వెళ్తున్నాడు; सा = ఆమె; हसति = నవ్వుతోంది
+note: सः and सा take the same verb form: Sanskrit verbs don't show gender.
+@end
+
+@ex
+sa: वयं गीतां पठामः । भवान् किं करोति ? अहं संस्कृतं पठामि ।
+te: మేము గీత చదువుతున్నాము. మీరు ఏమి చేస్తున్నారు? నేను సంస్కృతం చదువుతున్నాను.
+en: We are reading the Gītā. What are you doing? I am studying Sanskrit.
+w: वयम् = మేము; गीताम् = గీతను; पठामः = చదువుతున్నాము; भवान् = మీరు; किम् = ఏమి; करोति = చేస్తున్నారు (3rd person!); संस्कृतम् = సంస్కృతం
+note: भवान् … करोति: 3rd-person verb for the polite "you".
+note: The Sanskrit present covers both "I read" and "I am reading", like Telugu చదువుతున్నాను / చదువుతాను.
+@end
+
+@quiz
+q: "నువ్వు వెళ్తున్నావు" in Sanskrit:
+* त्वं गच्छसि
+- त्वं गच्छति
+- त्वं गच्छामि
+why: मध्यम पुरुष singular: -सि.
+
+q: "మీరు ఎక్కడికి వెళ్తున్నారు?" (polite, to a man):
+* भवान् कुत्र गच्छति?
+- भवान् कुत्र गच्छसि?
+- त्वं कुत्र गच्छति?
+why: भवान् takes the 3rd-person verb.
+
+q: What is the 1st person plural of पठ्?
+* पठामः
+- पठमः
+- पठन्ति
+why: In the ఉత్తమ forms the stem vowel lengthens: पठामि, पठावः, पठामः.
+
+q: "They two are going":
+* तौ गच्छतः
+- ते गच्छन्ति
+- तौ गच्छन्ति
+why: Dual subject, dual verb (-तः).
+
+q: Which form is "I am"?
+* अस्मि
+- अस्ति
+- असि
+why: अस्ति (he is), असि (you are), अस्मि (I am).
+@end

@@ -1,0 +1,111 @@
+@title అచ్చులు · Vowels (स्वराः)
+@summary The thirteen Sanskrit vowels, their signs in both scripts, short and long, the diphthongs, and the vowels Telugu has but Sanskrit lacks.
+
+## హ్రస్వం, దీర్ఘం, ప్లుతం
+Sanskrit measures vowels in **mātrās** (beats). A short vowel (హ్రస్వం, ह्रस्वः) is one mātrā, a long one (దీర్ఘం, दीर्घः) is two, and a prolonged vowel (ప్లుతం, प्लुतः), used in calling out and in Vedic chant, is three. Telugu uses exactly the same terms.
+
+> [sutra] ऊकालोऽज्झ्रस्वदीर्घप्लुतः (1.2.27) :: A vowel lasting one, two or three times the time of the sound "u" is called hrasva, dīrgha or pluta.
+
+@literal
+| Vowel | దేవనాగరి | Sign | తెలుగు | Sign | IAST | Length |
+|---|---|---|---|---|---|---|
+| a | अ | (none) | అ | (none) | a | short |
+| ā | आ | ा | ఆ | ా | ā | long |
+| i | इ | ि | ఇ | ి | i | short |
+| ī | ई | ी | ఈ | ీ | ī | long |
+| u | उ | ु | ఉ | ు | u | short |
+| ū | ऊ | ू | ఊ | ూ | ū | long |
+| ṛ | ऋ | ृ | ఋ | ృ | ṛ | short |
+| ṝ | ॠ | ॄ | ౠ | ౄ | ṝ | long |
+| ḷ | ऌ | ॢ | ఌ | ౢ | ḷ | short |
+| e | ए | े | ఏ | ే | e | long (always) |
+| ai | ऐ | ै | ఐ | ై | ai | long |
+| o | ओ | ो | ఓ | ో | o | long (always) |
+| au | औ | ौ | ఔ | ౌ | au | long |
+
+> [warning] ए and ओ are always long :: Telugu has short ఎ, ఒ and long ఏ, ఓ. Sanskrit has only the long ones. देव is దేవ, never దెవ; लोक is లోక, never లొక. When you write Sanskrit in Telugu script, always use ే and ో. (Many Telugu books print ె and ొ for Sanskrit; read them as long.)
+
+## సమానాక్షరాలు, సంధ్యక్షరాలు
+**Simple vowels** (సమానాక్షరాలు): अ इ उ ऋ ऌ and their long forms. **Diphthongs** (సంధ్యక్షరాలు, सन्ध्यक्षराणि): ए ऐ ओ औ, so called because each was once a blend of two sounds:
+
+@literal
+| Diphthong | Made from | Shows up in sandhi |
+|---|---|---|
+| ए e | अ + इ | देव + इन्द्र → देवेन्द्र |
+| ओ o | अ + उ | सूर्य + उदय → सूर्योदय |
+| ऐ ai | आ + ए (a + ai) | सदा + एव → सदैव |
+| औ au | आ + ओ | वन + ओषधि → वनौषधि |
+
+This table is the heart of vowel sandhi (Unit 8), and the reason ए and ओ are counted long: they are two vowels fused.
+
+> [telugu] గుణ, వృద్ధి సంధులు :: Your school Telugu grammar already teaches these as Sanskrit sandhis used in Telugu: గుణసంధి (అ + ఇ = ఏ, అ + ఉ = ఓ, అ + ఋ = అర్) and వృద్ధిసంధి (అ + ఏ = ఐ, అ + ఓ = ఔ). They are exactly Pāṇini's rules.
+
+## ऋ — the vowel r
+ऋ is a **vowel**: a syllabic r, sounded as the core of a syllable. Southern traditions, including most Telugu pandits and vedic reciters, say it as a short రు (కృష్ణ ≈ క్రుష్ణ); the north says रि (क्रिष्ण). Both are traditional. What matters is that it stays **short** and counts as **one vowel**: kṛ-ṣṇa is two syllables, and the కృ syllable is light (one mātrā), which matters for metre.
+
+> [memory] ऋ is the vowel of ऋषि and कृष्ण :: Remember the vowel through words you say daily: ऋषि (sage), ऋतु (season), कृपा, कृष्ण, हृदय, मृत्यु, पितृ, मातृ. In each, ृ makes the syllable; there is no separate vowel after the r.
+
+> [note] ॠ, ऌ, ॡ :: Long ॠ appears mostly in grammar (pl. पितॄन्, "fathers", acc.). ऌ appears in one common root, क्लृप् (to be fit: कल्पते, क्लृप्त). ॡ is listed by grammarians but occurs in no real word.
+
+## What Telugu has that Sanskrit lacks
+@literal
+| Telugu letter | Why Sanskrit lacks it |
+|---|---|
+| ఎ, ె (short e) | Dravidian sound; Sanskrit has only ए |
+| ఒ, ొ (short o) | Dravidian; Sanskrit has only ओ |
+| అఁ (అర్ధానుస్వారం) | old Telugu half-nasal; Sanskrit uses ँ only in Vedic and in sandhi of म् |
+| ఱ (బండి ర) | old Telugu alveolar r; Sanskrit has one र |
+| ౘ, ౙ (dental చ, జ) | old Telugu tsa, dza; Sanskrit च ज are palatal only |
+| ఴ | old Telugu ḻ; not Sanskrit |
+
+## Practise the vowel signs
+@literal
+@nocards
+| దేవనాగరి | తెలుగు |
+|---|---|
+| क का कि की कु कू कृ कॄ के कै को कौ कं कः | క కా కి కీ కు కూ కృ కౄ కే కై కో కౌ కం కః |
+| ग गा गि गी गु गू गृ गे गै गो गौ | గ గా గి గీ గు గూ గృ గే గై గో గౌ |
+| म मा मि मी मु मू मृ मे मै मो मौ | మ మా మి మీ ము మూ మృ మే మై మో మౌ |
+
+> [warning] Watch र + ु and र + ू :: In Devanagari र takes its u-signs on the side, not below: रु (ru), रू (rū). And हृ is ह + ृ (hṛ), as in हृदय.
+
+@ex
+sa: [[अजो नित्यः शाश्वतोऽयं पुराणो]]
+te: అజః నిత్యః శాశ్వతః అయం పురాణః — ఇతడు పుట్టుకలేనివాడు, నిత్యుడు, శాశ్వతుడు, పురాతనుడు.
+en: Unborn, eternal, everlasting, ancient is this (Self). (Gītā 2.20)
+note: Find each vowel sign: अ (independent) · ो on ज, त, ण · ि on न · ा on श, ण · ु on प.
+note: ऽ (avagraha) shows that an अ has dropped after ओ: शाश्वतो + अयं → शाश्वतोऽयं. It is not pronounced.
+@end
+
+@quiz
+q: In Sanskrit, how long is ए?
+* Always long (two mātrās)
+- Short or long, as in Telugu
+- Always short
+why: Sanskrit has no short e or o. Write and say దేవ, లోక with long vowels.
+
+q: Which two vowels combine to make ओ?
+* अ + उ
+- अ + इ
+- आ + औ
+why: a + u = o (గుణసంధి): सूर्य + उदय → सूर्योदय.
+
+q: How many syllables does कृष्ण have?
+* Two: kṛ-ṣṇa
+- Three: kru-ṣa-ṇa
+- One
+why: ऋ is a vowel, so कृ is one syllable. The ṣṇ cluster starts the second.
+
+q: What does ऽ (avagraha) mark?
+* An अ dropped after ए or ओ in sandhi
+- A long vowel
+- A pause in chanting
+why: शाश्वतः + अयम् → शाश्वतोऽयम्. The ऽ is silent.
+
+q: Which letter is not used in Sanskrit?
+* ఱ
+- ఋ
+- ఞ
+- ళ
+why: ఱ is a Telugu letter. ఋ, ఞ are Sanskrit; ळ is used in Vedic Sanskrit and in South Indian recitation.
+@end

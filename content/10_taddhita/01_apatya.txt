@@ -1,0 +1,105 @@
+@title అపత్యార్థక తద్ధితాలు · Descendants and "belonging to"
+@summary Why Arjuna is पार्थ, कौन्तेय and भारत, and Kṛṣṇa is वासुदेव and वार्ष्णेय: the patronymic suffixes अण्, इञ्, ढक् with vṛddhi of the first vowel, the matching "related to" adjectives (वैष्णव, शैव, दैव, वैदिक, धार्मिक), and how Telugu uses the same words.
+
+## What a taddhita is
+A **taddhita** suffix is added to a noun (not a root) to make a new noun or adjective (तद्धिताः 4.1.76). Compare: कृत् suffixes (unit 7) are added to roots. The name means "good for that": तस्मै हितम्.
+
+> [memory] Vṛddhi of the first vowel :: Most taddhita suffixes with ञ्, ण् or क् as markers strengthen the first vowel to vṛddhi (तद्धितेष्वचामादेः 7.2.117, किति च 7.2.118): अ → आ, इ / ई / ए → ऐ, उ / ऊ / ओ → औ, ऋ → आर्. पाण्डु → **पा**ण्डवः, कुन्ती → **कौ**न्तेयः, शिव → **शै**वः, विष्णु → **वै**ष्णवः, पृथा → **पा**र्थः. When a name begins with आ, ऐ or औ and you don't recognise it, try undoing vṛddhi.
+
+## Descendant of (अपत्य)
+| Name | Base + suffix | Meaning | Telugu |
+|---|---|---|---|
+| पाण्डवः | पाण्डु + अण् (-अ) | son of Pāṇḍu | పాండవుడు |
+| पार्थः | पृथा + अण् (-अ) | son of Pṛthā (Kuntī) | పార్థుడు |
+| वासुदेवः | वसुदेव + अण् (-अ) | son of Vasudeva | వాసుదేవుడు |
+| कौरवः | कुरु + अण् (-अ) | descendant of Kuru | కౌరవుడు |
+| राघवः | रघु + अण् (-अ) | descendant of Raghu | రాఘవుడు |
+| मानवः | मनु + अण् (-अ) | descendant of Manu = human | మానవుడు |
+| भारतः | भरत + अण् (-अ) | descendant of Bharata | భారతుడు |
+| धार्तराष्ट्रः | धृतराष्ट्र + अण् (-अ) | son of Dhṛtarāṣṭra | ధార్తరాష్ట్రుడు |
+| सौभद्रः (1.6) | सुभद्रा + अण् (-अ) | son of Subhadrā | సౌభద్రుడు (అభిమన్యుడు) |
+| दाशरथिः | दशरथ + इञ् (-इ) | son of Daśaratha | దాశరథి |
+| सौमित्रिः | सुमित्रा + इञ् (-इ) | son of Sumitrā | సౌమిత్రి |
+| द्रौणिः | द्रोण + इञ् (-इ) | son of Droṇa | ద్రౌణి (అశ్వత్థామ) |
+| कौन्तेयः | कुन्ती + ढक् (-एय) | son of Kuntī | కౌంతేయుడు |
+| गाङ्गेयः | गङ्गा + ढक् (-एय) | son of Gaṅgā (Bhīṣma) | గాంగేయుడు |
+| राधेयः | राधा + ढक् (-एय) | son of Rādhā (Karṇa) | రాధేయుడు |
+| वैनतेयः | विनता + ढक् (-एय) | son of Vinatā (Garuḍa) | వైనతేయుడు |
+| वार्ष्णेयः (1.41) | वृष्णि + ढक् (-एय) | of the Vṛṣṇi clan | వార్ష్ణేయుడు |
+| द्रौपदेयाः (1.6) | द्रौपदी + ढक् (-एय) | sons of Draupadī | ద్రౌపదేయులు |
+
+> [compare] Telugu names are full of these :: దాశరథి, సౌమిత్రి, జానకి, మైథిలి, వైదేహి (Sītā: from జనక, మిథిలా, విదేహ), భార్గవి, పార్వతి (పర్వత → daughter of the mountain), గాంగేయుడు, రాఘవ, మాధవ (from మధు). Every one is a taddhita with vṛddhi.
+
+## Feminine descendants
+- -ई after अण् / इञ्: जनक → जानकी, विदेह → वैदेही, मिथिला → मैथिली, पर्वत → पार्वती, द्रुपद → द्रौपदी, भृगु → भार्गवी.
+- -आयनी, -एयी: rare.
+
+## "Belonging to, coming from" (शैषिक and others)
+The same suffixes make adjectives meaning "of, related to, devoted to":
+
+| Base | Adjective | Meaning | Telugu |
+|---|---|---|---|
+| शिव | शैवः | devoted to Śiva | శైవుడు |
+| विष्णु | वैष्णवः | devoted to Viṣṇu | వైష్ణవుడు |
+| देव | दैवः / दैवी (16.5) | divine | దైవం, దైవీ |
+| असुर | आसुरः / आसुरी (16.5) | demonic | ఆసురం |
+| मनस् | मानसः / मानसम् | mental | మానసికం |
+| शरीर | शारीरः | bodily | శారీరకం |
+| सूर्य | सौरः | solar | సౌరశక్తి |
+| चन्द्र | चान्द्रः | lunar | చాంద్రమానం |
+| भूमि | भौमः | earthly (Mars) | భౌమవారం |
+| गुरु | गौरवम् | weight, respect | గౌరవం |
+
+## -इक (ठक्): "dealing with, made of, connected with"
+| Base | Adjective | Telugu |
+|---|---|---|
+| वेद | वैदिकः | వైదికం |
+| धर्म | धार्मिकः | ధార్మికుడు |
+| लोक | लौकिकः | లౌకికం |
+| इतिहास | ऐतिहासिकः | ఐతిహాసికం |
+| समाज | सामाजिकः | సామాజికం |
+| संसार | सांसारिकः | సాంసారికం |
+| अध्यात्म | आध्यात्मिकः | ఆధ్యాత్మికం |
+| नीति | नैतिकः | నైతికం |
+
+> [memory] Modern Telugu coins them freely :: సామాజిక, ఆర్థిక (from అర్థ), రాజకీయ (from రాజక + ఈయ), ఆధునిక (from అధునా), వైజ్ఞానిక (from విజ్ఞాన): all taddhitas with vṛddhi and -इक / -ईय. Once you know the rule, you can analyse every newspaper headline.
+
+@ex gita:1:41
+note: वार्ष्णेय "O descendant of Vṛṣṇi": ढक् (-एय) with vṛddhi (वृ → वा). कुलस्त्रियः "women of the family": ṣaṣṭhī tatpuruṣa.
+@end
+
+@ex gita:1:25
+note: पार्थ "O son of Pṛthā": अण् with vṛddhi (पृ → पा). कुरून्: plural of कुरु "the Kurus". महीक्षिताम् "of the kings" (upapada: महीं क्षियन्ति "who rule the earth").
+@end
+
+@quiz
+q: कौन्तेयः is formed from:
+* कुन्ती + ढक् (-एय), with vṛddhi
+- कौन्त + इय
+- कुन्त + अण्
+why: कु → कौ; -ई drops before -एय.
+
+q: दाशरथिः means:
+* son of Daśaratha
+- ten chariots
+- a charioteer
+why: दशरथ + इञ् (-इ), with vṛddhi द → दा.
+
+q: The taddhita adjective from धर्म meaning "righteous":
+* धार्मिकः
+- धर्मिकः
+- धर्मीयः
+why: -इक (ठक्) with vṛddhi.
+
+q: Which is a descendant of Pāṇḍu?
+* पाण्डवः
+- पण्डितः
+- पाण्डुरः
+why: पाण्डु + अण्.
+
+q: A taddhita suffix is added to:
+* a noun (prātipadika)
+- a root
+- a verb form
+why: Kṛt suffixes go on roots; taddhitas on nouns.
+@end

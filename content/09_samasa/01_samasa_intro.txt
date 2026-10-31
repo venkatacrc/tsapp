@@ -1,0 +1,91 @@
+@title సమాస పరిచయం · What a compound is, and the four families
+@summary A compound (సమాసం) drops the case endings of all members but the last. The విగ్రహ వాక్యం that unpacks it, the four families named by which member "leads" (మొదటిది, చివరిది, రెండూ, వేరేది), gender and number of compounds, and the rare compounds that keep an inner ending (युधिष्ठिरः, धनञ्जयः).
+
+## What happens in a compound
+Two or more words that are connected in meaning (समर्थः पदविधिः 2.1.1) are joined into one word. Every member except the last loses its case ending (सुपो धातुप्रातिपदिकयोः 2.4.71), and the whole compound takes one ending at the end:
+
+- राज्ञः पुरुषः "the king's man" → राजपुरुषः
+- पीतम् अम्बरं यस्य सः "he whose garment is yellow" → पीताम्बरः
+- रामः च लक्ष्मणः च "Rāma and Lakṣmaṇa" → रामलक्ष्मणौ
+
+> [compare] విగ్రహ వాక్యం = विग्रहवाक्यम् :: Your Telugu grammar asked you to give the విగ్రహ వాక్యం for every సమాసం: రాజు యొక్క భటుడు → రాజభటుడు (షష్ఠీ తత్పురుష). Sanskrit commentators do exactly this, in Sanskrit: राज्ञः पुरुषः इति राजपुरुषः (षष्ठीतत्पुरुषः). The whole unit is practice in writing विग्रहवाक्यs.
+
+## The four families
+> [memory] Who leads? :: पूर्वपदार्थप्रधानः अव्ययीभावः, उत्तरपदार्थप्रधानः तत्पुरुषः, उभयपदार्थप्रधानः द्वन्द्वः, अन्यपदार्थप्रधानः बहुव्रीहिः. "First member leads: avyayībhāva. Last leads: tatpuruṣa. Both lead: dvandva. Someone else leads: bahuvrīhi." Telugu: మొదటిది, చివరిది, రెండూ, మరొకటి.
+
+| Family | Which meaning leads | Example | Vigraha | Telugu |
+|---|---|---|---|---|
+| अव्ययीभाव | the first (an indeclinable) | यथाशक्ति | शक्तिम् अनतिक्रम्य | శక్తి మేరకు |
+| तत्पुरुष (with कर्मधारय, द्विगु) | the last | राजपुरुषः | राज्ञः पुरुषः | రాజు యొక్క భటుడు |
+| द्वन्द्व | both / all | रामलक्ष्मणौ | रामः च लक्ष्मणः च | రాముడు, లక్ష్మణుడు |
+| बहुव्रीहि | something outside | पीताम्बरः | पीतम् अम्बरं यस्य सः | పచ్చని వస్త్రం గలవాడు (విష్ణువు) |
+
+## Telugu school types and Sanskrit names
+| Telugu name | Sanskrit | Example |
+|---|---|---|
+| ప్రథమా … సప్తమీ తత్పురుష | द्वितीया- … सप्तमीतत्पुरुषः | గ్రామగతుడు, ధనహీనుడు, దేవాలయం |
+| నఞ తత్పురుష | नञ्तत्पुरुषः | అధర్మం, అనంతం |
+| విశేషణ పూర్వపద కర్మధారయ | विशेषणपूर्वपदकर्मधारयः | నీలోత్పలం, మహారాజు |
+| ఉపమాన పూర్వపద / ఉత్తరపద కర్మధారయ | उपमानपूर्वपद / उपमितकर्मधारयः | ఘనశ్యాముడు, పురుషసింహం |
+| సంభావనా పూర్వపద కర్మధారయ | सम्भावनापूर्वपदः | గంగానది, కృష్ణానది |
+| రూపక సమాసం | रूपककर्मधारयः / मयूरव्यंसकादि | విద్యాధనం, పాదపద్మం |
+| ద్విగు | द्विगुः | త్రిలోకాలు, పంచవటి |
+| ద్వంద్వ | द्वन्द्वः | రామలక్ష్మణులు, తల్లిదండ్రులు |
+| బహువ్రీహి | बहुव्रीहिः | చక్రపాణి, నీలకంఠుడు |
+| అవ్యయీభావ | अव्ययीभावः | యథాశక్తి, ప్రతిదినం |
+
+> [warning] వైరి సమాసం :: Telugu grammar treats a compound that joins a Sanskrit word and a native Telugu word with Sanskrit rules as a fault (వైరి సమాసం); say రాజపుత్రుడు (all Sanskrit) or రాజుకొడుకు (Telugu style). Sanskrit has no such problem, since all members are Sanskrit, but the habit helps: in a Sanskrit compound, every member is a bare Sanskrit stem.
+
+## Gender, number and endings
+- **Tatpuruṣa, karmadhāraya:** gender of the last member: राजपुरुषः (m.), देवालयः (m.), राजकन्या (f.).
+- **Dvandva (itaretara):** gender of the last member, number = total count: रामलक्ष्मणौ (dual), रामलक्ष्मणभरताः (plural).
+- **Dvandva (samāhāra):** neuter singular: पाणिपादम्, शीतोष्णम्.
+- **Bahuvrīhi:** an adjective; takes the gender of the person or thing described: पीताम्बरः (Viṣṇu), पीताम्बरा (a woman).
+- **Avyayībhāva:** indeclinable, usually neuter -म्: यथाशक्ति, प्रतिदिनम्, उपकृष्णम्.
+
+## Compounds that keep an inner ending (अलुक्)
+| Word | Members | Meaning |
+|---|---|---|
+| युधिष्ठिरः | युधि (7th) + स्थिरः | steady in battle |
+| धनञ्जयः | धनम् (2nd) + जयः | winner of wealth (2.48) |
+| परन्तपः | परम् (2nd) + तपः | scorcher of foes |
+| सरसिजम् | सरसि (7th) + जम् | born in a lake = lotus |
+| वाचस्पतिः | वाचः (6th) + पतिः | lord of speech |
+| परस्मैपदम्, आत्मनेपदम् | परस्मै / आत्मने (4th) + पदम् | word for another / for oneself |
+| अन्तेवासी | अन्ते (7th) + वासी | living near = pupil |
+
+@ex gita:1:16
+note: कुन्तीपुत्रः "son of Kuntī" (षष्ठीतत्पुरुषः: कुन्त्याः पुत्रः); युधिष्ठिरः (अलुक्: युधि स्थिरः); अनन्तविजयम् (बहुव्रीहि-type name: "whose victory is endless", the conch); सुघोषमणिपुष्पकौ (द्वन्द्व, dual: the conches Sughoṣa and Maṇipuṣpaka).
+@end
+
+@quiz
+q: In which compound does an outside thing "lead"?
+* बहुव्रीहि
+- तत्पुरुष
+- द्वन्द्व
+why: अन्यपदार्थप्रधानः बहुव्रीहिः: पीताम्बरः describes Viṣṇu.
+
+q: The vigraha of राजपुरुषः:
+* राज्ञः पुरुषः
+- राजा च पुरुषः च
+- राजा पुरुषः यस्य
+why: षष्ठीतत्पुरुषः: the king's man.
+
+q: युधिष्ठिरः keeps युधि because:
+* it is an अलुक् compound (the 7th case ending is kept)
+- युधि is the stem
+- it is not a compound
+why: युधि स्थिरः "steady in battle".
+
+q: रामलक्ष्मणौ is in the dual because:
+* it is an itaretara dvandva of two persons
+- लक्ष्मण is dual
+- all compounds are dual
+why: Number = total count of members.
+
+q: Which family has an indeclinable as the leading first member?
+* अव्ययीभाव
+- द्विगु
+- कर्मधारय
+why: यथाशक्ति, प्रतिदिनम्.
+@end

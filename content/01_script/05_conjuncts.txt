@@ -1,0 +1,104 @@
+@title సంయుక్తాక్షరాలు · Conjuncts (संयुक्ताक्षराणि)
+@summary How Devanagari joins consonants, compared with Telugu ఒత్తులు. The special shapes of र, क्ष, ज्ञ, त्र, श्र, द्य, the common Gītā clusters, and how to read a long cluster.
+
+## ఒత్తు vs half letter
+In Telugu, the second consonant of a cluster goes **below** as an ఒత్తు: క్త, స్త, ప్ర, ద్ధ. In Devanagari, the first consonant usually loses its vertical bar and becomes a **half letter** joined to the next: क्त, स्त, प्य. Letters without a vertical bar (ड, ट, द, ह…) stack instead, or use the virāma.
+
+@literal
+| Kind | Devanagari | Telugu | Rule |
+|---|---|---|---|
+| half letter | स्त, न्य, प्त, ष्ण, त्स | స్త, న్య, ప్త, ష్ణ, త్స | first letter drops its bar |
+| stacked | द्ध, ट्ट, ड्ड, द्व | ద్ధ, ట్ట, డ్డ, ద్వ | letters without a bar stack |
+| with virāma | द्भ or द्‍भ, ङ्क | ద్భ, ఙ్క | when no ligature exists |
+| special shape | क्ष, ज्ञ, त्र, श्र, द्य, ह्म, ह्य | క్ష, జ్ఞ, త్ర, శ్ర, ద్య, హ్మ, హ్య | must be learnt as shapes |
+
+## Three shapes of र
+@literal
+| Form | Devanagari | Telugu | Example |
+|---|---|---|---|
+| र before a consonant (रेफ) | a small hook on top of the next letter: र्म | ర్మ (ర with మ ఒత్తు) | धर्म ధర్మ, कर्म కర్మ, सूर्य సూర్య, पूर्ण పూర్ణ |
+| र after a consonant | a slanting stroke at the foot: प्र, क्र, ग्र | ప్ర, క్ర, గ్ర (ర ఒత్తు) | प्रभु, क्रोध, ग्राम |
+| र after ट, ड, द, छ | a caret at the bottom: ट्र, द्र | ట్ర, ద్ర | राष्ट्र, उष्ट्र, चन्द्र, इन्द्र |
+
+> [memory] Hook above = ర first; foot stroke = ర second :: The रेफ hook is drawn on top of the next letter but is **said first**: र्म is rm (धर्म = dharma). The slanted foot ्र is **said second**: प्र is pr. If the hook sits over a vowel sign, it still goes before the whole cluster: सूर्य = sū-rya.
+
+## Shapes to learn by heart
+@literal
+| Devanagari | Telugu | Made of | Example |
+|---|---|---|---|
+| क्ष | క్ష | क् + ष | क्षेत्र, लक्ष्मी, मोक्ष |
+| ज्ञ | జ్ఞ | ज् + ञ | ज्ञान, यज्ञ, आज्ञा |
+| त्र | త్ర | त् + र | मन्त्र, पुत्र, मित्र |
+| श्र | శ్ర | श् + र | श्री, श्रद्धा, श्रवण |
+| द्य | ద్య | द् + य | विद्या, अद्य |
+| द्व | ద్వ | द् + व | द्वार, द्वन्द्व |
+| द्ध | ద్ధ | द् + ध | बुद्ध, युद्ध, शुद्ध |
+| द्भ | ద్భ | द् + भ | उद्भव |
+| द्म | ద్మ | द् + म | पद्म |
+| ह्म | హ్మ | ह् + म | ब्रह्म |
+| ह्य | హ్య | ह् + य | गुह्य, सह्य |
+| ह्र | హ్ర | ह् + र | ह्रस्व |
+| ह्व | హ్వ | ह् + व | आह्वान |
+| त्त | త్త | त् + त | उत्तम, चित्त |
+| श्च | శ్చ | श् + च | पश्चात्, च (रामश्च) |
+| ङ्ग | ఙ్గ | ङ् + ग | अङ्ग, गङ्गा |
+| ञ्च | ఞ్చ | ञ् + च | पञ्च |
+| ष्ट्र | ష్ట్ర | ष् + ट् + र | राष्ट्र |
+| त्स्न | త్స్న | त् + स् + न | कृत्स्न (Gītā 3.29) |
+
+> [warning] ज्ञ is jña, not gna or gya :: Telugu speech usually says జ్ఞానం as "gnyānam". The letters are ज् + ञ, and the śikṣā sound is "jña", with the tongue at the palate for both. Regional habits (gnya in the south, gya or dnya in the north) are widespread and accepted in recitation, but never write ग्न or ग्य.
+
+## How to read a long cluster
+1. Find the vowel: it belongs to the **last** consonant of the cluster.
+2. Read the consonants from left to right (top hook first, foot stroke last).
+3. The syllable break goes **inside** the cluster: the first consonant closes the previous syllable. धर्म = dhar-ma, पुत्र = put-ra, लक्ष्मी = lak-ṣmī.
+
+@literal
+| Word | Letters | Syllables |
+|---|---|---|
+| कृत्स्नवित् | क ृ त् स् न व ि त् | kṛt-sna-vit |
+| ज्योतिषाम् | ज् य ो त ि ष ा म् | jyo-ti-ṣām |
+| स्वर्गम् | स् व र् ग म् | svar-gam |
+| आत्मानम् | आ त् म ा न म् | āt-mā-nam |
+| उद्धरेत् | उ द् ध र े त् | ud-dha-ret |
+| प्रत्यक्ष | प् र त् य क् ष | prat-yak-ṣa |
+
+> [telugu] Same rule in Telugu prosody :: In Telugu పద్యం, a short vowel before a conjunct becomes గురువు: in "అమ్మ", అ is guru. Sanskrit metre uses exactly the same rule, because the first consonant of the cluster closes the syllable.
+
+@ex gita:6:5
+note: उद्धरेत्: द्ध is stacked; read ud-dha-ret.
+note: आत्मनाऽऽत्मानम्: त्म is a half त joined to म; ऽऽ shows a long आ formed by sandhi (आत्मना + आत्मानम्).
+note: बन्धुः: न्ध is a half न joined to ध. In print you may also see बंधु with anusvāra: same sound.
+@end
+
+@quiz
+q: In धर्म, which consonant is pronounced first in the cluster?
+* र — the hook on top is said first
+- म
+- They are said together
+why: The रेफ hook stands for a र before the consonant it sits on: dhar-ma.
+
+q: Which letters make क्ष?
+* क् + ष
+- क् + श
+- ख + स
+why: क्ष = kṣa: लक्ष्मी, क्षेत्र, मोक्ष.
+
+q: Where does the syllable break fall in पुत्र?
+* put-ra
+- pu-tra
+- putr-a
+why: The first consonant of a cluster closes the previous syllable, so पु becomes heavy.
+
+q: In प्र, the foot stroke stands for:
+* र after प (pr)
+- र before प (rp)
+- a long vowel
+why: A slanted stroke at the foot is र following the consonant: प्रभु, क्रोध, ग्राम.
+
+q: ज्ञ is traditionally pronounced:
+* jña (ज् + ञ)
+- gna
+- dnya
+why: The written letters are ज् + ञ. Regional pronunciations vary, but the spelling never changes.
+@end

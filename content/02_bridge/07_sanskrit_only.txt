@@ -1,0 +1,92 @@
+@title సంస్కృతంలో మాత్రమే · What Sanskrit has and Telugu lacks
+@summary The new machinery you must learn: the dual, three arbitrary genders, agreeing adjectives, many noun classes, ten lakāras, two sets of verb endings, ten verb classes, prefixes, derived verbs, obligatory sandhi, huge compounds and absolute constructions. A map of the rest of this course.
+
+## The list, with where each is taught
+| Sanskrit feature | Example | Telugu has | Unit |
+|---|---|---|---|
+| Dual number | रामलक्ष्मणौ गच्छतः | only plural | 4, 5, 6 |
+| Three genders, by word | वृक्षः (m.), लता (f.), फलम् (n.) | gender by meaning | 4 |
+| Adjectives agree | सुन्दरी बाला, सुन्दरं फलम् | invariable మంచి | 4.11 |
+| Many declension classes | राम, हरि, गुरु, पितृ, राजन्, मनस्… | one set of suffixes | 4 |
+| Fused case + number endings | रामेभ्यः | stacked: రాములకు | 4 |
+| Distinct vocative forms | हे राम, हे हरे, हे गुरो | ఓ రామా, mostly lengthening | 4 |
+| Ten lakāras (tenses / moods) | भवति, अभवत्, बभूव, अभूत्, भविष्यति… | three tenses + moods | 6 |
+| परस्मैपद and आत्मनेपद | भवति / वर्तते; करोति / कुरुते | (only -కొను as "for oneself") | 6.1 |
+| Ten verb classes (गण) | भवति, अत्ति, जुहोति, दीव्यति, सुनोति… | regular stems | 6.2 |
+| Augment अ- in the past | अ-गच्छत्, अ-भवत् | — | 6.4 |
+| Reduplication | बभूव, जगाम, ददाति, जुहोति | — | 6.4 |
+| Passive as a normal construction | रामेण रावणः हतः | rare, bookish | 6.8 |
+| Derived verbs | causative कारयति, desiderative जिज्ञासते, intensive, denominative | causative -ఇంచు only | 6.9 |
+| 22 verb prefixes (उपसर्ग) | प्र-, परा-, सम्-, अनु-, वि-… | few | 6.10 |
+| Rich participle system | गतः, गतवान्, गच्छन्, गमिष्यन्, गन्तव्य, गमनीय | చేసిన, చేస్తున్న, చేసే | 7 |
+| Obligatory sandhi in writing | रामश्चागच्छत् | optional in speech | 8 |
+| Very long compounds | धर्मसंस्थापनार्थाय | shorter compounds | 9 |
+| Secondary suffixes (तद्धित) | दाशरथिः, पाण्डवः, कौन्तेयः | some, from Sanskrit | 10 |
+| Relative-correlative pairs | यत्र … तत्र, यदा … तदा | adjectival participles | 5, 11 |
+| Absolute constructions | सति सप्तमी: रामे वनं गते | -గా, -ఉండగా | 11 |
+| Free word order | रावणं रामः हन्ति | fixed SOV | 11 |
+| Final consonants | जगत्, वाक्, भगवान् | always vowel-final | 1 |
+| Vedic pitch accent | उदात्त, अनुदात्त, स्वरित | — | (not covered) |
+
+> [memory] DAG-VEST: the seven big new things :: **D**ual, **A**greement of adjectives, **G**enders by word; **V**oices (परस्मै / आत्मने), **E**nding tables for nouns and verbs, **S**andhi in writing, **T**en lakāras. If you can explain each of these seven to someone, you understand the core of Sanskrit grammar.
+
+## What helps you: features both share
+Not everything is new. These work the same way in both languages, so lean on your Telugu:
+
+| Shared feature | Telugu | Sanskrit |
+|---|---|---|
+| Subject can be dropped | వచ్చాను (I came) | आगच्छम् |
+| Verb shows person and number | వచ్చాను / వచ్చావు / వచ్చాడు | आगच्छम् / आगच्छः / आगच्छत् |
+| No articles (a, the) | పుస్తకం | पुस्तकम् |
+| Verb tends to come last | రాముడు ఇంటికి వెళ్ళాడు | रामः गृहं गच्छति |
+| Adjective and genitive come first | నా పెద్ద ఇల్లు | मम विशालं गृहम् |
+| Absolutive for sequences | స్నానం చేసి, తిని, వెళ్ళాడు | स्नात्वा, भुक्त्वा, अगच्छत् |
+| Quote with a particle | …అని | …इति |
+| Compounds (సమాసాలు) | తల్లిదండ్రులు, రాజభవనం | मातापितरौ, राजभवनम् |
+| Causative suffix | చేయించు | कारयति |
+| Case names and meanings | ప్రథమా … సప్తమీ | प्रथमा … सप्तमी |
+| Repetition for "every" | ఇంటింటికి | गृहे गृहे |
+
+> [telugu] Telugu sentence order is a safe default :: When you write Sanskrit prose, use Telugu word order: subject, time, place, object, verb. रामः प्रातः उद्याने फलानि खादति = రాముడు ఉదయం తోటలో పండ్లు తింటున్నాడు. It is natural Sanskrit too. Verse order is freer; Unit 11 shows how to put it back into prose order (అన్వయం).
+
+@ex gita:2:22
+split: वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरः अपराणि । तथा शरीराणि विहाय जीर्णानि अन्यानि संयाति नवानि देही ॥
+anvaya: यथा नरः जीर्णानि वासांसि विहाय अपराणि नवानि गृह्णाति, तथा देही जीर्णानि शरीराणि विहाय अन्यानि नवानि संयाति ॥
+w: वासांसि = వస్త్రాలను; जीर्णानि = చినిగిన; यथा = ఎలాగో; विहाय = విడిచి; नवानि = కొత్తవి; गृह्णाति = గ్రహిస్తాడు; नरः = మనిషి; अपराणि = ఇతరమైన; तथा = అలాగే; शरीराणि = శరీరాలను; अन्यानि = ఇతర; संयाति = పొందుతాడు; देही = దేహం గలవాడు (ఆత్మ)
+note: Agreement: जीर्णानि and नवानि are neuter plural accusative to agree with वासांसि and शरीराणि. In Telugu the adjectives చినిగిన, కొత్త never change.
+note: यथा … तथा "as … so": a relative-correlative pair, Telugu ఎలాగో … అలాగే.
+note: विहाय "having left" is an absolutive (ल्यप्, from वि + हा), the same as Telugu విడిచి. Telugu and Sanskrit both build sequences this way.
+note: Word order: the verse scatters the adjectives (जीर्णानि … नवानि) far from their nouns. Only the endings tell you which goes with which.
+@end
+
+@quiz
+q: Which of these does Telugu share with Sanskrit?
+* Dropping the subject pronoun because the verb shows the person
+- The dual number
+- Adjective agreement
+why: వచ్చాను and आगच्छम् both mean "I came" without a pronoun.
+
+q: Which is a Sanskrit-only feature?
+* परस्मैपद and आत्मनेपद endings
+- Verb shows person
+- Causative suffix
+why: Telugu has no second set of verb endings; Sanskrit has two (भवति / वर्तते).
+
+q: In Gītā 2.22, why is it जीर्णानि and not जीर्णः?
+* It agrees with वासांसि (neuter plural accusative)
+- Adjectives always end in -आनि
+- It is a verb
+why: Sanskrit adjectives agree in gender, number and case with their noun.
+
+q: In Sanskrit prose, which word order is natural?
+* Subject–object–verb, like Telugu
+- Verb always first
+- No order is ever preferred
+why: Sanskrit order is free, but prose usually follows SOV: रामः फलं खादति.
+
+q: Which Telugu form is closest to the Sanskrit absolutive विहाय?
+* విడిచి
+- విడుచుచు
+- విడువుటకు
+why: क्त्वा / ल्यप् = Telugu క్త్వార్థకం: చేసి, విడిచి.
+@end

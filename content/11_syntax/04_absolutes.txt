@@ -1,0 +1,87 @@
+@title సతి సప్తమి · The locative and genitive absolute
+@summary "When the sun had risen, …": Sanskrit puts both the noun and its participle in the 7th case (सूर्ये उदिते), exactly where Telugu says సూర్యుడు ఉదయించగా. The rule, present / past / future variants, the "disregard" genitive absolute (रुदतः पुत्रस्य), and the Gītā's हन्यमाने शरीरे and प्रवृत्ते शस्त्रसम्पाते.
+
+## The rule
+When one action marks the time or circumstance of another, and the two have **different subjects**, the subject of the marking action and its participle both go into the 7th case (यस्य च भावेन भावलक्षणम् 2.3.37):
+
+| Sanskrit | Literal | Telugu |
+|---|---|---|
+| सूर्ये उदिते बालः उत्तिष्ठति | "in the sun having risen" | సూర్యుడు ఉదయించగా పిల్లవాడు లేస్తాడు |
+| रामे वनं गते दशरथः मृतः | "in Rāma having gone" | రాముడు అడవికి వెళ్ళగా దశరథుడు మరణించాడు |
+| गोषु दुह्यमानासु सः आगतः | "in the cows being milked" | ఆవులను పితుకుతుండగా అతడు వచ్చాడు |
+| वर्षति देवे कृषकः हृष्यति | "in the god raining" | వర్షం కురుస్తుండగా రైతు సంతోషిస్తాడు |
+| एवं सति | "this being so" | అలా అయితే |
+
+> [compare] Telugu -గా, -తుండగా, -ఇతే :: Telugu marks the clause on the verb (వెళ్ళగా, వస్తుండగా, వెళ్ళాక) and keeps the subject in the 1st case (రాముడు). Sanskrit marks both subject and participle with the 7th case (रामे गते). Translate by putting the Sanskrit subject back in the Telugu 1st case and adding -గా.
+
+## Which participle?
+| Time relation | Participle | Example | Telugu |
+|---|---|---|---|
+| at the same time | present (शतृ / शानच्) | पश्यति जने; हन्यमाने शरीरे (2.20) | జనం చూస్తుండగా; శరీరం చంపబడుతుండగా |
+| before | past (क्त) | गते रामे; प्रवृत्ते शस्त्रसम्पाते (1.20) | రాముడు వెళ్ళాక; ఆయుధాల తాకిడి మొదలవగా |
+| after, about to | future (स्यत्) | गमिष्यति रामे | రాముడు వెళ్ళబోతుండగా |
+| state ("being") | सति / सत्सु (from अस्) | रामे सति; एवं सति | రాముడు ఉండగా; అలా ఉండగా |
+
+> [warning] Same subject? Use the absolutive :: If the two actions have the same subject, don't use the absolute: say गत्वा, not "स्वस्मिन् गते". रामः वनं गत्वा तपः अकरोत् (same subject) vs रामे वनं गते दशरथः अम्रियत (different subjects). This is exactly the rule from lesson 7.3, seen from the other side.
+
+## The genitive absolute (అనాదరే షష్ఠీ)
+To say "in spite of, disregarding", the 6th case may replace the 7th (षष्ठी चानादरे 2.3.38):
+- रुदतः पुत्रस्य पिता प्राव्राजीत् "కొడుకు ఏడుస్తున్నా తండ్రి సన్యసించాడు" (= रुदति पुत्रे)
+- पश्यतां सर्वेषाम् "while all looked on (helplessly)"
+
+## Absolutes in the Gītā
+| Phrase | Analysis | Telugu |
+|---|---|---|
+| हन्यमाने शरीरे (2.20) | passive present participle + noun, 7th | శరీరం చంపబడుతున్నప్పటికీ |
+| प्रवृत्ते शस्त्रसम्पाते (1.20) | past participle + noun, 7th | ఆయుధ ప్రయోగం మొదలవుతుండగా |
+| प्रसादे (2.65) | noun alone, "when there is serenity" | ప్రసన్నత కలిగినప్పుడు |
+| विनश्यत्सु (13.28) | present participle used as noun, 7th pl. | నశించేవాటిలో (here a plain locative) |
+| स्त्रीषु दुष्टासु (1.41) | past participle + noun, 7th pl. | స్త్రీలు చెడిపోగా |
+
+> [note] Not every locative with a participle is absolute :: In विनश्यत्स्वविनश्यन्तम् (13.28) "the imperishable among the perishing", विनश्यत्सु is a plain location ("among"). An absolute must describe a separate event with its own subject. Ask: can I translate it with "when / while / since … "? If yes, it is absolute.
+
+@ex gita:1:20
+split: अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः । प्रवृत्ते शस्त्रसम्पाते धनुः उद्यम्य पाण्डवः ॥
+w: अथ = అప్పుడు; व्यवस्थितान् = వ్యూహంగా నిలిచిన; दृष्ट्वा = చూచి; धार्तराष्ट्रान् = ధృతరాష్ట్రుని కొడుకులను; कपिध्वजः = కపిధ్వజుడు (అర్జునుడు); प्रवृत्ते शस्त्रसम्पाते = ఆయుధాల తాకిడి మొదలవుతుండగా; धनुः = ధనుస్సును; उद्यम्य = ఎత్తి; पाण्डवः = పాండవుడు
+note: प्रवृत्ते शस्त्रसम्पाते: locative absolute (the clash of weapons has a different subject from Arjuna). दृष्ट्वा, उद्यम्य: absolutives (same subject, Arjuna). The main verb comes in the next verse (आह, 1.21).
+@end
+
+@ex gita:2:65
+note: प्रसादे "when there is serenity": a noun-only locative absolute (सति understood). प्रसन्नचेतसः "of one whose mind is serene": bahuvrīhi, 6th case.
+@end
+
+@ex gita:1:41
+note: स्त्रीषु दुष्टासु "when the women are corrupted": locative absolute with a past participle in the feminine plural, agreeing with स्त्रीषु.
+@end
+
+@quiz
+q: "సూర్యుడు ఉదయించగా":
+* सूर्ये उदिते
+- सूर्यः उदित्वा
+- सूर्यस्य उदयात्
+why: Locative absolute: noun and participle in the 7th.
+
+q: Why not सूर्यः उदित्वा बालः उत्तिष्ठति?
+* the absolutive needs the same subject
+- उदित्वा is not a word
+- It needs a 5th case
+why: Different subjects → locative absolute.
+
+q: हन्यमाने शरीरे (2.20) means:
+* while the body is being killed
+- having killed the body
+- in the killer's body
+why: Passive present participle + noun in the 7th.
+
+q: The genitive absolute expresses:
+* disregard ("in spite of")
+- possession
+- purpose
+why: षष्ठी चानादरे: रुदतः पुत्रस्य प्राव्राजीत्.
+
+q: एवं सति means:
+* this being so
+- thus he is
+- like the truth
+why: सति: 7th case of the present participle of अस्.
+@end

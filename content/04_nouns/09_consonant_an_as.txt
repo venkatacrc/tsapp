@@ -1,0 +1,133 @@
+@title హలంత శబ్దాలు (2) · -अन् and -अस्: राजन्, आत्मन्, कर्मन्, मनस्
+@summary The n-stems राजा, आत्मा, ब्रह्मा (m.) and कर्म, नाम, जन्म (n.), with their lost न in the nominative; and the s-stems मनः, तपः, यशः, वासः, छन्दः, which Telugu turned into -స్సు words.
+
+## राजन् (masculine)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | राजा | राजानौ | राजानः |
+| 2 | राजानम् | राजानौ | राज्ञः |
+| 3 | राज्ञा | राजभ्याम् | राजभिः |
+| 4 | राज्ञे | राजभ्याम् | राजभ्यः |
+| 5 | राज्ञः | राजभ्याम् | राजभ्यः |
+| 6 | राज्ञः | राज्ञोः | राज्ञाम् |
+| 7 | राज्ञि / राजनि | राज्ञोः | राजसु |
+| 8 | हे राजन् | हे राजानौ | हे राजानः |
+
+> [memory] Three stems again: राजान्, राज्ञ्, राज :: Strong cases: **राजान्** (राजानम्, राजानौ, राजानः). Before vowel endings the अ drops and ज् + न् becomes ज्ञ्: **राज्ञ्** (राज्ञा, राज्ञः). Before consonant endings the न् drops: **राज** (राजभिः, राजसु). The nominative singular drops न्: राजा. Telugu రాజు took that nominative.
+
+## आत्मन् (masculine): no syncope
+When a consonant comes right before -मन् or -वन्, the अ does **not** drop (त्म्न could not be pronounced): आत्मना, not आत्म्ना.
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | आत्मा | आत्मानौ | आत्मानः |
+| 2 | आत्मानम् | आत्मानौ | आत्मनः |
+| 3 | आत्मना | आत्मभ्याम् | आत्मभिः |
+| 4 | आत्मने | आत्मभ्याम् | आत्मभ्यः |
+| 5 / 6 | आत्मनः | आत्मभ्याम् / आत्मनोः | आत्मभ्यः / आत्मनाम् |
+| 7 | आत्मनि | आत्मनोः | आत्मसु |
+| 8 | हे आत्मन् | हे आत्मानौ | हे आत्मानः |
+
+Same: ब्रह्मन् (m. ब्रह्मा "Brahmā"), अश्मन् (stone), यज्वन् (sacrificer).
+
+## कर्मन् (neuter)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 / 2 | कर्म | कर्मणी | कर्माणि |
+| 3 | कर्मणा | कर्मभ्याम् | कर्मभिः |
+| 4 | कर्मणे | कर्मभ्याम् | कर्मभ्यः |
+| 5 | कर्मणः | कर्मभ्याम् | कर्मभ्यः |
+| 6 | कर्मणः | कर्मणोः | कर्मणाम् |
+| 7 | कर्मणि | कर्मणोः | कर्मसु |
+| 8 | हे कर्म / कर्मन् | हे कर्मणी | हे कर्माणि |
+
+Like it: जन्मन् (birth), धामन् (abode), नामन् (name: नाम्ना, नाम्नः with syncope), ब्रह्मन् (n. ब्रह्म "the Absolute"), वर्त्मन् (path), चर्मन् (skin).
+
+> [warning] कर्म is the stem without न, not a Telugu shortening :: Telugu says కర్మము, జన్మము, నామము. The Sanskrit nominative/accusative singular is कर्म, जन्म, नाम (the न् drops). Every other form has the न back: कर्मणा, कर्मणि, जन्मनः, नाम्ना. Gītā 2.47 कर्मणि "in action", 2.48 कर्माणि "actions".
+
+## मनस् (neuter s-stem)
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 / 2 | मनः | मनसी | मनांसि |
+| 3 | मनसा | मनोभ्याम् | मनोभिः |
+| 4 | मनसे | मनोभ्याम् | मनोभ्यः |
+| 5 | मनसः | मनोभ्याम् | मनोभ्यः |
+| 6 | मनसः | मनसोः | मनसाम् |
+| 7 | मनसि | मनसोः | मनःसु / मनस्सु |
+| 8 | हे मनः | हे मनसी | हे मनांसि |
+
+> [memory] -స్సు in Telugu = -अस् in Sanskrit :: మనస్సు, తపస్సు, యశస్సు, తేజస్సు, వయస్సు, శిరస్సు, ఛందస్సు, వచస్సు: every one is an -अस् neuter. The nominative is -अः (मनः, तपः, यशः), forms before vowels show -अस्- (मनसा, तपसि), and before भ् the अस् turns into ओ (मनोभिः, like visarga sandhi).
+
+| Sanskrit | Telugu | Meaning | In the texts |
+|---|---|---|---|
+| मनः | మనస్సు | mind | मनः दुर्निग्रहं चलम् (Gītā 6.35) |
+| तपः | తపస్సు | austerity | यज्ञतपसाम् (5.29) |
+| यशः | యశస్సు | fame | |
+| तेजः | తేజస్సు | radiance | तेजस्तेजस्विनामहम् (7.10) |
+| वयः | వయస్సు | age | |
+| शिरः | శిరస్సు | head | |
+| छन्दः | ఛందస్సు | metre, Veda | छन्दांसि यस्य पर्णानि (15.1) |
+| वचः | వచస్సు | word | |
+| वासः | వస్త్రం | garment | वासांसि जीर्णानि (2.22) |
+| स्रोतः | స్రోతస్సు | stream | स्रोतसामस्मि जाह्नवी (10.31) |
+| अम्भः | | water | |
+| रजः, तमः | రజస్సు, తమస్సు | the guṇas | |
+
+> [note] -इस् and -उस् neuters :: हविस् (oblation): हविः हविषी हवींषि, हविषा; ज्योतिस् (light): ज्योतिः, ज्योतिषा, ज्योतिषाम् (Gītā 10.21); धनुस् (bow): धनुः धनुषी धनूंषि, धनुषा. They follow मनस् with इ/उ and ष.
+
+> [note] Masculine and feminine -अस् :: Adjectives and names in -अस् lengthen the nominative: चन्द्रमाः (moon), सुमनाः (good-minded), अप्सराः (nymph), दुर्वासाः. Sahasranāmam 12 वसुमनाः "whose mind is (pure as) wealth".
+
+@ex gita:6:35
+note: मनः "the mind": nominative singular of मनस्, described by two neuter adjectives, दुर्निग्रहम् "hard to restrain" and चलम् "restless". It is also the subject of गृह्यते "is held (in check)".
+note: अभ्यासेन, वैराग्येण: instrumentals of means (a-stem neuter/masculine; ण after र).
+@end
+
+@ex gita:2:48
+note: कर्माणि "actions": accusative plural of कर्मन्, object of कुरु.
+note: सिद्ध्यसिद्ध्योः "in success and failure": locative dual of a dvandva of two -ति feminines (मत्योः pattern).
+note: योगः उच्यते "is called yoga": passive verb (उच्यते) with the nominative.
+@end
+
+@ex gita:15:1
+note: छन्दांसि "the Vedic hymns": neuter plural of छन्दस्, like मनांसि.
+note: अश्वत्थम् अव्ययम् "the imperishable aśvattha tree": accusative masculine a-stems, objects of प्राहुः "they say".
+note: यः तं वेद सः वेदवित्: a यः … सः pair: "who knows it, he is a knower of the Veda".
+@end
+
+@quiz
+q: Instrumental singular of राजन्:
+* राज्ञा
+- राजना
+- राजेन
+why: Before vowels the अ drops: राज्ञ् + आ.
+
+q: Instrumental singular of आत्मन्:
+* आत्मना
+- आत्म्ना
+- आत्मेन
+why: After a consonant + म the अ is kept: आत्मना (Gītā 6.5).
+
+q: Nominative plural of कर्मन्:
+* कर्माणि
+- कर्माः
+- कर्मणः
+why: Neuter -अन्: -आनि (with ण after र).
+
+q: Which Telugu word comes from an -अस् stem?
+* తేజస్సు
+- రాజు
+- ఆత్మ
+why: तेजस् "radiance": nominative तेजः.
+
+q: Instrumental plural of मनस्:
+* मनोभिः
+- मनसभिः
+- मनस्भिः
+why: अस् becomes ओ before भ्: मनोभिः, मनोभ्याम्.
+
+q: Locative singular of कर्मन्:
+* कर्मणि
+- कर्मे
+- कर्मनि
+why: As in Gītā 2.47, कर्मण्येवाधिकारस्ते = कर्मणि + एव…
+@end

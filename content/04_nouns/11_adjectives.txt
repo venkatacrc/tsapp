@@ -1,0 +1,115 @@
+@title విశేషణాలు · Adjectives: agreement, feminines, comparison
+@summary An adjective takes the gender, number and case of its noun. How to form the feminine (-आ or -ई), the comparative and superlative (-तर / -तम, -ईयस् / -इष्ठ), and the ablative of comparison, with Gītā 3.35 श्रेयान् स्वधर्मः.
+
+## Agreement: one adjective, three tables
+An a-stem adjective declines like राम (m.), रमा (f.) and वन (n.):
+
+| Noun | Adjective agrees | Telugu |
+|---|---|---|
+| सुन्दरः बालः | m. sg. 1 | అందమైన బాలుడు |
+| सुन्दरी बाला | f. sg. 1 | అందమైన బాలిక |
+| सुन्दरं फलम् | n. sg. 1 | అందమైన పండు |
+| सुन्दरान् बालान् | m. pl. 2 | అందమైన బాలురను |
+| सुन्दरीभिः बालाभिः | f. pl. 3 | అందమైన బాలికలచేత |
+| सुन्दरे वने | n. sg. 7 | అందమైన అడవిలో |
+| महति स्यन्दने | m. sg. 7 (महत्) | గొప్ప రథంలో |
+
+> [compare] Telugu మంచి never changes :: మంచి బాలుడు, మంచి బాలిక, మంచి పండ్లు, మంచి వారితో. In Sanskrit every adjective changes: साधुः बालः, साध्वी बाला, साधूनि फलानि, साधुभिः जनैः. The noun and adjective may even be in different declension classes: महति स्यन्दने (consonant stem + a-stem).
+
+> [memory] Same ending? Not necessarily :: Agreement is in gender, number and case, not in the shape of the ending. गुरुः महान् (u-stem + t-stem), नदी पवित्रा (ī + ā), मनः चलम् (s-stem + a-stem). Look for matching **case and number**, not matching letters.
+
+## Making the feminine
+| Masculine | Feminine | Rule |
+|---|---|---|
+| सुन्दरः | सुन्दरी | many -अ adjectives take -ई |
+| प्रियः | प्रिया | most -अ adjectives take -आ |
+| बालः | बाला / बालिका | nouns of age: -आ |
+| देवः | देवी | -ई for many nouns |
+| कुमारः | कुमारी | |
+| भगवान् | भगवती | -वत्, -मत् → -वती, -मती |
+| गच्छन् | गच्छन्ती | present participles → -अन्ती |
+| कर्ता | कर्त्री | -तृ → -त्री |
+| योगी | योगिनी | -इन् → -इनी |
+| राजा | राज्ञी | -अन् → -ञी / -नी |
+| गुरुः (adj. heavy) | गुर्वी | -उ adjectives → -वी |
+| इन्द्रः | इन्द्राणी | gods' wives → -आनी |
+| आचार्यः | आचार्यानी / आचार्या | teacher's wife / woman teacher |
+
+> [sutra] अजाद्यतष्टाप् (4.1.4) · ऋन्नेभ्यो ङीप् (4.1.5) · उगितश्च (4.1.6) :: -आ (टाप्) for अज and most a-stems; -ई (ङीप्) for stems in ऋ and न्; -ई also for stems marked with उ, which includes -वत्, -मत् and participles. This is why the feminine of भगवत् is भगवती, of कर्तृ is कर्त्री.
+
+## Comparison
+Two sets of suffixes:
+
+| Positive | Comparative (-तर / -ईयस्) | Superlative (-तम / -इष्ठ) | Telugu |
+|---|---|---|---|
+| प्रिय | प्रियतर | प्रियतम | ప్రియమైన, మరింత ప్రియమైన, అత్యంత ప్రియమైన |
+| उत्तम (already "highest") | — | — | ఉత్తమ |
+| गुह्य | गुह्यतर | गुह्यतम | రహస్యమైన |
+| प्रशस्य | श्रेयस् | श्रेष्ठ | మంచి → శ్రేష్ఠ |
+| वृद्ध | ज्यायस् | ज्येष्ठ | పెద్ద → జ్యేష్ఠ |
+| अल्प / युवन् | कनीयस् | कनिष्ठ | చిన్న → కనిష్ఠ |
+| गुरु | गरीयस् | गरिष्ठ | బరువైన |
+| लघु | लघीयस् | लघिष्ठ | తేలికైన |
+| बहु | भूयस् | भूयिष्ठ | ఎక్కువ |
+| अन्तिक | नेदीयस् | नेदिष्ठ | దగ్గర |
+| दूर | दवीयस् | दविष्ठ | దూరం |
+| बलवत् | बलीयस् | बलिष्ठ | బలమైన |
+
+> [telugu] జ్యేష్ఠ, కనిష్ఠ, శ్రేష్ఠ, గరిష్ఠ :: Telugu has the superlatives: జ్యేష్ఠుడు (eldest), కనిష్ఠుడు (youngest), శ్రేష్ఠుడు (best), గరిష్ఠ (maximum), కనిష్ఠ (minimum). Their comparatives ज्यायान्, कनीयान्, श्रेयान्, गरीयान् are new to you, and very common in the Gītā.
+
+> [memory] "Than" = पञ्चमी :: The thing compared goes into the ablative: रामात् श्रेष्ठः "better than Rāma" (రాముని కంటే). For the superlative "best among", use the genitive or locative plural: पुरुषाणाम् उत्तमः / पुरुषेषु उत्तमः.
+
+The -ईयस् comparatives decline like -वत् in the strong cases: श्रेयान् श्रेयांसौ श्रेयांसः, श्रेयांसम्; weak श्रेयसा, श्रेयसः. Neuter श्रेयः (Gītā 2.7 यच्छ्रेयः स्यात् "what would be better").
+
+@ex gita:3:35
+split: श्रेयान् स्वधर्मः विगुणः परधर्मात् स्वनुष्ठितात् । स्वधर्मे निधनं श्रेयः परधर्मः भयावहः ॥
+anvaya: विगुणः स्वधर्मः स्वनुष्ठितात् परधर्मात् श्रेयान् । स्वधर्मे निधनं श्रेयः । परधर्मः भयावहः ॥
+w: श्रेयान् = శ్రేయస్కరమైనది (m., comparative); स्वधर्मः = స్వధర్మం; विगुणः = గుణహీనమైనా; परधर्मात् = పరధర్మం కంటే (5 sg.); स्वनुष्ठितात् = బాగా ఆచరించబడిన (5 sg., agreeing); स्वधर्मे = స్వధర్మంలో (7); निधनम् = మరణం; श्रेयः = శ్రేయస్కరం (n.); भयावहः = భయం కలిగించేది
+note: श्रेयान् is masculine to agree with स्वधर्मः; later श्रेयः is neuter to agree with निधनम्. The same comparative, two genders.
+note: परधर्मात् स्वनुष्ठितात्: noun and adjective both in the ablative: "than another's duty well performed".
+@end
+
+@ex gita:3:8
+note: ज्यायः "better": neuter comparative of वृद्ध (ज्यायस्), agreeing with कर्म.
+note: अकर्मणः "than inaction": ablative of comparison (अकर्मन्, n-stem).
+@end
+
+@ex
+sa: अयं मार्गः दीर्घः । सः मार्गः दीर्घतरः । एषः सर्वेषु दीर्घतमः ।
+te: ఈ దారి పొడవైనది. ఆ దారి ఇంకా పొడవైనది. ఇది అన్నిటిలో పొడవైనది.
+en: This road is long. That road is longer. This one is the longest of all.
+w: अयम् = ఈ; मार्गः = దారి; दीर्घः = పొడవైన; दीर्घतरः = ఇంకా పొడవైన; सर्वेषु = అన్నిటిలో (7 pl.); दीर्घतमः = అత్యంత పొడవైన
+note: -तर for "more", -तम for "most", added to any adjective.
+@end
+
+@quiz
+q: "అందమైన బాలిక" in Sanskrit:
+* सुन्दरी बाला
+- सुन्दरः बाला
+- सुन्दरं बाला
+why: The adjective takes the feminine: सुन्दरी.
+
+q: Feminine of भगवत्:
+* भगवती
+- भगवता
+- भगवन्ती
+why: -वत् → -वती (Telugu భగవతి).
+
+q: "Better than Rāma":
+* रामात् श्रेयान्
+- रामस्य श्रेयान्
+- रामेण श्रेयान्
+why: Ablative of comparison.
+
+q: In Gītā 3.35, why is it श्रेयान् स्वधर्मः but निधनं श्रेयः?
+* The comparative agrees with each noun's gender: m. स्वधर्मः, n. निधनम्
+- Metre only
+- श्रेयः is a verb
+why: Adjectives agree in gender with their noun.
+
+q: The comparative of गुरु (heavy, venerable):
+* गरीयान्
+- गुरुतरः only
+- गरिष्ठः
+why: गरीयस् (comparative), गरिष्ठ (superlative). गुरुतर is also possible but गरीयान् is classical (Gītā 2.6, 11.43).
+@end

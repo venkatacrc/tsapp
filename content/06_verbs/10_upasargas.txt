@@ -1,0 +1,136 @@
+@title ఉపసర్గలు · The 22 verbal prefixes (उपसर्ग)
+@summary Twenty-two prefixes bend a root's meaning: हृ "carry" becomes प्रहार (blow), आहार (food), संहार (destruction), विहार (pleasure), परिहार (avoidance). Each prefix with its core sense, Telugu loanwords that already contain it, and the Gītā verses where they stack up.
+
+## The rule and the verse
+> [memory] उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । प्रहाराहारसंहारविहारपरिहारवत् :: "A prefix forcibly carries the root's meaning elsewhere, as in प्रहार, आहार, संहार, विहार, परिहार." All five words are हृ (carry) + a prefix + the -अ noun suffix. Telugu uses all five: ప్రహారం, ఆహారం, సంహారం, విహారం, పరిహారం.
+
+Pāṇini calls them उपसर्ग when they are joined to a verb (उपसर्गाः क्रियायोगे 1.4.59). They always come before the root, and the augment and reduplication come after them (उप + अ + विशत् → उपाविशत्).
+
+## All twenty-two
+| Prefix | Core sense | Example | Telugu loan |
+|---|---|---|---|
+| प्र | forward, forth, intensely | प्रभवति, प्रणमति | ప్రయాణం, ప్రభావం |
+| परा | away, back, reverse | पराजयते (is defeated), पराक्रम | పరాజయం, పరాక్రమం |
+| अप | away, off, down | अपगच्छति, अपकार | అపకారం, అపవాదు |
+| सम् | together, completely | सङ्गच्छते, संहार | సంగమం, సంపూర్ణం |
+| अनु | after, along, following | अनुगच्छति, अनुवर्तते | అనుసరించు, అనుభవం |
+| अव | down, off | अवतरति, अवसाद | అవతారం, అవమానం |
+| निस् / निर् | out, without | निर्गच्छति, निष्क्रामति | నిర్మలం, నిష్కామ |
+| दुस् / दुर् | bad, difficult | दुर्गम, दुष्कृत | దుర్గమం, దుష్కర్మ |
+| वि | apart, variously, specially | विनाश, विज्ञान | విహారం, వియోగం |
+| आ (आङ्) | toward, up to, reverse of going | आगच्छति (comes), आचरति | ఆగమనం, ఆహారం |
+| नि | down, in, into | निपतति, निवसति | నివాసం, నిదానం |
+| अधि | over, upon, about | अधिगच्छति (obtains), अधीते (studies) | అధికారం, అధిపతి |
+| अपि | on, over (rare) | अपिधानम् (lid) | అపిధానం |
+| अति | beyond, excessively | अतिक्रामति | అతిక్రమం, అతిశయం |
+| सु | well, easily | सुकृत, सुगम | సుకృతం, సుగమం |
+| उत् / उद् | up, out | उत्तिष्ठति, उद्धरति | ఉద్ధరణ, ఉత్థానం |
+| अभि | toward, against, over | अभिजायते, अभिगच्छति | అభిమానం, అభిషేకం |
+| प्रति | back, against, each | प्रतिगच्छति, प्रतिवदति | ప్రతిఫలం, ప్రతిజ్ఞ |
+| परि | around, completely | परित्यजति, परिक्रामति | పరిక్రమ, పరిత్యాగం |
+| उप | near, under, subordinate | उपगच्छति, उपविशति | ఉపవాసం, ఉపదేశం |
+
+> [memory] Count to 22 :: The list above has 20 lines because निस् / निर् and दुस् / दुर् are counted as two each in Pāṇini's प्रादि list (प्र परा अप सम् अनु अव निस् निर् दुस् दुर् वि आङ् नि अधि अपि अति सु उत् अभि प्रति परि उप). Chant it as one line; it is the order of the gaṇapāṭha.
+
+> [warning] Not a prefix: अतिथि :: Don't over-split. अतिथि "guest" is traditionally explained as अ-तिथि "one with no fixed date", not अति + थि. When a word has a recognised root after the "prefix", the split is real; otherwise treat the word as a whole.
+
+## One root, many verbs
+| Prefix + root | Meaning | Telugu |
+|---|---|---|
+| आ + गम् | come | వచ్చు |
+| अव + गम् | understand | గ్రహించు |
+| अधि + गम् | obtain | పొందు |
+| सम् + गम् | meet (Ā) | కలియు |
+| अनु + गम् | follow | అనుసరించు |
+| निर् + गम् | go out | బయటకు వెళ్ళు |
+| आ + हृ | bring, eat | తెచ్చు, ఆహరించు |
+| सम् + हृ | withdraw, destroy | సంహరించు |
+| वि + हृ | roam for pleasure | విహరించు |
+| परि + हृ | avoid | పరిహరించు |
+| उत् + हृ | lift up, rescue | ఉద్ధరించు |
+| उत् + स्था | rise | లేచు |
+| प्र + स्था | set out (Ā) | బయలుదేరు |
+| अव + स्था | stay, abide (Ā) | నిలిచియుండు |
+| सम् + स्था | be established (Ā) | స్థిరపడు |
+| उप + स्था | approach, worship (Ā) | ఉపాసించు |
+| प्र + भू | arise, have power | పుట్టు, ప్రభవించు |
+| सम् + भू | be born, be possible | సంభవించు |
+| अनु + भू | experience | అనుభవించు |
+| परा + भू | be defeated | పరాభవం పొందు |
+| अभि + भू | overpower | అధిగమించు |
+
+## Stacking prefixes
+A root can take two or three prefixes; the meaning builds up from the root outward:
+- अभि + उत् + स्था → अभ्युत्थानम् "rising up (against)" (4.7)
+- सम् + आ + गम् → समागच्छति "comes together"
+- उप + सम् + गम् → उपसङ्गम्य "having approached" (1.2)
+- परि + उप + आस् → पर्युपासते "worship all around" (9.22)
+- वि + आ + ख्या → व्याख्यानम् "explanation" (వ్యాఖ్యానం)
+- सम् + प्र + दा → सम्प्रदायः "tradition" (సంప్రదాయం)
+
+## Sound changes at the prefix
+- **ण-retroflexion:** after प्र, परा, परि, निर्, a following न often becomes ण (उपसर्गादसमासेऽपि णोपदेशस्य 8.4.14): प्र + नम् → प्रणमति, प्र + नश् → प्रणश्यति (2.63), प्र + नि + पात → प्रणिपात (4.34), परि + नाम → परिणाम.
+- **ष-retroflexion:** after इ / उ prefixes, स becomes ष: नि + सद् → निषीदति, अभि + सिच् → अभिषिञ्चति (అభిషేకం), अनु + स्था → अनुतिष्ठति (अनुष्ठानम्).
+- **Visarga sandhi:** निस् / दुस् change with the next sound: निष्काम, निर्मल, दुष्कृत, दुर्गम (lesson 8.5).
+
+## Pada changes with prefixes
+Some roots change pada with certain prefixes (lesson 6.1):
+- रम् is ātmanepada (रमते), but वि / आ / परि + रम् are parasmaipada: विरमति "stops".
+- गम् is parasmaipada, but सम् + गम् is ātmanepada: सङ्गच्छते "meets".
+- स्था is parasmaipada, but सम् / अव / प्र / वि + स्था are ātmanepada: प्रतिष्ठते, अवतिष्ठते (1.3.22); उप + स्था in the sense "worship" is ātmanepada: उपतिष्ठते.
+- जि is parasmaipada, but वि / परा + जि are ātmanepada: विजयते, पराजयते (1.3.19).
+
+@ex gita:4:8
+split: परित्राणाय साधूनां विनाशाय च दुष्कृताम् । धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥
+note: परि + त्रै (protect fully) → परित्राणाय; वि + नश् → विनाशाय; दुस् + कृत → दुष्कृताम्; सम् + स्था (causative) → संस्थापन; सम् + भू → सम्भवामि. Five prefixes in one verse.
+@end
+
+@ex gita:2:62
+note: सञ्जायते, उपजायते, अभिजायते: the same root जन् with three prefixes: सम् (arises fully), उप (arises nearby, gradually), अभि (springs toward). The verse varies the prefix at each link of the chain from attachment to desire to anger.
+@end
+
+@ex gita:4:34
+note: प्र + नि + पत् → प्रणिपातेन "by prostration" (न → ण after प्र); परि + प्रश्न → परिप्रश्नेन "by thorough questioning"; उप + दिश् → उपदेक्ष्यन्ति "will teach" (future).
+@end
+
+@ex gita:3:21
+note: आ + चर् → आचरति "does, practises"; अनु + वृत् → अनुवर्तते "follows". Telugu ఆచరించు, అనువర్తించు.
+@end
+
+@quiz
+q: The five words in the upasarga verse all come from:
+* हृ (carry)
+- हन् (kill)
+- ह (abandon)
+why: प्र-हार, आ-हार, सम्-हार, वि-हार, परि-हार.
+
+q: आ + गम् means:
+* come
+- go away
+- follow
+why: आ reverses the direction of going: आगच्छति.
+
+q: Why प्रणश्यति (2.63) and not प्रनश्यति?
+* न becomes ण after a prefix containing र
+- It is a typo
+- ण is the original root
+why: 8.4.14: प्रणमति, प्रणिपात, परिणाम.
+
+q: Which prefix means "bad, difficult"?
+* दुस् / दुर्
+- सु
+- अनु
+why: दुष्कृत, दुर्गम. Opposite: सुकृत, सुगम.
+
+q: अनुभवति means:
+* experiences
+- is defeated
+- is born
+why: अनु + भू. Telugu అనుభవించు.
+
+q: In उपाविशत्, the augment अ comes:
+* after the prefix
+- before the prefix
+- after the root
+why: उप + अ + विशत्.
+@end

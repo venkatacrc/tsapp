@@ -1,0 +1,102 @@
+@title మరిన్ని తద్ధితాలు · Abstract nouns, possession, comparison, adverbs
+@summary The taddhitas you meet in every verse: -त्व / -ता "-ness" (సమత్వం), -य with vṛddhi (వైరాగ్యం, ఐశ్వర్యం), -मत् / -वत् / -इन् "having" (శ్రీమాన్, భగవాన్, యోగి), -मय "made of" (చిన్మయ), -तर / -तम and -ईयस् / -इष्ठ for comparison (గరీయాన్, శ్రేష్ఠ), and adverbs of place, time, manner and number (సర్వత్ర, సర్వదా, యథా, సహస్రశః).
+
+## "-ness": abstract nouns
+| Suffix | Gender | Examples | Telugu |
+|---|---|---|---|
+| -त्व | neuter | समत्वम् (2.48), अमृतत्वम् (2.15), मनुष्यत्वम्, ममत्वम्, देवत्वम् | సమత్వం, అమృతత్వం, మనుష్యత్వం, మమత్వం |
+| -ता | feminine | समता, बन्धुता, मूढता, शूरता, जनता | సమత, బంధుత్వం, మూఢత, జనత |
+| ष्यञ् (-य, vṛddhi) | neuter | वैराग्यम् (विराग, 6.35), ऐश्वर्यम् (ईश्वर), कार्पण्यम् (कृपण, 2.7), सौन्दर्यम् (सुन्दर), माधुर्यम् (मधुर), धैर्यम् (धीर), शौर्यम् (शूर), चातुर्वर्ण्यम् (4.13) | వైరాగ్యం, ఐశ్వర్యం, సౌందర్యం, మాధుర్యం, ధైర్యం, శౌర్యం |
+| अण् (vṛddhi) | neuter | यौवनम् (युवन्), कौमारम् (कुमार, 2.13), पौरुषम् (पुरुष), शैशवम् (शिशु) | యౌవనం, కౌమారం, పౌరుషం, శైశవం |
+| -इमन् | masculine | महिमा (महत्), गरिमा (गुरु), लघिमा (लघु) | మహిమ, గరిమ |
+
+> [memory] -त्व and -ता are interchangeable :: Pāṇini gives both for "the state of being X" (तस्य भावस्त्वतलौ 5.1.119): समत्वम् = समता, देवत्वम् = देवता (but देवता usually means "deity"). The vṛddhi-य forms are more idiomatic for some words: वैराग्यम्, not विरागत्वम्.
+
+## "Having X": possessives
+| Suffix | Use | Examples | Telugu |
+|---|---|---|---|
+| -मत् (मतुप्) | after most stems in इ / उ / ई and consonants | श्रीमान् (VS 3), बुद्धिमान् (15.20), धीमान्, आयुष्मान्, विभूतिमत् (10.41) | శ్రీమాన్, బుద్ధిమాన్, ఆయుష్మాన్ |
+| -वत् (मतुप्, म → व) | after अ / आ stems and some consonants | भगवान्, बलवान्, वीर्यवान् (1.5), गुणवान्, धनवान्, विद्यावान् | భగవాన్, బలవంతుడు, గుణవంతుడు, ధనవంతుడు |
+| -इन् (इनि) | after अ-stems | ज्ञानी, योगी, धनी, गुणी, क्षमी (12.13), सुखी, दुःखी, बली | జ్ఞాని, యోగి, ధని, గుణి, సుఖి |
+| -मय (मयट्) | made of, full of | गुणमयी (7.14), अन्नमयः, आनन्दमयः, चिन्मयः, वाङ्मयम्, तेजोमयम् | చిన్మయ, ఆనందమయ, వాఙ్మయం |
+| -इल / -ल / -र | having (rare) | पिच्छिल, मधुर, मांसल | |
+| -वल / -विन् | having | ऊर्जस्वल, तपस्विन् (तपस्वी), मेधाविन् (मेधावी), यशस्विन् | తపస్వి, మేధావి, యశస్వి |
+
+> [compare] Telugu -వంతుడు is Sanskrit -वत् :: Telugu బలవంతుడు, గుణవంతుడు, ధనవంతుడు, శ్రీమంతుడు come from the strong stem -वन्त् / -मन्त् of -वत् / -मत् with Telugu -ఉడు. Sanskrit nominative is बलवान्, श्रीमान्; Telugu took the stem of the other cases (बलवन्तम्).
+
+They decline like भगवत् (lesson 4.8): भगवान्, भगवन्तौ, भगवन्तः; feminine -वती / -मती (भगवती, बुद्धिमती).
+
+## Comparison
+| Degree | Suffix | Examples | Telugu |
+|---|---|---|---|
+| comparative ("more") | -तर | प्रियतर, क्षेमतरम् (1.46), लघुतर | మరింత ప్రియమైన |
+| superlative ("most") | -तम | प्रियतम, गुह्यतमम् (15.20), उत्तम, पुरुषोत्तम | అత్యంత ప్రియమైన |
+| comparative (on the root) | -ईयस् | गरीयान् (11.43), श्रेयान्, ज्यायान् / ज्यायसी (3.1), कनीयान्, भूयान्, लघीयान्, बलीयान् | |
+| superlative (on the root) | -इष्ठ | गरिष्ठः, श्रेष्ठः (3.21), ज्येष्ठः, कनिष्ठः, भूयिष्ठः, लघिष्ठः, बलिष्ठः | జ్యేష్ఠుడు, కనిష్ఠుడు, శ్రేష్ఠుడు |
+
+> [memory] Stems that change :: गुरु → गरीयस्, गरिष्ठ; प्रशस्य → श्रेयस्, श्रेष्ठ; वृद्ध → ज्यायस्, ज्येष्ठ; युवन् / अल्प → कनीयस्, कनिष्ठ; बहु → भूयस्, भूयिष्ठ; अन्तिक → नेदीयस्, नेदिष्ठ; दूर → दवीयस्, दविष्ठ. श्रेयः (neuter of श्रेयस्) "the better, the good" is a key Gītā word (2.7, 3.35).
+
+The thing compared with goes into the 5th case: रामात् कृष्णः गरीयान् "కృష్ణుడు రాముని కంటే గొప్పవాడు"; with -तम / -इष्ठ, the group goes into the 6th or 7th: नराणां / नरेषु श्रेष्ठः "మనుషులలో శ్రేష్ఠుడు".
+
+## Adverbs from pronouns and adjectives
+| Suffix | Sense | Series | Telugu |
+|---|---|---|---|
+| -त्र | where | अत्र, तत्र, यत्र, कुत्र, सर्वत्र, अन्यत्र, एकत्र | ఇక్కడ, అక్కడ, ఎక్కడ, ఎక్కడ?, అన్నిచోట్ల |
+| -तः (तसिल्) | from where, from | अतः, ततः, यतः, कुतः, सर्वतः (11.16), इतः | ఇందువల్ల, అక్కడినుండి, ఎందుకంటే |
+| -दा | when | यदा, तदा, कदा, सर्वदा, सदा, अन्यदा, एकदा | ఎప్పుడు, అప్పుడు, ఎప్పుడూ |
+| -र्हि | when (rare) | तर्हि, यर्हि, कर्हि | అలా అయితే |
+| -था | how | यथा, तथा, सर्वथा, अन्यथा | ఎలా, అలా, అన్ని విధాలా |
+| -थम् | how | कथम्, इत्थम् | ఎలా?, ఇలా |
+| -वत् (वति) | like | यद्वत्, तद्वत् (2.70), पितृवत्, पूर्ववत् | వలె |
+| -धा | in … ways | त्रिधा, बहुधा, अनेकधा (11.13), द्विधा | మూడు విధాలుగా |
+| -शः | by …s, …-wise | सर्वशः (3.27), शतशः, सहस्रशः (11.5), क्रमशः, विभागशः (4.13) | వందలకొద్దీ |
+| -कृत्वः / -स् | … times | पञ्चकृत्वः, द्विः, त्रिः, सकृत् | ఐదుసార్లు, రెండుసార్లు |
+
+> [memory] The pronoun grid :: Line up the four question-and-answer stems: य- (relative), त- (that), क- (question), सर्व- (all). Add -त्र, -तः, -दा, -था: यत्र / तत्र / कुत्र / सर्वत्र; यतः / ततः / कुतः / सर्वतः; यदा / तदा / कदा / सर्वदा; यथा / तथा / कथम् / सर्वथा. Telugu has the same grid with ఎ- / అ- / ఏ-: ఎక్కడ / అక్కడ, ఎప్పుడు / అప్పుడు, ఎలా / అలా.
+
+## Ordinals
+प्रथम, द्वितीय, तृतीय, चतुर्थ, पञ्चम, षष्ठ, सप्तम, अष्टम, नवम, दशम; एकादश … विंश / विंशतितम, शततम. Feminine प्रथमा, द्वितीया, तृतीया, चतुर्थी, पञ्चमी… (the names of the cases!). Telugu: ప్రథమ, ద్వితీయ, తృతీయ, చతుర్థి, పంచమి — also the tithis.
+
+@ex gita:15:20
+note: गुह्यतमम् "most secret" (-तम); बुद्धिमान् "wise" (-मत्); कृतकृत्यः "one who has done what had to be done" (bahuvrīhi). अनघ "O sinless one" (bahuvrīhi: न अघं यस्य).
+@end
+
+@ex gita:3:1
+note: ज्यायसी "superior": feminine of ज्यायस् (comparative of वृद्ध / प्रशस्य), agreeing with बुद्धिः. कर्मणः: 5th case of comparison, "than action".
+@end
+
+@ex gita:11:5
+note: शतशः, सहस्रशः "by hundreds, by thousands" (-शः); नानाविधानि "of many kinds" (bahuvrīhi with the indeclinable नाना).
+@end
+
+@quiz
+q: वैराग्यम् is formed from विराग with:
+* ष्यञ् (-य) and vṛddhi
+- -त्व
+- -मत्
+why: वि → वै; abstract noun "dispassion".
+
+q: Telugu బలవంతుడు comes from:
+* बलवत् (-वत्, "having strength")
+- बल + अन्त
+- बलिष्ठ
+why: The strong stem बलवन्त् + Telugu -ఉడు.
+
+q: "కృష్ణుడు రాముని కంటే గొప్పవాడు":
+* रामात् कृष्णः गरीयान्
+- रामस्य कृष्णः गरिष्ठः
+- रामेण कृष्णः गुरुः
+why: Comparative -ईयस् with the 5th case.
+
+q: सर्वतः means:
+* from all sides
+- always
+- everywhere (where?)
+why: -तः "from"; सर्वत्र = everywhere, सर्वदा = always.
+
+q: चिन्मयः means:
+* made of consciousness
+- having a mind
+- mental
+why: चित् + मय (चित् → चिन् before म).
+@end

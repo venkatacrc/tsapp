@@ -1,0 +1,119 @@
+@title దశ గణాలు · The ten verb classes (गण)
+@summary Pāṇini sorts roots into ten classes by how they form the present stem. Four classes add a simple अ and behave alike; six attach endings straight to a changing root. The traditional verse, the stem rule for each class, and a Gītā verb from each.
+
+## The verse
+> [memory] भ्वाद्यदादी जुहोत्यादिर्दिवादिः स्वादिरेव च । तुदादिश्च रुधादिश्च तनक्र्यादिचुरादयः :: "Bhū and the others, ad and the others, hu and the others, div and the others, su and the others; tud, rudh, tan, krī and cur, with their followers." Each class is named after its first root. Chant it; the order is fixed and grammars refer to classes by number (1 = भ्वादि … 10 = चुरादि).
+
+## How each class makes its present stem
+| # | Class | Sign (विकरण) | Root → stem | 3 sg. | Telugu |
+|---|---|---|---|---|---|
+| 1 | भ्वादि | शप् = अ, with guṇa | भू → भव | भवति | అవుతాడు |
+| 2 | अदादि | none | अद् → अद् | अत्ति | తింటాడు |
+| 3 | जुहोत्यादि | reduplication | हु → जुहो / जुहु | जुहोति | హోమం చేస్తాడు |
+| 4 | दिवादि | श्यन् = य | दिव् → दीव्य | दीव्यति | ఆడతాడు |
+| 5 | स्वादि | श्नु = नु / नो | सु → सुनो / सुनु | सुनोति | (సోమం) పిండుతాడు |
+| 6 | तुदादि | श = अ, no guṇa | तुद् → तुद | तुदति | పొడుస్తాడు |
+| 7 | रुधादि | श्नम् = न inside the root | रुध् → रुणध् / रुन्ध् | रुणद्धि | అడ్డగిస్తాడు |
+| 8 | तनादि | उ / ओ | तन् → तनो / तनु | तनोति | విస్తరిస్తాడు |
+| 9 | क्र्यादि | श्ना = ना / नी | क्री → क्रीणा / क्रीणी | क्रीणाति | కొంటాడు |
+| 10 | चुरादि | णिच् = अय, with guṇa | चुर् → चोरय | चोरयति | దొంగిలిస్తాడు |
+
+> [memory] Thematic: 1, 4, 6, 10 :: In classes 1, 4, 6 and 10 the stem ends in **अ** (भव-, दीव्य-, तुद-, चोरय-) and the endings are always the same as भवति. These four classes hold most verbs. Classes 2, 3, 5, 7, 8, 9 are **athematic**: endings join the root directly and the stem changes between strong and weak forms (जुहोति / जुहुमः, सुनोति / सुनुमः).
+
+## Strong and weak stems in the athematic classes
+In athematic classes, the parasmaipada **singular** of the present and imperfect (plus the 3rd-singular and all 1st-person imperatives) uses the **strong** (guṇa) stem; everything else, including the dual, the plural and the whole ātmanepada, uses the **weak** stem:
+
+| Class | Strong (3 sg.) | Weak (3 pl.) |
+|---|---|---|
+| 2 अदादि: इ (go) | एति | यन्ति |
+| 2 अदादि: अस् (be) | अस्ति | सन्ति |
+| 2 अदादि: हन् (kill) | हन्ति | घ्नन्ति |
+| 3 जुहोत्यादि: दा (give) | ददाति | ददति |
+| 3 जुहोत्यादि: भृ (bear) | बिभर्ति | बिभ्रति |
+| 5 स्वादि: श्रु (hear) | शृणोति | शृण्वन्ति |
+| 5 स्वादि: आप् (obtain) | आप्नोति | आप्नुवन्ति |
+| 7 रुधादि: युज् (join) | युनक्ति | युञ्जन्ति |
+| 7 रुधादि: छिद् (cut) | छिनत्ति | छिन्दन्ति |
+| 8 तनादि: कृ (do) | करोति | कुर्वन्ति |
+| 9 क्र्यादि: ज्ञा (know) | जानाति | जानन्ति |
+| 9 क्र्यादि: ग्रह् (take) | गृह्णाति | गृह्णन्ति |
+
+> [warning] Class 1 and class 6 look alike :: Both add अ. The difference is guṇa: class 1 strengthens the root vowel (बुध् → बोधति, भू → भवति), class 6 does not (तुद् → तुदति, विश् → विशति, सृज् → सृजति, इष् → इच्छति). You cannot tell from the root alone: learn the present form.
+
+## Irregular present stems in class 1
+Several common class-1 roots replace the root in the present:
+
+| Root | Present | Telugu |
+|---|---|---|
+| गम् | गच्छति | వెళ్తాడు |
+| यम् | यच्छति (प्र + यम् = gives) | ఇస్తాడు |
+| स्था | तिष्ठति | నిలుస్తాడు |
+| पा | पिबति | తాగుతాడు |
+| घ्रा | जिघ्रति | వాసన చూస్తాడు |
+| दृश् | पश्यति | చూస్తాడు |
+| सद् | सीदति (वि + सद् = despairs) | కుంగుతాడు |
+| दंश् | दशति | కరుస్తాడు |
+
+## A verb from each class in the Gītā
+| Class | Form | Where |
+|---|---|---|
+| 1 भ्वादि | भवति, सम्भवामि | ग्लानिर्भवति (4.7), सम्भवामि युगे युगे (4.8) |
+| 2 अदादि | वेत्ति, हन्ति, अस्ति | य एनं वेत्ति हन्तारम् … नायं हन्ति (2.19) |
+| 3 जुहोत्यादि | ददाति, बिभर्ति | बिभर्त्यव्यय ईश्वरः (15.17) |
+| 4 दिवादि | मुह्यति, जायते, मन्यते | धीरस्तत्र न मुह्यति (2.13) |
+| 5 स्वादि | आप्नोति, शृणोति | स शान्तिमाप्नोति (2.70) |
+| 6 तुदादि | सृजामि, विशन्ति | आत्मानं सृजाम्यहम् (4.7) |
+| 7 रुधादि | छिन्दन्ति, युनक्ति | नैनं छिन्दन्ति शस्त्राणि (2.23) |
+| 8 तनादि | करोति, कुरु | योगस्थः कुरु कर्माणि (2.48) |
+| 9 क्र्यादि | गृह्णाति, जानाति | नवानि गृह्णाति नरः (2.22) |
+| 10 चुरादि | चिन्तयति, कथयति | अनन्याश्चिन्तयन्तो माम् (9.22) |
+
+> [note] Only the present system depends on the class :: The class matters for four lakāras: लट् (present), लङ् (imperfect), लोट् (imperative) and विधिलिङ् (optative). The other lakāras (perfect, aorist, futures, benedictive, conditional) and most participles are built from the bare root, whatever its class.
+
+@ex gita:4:7
+note: भवति "happens": class 1 (भू → भव-), parasmaipada present.
+note: सृजामि "I create / send forth": class 6 (सृज्, no guṇa), 1st person singular present.
+note: यदा यदा … तदा: relative-correlative pair of time.
+@end
+
+@ex gita:2:13
+note: मुह्यति "is deluded": class 4 (मुह् → मुह्य-), the य sign of दिवादि.
+@end
+
+@quiz
+q: Which classes are thematic (stem in अ)?
+* 1, 4, 6 and 10
+- 2, 3, 5
+- All ten
+why: भवति, दीव्यति, तुदति, चोरयति: same endings throughout.
+
+q: What is the class sign of the दिवादि (4th) class?
+* य (श्यन्)
+- नु
+- ना
+why: दिव् → दीव्यति; मुह् → मुह्यति; जन् → जायते.
+
+q: करोति belongs to which class?
+* 8 (तनादि)
+- 1 (भ्वादि)
+- 2 (अदादि)
+why: कृ takes उ / ओ: करोति, कुर्वन्ति.
+
+q: In which lakāras does the class matter?
+* लट्, लङ्, लोट्, विधिलिङ् (the present system)
+- All ten
+- Only the future
+why: Other tenses are built on the root itself.
+
+q: The 3rd plural of छिद् (to cut, class 7):
+* छिन्दन्ति
+- छेदन्ति
+- छिद्यन्ति
+why: Class 7 inserts a nasal: छिनत्ति (strong) / छिन्दन्ति (weak). नैनं छिन्दन्ति शस्त्राणि (2.23).
+
+q: Which root has the present गच्छति?
+* गम्
+- गच्छ्
+- गा
+why: गम् replaces its present stem with गच्छ- (class 1).
+@end

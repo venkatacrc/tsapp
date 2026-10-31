@@ -1,0 +1,105 @@
+@title ఆకారాంత స్త్రీలింగం · ā-stem feminine: रमा
+@summary सीता, लता, विद्या, माया, कृपा, सेना, गीता: the commonest feminine pattern. Its four special singular endings (-यै, -याः, -याः, -याम्), the -ए vocative, and how it appears in the Gītā.
+
+## The table
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం | తెలుగు |
+|---|---|---|---|---|
+| ప్రథమా (1) | रमा | रमे | रमाः | రమ / రమలు |
+| ద్వితీయా (2) | रमाम् | रमे | रमाः | రమను |
+| తృతీయా (3) | रमया | रमाभ्याम् | रमाभिः | రమచేత |
+| చతుర్థీ (4) | रमायै | रमाभ्याम् | रमाभ्यः | రమకొఱకు |
+| పంచమీ (5) | रमायाः | रमाभ्याम् | रमाभ्यः | రమ వలన |
+| షష్ఠీ (6) | रमायाः | रमयोः | रमाणाम् | రమ యొక్క |
+| సప్తమీ (7) | रमायाम् | रमयोः | रमासु | రమయందు |
+| సంబోధన (8) | हे रमे | हे रमे | हे रमाः | ఓ రమా! |
+
+> [memory] -या, -यै, -याः, -याः, -याम् :: The singular from case 3 on has a य in every form: रमया, रमायै, रमायाः, रमायाः, रमायाम्. Chant "య యై యాః యాః యామ్". Plurals keep the long आ: रमाभिः, रमाभ्यः, रमाणाम्, रमासु.
+
+> [warning] -आः has three meanings :: रमाः is nominative plural, accusative plural **and** vocative plural, while रमायाः is ablative **and** genitive singular. In a verse, ask whether the word is the subject (1 pl.), the object (2 pl.), or "from / of" (5/6 sg.).
+
+> [compare] Vocative -ए :: The vocative singular changes आ to ए: सीते!, राधे!, गङ्गे!, गीते! (in Telugu songs: సీతే, రాధే). But words meaning "mother" shorten instead: अम्ब, अक्क.
+
+## Words like रमा
+| Sanskrit | Telugu | Meaning |
+|---|---|---|
+| सीता | సీత | Sītā |
+| लता | లత | creeper |
+| विद्या | విద్య | knowledge, learning |
+| माया | మాయ | illusion, divine power |
+| कृपा / दया | కృప / దయ | compassion |
+| सेना | సేన | army |
+| गीता | గీత | the Gītā (lit. "sung") |
+| भाषा | భాష | language |
+| कथा | కథ | story |
+| शाला | శాల | hall, school |
+| बाला / बालिका | బాలిక | girl |
+| प्रज्ञा | ప్రజ్ఞ | wisdom |
+| श्रद्धा | శ్రద్ధ | faith |
+| चिन्ता | చింత | worry, thought |
+| निशा | నిశ | night |
+| क्षमा | క్షమ | forgiveness, patience |
+| आज्ञा | ఆజ్ఞ | command |
+
+> [telugu] Telugu ā-feminines are Sanskrit nominatives :: సీత, లత, విద్య, మాయ, కృప in Telugu are the Sanskrit nominative with the final ā shortened in speech. Say them long in Sanskrit: सीता, लता, विद्या.
+
+## In the texts
+| Case | Form | Where |
+|---|---|---|
+| 1 sg. | या निशा सर्वभूतानाम् | Gītā 2.69 |
+| 3 sg. | मायया (by māyā) | Gītā 18.61 |
+| 3 sg. | कृपया परयाविष्टः | Gītā 1.28 |
+| 6/7 du. | सेनयोरुभयोर्मध्ये | Gītā 1.21, 1.24 |
+| 2 sg. | शान्तिम् (i-stem) vs. सेनाम् (ā-stem) | Gītā 2.70, 1.2 |
+| 7 sg. | विद्याविनयसम्पन्ने (compound) | Gītā 5.18 |
+| 1 sg. | गीता सुगीता कर्तव्या | Gītā Māhātmya |
+
+@ex gita:18:61
+note: मायया "by māyā": instrumental singular of माया, like रमया.
+note: ईश्वरः सर्वभूतानां हृद्देशे तिष्ठति: subject (1), "of all beings" (6 pl.), "in the heart-region" (7 sg.).
+note: भ्रामयन् "causing to revolve" is a present participle of the causative of भ्रम्: lesson 7.2.
+@end
+
+@ex gita:1:21
+note: सेनयोः उभयोः मध्ये "between both armies": सेनयोः is the genitive dual of सेना (like रमयोः), with उभयोः "both" agreeing.
+note: स्थापय "place!": a causative imperative of स्था. मे "my" (short form of मम).
+@end
+
+@ex
+sa: सीता लतां पश्यति । लतायां पुष्पाणि सन्ति । सीता बालिकाभ्यः पुष्पाणि ददाति ।
+te: సీత తీగను చూస్తోంది. తీగమీద పువ్వులున్నాయి. సీత పిల్లలకు పువ్వులు ఇస్తోంది.
+en: Sītā sees the creeper. There are flowers on the creeper. Sītā gives flowers to the girls.
+w: सीता = సీత (1); लताम् = తీగను (2); लतायाम् = తీగమీద (7); पुष्पाणि = పువ్వులు; बालिकाभ्यः = బాలికలకు (4 pl.); ददाति = ఇస్తోంది
+note: Four forms of the same pattern in three short sentences: सीता (1), लताम् (2), लतायाम् (7), बालिकाभ्यः (4 pl.).
+@end
+
+@quiz
+q: Instrumental singular of विद्या:
+* विद्यया
+- विद्येन
+- विद्यायाः
+why: ā-stems take -या: रमया, विद्यया.
+
+q: What can रमायाः be?
+* Ablative or genitive singular
+- Nominative plural
+- Locative singular
+why: 5 and 6 singular coincide: रमायाः. The nominative plural is रमाः.
+
+q: Vocative singular of सीता:
+* हे सीते
+- हे सीता
+- हे सीत
+why: आ → ए in the vocative singular.
+
+q: Locative singular of भाषा:
+* भाषायाम्
+- भाषे
+- भाषासु
+why: -आयाम् for the locative singular; भाषासु is locative plural.
+
+q: In सेनयोरुभयोर्मध्ये, सेनयोः is:
+* Genitive dual: "of the two armies"
+- Nominative plural
+- Instrumental singular
+why: Two armies → dual. 6 and 7 dual end in -योः.
+@end

@@ -1,0 +1,101 @@
+@title వర్తమాన కృదంతాలు · Present and future participles (शतृ, शानच्)
+@summary "While doing": गच्छन् (going), लभमानः (getting), कुर्वाणः (doing), क्रियमाणः (being done). How to form them from the present stem, how they decline, and the Gītā's long string पश्यन् शृण्वन् स्पृशन् जिघ्रन्…
+
+## Two suffixes, one for each pada
+| Suffix | Pada | Form from the present 3 pl. | Example | Telugu |
+|---|---|---|---|---|
+| शतृ (-अत्) | parasmaipada | drop -इ of -अन्ति | गच्छन्ति → गच्छत् (गच्छन्) | వెళ్తూ, వెళ్తున్న |
+| शानच् (-मान) | ātmanepada, thematic | stem + मान | लभ → लभमान | పొందుతూ |
+| शानच् (-आन) | ātmanepada, athematic | weak stem + आन | कुर्व् → कुर्वाण | చేస్తూ |
+| passive | passive | passive stem + मान | क्रिय → क्रियमाण | చేయబడుతూ |
+
+> [memory] Start from "they do" :: Take the 3rd plural present and cut the ending: गच्छन्ति → गच्छन्त् → गच्छत्; कुर्वन्ति → कुर्वत्; ददति → ददत्; जानन्ति → जानत्. Ātmanepada: लभन्ते → लभ + मान; कुर्वते → कुर्व + आण. The 3rd plural already tells you everything.
+
+> [compare] Telugu -తూ and -తున్న :: వెళ్తూ (adverbial: while going) and వెళ్తున్న (adjectival: who is going) are both गच्छन्. Sanskrit makes no such split: गच्छन् agrees with its noun and can do both jobs. गच्छन् रामः "వెళ్తున్న రాముడు"; रामः गच्छन् गायति "రాముడు వెళ్తూ పాడుతాడు".
+
+## Declension of गच्छत्
+Strong stem गच्छन्त् in the first five forms (masc.), weak stem गच्छत् elsewhere:
+
+| | పుంలిఙ్గ ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | गच्छन् | गच्छन्तौ | गच्छन्तः |
+| ద్వితీయ | गच्छन्तम् | गच्छन्तौ | गच्छतः |
+| తృతీయ | गच्छता | गच्छद्भ्याम् | गच्छद्भिः |
+| చతుర్థీ | गच्छते | गच्छद्भ्याम् | गच्छद्भ्यः |
+| పంచమీ | गच्छतः | गच्छद्भ्याम् | गच्छद्भ्यः |
+| షష్ఠీ | गच्छतः | गच्छतोः | गच्छताम् |
+| సప్తమీ | गच्छति | गच्छतोः | गच्छत्सु |
+| సంబోధన | हे गच्छन् | गच्छन्तौ | गच्छन्तः |
+
+- Feminine: गच्छन्ती (like नदी). Classes 1, 4, 10 always have -न्ती: भवन्ती, दीव्यन्ती, चोरयन्ती. Class 6 and 2 (आ-roots) have both: तुदती / तुदन्ती. Class 3 and others: -अती: ददती, कुर्वती, जानती.
+- Neuter: गच्छत्, गच्छती, गच्छन्ति (like जगत्).
+- Class 3 (reduplicated) has no nasal in the masculine: ददत्, ददतौ, ददतः (like a weak stem throughout).
+
+> [warning] गच्छति: verb or participle? :: गच्छति is both "he goes" and the 7th case singular of the participle ("in / while going"). Context decides. Similarly गच्छतः = "the two go" or "of the one going".
+
+## Ātmanepada participles
+- -मान: लभमानः, वर्तमानः, वर्धमानः, युध्यमानः, मन्यमानः, आपूर्यमाणम् (2.70)
+- -आन: कुर्वाणः, ब्रुवाणः, शयानः, आसीनः (irregular, of आस्), जानानः
+- passive -मान: क्रियमाणः (3.27), हन्यमानः (2.20), दीयमानः, श्रूयमाणः
+
+They decline like राम / रमा / वन: लभमानः, लभमाना, लभमानम्.
+
+> [note] -मान becomes -माण :: After र / ष / ऋ in the same word, न becomes ण: क्रियमाण, आपूर्यमाण, श्रूयमाण (ṇatva, 8.4.2).
+
+## Future participles
+Future stem + the same suffixes: करिष्यत् (करिष्यन्) "about to do", करिष्यमाण "who will do (Ā)", भविष्यत् "future" (भविष्यत्कालः). Telugu: చేయబోయే.
+
+## Perfect participles (for recognition)
+- -वस् (क्वसु): विद्वस् → विद्वान् "learned, one who knows" (from the perfect वेद); चकृवस्, जग्मिवस्
+- -आन (कानच्): चक्राण, ऊचान
+
+विद्वान् is by far the most common. It declines: विद्वान्, विद्वांसौ, विद्वांसः, विदुषा, विदुषः.
+
+@ex gita:5:8
+split: न एव किञ्चित् करोमि इति युक्तः मन्येत तत्त्ववित् । पश्यन् शृण्वन् स्पृशन् जिघ्रन् अश्नन् गच्छन् स्वपन् श्वसन् ॥
+w: न एव किञ्चित् करोमि = నేను ఏమీ చేయడం లేదు; इति = అని; युक्तः = యోగయుక్తుడు; मन्येत = భావించాలి (optative); तत्त्ववित् = తత్త్వం తెలిసినవాడు; पश्यन् = చూస్తూ; शृण्वन् = వింటూ; स्पृशन् = తాకుతూ; जिघ्रन् = వాసన చూస్తూ; अश्नन् = తింటూ; गच्छन् = నడుస్తూ; स्वपन् = నిద్రిస్తూ; श्वसन् = శ్వాసిస్తూ
+note: Eight present participles in the masculine 1st case, all agreeing with तत्त्ववित्: classes 1 (पश्यन्, जिघ्रन्, गच्छन्), 5 (शृण्वन्), 6 (स्पृशन्), 9 (अश्नन्) and 2 (स्वपन्, श्वसन्).
+@end
+
+@ex gita:5:9
+te: మాట్లాడుతూ, విసర్జిస్తూ, గ్రహిస్తూ, కళ్ళు తెరుస్తూ మూస్తూ కూడా, "ఇంద్రియాలు ఇంద్రియ విషయాలలో వర్తిస్తున్నాయి" అని ధరించి (నిశ్చయించుకొని).
+en: …speaking, letting go, grasping, even opening and closing the eyes, holding firmly that "the senses are moving among their objects".
+split: प्रलपन् विसृजन् गृह्णन् उन्मिषन् निमिषन् अपि । इन्द्रियाणि इन्द्रियार्थेषु वर्तन्ते इति धारयन् ॥
+note: Six more: प्रलपन् (1), विसृजन् (6), गृह्णन् (9), उन्मिषन्, निमिषन् (6), धारयन् (10 / causative). The two verses form one sentence.
+@end
+
+@ex gita:2:10
+note: प्रहसन् इव "as if smiling": present participle of प्र + हस्; विषीदन्तम् "the one sorrowing" (वि + सद्, सीद- stem), 2nd case.
+@end
+
+@quiz
+q: Present participle (masc. 1 sg.) of कृ, parasmaipada:
+* कुर्वन्
+- करन्
+- कुर्वाणः
+why: कुर्वन्ति → कुर्वत् → कुर्वन्. (कुर्वाणः is the ātmanepada one.)
+
+q: The feminine of गच्छत्:
+* गच्छन्ती
+- गच्छता
+- गच्छती only
+why: Class 1 verbs always have -न्ती.
+
+q: क्रियमाणानि (3.27) is:
+* present passive participle, neuter plural
+- future active participle
+- past participle
+why: Passive stem क्रिय + मान (→ माण), agreeing with कर्माणि.
+
+q: "పాడుతూ నడుస్తున్నాడు":
+* गायन् गच्छति
+- गीत्वा गच्छति
+- गायति गच्छति
+why: Simultaneous action: present participle. (गीत्वा = after singing.)
+
+q: विद्वान् is:
+* a perfect participle of विद् (one who knows)
+- a past participle of विद्
+- a present participle
+why: -वस् perfect participle: विद्वान्, विद्वांसौ, विद्वांसः.
+@end

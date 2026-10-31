@@ -1,0 +1,106 @@
+@title క్రియ నిర్మాణం · Anatomy of a verb: धातु, विकरण, तिङ्
+@summary How a Sanskrit verb is built: prefix + root + class sign + ending. The 18 तिङ् endings, परस्मैपद and आत्मनेपद, उभयपद verbs, and how to read a dictionary entry like "भू सत्तायाम्".
+
+## Four parts
+| Part | Name | Example: प्रभवति | Telugu analogy |
+|---|---|---|---|
+| prefix | उपसर्गः | प्र | (few: ఉప-, ప్ర- in tatsamas) |
+| root | धातुः | भू "be" | క్రియా ధాతువు: చేయు, పోవు |
+| class sign | विकरणम् | अ (भू → भव) | — |
+| ending | तिङ् प्रत्ययः | ति (3rd sg. present) | -ను, -వు, -డు |
+
+प्र + भू → भो (guṇa) → भव + अ + ति → **प्रभवति** "arises, prevails". Sahasranāmam 4 प्रभवः "origin" is a noun from the same root and prefix.
+
+> [telugu] Telugu ధాతువు :: Telugu grammar also speaks of ధాతువులు (చేయు, పోవు, ఇచ్చు) and adds tense and person suffixes: చేయు + చు + న్నా + ను. Sanskrit is similar in outline (root + stem sign + ending), but the ending fuses person, number and voice in one piece.
+
+## Roots and the धातुपाठ
+Pāṇini's list of about 2,000 roots (धातुपाठ) gives each with its meaning in the locative: **भू सत्तायाम्** "bhū, in the sense of being", **गम्लृ गतौ** "gam, in going", **डुकृञ् करणे** "kṛ, in doing". The extra letters (लृ in गम्लृ, डु and ञ् in डुकृञ्) are markers (इत्) that tell grammarians how the root behaves. Bhaja Govindam 1 mocks the student who only memorises these: न हि न हि रक्षति डुकृञ्करणे "the rule 'ḍukṛñ karaṇe' will not save you".
+
+> [memory] Learn roots by their 3rd-person present :: Dictionaries list roots (गम्, दृश्, स्था), but you meet the forms (गच्छति, पश्यति, तिष्ठति). Learn each root with its present: गम्-गच्छति, दृश्-पश्यति, स्था-तिष्ठति, पा-पिबति, ज्ञा-जानाति, कृ-करोति. Then every other tense is built from the root.
+
+## The 18 endings (तिङ्)
+> [sutra] तिप्तस्झिसिप्थस्थमिब्वस्मस्तातांझथासाथांध्वमिड्वहिमहिङ् (3.4.78) :: The basic list of 18 personal endings: 9 परस्मैपद (तिप् तस् झि · सिप् थस् थ · मिप् वस् मस्) and 9 आत्मनेपद (त आताम् झ · थास् आथाम् ध्वम् · इट् वहि महिङ्). The first is तिप्, the last महिङ्, so together they are called **तिङ्**. Each tense reshapes them, as each noun class reshapes the सुप्.
+
+## परस्मैपद and आत्मनेपद
+Present tense of a thematic verb in each:
+
+| परस्मैपद: भू | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | भवति | भवतः | भवन्ति |
+| మధ్యమ | भवसि | भवथः | भवथ |
+| ఉత్తమ | भवामि | भवावः | भवामः |
+
+| आत्मनेपद: लभ् | ఏక | ద్వి | బహు |
+|---|---|---|---|
+| ప్రథమ | लभते | लभेते | लभन्ते |
+| మధ్యమ | लभसे | लभेथे | लभध्वे |
+| ఉత్తమ | लभे | लभावहे | लभामहे |
+
+> [memory] परस्मैपद -ति, आत्मनेपद -ते :: The quickest test: 3rd singular -ति = परस्मैपद (भवति, गच्छति), -ते = आत्मनेपद (लभते, वर्तते, मन्यते). Ātmanepada endings are the parasmaipada ones with -इ turned to -ए: -ति → -ते, -सि → -से, -न्ति → -न्ते.
+
+**परस्मैपद** = "word for another", **आत्मनेपद** = "word for oneself". Originally the ātmanepada meant the action benefits the doer: यजति "he sacrifices (for someone, as priest)" vs यजते "he sacrifices (for himself)". In classical Sanskrit most verbs simply have one fixed set:
+
+| Only परस्मैपद | Only आत्मनेपद | Both (उभयपद) |
+|---|---|---|
+| भवति, गच्छति, पठति | लभते (gets) | करोति / कुरुते (does) |
+| पश्यति, तिष्ठति | वर्तते (is, abides) | ददाति / दत्ते (gives) |
+| अस्ति, हन्ति | मन्यते (thinks) | नयति / नयते (leads) |
+| जानाति, शृणोति | जायते (is born) | यजति / यजते (sacrifices) |
+| पिबति, वदति | सेवते, ईक्षते, भाषते | भजति / भजते (worships, shares) |
+| वसति, स्मरति | युध्यते (fights) | पचति / पचते (cooks) |
+
+> [note] Prefixes can switch the set :: Some roots change pada with a prefix: जयति but विजयते, पराजयते; गच्छति but सङ्गच्छते; तिष्ठति but उपतिष्ठते (worships); क्रीडति but सङ्क्रीडते; रमते but विरमति. Learn these as you meet them.
+
+## Every verb form tells you five things
+| Feature | Options | Example: अलभन्त |
+|---|---|---|
+| लकार (tense / mood) | 10 | लङ् (past) |
+| पद (voice of ending) | परस्मै / आत्मने | आत्मनेपद |
+| पुरुष (person) | प्रथम, मध्यम, उत्तम | प्रथम |
+| वचन (number) | एक, द्वि, बहु | बहु |
+| प्रयोग (voice) | कर्तरि, कर्मणि, भावे | कर्तरि |
+
+So अलभन्त = "they obtained". Telugu commentaries state this as: లభ్ ధాతువు, ఆత్మనేపదం, లఙ్ లకారం, ప్రథమ పురుష బహువచనం.
+
+@ex gita:3:27
+split: प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः । अहङ्कारविमूढात्मा कर्ता अहम् इति मन्यते ॥
+w: प्रकृतेः = ప్రకృతి యొక్క; क्रियमाणानि = చేయబడుచున్న (passive participle); गुणैः = గుణాలచేత; कर्माणि = కర్మలు; सर्वशः = అన్ని విధాలా; अहङ्कारविमूढात्मा = అహంకారంతో మోహితమైన మనసు గలవాడు; कर्ता = కర్తను; अहम् = నేను; इति = అని; मन्यते = తలుస్తాడు
+note: मन्यते "thinks": आत्मनेपद, 3rd singular present of मन् (दिवादि class): -ते marks the ātmanepada.
+note: क्रियमाणानि "being done": a passive present participle from कृ, agreeing with कर्माणि (lesson 7.2).
+@end
+
+@ex gita:2:62
+note: उपजायते, सञ्जायते, अभिजायते: three forms of जायते "is born" (आत्मनेपद, दिवादि) with three different prefixes (उप, सम्, अभि). Same meaning, chosen for metre and variety.
+@end
+
+@quiz
+q: What does the ending -ते in लभते show?
+* आत्मनेपद, 3rd person singular, present
+- परस्मैपद, 3rd singular
+- 2nd person plural
+why: -ति is parasmaipada, -ते ātmanepada.
+
+q: What is an उभयपद verb?
+* One that can take both परस्मैपद and आत्मनेपद endings
+- One with two prefixes
+- One with two meanings
+why: करोति / कुरुते, ददाति / दत्ते.
+
+q: Why is the list of verb endings called तिङ्?
+* It runs from तिप् (first) to महिङ् (last)
+- It means "verb" in Telugu
+- Because all endings start with ति
+why: Like सुप् for noun endings: first + last marker.
+
+q: The 1st-person singular present ātmanepada of लभ्:
+* लभे
+- लभामि
+- लभते
+why: Ātmanepada ఉత్తమ ఏక: -ए.
+
+q: "भू सत्तायाम्" in the dhātupāṭha means:
+* the root भू, meaning "being"
+- "be in the house"
+- a command
+why: Roots are listed with their meaning in the locative: सत्तायाम् "in (the sense of) existence".
+@end

@@ -1,0 +1,121 @@
+@title హలంత శబ్దాలు (1) · t-stems, -वत् / -मत्, participles, -इन्
+@summary Consonant stems that end in त्/द्: मरुत्, जगत्; the possessive -वत् / -मत् (भगवान्, श्रीमान्, बुद्धिमान्); present participles (गच्छन्); and the very common -इन् stems (योगी, ज्ञानी, देही, स्वामी).
+
+## The plain consonant pattern: मरुत्
+Consonant stems add the basic endings almost unchanged. Before consonant endings (-भ्याम्, -भिः, -भ्यः) त् becomes द्; before -सु it stays त्.
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | मरुत् | मरुतौ | मरुतः |
+| 2 | मरुतम् | मरुतौ | मरुतः |
+| 3 | मरुता | मरुद्भ्याम् | मरुद्भिः |
+| 4 | मरुते | मरुद्भ्याम् | मरुद्भ्यः |
+| 5 | मरुतः | मरुद्भ्याम् | मरुद्भ्यः |
+| 6 | मरुतः | मरुतोः | मरुताम् |
+| 7 | मरुति | मरुतोः | मरुत्सु |
+| 8 | हे मरुत् | हे मरुतौ | हे मरुतः |
+
+> [memory] Pure endings: -औ -अः · -अम् · -आ -भ्याम् -भिः · -ए · -अः · -ओः -आम् · -इ -सु :: Consonant stems show Pāṇini's endings most clearly. Learn मरुत् and you know the "raw" सुप् set that every other class modifies.
+
+The neuter **जगत्**: जगत् जगती जगन्ति (1/2), जगता, जगते, जगतः, जगति… Gītā 9.17 अस्य जगतः "of this world".
+
+## -वत् / -मत्: "having"
+Possessive adjectives: भगवत् (having fortune), श्रीमत्, बुद्धिमत्, गुणवत्, धनवत्, हनुमत्. In the strong cases they insert **न्**: भगवन्तम्, and the nominative singular is **-वान् / -मान्**.
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | भगवान् | भगवन्तौ | भगवन्तः |
+| 2 | भगवन्तम् | भगवन्तौ | भगवतः |
+| 3 | भगवता | भगवद्भ्याम् | भगवद्भिः |
+| 4 | भगवते | भगवद्भ्याम् | भगवद्भ्यः |
+| 5 | भगवतः | भगवद्भ्याम् | भगवद्भ्यः |
+| 6 | भगवतः | भगवतोः | भगवताम् |
+| 7 | भगवति | भगवतोः | भगवत्सु |
+| 8 | हे भगवन् | हे भगवन्तौ | हे भगवन्तः |
+
+Feminine: **भगवती**, **श्रीमती**, **बुद्धिमती** (नदी pattern). Neuter: भगवत् भगवती भगवन्ति.
+
+> [telugu] -మంతుడు, -వంతుడు :: Telugu బుద్ధిమంతుడు, గుణవంతుడు, భాగ్యవంతుడు, హనుమంతుడు are built on the strong stem -मन्त् / -वन्त् + Telugu -ఉడు. Sanskrit nominatives: बुद्धिमान्, गुणवान्, भाग्यवान्, हनुमान्. Telugu శ్రీమతి = Sanskrit श्रीमती.
+
+> [memory] Strong five, weak the rest :: The **strong cases** are 1 sg./du./pl. and 2 sg./du. ("the first five"). Many consonant stems have a longer stem there: भगवन्त्-, राजान्-, आत्मान्-. All other cases use the short stem: भगवत्-, राज्ञ्-, आत्मन्-. This one idea explains most consonant declensions.
+
+## Present participles: गच्छन्
+The present participle (शतृ, "going") declines like भगवत् but with short -अन्: गच्छन् गच्छन्तौ गच्छन्तः, गच्छन्तम्, गच्छता, गच्छतः… Vocative हे गच्छन्. Feminine गच्छन्ती. Neuter गच्छत्, pl. गच्छन्ति.
+
+| | Masc. 1 sg. | 6 sg. | Fem. | Telugu |
+|---|---|---|---|---|
+| going | गच्छन् | गच्छतः | गच्छन्ती | వెళ్తూ, వెళ్తున్న |
+| being | सन् | सतः | सती | ఉంటూ, ఉన్న |
+| doing | कुर्वन् | कुर्वतः | कुर्वती | చేస్తూ |
+| seeing | पश्यन् | पश्यतः | पश्यन्ती | చూస్తూ |
+| thinking | चिन्तयन् | चिन्तयतः | चिन्तयन्ती | ఆలోచిస్తూ |
+| meditating | ध्यायन् | ध्यायतः | ध्यायन्ती | ధ్యానిస్తూ |
+
+> [compare] महत् is special :: महत् "great" has a long आ in the strong cases: महान् महान्तौ महान्तः, महान्तम्; weak महता, महतः. Gītā 1.14 महति स्यन्दने "on the great chariot" (7 sg.).
+
+## -इन् stems: योगी
+Nouns and adjectives in **-इन्** ("one who has / does"): योगिन्, ज्ञानिन्, देहिन्, स्वामिन्, शशिन्, मन्त्रिन्, पक्षिन्, तपस्विन्.
+
+| విభక్తి | ఏకవచనం | ద్వివచనం | బహువచనం |
+|---|---|---|---|
+| 1 | योगी | योगिनौ | योगिनः |
+| 2 | योगिनम् | योगिनौ | योगिनः |
+| 3 | योगिना | योगिभ्याम् | योगिभिः |
+| 4 | योगिने | योगिभ्याम् | योगिभ्यः |
+| 5 | योगिनः | योगिभ्याम् | योगिभ्यः |
+| 6 | योगिनः | योगिनोः | योगिनाम् |
+| 7 | योगिनि | योगिनोः | योगिषु |
+| 8 | हे योगिन् | हे योगिनौ | हे योगिनः |
+
+Feminine: योगिनी, तपस्विनी (नदी pattern).
+
+> [memory] -ई in the nominative, -इन् elsewhere :: योगी, ज्ञानी, देही, स्वामी, शशी look like ī-stems in the nominative, but every other form shows the न: योगिनम्, देहिनः, ज्ञानिभ्यः, शशिनि. Telugu యోగి, జ్ఞాని, స్వామి took the Sanskrit nominative.
+
+@ex gita:6:46
+split: तपस्विभ्यः अधिकः योगी ज्ञानिभ्यः अपि मतः अधिकः । कर्मिभ्यः च अधिकः योगी तस्मात् योगी भव अर्जुन ॥
+w: तपस्विभ्यः = తపస్వుల కంటే (5 pl. of तपस्विन्); अधिकः = అధికుడు; योगी = యోగి (1 sg. of योगिन्); ज्ञानिभ्यः = జ్ఞానుల కంటే (5 pl.); अपि = కూడా; मतः = తలంచబడినవాడు; कर्मिभ्यः = కర్మిష్ఠుల కంటే; तस्मात् = అందువలన; भव = అవ్వు
+note: Four -इन् forms: तपस्विभ्यः, ज्ञानिभ्यः, कर्मिभ्यः (5 pl., "than") and योगी (1 sg.) three times.
+note: The ablative (పంచమీ) of comparison: "higher than the ascetics" = Telugu తపస్వుల కంటే.
+@end
+
+@ex gita:2:13
+note: देहिनः "for the embodied one": genitive singular of देहिन्. Later in the verse, धीरः "the wise one" (a-stem) is the subject.
+note: कौमारं यौवनं जरा: two neuter a-stems and one feminine ā-stem (जरा, old age).
+@end
+
+@ex gita:4:34
+note: ज्ञानिनः तत्त्वदर्शिनः "the wise, the seers of truth": nominative plurals of ज्ञानिन् and तत्त्वदर्शिन्, subjects of उपदेक्ष्यन्ति "will teach".
+note: प्रणिपातेन, परिप्रश्नेन, सेवया: three instrumentals of means: "by prostration, by questioning, by service".
+@end
+
+@quiz
+q: Nominative singular of भगवत्:
+* भगवान्
+- भगवत्
+- भगवन्तः
+why: -वत् stems: nominative -वान्. भगवन्तः is plural.
+
+q: Instrumental singular of योगिन्:
+* योगिना
+- योगीना
+- योगिणा
+why: Stem योगिन् + आ. The ī appears only in the nominative singular.
+
+q: Which cases are the "strong" cases?
+* 1st singular, dual, plural and 2nd singular, dual
+- All singulars
+- 6th and 7th
+why: The first five forms use the strong stem: भगवन्तम्, राजानम्, आत्मानौ.
+
+q: Feminine of श्रीमत्:
+* श्रीमती
+- श्रीमता
+- श्रीमान्ती
+why: -मत् / -वत् feminines add ई: श्रीमती, भगवती.
+
+q: In Gītā 6.46, तपस्विभ्यः means:
+* than the ascetics (ablative of comparison)
+- for the ascetics (dative)
+- by the ascetics
+why: अधिकः "greater" takes the ablative of what is compared: -भ्यः here is 5th case.
+@end

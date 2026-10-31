@@ -1,0 +1,110 @@
+@title అవ్యయీభావ, తత్పురుష · Avyayībhāva and tatpuruṣa
+@summary Avyayībhāva: indeclinable + noun = adverb (యథాశక్తి, ప్రతిదినం, ఉపకృష్ణం). Tatpuruṣa: the first member stands in some case relation to the last (దేవాలయం = దేవస్య ఆలయః). The six case-tatpuruṣas with Telugu school examples, the negative नञ्, and the upapada and prādi types.
+
+## अव्ययीभाव
+The first member is an indeclinable (prefix or particle); the compound is itself an indeclinable adverb, usually neuter in -म् (अव्ययीभावश्च 2.4.18).
+
+| Compound | Vigraha | Sense | Telugu |
+|---|---|---|---|
+| यथाशक्ति | शक्तिम् अनतिक्रम्य | according to | శక్తి మేరకు |
+| यथाविधि | विधिम् अनतिक्रम्य | according to rule | విధి ప్రకారం |
+| प्रतिदिनम् | दिनं दिनं प्रति | each | ప్రతిరోజు |
+| अनुरूपम् | रूपस्य योग्यम् | fitting | తగిన విధంగా |
+| उपकृष्णम् | कृष्णस्य समीपम् | near | కృష్ణుని దగ్గర |
+| अधिहरि | हरौ इति | in, about | హరి విషయంలో |
+| निर्मक्षिकम् | मक्षिकाणाम् अभावः | absence | ఈగలు లేకుండా |
+| आमरणम् | मरणपर्यन्तम् | up to | చనిపోయే వరకు |
+| सहर्षम् / सानन्दम् | हर्षेण सह | with | సంతోషంగా |
+| यावज्जीवम् | यावत् जीवति | as long as | బ్రతికినంత కాలం |
+
+> [memory] Adverb test :: If the compound starts with यथा, प्रति, अनु, उप, अधि, निर्, आ, स(ह), यावत् and ends in -म् (or a bare stem), and it answers "how?" or "when?" in the sentence, it is an avyayībhāva. सहर्षम् उवाच "spoke joyfully".
+
+## तत्पुरुष: the case compounds
+The first member is in some case relation to the last; the last member leads (the compound is a kind of the last member).
+
+| Type | Vigraha | Compound | Telugu school example |
+|---|---|---|---|
+| द्वितीया (2nd) | कृष्णं श्रितः | कृष्णश्रितः | గ్రామగతుడు (గ్రామాన్ని పొందినవాడు) |
+| तृतीया (3rd) | गुणैः युक्तः | गुणयुक्तः | ధనహీనుడు (ధనం చేత హీనుడు) |
+| चतुर्थी (4th) | यूपाय दारु | यूपदारु | భూతబలి (భూతాల కొరకు బలి) |
+| पञ्चमी (5th) | चोरात् भयम् | चोरभयम् | చోరభయం (చోరుల వల్ల భయం) |
+| षष्ठी (6th) | राज्ञः पुरुषः | राजपुरुषः | దేవాలయం (దేవుని యొక్క ఆలయం) |
+| सप्तमी (7th) | सभायां पण्डितः | सभापण्डितः | యుద్ధనిపుణుడు (యుద్ధంలో నిపుణుడు) |
+
+> [memory] Telugu vibhakti words decode the type :: Put the Telugu case marker between the two members and see which fits: దేవుని **యొక్క** ఆలయం (షష్ఠీ), ధనం **చేత** హీనుడు (తృతీయా), చోరుల **వల్ల** భయం (పంచమీ), యుద్ధం**లో** నిపుణుడు (సప్తమీ). The marker you need names the tatpuruṣa.
+
+### Tatpuruṣas in the Gītā and stotras
+| Compound | Vigraha | Type |
+|---|---|---|
+| धर्मक्षेत्रे (1.1) | धर्मस्य क्षेत्रे | षष्ठी |
+| कुन्तीपुत्रः (1.16) | कुन्त्याः पुत्रः | षष्ठी |
+| युद्धविशारदाः (1.9) | युद्धे विशारदाः | सप्तमी |
+| मदर्थे (1.9) | मम अर्थे | षष्ठी |
+| कर्मफलहेतुः (2.47) | कर्मणः फलस्य हेतुः | षष्ठी (nested) |
+| समाधिस्थः (2.54) | समाधौ तिष्ठति | उपपद (सप्तमी) |
+| शोकसंविग्नमानसः (1.47) | — | bahuvrīhi containing a तृतीया tatpuruṣa (शोकेन संविग्नम्) |
+| सुरेशः (VS 10) | सुराणाम् ईशः | षष्ठी |
+| भक्त्युपहृतम् (9.26) | भक्त्या उपहृतम् | तृतीया |
+
+## नञ् तत्पुरुष (negative)
+न + noun → अ- before a consonant, अन्- before a vowel (नलोपो नञः 6.3.73, तस्मान्नुडचि 6.3.74):
+
+| Compound | Vigraha | Telugu |
+|---|---|---|
+| अधर्मः | न धर्मः | అధర్మం |
+| अकर्म | न कर्म | అకర్మ |
+| अनन्तः | न अन्तः यस्य (also bahuvrīhi) | అనంతుడు |
+| अनित्यः | न नित्यः | అనిత్యం |
+| अव्ययः | न व्ययः यस्य | అవ్యయుడు |
+| अशोच्यः (2.11) | न शोच्यः | దుఃఖించదగని |
+| अनादिः | न आदिः यस्य | అనాది |
+
+> [note] Six meanings of नञ् :: तत्सादृश्यम् अभावश्च तदन्यत्वं तदल्पता । अप्राशस्त्यं विरोधश्च नञर्थाः षट् प्रकीर्तिताः — likeness (अब्राह्मणः, "not quite a brahmin"), absence (अज्ञानम्), otherness (अघटः), smallness (अनुदरा "slim-waisted"), unworthiness (अकालः "wrong time"), opposition (अधर्मः, असुरः). So अ- doesn't always mean simple "not".
+
+## उपपद तत्पुरुष
+A noun + a root form that cannot stand alone (lesson 7.5): कुम्भकारः, सर्वज्ञः, जलजम्, गृहस्थः, समाधिस्थः, भूतकृत्, धर्मवित्. Vigraha uses the verb: कुम्भं करोति इति कुम्भकारः.
+
+## प्रादि and गति तत्पुरुष
+A prefix + noun: प्रगुरुः (a great teacher), अतिमानुषः (superhuman), उत्पथः (wrong path), दुर्जनः (bad person), सुजनः (good person). Also a prefix + absolutive (गति): प्रणम्य, उपसङ्गम्य (counted as compounds by Pāṇini, which is why they take -य).
+
+@ex gita:2:47
+note: कर्मफलहेतुः = कर्मणः फलम् (षष्ठी) → कर्मफलम्; कर्मफलस्य हेतुः (षष्ठी) → कर्मफलहेतुः. A tatpuruṣa inside a tatpuruṣa. अकर्मणि: नञ् tatpuruṣa, "in non-action".
+@end
+
+@ex gita:2:54
+split: स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव । स्थितधीः किं प्रभाषेत किम् आसीत व्रजेत किम् ॥
+w: स्थितप्रज्ञस्य = స్థితప్రజ్ఞుని; का = ఏమి; भाषा = లక్షణం (వర్ణన); समाधिस्थस्य = సమాధిలో ఉన్నవాని; केशव = ఓ కేశవా; स्थितधीः = స్థిరబుద్ధి గలవాడు; किम् = ఎలా; प्रभाषेत = మాట్లాడుతాడు (optative); आसीत = కూర్చుంటాడు (optative of आस्); व्रजेत = నడుస్తాడు (optative)
+note: समाधिस्थः: upapada tatpuruṣa (समाधौ तिष्ठति). स्थितप्रज्ञः and स्थितधीः: bahuvrīhis ("whose wisdom / mind is steady", lesson 9.4).
+@end
+
+@quiz
+q: यथाशक्ति is:
+* an avyayībhāva (according to one's ability)
+- a ṣaṣṭhī tatpuruṣa
+- a bahuvrīhi
+why: Indeclinable first member, adverbial meaning.
+
+q: The vigraha of चोरभयम्:
+* चोरात् भयम् (pañcamī)
+- चोरस्य भयम्
+- चोरेण भयम्
+why: Fear from thieves: 5th case (lesson 11.1, भीत्रार्थानां भयहेतुः).
+
+q: न + अन्तः gives:
+* अनन्तः
+- अनन्तः only as bahuvrīhi
+- नान्तः
+why: नञ् before a vowel → अन्-.
+
+q: Which Telugu marker identifies a तृतीया tatpuruṣa?
+* చేత / తో
+- యొక్క
+- లో
+why: ధనం చేత హీనుడు → धनहीनः.
+
+q: कुम्भकारः is which kind of tatpuruṣa?
+* upapada
+- prādi
+- nañ
+why: कुम्भं करोति: the second member -कार cannot stand alone.
+@end

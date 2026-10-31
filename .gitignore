@@ -1,0 +1,7 @@
+.DS_Store
+build/
+app/.build/
+app/.swiftpm/
+__pycache__/
+.devtools/
+.wibey-tasks/

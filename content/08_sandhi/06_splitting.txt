@@ -1,0 +1,81 @@
+@title పదచ్ఛేదం · How to split any verse
+@summary A seven-step method for turning a printed verse into separate words (पदच्छेद), the ambiguous joins that need a dictionary or grammar to resolve, and three fully worked Gītā verses.
+
+## The seven steps
+1. **Mark the verse ends and caesuras.** Each pāda is usually a sense unit; sandhi across the half-verse ॥ / । is still possible but rarer.
+2. **Find the verbs.** Look for personal endings: -ति, -न्ति, -सि, -मि, -ते, -न्ते, -त्, -न्, -तु, -न्तु, -स्व, and the imperatives -हि, -धि. They anchor the sentence.
+3. **Undo visarga sandhi.** -ओ before a consonant → -अः; -ओऽ → -अः अ-; -श्च / -स्त / -ष्ट → -ः च / त / ट; -र् → -ः.
+4. **Undo nasal sandhi.** ं → म् (or the class nasal → म्); -ंश्च, -ंस्त → -न् च, -न् त; -न्न + vowel → -न् + vowel.
+5. **Undo consonant sandhi.** -ग् / -द् / -ड् / -ब् before voiced sounds → -क् / -त् / -ट् / -प्; -च्छ → -त् श; -द्ध → -त् ह; -ल्ल → -त् ल.
+6. **Undo vowel sandhi.** -ा- → अ+अ / अ+आ / आ+अ / आ+आ; -े- → अ+इ / आ+इ…; -ै- → अ+ए…; -य् + vowel → इ / ई + vowel; -व् + vowel → उ / ऊ + vowel; ऽ → अ.
+7. **Check every word.** Each piece must be a real form: a noun with a case ending, a verb with a personal ending, or an indeclinable. If not, go back and try the other possibility.
+
+> [memory] Outside in :: Visarga → nasals → consonants → vowels. This is the reverse of the order in which the rules apply, so each step uncovers the next.
+
+## Ambiguous joins
+| You see | Possible splits | How to decide |
+|---|---|---|
+| ा | अ + अ, अ + आ, आ + अ, आ + आ | the words must exist: विद्यालय = विद्या + आलय |
+| े | अ + इ, अ + ई, आ + इ, आ + ई | महेश = महा + ईश; also ए may be a case ending (वने) |
+| ो | अ + उ, आ + उ, अः + voiced | सूर्योदय = सूर्य + उदय; रामो गच्छति = रामः |
+| ै | अ / आ + ए / ऐ | सदैव = सदा + एव |
+| य + vowel | इ / ई + vowel, or a real य | इत्यादि = इति + आदि, but यदि is one word |
+| ऽ | ए / ओ + अ | सोऽहम् = सः अहम्; तेऽपि = ते अपि |
+| अ + gap + vowel | अः / ए / ओ + vowel | अर्जुन उवाच = अर्जुनः; हर इह = हरे |
+| आ + gap | आः + vowel / voiced | देवा इह = देवाः |
+| र् + consonant | इः / उः / original र् | हरिर्गच्छति, पुनर्जन्म |
+
+> [warning] Not everything that looks like sandhi is :: नैव = न + एव, but नैवेद्य is one word; कश्चित् is historically कः + चित् but works as one indefinite word ("someone"); some editions write ऽऽ for a merged long आ (तदाऽऽत्मानम्) just to show the join. When a piece makes no sense, it may be part of a compound: leave compounds intact at this stage (unit 9).
+
+## Worked verse 1
+@ex gita:2:22
+split: वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरः अपराणि । तथा शरीराणि विहाय जीर्णानि अन्यानि संयाति नवानि देही ॥
+anvaya: यथा नरः जीर्णानि वासांसि विहाय अपराणि नवानि गृह्णाति, तथा देही जीर्णानि शरीराणि विहाय अन्यानि नवानि संयाति ॥
+note: Step 2: verbs गृह्णाति, संयाति. Step 3: नरोऽपराणि → नरः अपराणि. Step 6: जीर्णान्यन्यानि → जीर्णानि अन्यानि. Everything else is already separate.
+@end
+
+## Worked verse 2
+@ex gita:3:21
+split: यत् यत् आचरति श्रेष्ठः तत् तत् एव इतरः जनः । सः यत् प्रमाणं कुरुते लोकः तत् अनुवर्तते ॥
+anvaya: श्रेष्ठः यत् यत् आचरति, इतरः जनः तत् तत् एव (आचरति)। सः यत् प्रमाणं कुरुते, लोकः तत् अनुवर्तते ॥
+note: Step 3: श्रेष्ठस्तत् → श्रेष्ठः तत्; लोकस्तत् → लोकः तत्; स यत् → सः यत् (the सः rule). Step 5: यद्यदाचरति → यत् यत् आचरति (त् → द् before voiced). Step 6: तदेवेतरो → तत् एव इतरः (अ + इ → ए; then visarga -ओ → -अः).
+@end
+
+## Worked verse 3
+@ex gita:9:26
+split: पत्रं पुष्पं फलं तोयं यः मे भक्त्या प्रयच्छति । तत् अहं भक्ति-उपहृतम् अश्नामि प्रयतात्मनः ॥
+anvaya: यः भक्त्या मे पत्रं पुष्पं फलं तोयं प्रयच्छति, प्रयतात्मनः तस्य भक्त्युपहृतं तत् अहम् अश्नामि ॥
+note: Step 3: यो मे → यः मे. Step 4: पत्रं → पत्रम्, etc. Step 5: तदहम् → तत् अहम्. Step 6: भक्त्युपहृतम् = भक्ति + उपहृतम् (a compound: "offered with devotion").
+@end
+
+@quiz
+q: The first step in splitting a printed verse:
+* mark the pādas and find the verbs
+- undo vowel sandhi
+- look up every word
+why: Verbs anchor the sentence; then undo sandhi from the outside in.
+
+q: रामो गच्छति: what is the underlying form?
+* रामः गच्छति
+- रामो + गच्छति (रामो is a word)
+- रामम् गच्छति
+why: -ओ before a voiced consonant usually hides -अः.
+
+q: यद्यदाचरति splits as:
+* यत् यत् आचरति
+- यदि अदा चरति
+- यद्य दाचरति
+why: त् → द् before voiced sounds; the verb आचरति anchors it.
+
+q: सोऽहम् splits as:
+* सः अहम्
+- सो अहम्
+- स ऽहम्
+why: अः + अ → ओऽ.
+
+q: Why not split यदि as य + इदि?
+* यदि is a single word (indeclinable "if")
+- It is a compound
+- य is never a word
+why: Step 7: each piece must be a real word.
+@end

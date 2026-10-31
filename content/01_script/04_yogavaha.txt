@@ -1,0 +1,92 @@
+@title అనుస్వారం, విసర్గం · Anusvāra ं and visarga ः
+@summary The two "carried" sounds (अयोगवाह). How ं stands for the nasal of the next consonant, how ः is pronounced with its echo, ँ, ऽ and ॐ.
+
+## अनुस्वारः ं (సున్న)
+In Telugu the సున్న (ం) is used for any nasal before a consonant: అంగము, పంచ, కంఠ, అంత, కంప. Sanskrit uses ं in the same way, and **pronounces it as the nasal of the next consonant's వర్గ**:
+
+@literal
+| Written | Said as | Example |
+|---|---|---|
+| ं + क-row | ङ् | शंकर = शङ्कर, సంకల్పం = సఙ్కల్పం |
+| ं + च-row | ञ् | संचय = सञ्चय, పంచ = పఞ్చ |
+| ं + ट-row | ण् | कंठ = कण्ठ |
+| ं + त-row | न् | अंत = अन्त, సంత = సన్త |
+| ं + प-row | म् | कंप = कम्प |
+| ं + य र ल व श ष स ह | true anusvāra: nasalised vowel | संसार, संयम, सिंह, हंस, वंश |
+| ं at the end of a word | म् | रामं = रामम् |
+
+> [sutra] मोऽनुस्वारः (8.3.23) · अनुस्वारस्य ययि परसवर्णः (8.4.58) :: A final म् before a consonant becomes ं; and ं before a stop becomes the nasal of that stop's class. So the two spellings शंकर and शङ्कर mean the same pronunciation. Printed Gītās use both.
+
+> [memory] సున్న = next letter's nasal :: Look at the letter after ं and use the last letter of its row: క → ఙ, చ → ఞ, ట → ణ, త → న, ప → మ. Only before య ర ల వ శ ష స హ is it a true humming nasal.
+
+> [warning] Final ं is म् :: At the end of a line or before a vowel, ं must be said and written as म्: रामम् इति, not रामं इति. In verse, एकं शरणं व्रज is fine (consonant follows), but at a pause it is शरणम्.
+
+## विसर्गः ः
+The visarga ः is a breath "h" after a vowel. It is very common: it ends most nominative singulars (रामः, हरिः, गुरुः) and many plurals (देवाः). Telugu writes and says it as ః (దుఃఖం, అంతఃపురం).
+
+In recitation, the visarga is followed by a faint echo of the vowel before it:
+
+@literal
+| Written | Recited | |
+|---|---|---|
+| रामः | rāmaha | echo of a |
+| हरिः | harihi | echo of i |
+| गुरुः | guruhu | echo of u |
+| देवैः | devaihi | echo of the i in ai |
+| गौः | gauhu | echo of the u in au |
+
+> [warning] Never drop the visarga :: Telugu speakers often say రామ for रामः or దుఖం for दुःखम्. In Sanskrit the visarga is grammar: रामः is "Rāma (subject)", राम is "O Rāma!". Say it, even if softly.
+
+> [note] Visarga changes in sandhi :: Before consonants and vowels the visarga often changes: रामः + च → रामश्च, रामः + गच्छति → रामो गच्छति, हरिः + अत्र → हरिरत्र. Unit 8 has every rule. When you see ो, श्, स् or र् at the end of a word in a verse, think "a visarga was here".
+
+## The other signs
+@literal
+| Sign | Name | Use |
+|---|---|---|
+| ँ | अनुनासिक / चन्द्रबिन्दु | a nasalised vowel or semivowel; in Sanskrit mostly Vedic, and in sandhi: तान् + लोकान् → तांल्लोकान् |
+| ऽ | अवग्रह | marks a dropped अ: सोऽहम् (सः + अहम्) |
+| ॐ | प्रणव | the sacred syllable o-m written as one sign |
+| । | दण्ड | end of a half-verse or sentence |
+| ॥ | द्विदण्ड | end of a verse |
+| ॰ | abbreviation | used in printed books |
+| ᳵ ᳶ | जिह्वामूलीय, उपध्मानीय | old visarga variants before क/ख and प/फ, seen in some Vedic books |
+
+@ex
+sa: [[दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।]]
+te: దుఃఖాలలో కలతపడని మనసు గలవాడు, సుఖాలలో ఆశ లేనివాడు… (గీత 2.56)
+en: One whose mind is not shaken in sorrows, who has no craving among pleasures…
+note: दुःखेषु: visarga inside a word (दुः). अनुद्विग्नमनाः and विगतस्पृहः end in visarga: recite as …manāhā, …spṛhaha.
+note: In विगतस्पृहः the त before the cluster स्प counts as heavy (గురువు) in metre, while स्पृ itself is light. Lesson 1.8 explains syllable weight.
+@end
+
+@quiz
+q: How is the ं in शंकर pronounced?
+* As ङ् (the nasal of the क-row)
+- As म्
+- As न्
+why: Before a क-row consonant, anusvāra takes that row's nasal: शङ्कर.
+
+q: How is हरिः recited?
+* harihi, with a faint echo of i
+- hari
+- harih-a
+why: The visarga echoes the preceding vowel: rāmaha, harihi, guruhu.
+
+q: Why does the visarga matter in रामः?
+* It marks the subject (nominative); राम alone is the vocative "O Rāma"
+- It only shows a long vowel
+- It is optional decoration
+why: Endings carry grammar in Sanskrit. Dropping ः changes the case.
+
+q: What does ऽ in सोऽहम् stand for?
+* A dropped अ: सः + अहम्
+- A long ओ
+- A nasal
+why: सः + अहम् → सो + (अ)हम्. The ऽ marks the missing a.
+
+q: Before which letters is ं a true humming nasal?
+* य र ल व श ष स ह
+- क च ट त प
+- vowels
+why: Before stops it becomes the class nasal; before semivowels, sibilants and ह it nasalises the vowel: संसार, सिंह.
+@end

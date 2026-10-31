@@ -1,0 +1,122 @@
+@title హల్లులు · Consonants (व्यञ्जनानि)
+@summary The 25 stops in five वर्गs, the four semivowels, the four sibilants and ह. Where and how each is made, and the grid that makes all of Sanskrit phonetics (and half of sandhi) predictable.
+
+## The 5 × 5 grid
+The 25 **sparśa** (touch) consonants form a grid. Rows are the place in the mouth (స్థానం), from the throat outwards; columns are the manner (ప్రయత్నం).
+
+@literal
+| వర్గం · place | 1 hard | 2 hard + breath | 3 soft | 4 soft + breath | 5 nasal |
+|---|---|---|---|---|---|
+| కవర్గం · throat (कण्ठ्य) | क క ka | ख ఖ kha | ग గ ga | घ ఘ gha | ङ ఙ ṅa |
+| చవర్గం · palate (तालव्य) | च చ ca | छ ఛ cha | ज జ ja | झ ఝ jha | ञ ఞ ña |
+| టవర్గం · roof (मूर्धन्य) | ट ట ṭa | ठ ఠ ṭha | ड డ ḍa | ढ ఢ ḍha | ण ణ ṇa |
+| తవర్గం · teeth (दन्त्य) | त త ta | थ థ tha | द ద da | ध ధ dha | न న na |
+| పవర్గం · lips (ओष्ठ्य) | प ప pa | फ ఫ pha | ब బ ba | भ భ bha | म మ ma |
+
+> [telugu] పరుషాలు, సరళాలు, స్థిరాలు :: Telugu grammar calls columns 1 పరుషాలు (క చ ట త ప) and column 3 సరళాలు (గ జ డ ద బ); the rest are స్థిరాలు. The Telugu గసడదవాదేశ సంధి turns పరుషాలు into సరళాలు (వాడు + కొట్టె → వాడు గొట్టె). Sanskrit has the same idea: column 1 ↔ column 3 in sandhi (वाक् + ईशः → वागीशः).
+
+> [memory] Say the grid down and across :: Across: hard, hard-breathy, soft, soft-breathy, nasal (క ఖ గ ఘ ఙ). Down: throat, palate, roof, teeth, lips (క చ ట త ప) — the mouth closing from back to front. Chant కచటతప, గజడదబ, ఙఞణనమ until they are automatic: sandhi rules are stated in these columns.
+
+## Grammatical names of the columns
+@literal
+| Column | Sanskrit name | Pāṇini's term | Telugu name |
+|---|---|---|---|
+| 1, 2 | अघोष (unvoiced) | खर् (with श ष स) | పరుషం (1) |
+| 3, 4, 5 | घोष (voiced) | हश् (with य र ल व ह) | సరళం (3) |
+| 1, 3, 5 | अल्पप्राण (little breath) | — | అల్పప్రాణం |
+| 2, 4 | महाप्राण (great breath) | — | మహాప్రాణం |
+| 5 | अनुनासिक (nasal) | ञम् | అనునాసికం |
+
+## Semivowels, sibilants and ह
+@literal
+| Letter | Place | Type | Note |
+|---|---|---|---|
+| य య ya | palate | अन्तःस्थ (semivowel) | the consonant form of इ |
+| र ర ra | roof | अन्तःस्थ | the consonant form of ऋ |
+| ल ల la | teeth | अन्तःस्थ | the consonant form of ऌ |
+| व వ va | teeth + lips | अन्तःस्थ | the consonant form of उ; lips lightly touch upper teeth |
+| श శ śa | palate | ऊष्म (sibilant) | as in శివ, శంకర |
+| ष ష ṣa | roof (tongue curled) | ऊष्म | as in విష్ణు, కృష్ణ |
+| स స sa | teeth | ऊष्म | as in సీతా, సత్య |
+| ह హ ha | throat | ऊष्म (voiced) | as in హరి |
+
+> [memory] य र ल व are इ ऋ ऌ उ in disguise :: Each semivowel belongs to a vowel: इ↔य, ऋ↔र, ऌ↔ल, उ↔व. That is the యణ్ సంధి you know from Telugu (ఇతి + ఆది → ఇత్యాది, సు + ఆగతం → స్వాగతం): before another vowel, इ becomes य, उ becomes व.
+
+> [memory] Three s-sounds, three places :: శ palate (శివ), ష roof (విష్ణు), స teeth (సత్య). Put your tongue where the matching వర్గ is made: श with च, ष with ट, स with त. That is also the order of the sūtra शषसर्.
+
+## Places of articulation (స్థానాలు)
+Every sound, vowel or consonant, has its place. This table, from the Pāṇinīya Śikṣā tradition, explains which vowel goes with which consonants.
+
+@literal
+| Place | Vowels | Consonants |
+|---|---|---|
+| कण्ठ throat | अ आ | क ख ग घ ङ ह and visarga ः |
+| तालु palate | इ ई | च छ ज झ ञ य श |
+| मूर्धा roof | ऋ ॠ | ट ठ ड ढ ण र ष |
+| दन्त teeth | ऌ | त थ द ध न ल स |
+| ओष्ठ lips | उ ऊ | प फ ब भ म |
+| कण्ठ + तालु | ए ऐ | — |
+| कण्ठ + ओष्ठ | ओ औ | — |
+| दन्त + ओष्ठ | — | व |
+| नासिका nose | — | anusvāra ं, and ङ ञ ण न म also use the nose |
+
+> [sutra] अकुहविसर्जनीयानां कण्ठः :: "a, ku (the क-row), h and visarga: throat." This and the following lines (इचुयशानां तालु, ऋटुरषाणां मूर्धा, लृतुलसानां दन्ताः, उपूपध्मानीयानामोष्ठौ…) are the traditional statement of the table above. Students in Telugu pāṭhaśālās still chant them.
+
+## Reading drill
+@literal
+| देवनागरी | తెలుగు | IAST |
+|---|---|---|
+| कमल | కమల | kamala |
+| खग | ఖగ | khaga |
+| घट | ఘట | ghaṭa |
+| छाया | ఛాయా | chāyā |
+| झषः | ఝషః | jhaṣaḥ |
+| ठक्कुर | ఠక్కుర | ṭhakkura |
+| ढक्का | ఢక్కా | ḍhakkā |
+| थलम् | థలమ్ | thalam |
+| धनम् | ధనమ్ | dhanam |
+| फलम् | ఫలమ్ | phalam |
+| भवनम् | భవనమ్ | bhavanam |
+| शशी | శశీ | śaśī |
+| षष्ठी | షష్ఠీ | ṣaṣṭhī |
+
+@ex
+sa: [[अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते ।]]
+te: నేనే అందరికీ మూలం; నా నుండే సర్వం ప్రవర్తిస్తుంది. (గీత 10.8)
+en: I am the origin of all; from me everything proceeds.
+note: Sort the consonants by place. Throat: ह and the visarga of मत्तः. Palate: य (in सर्वस्य). Roof: र (in सर्व, प्र, वर्त). Teeth: स, त. Lips: प, भ, म. Teeth + lips: व.
+note: Hear the aspirate भ in प्रभवो (soft + breath), and hold the double त of मत्तः a moment longer than a single त.
+@end
+
+@quiz
+q: Which consonant is both voiced and aspirated (soft + breath)?
+* घ
+- ख
+- ग
+- ङ
+why: Column 4 is soft + breath: घ झ ढ ध भ.
+
+q: Which sibilant is made at the same place as ट?
+* ष
+- श
+- स
+why: ष is मूर्धन्य (retroflex) like the ट-row. श is palatal like च, स dental like त.
+
+q: य is the consonant partner of which vowel?
+* इ
+- उ
+- ऋ
+why: इ → य before vowels: इति + आदि → इत्यादि.
+
+q: Telugu పరుషాలు (క చ ట త ప) are which column of the grid?
+* Column 1: hard, unaspirated
+- Column 3: soft
+- Column 5: nasal
+why: పరుషం = hard (aghoṣa, alpaprāṇa). సరళాలు (గ జ డ ద బ) are column 3.
+
+q: Where is ए pronounced?
+* Throat + palate (it is अ + इ)
+- Palate only
+- Lips
+why: ए combines the places of अ (throat) and इ (palate); ओ combines throat and lips.
+@end

@@ -1,0 +1,183 @@
+@title సహస్రనామ పూర్వపీఠిక · Viṣṇu Sahasranāmam I: the opening
+@summary The verses before the thousand names: salutations to Viṣvaksena and Vyāsa, Yudhiṣṭhira's six questions, Bhīṣma's answer (one sentence across three verses, held together by present participles), and the dhyāna. A drill in datives, interrogatives, participles, the potential optative, and bahuvrīhis in -अक्ष.
+
+## The setting
+The Sahasranāma is in the Anuśāsana Parva of the Mahābhārata. Bhīṣma lies on his bed of arrows; Yudhiṣṭhira has heard all the dharmas and asks one final set of questions. The Pūrva Pīṭhikā frames that dialogue:
+
+| Verses | Content | Main grammar |
+|---|---|---|
+| 1–6 | opening salutations | datives with नमः, accusatives with वन्दे |
+| 7 | Vaiśampāyana introduces | absolutive श्रुत्वा, imperfect अभ्यभाषत |
+| 8–9 | Yudhiṣṭhira's six questions | interrogatives, participles, optative |
+| 10–21 | Bhīṣma's answer | participles, optative, relatives |
+| 22 | Bhīṣma's salutation | -इष्णु names |
+| Dhyānam | meditation verses | long bahuvrīhis |
+
+## Viṣvaksena, remover of obstacles
+@ex vs:purva:Pūrva Pīṭhikā 2
+split: यस्य द्विरदवक्त्राद्याः पारिषद्याः परः शतम् । विघ्नं निघ्नन्ति सततं विष्वक्सेनं तम् आश्रये ॥
+anvaya: द्विरदवक्त्राद्याः परः शतं पारिषद्याः यस्य (सन्ति, ये) सततं विघ्नं निघ्नन्ति, तं विष्वक्सेनम् आश्रये ॥
+w: यस्य = ఎవని యొక్క; द्विरदवक्त्राद्याः = గజముఖుడు మొదలైన; पारिषद्याः = పరిచారకులు; परः शतम् = వందకు పైగా; सततम् = ఎల్లప్పుడూ; विघ्नम् = విఘ్నాన్ని; निघ्नन्ति = నశింపజేస్తారో; तम् = ఆ; विष्वक्सेनम् = విష్వక్సేనుని; आश्रये = ఆశ్రయిస్తాను
+note: द्विरद "elephant" is a bahuvrīhi: द्वौ रदौ यस्य सः, "the two-tusked". द्विरदवक्त्रः is another: "elephant-faced". -आद्याः "beginning with" (lesson 9.4).
+note: निघ्नन्ति is the 3rd plural of नि + हन्: हन् loses its vowel before a vowel ending and ह becomes घ (lesson 6.3).
+note: परः शतम् "more than a hundred" is an old fixed phrase. आश्रये: आ + श्रि, ātmanepada, 1st singular.
+@end
+
+## Vyāsa's family tree
+@ex vs:purva:Pūrva Pīṭhikā 3
+split: व्यासं वसिष्ठनप्तारं शक्तेः पौत्रम् अकल्मषम् । पराशरात्मजं वन्दे शुकतातं तपोनिधिम् ॥
+w: वसिष्ठनप्तारम् = వసిష్ఠుని వంశస్థుడైన (మునిమనుమడైన); शक्तेः = శక్తి మహర్షి యొక్క; पौत्रम् = మనుమడైన; अकल्मषम् = పాపం లేని; पराशरात्मजम् = పరాశరుని కుమారుడైన; शुकतातम् = శుకుని తండ్రి అయిన; तपोनिधिम् = తపోనిధి అయిన; व्यासम् = వ్యాసుని; वन्दे = నమస్కరిస్తున్నాను
+note: Four generations in one verse: वसिष्ठ → शक्ति → पराशर → व्यास → शुक. Every epithet is an accusative with वन्दे.
+note: नप्तृ "grandson, descendant" is a ṛ-stem like कर्तृ; its accusative is नप्तारम् (lesson 4.7). पौत्र "son's son" is a taddhita from पुत्र with vṛddhi (lesson 10.1).
+note: शक्तेः is the genitive of the masculine i-stem शक्ति, the sage (lesson 4.5). आत्मज "son" = आत्मनः जातः, an upapada with -ज.
+note: तपस् + निधिम् → तपोनिधिम् (-अस् becomes -ओ before a voiced sound, lesson 8.5).
+@end
+
+## Vyāsa is Viṣṇu
+@ex vs:purva:Pūrva Pīṭhikā 4
+split: व्यासाय विष्णुरूपाय व्यासरूपाय विष्णवे । नमः वै ब्रह्मनिधये वासिष्ठाय नमः नमः ॥
+w: विष्णुरूपाय = విష్ణువు రూపంలో ఉన్న; व्यासाय = వ్యాసునికి; व्यासरूपाय = వ్యాసుని రూపంలో ఉన్న; विष्णवे = విష్ణువుకు; नमः = నమస్కారం; वै = నిజంగా; ब्रह्मनिधये = వేదనిధి అయినవానికి; वासिष्ठाय = వసిష్ఠ వంశీయునికి
+note: A mirror pattern: व्यासाय विष्णुरूपाय / व्यासरूपाय विष्णवे. Both epithets are bahuvrīhis: विष्णुः रूपं यस्य सः.
+note: Three dative endings again: -आय (व्यासाय), -अवे (विष्णवे, u-stem), -अये (निधये, i-stem).
+note: वासिष्ठ "descendant of Vasiṣṭha" is a taddhita with vṛddhi (lesson 10.1). वै is an emphatic particle (lesson 10.3).
+@end
+
+## Released by remembering
+@ex vs:purva:Pūrva Pīṭhikā 6
+split: यस्य स्मरणमात्रेण जन्मसंसारबन्धनात् । विमुच्यते नमः तस्मै विष्णवे प्रभविष्णवे ॥
+anvaya: यस्य स्मरणमात्रेण (जनः) जन्मसंसारबन्धनात् विमुच्यते, तस्मै प्रभविष्णवे विष्णवे नमः ॥
+w: यस्य = ఎవని; स्मरणमात्रेण = స్మరణ మాత్రంచేత; जन्मसंसारबन्धनात् = జన్మ సంసార బంధం నుండి; विमुच्यते = విముక్తుడవుతాడో; तस्मै = ఆ; प्रभविष्णवे = సర్వ శక్తిమంతుడైన; विष्णवे = విష్ణువుకు; नमः = నమస్కారం
+note: -मात्र at the end of a compound means "mere, only": स्मरणमात्रेण "by mere remembrance".
+note: विमुच्यते is a passive (मुच् → मुच्यते, lesson 6.8) with no stated subject: "one is released". The ablative बन्धनात् gives what one is freed from.
+note: प्रभविष्णु and विष्णु share the ending -इष्णु. In प्रभविष्णु (प्र + भू) it is a kṛt suffix "able to, given to": "mighty".
+@end
+
+## Yudhiṣṭhira asks
+@ex vs:purva:Pūrva Pīṭhikā 8
+split: किम् एकं दैवतं लोके किं वा अपि एकं परायणम् । स्तुवन्तः कं कम् अर्चन्तः प्राप्नुयुः मानवाः शुभम् ॥
+w: लोके = లోకంలో; एकम् = ఒకే; दैवतम् = దైవం; किम् = ఏది; वा अपि = లేదా; परायणम् = పరమ గమ్యం; किम् = ఏది; कम् = ఎవరిని; स्तुवन्तः = స్తుతిస్తూ; कम् = ఎవరిని; अर्चन्तः = అర్చిస్తూ; मानवाः = మానవులు; शुभम् = శుభాన్ని; प्राप्नुयुः = పొందగలరు
+note: Four questions in one verse, with three forms of किम्: किम् (n.), कम् (m. acc.) twice (lesson 5.3).
+note: स्तुवन्तः and अर्चन्तः are present participles, nominative plural, belonging to मानवाः (lesson 7.2).
+note: प्राप्नुयुः is the optative 3rd plural of प्र + आप्: the "potential" use, "could they attain" (lesson 6.6). वा अपि एकम् → वाप्येकम् (इ → य् before a vowel).
+@end
+
+@ex vs:purva:Pūrva Pīṭhikā 9
+split: कः धर्मः सर्वधर्माणां भवतः परमः मतः । किं जपन् मुच्यते जन्तुः जन्मसंसारबन्धनात् ॥
+w: सर्वधर्माणाम् = అన్ని ధర్మాలలో; भवतः = తమకు (మీ అభిప్రాయంలో); परमः = శ్రేష్ఠమైనదిగా; मतः = భావించబడేది; कः धर्मः = ఏ ధర్మం; किम् = దేనిని; जपन् = జపిస్తూ; जन्तुः = జీవి; जन्मसंसारबन्धनात् = జన్మ సంసార బంధం నుండి; मुच्यते = విముక్తి పొందుతుంది
+note: सर्वधर्माणां … परमः: the partitive genitive with a superlative-like adjective (lesson 11.1).
+note: भवतः मतः "considered by your honour": the polite pronoun भवत् (with a 3rd-person verb, lesson 5.3) in the 6th case with the participle of thinking, as in मे मतः (Gītā 6.47).
+note: जपन् is a present participle (जप् "mutter, repeat"). मुच्यते is passive; जन्तुः (u-stem) is its subject.
+@end
+
+> [memory] The six questions :: Yudhiṣṭhira asks six things in two verses: 1. किम् एकं दैवतम् (the one deity) 2. किम् एकं परायणम् (the one goal) 3. कं स्तुवन्तः (praising whom) 4. कम् अर्चन्तः (worshipping whom) 5. को धर्मः परमः (the highest dharma) 6. किं जपन् मुच्यते (chanting what, one is freed). Count them on six fingers with their interrogatives: किम्, किम्, कम्, कम्, कः, किम्.
+
+## Bhīṣma answers: one sentence, three verses
+Verses 10, 11 and 12 are a single sentence. Its subject is पुरुषः (verse 10), and its only finite verb is भवेत् (end of verse 12). Everything else is a participle describing what that person does.
+
+@ex vs:purva:Pūrva Pīṭhikā 10
+split: जगत्प्रभुं देवदेवम् अनन्तं पुरुषोत्तमम् । स्तुवन् नामसहस्रेण पुरुषः सततोत्थितः ॥
+w: जगत्प्रभुम् = జగత్తుకు ప్రభువును; देवदेवम् = దేవదేవుని; अनन्तम् = అనంతుని; पुरुषोत्तमम् = పురుషోత్తముని; नामसहस्रेण = వెయ్యి నామాలతో; स्तुवन् = స్తుతిస్తూ; सततोत्थितः = ఎల్లప్పుడూ సన్నద్ధుడైన; पुरुषः = మనిషి
+note: स्तुवन् is the present participle of स्तु, nominative singular (lesson 7.2). It governs the four accusatives of the first line.
+note: सततोत्थितः = सततम् उत्थितः "ever risen, ever ready" (उत् + स्था, past participle उत्थित).
+@end
+
+@ex vs:purva:Pūrva Pīṭhikā 11
+split: तम् एव च अर्चयन् नित्यं भक्त्या पुरुषम् अव्ययम् । ध्यायन् स्तुवन् नमस्यन् च यजमानः तम् एव च ॥
+w: तम् एव = ఆయననే; अव्ययम् = నాశరహితుడైన; पुरुषम् = పరమపురుషుని; भक्त्या = భక్తితో; नित्यम् = నిత్యం; अर्चयन् = అర్చిస్తూ; ध्यायन् = ధ్యానిస్తూ; स्तुवन् = స్తుతిస్తూ; नमस्यन् = నమస్కరిస్తూ; च = మరియు; यजमानः = పూజిస్తూ
+note: Five participles for one person. अर्चयन्, ध्यायन्, स्तुवन्, नमस्यन् are parasmaipada (-अत्/-अन्); यजमानः is ātmanepada (-मान, lesson 7.2).
+note: नमस्यन् comes from the denominative नमस्यति "offers नमः" (lesson 6.9).
+note: नमस्यन् + च → नमस्यंश्च (न् before च becomes ं + श्, lesson 8.4).
+@end
+
+@ex vs:purva:Pūrva Pīṭhikā 12
+split: अनादिनिधनं विष्णुं सर्वलोकमहेश्वरम् । लोकाध्यक्षं स्तुवन् नित्यं सर्वदुःखातिगः भवेत् ॥
+anvaya: (पुरुषः) अनादिनिधनं सर्वलोकमहेश्वरं लोकाध्यक्षं विष्णुं नित्यं स्तुवन् सर्वदुःखातिगः भवेत् ॥
+w: अनादिनिधनम् = ఆది అంతం లేనివానిని; सर्वलोकमहेश्वरम् = అన్ని లోకాలకు మహేశ్వరుని; लोकाध्यक्षम् = లోకాలను పర్యవేక్షించేవానిని; विष्णुम् = విష్ణువును; नित्यम् = నిత్యం; स्तुवन् = స్తుతిస్తూ; सर्वदुःखातिगः = అన్ని దుఃఖాలను దాటినవాడు; भवेत् = అవుతాడు
+note: भवेत् is the only finite verb of the three verses: an optative of result, "would become" (lesson 6.6).
+note: अनादिनिधनम्: न आदिः न निधनं यस्य, a negative bahuvrīhi with a dvandva inside (lesson 9.5). सर्वदुःखातिगः: सर्वाणि दुःखानि अतिगच्छति इति, an upapada with -ग.
+@end
+
+> [compare] Telugu does this with -తూ :: Telugu strings participles in -తూ before one final verb: "స్తుతిస్తూ, అర్చిస్తూ, ధ్యానిస్తూ, నమస్కరిస్తూ … దుఃఖాలు దాటుతాడు". Sanskrit uses present participles in exactly this way; the only difference is that they agree with the subject in gender, number and case.
+
+## The best dharma
+@ex vs:purva:Pūrva Pīṭhikā 14
+split: एषः मे सर्वधर्माणां धर्मः अधिकतमः मतः । यत् भक्त्या पुण्डरीकाक्षं स्तवैः अर्चेत् नरः सदा ॥
+anvaya: नरः सदा भक्त्या स्तवैः पुण्डरीकाक्षम् अर्चेत् इति यत्, एषः धर्मः मे सर्वधर्माणाम् अधिकतमः मतः ॥
+w: नरः = మనిషి; सदा = ఎల్లప్పుడూ; भक्त्या = భక్తితో; स्तवैः = స్తోత్రాలతో; पुण्डरीकाक्षम् = పుండరీకాక్షుని; अर्चेत् = అర్చించడం; यत् = అనేది; एषः धर्मः = ఈ ధర్మం; मे = నా అభిప్రాయంలో; सर्वधर्माणाम् = అన్ని ధర్మాలలో; अधिकतमः = అత్యుత్తమమైనదిగా; मतः = భావించబడింది
+note: यत् here is the conjunction "that": "that a man should worship …" is this dharma. It introduces a whole clause, like Telugu "-అనేది".
+note: पुण्डरीकाक्ष: अक्षि "eye" becomes -अक्ष at the end of a bahuvrīhi (बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात् षच्, Aṣṭādhyāyī 5.4.113). So: पुण्डरीकाक्ष, कमलाक्ष, विशालाक्ष, सहस्राक्ष.
+note: सर्वधर्माणाम् … अधिकतमः: partitive genitive with the superlative -तम. मे मतः: the genitive with a participle of thinking, as in verse 9.
+@end
+
+## Hear the thousand names
+@ex vs:purva:Pūrva Pīṭhikā 18
+split: तस्य लोकप्रधानस्य जगन्नाथस्य भूपते । विष्णोः नामसहस्रं मे शृणु पापभयापहम् ॥
+w: भूपते = ఓ రాజా; तस्य = ఆ; लोकप्रधानस्य = లోకాలలో ప్రధానుడైన; जगन्नाथस्य = జగన్నాథుడైన; विष्णोः = విష్ణువు యొక్క; पापभयापहम् = పాప భయాలను పోగొట్టే; नामसहस्रम् = వెయ్యి నామాలను; मे = నా నుండి; शृणु = విను
+note: शृणु is the 2nd singular imperative of श्रु (class 5, lesson 6.3). मे "from me": the enclitic for the person heard from.
+note: भूपते is the vocative of भूपति. In compounds पति declines regularly like हरि (lesson 4.5).
+note: पापभयापहम्: पापं च भयं च अपहन्ति इति, an upapada ending in -अपह "removing". विष्णोः is the u-stem genitive with guṇa.
+note: जगत् + नाथ → जगन्नाथ (त् before a nasal becomes न्, lesson 8.4).
+@end
+
+## Bhīṣma's salutation
+@ex vs:purva:Pūrva Pīṭhikā 22
+split: विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् । अनेकरूपदैत्यान्तं नमामि पुरुषोत्तमम् ॥
+w: विष्णुम् = సర్వవ్యాపకుని; जिष्णुम् = జయశీలుని; महाविष्णुम् = మహావిష్ణువును; प्रभविष्णुम् = సర్వ సమర్థుని; महेश्वरम् = మహేశ్వరుని; अनेकरूपदैत्यान्तम् = అనేక రూపాలు గల దైత్యులను అంతం చేసేవానిని; पुरुषोत्तमम् = పురుషోత్తముని; नमामि = నమస్కరిస్తున్నాను
+note: Three names in -इष्णु: विष्णु (विष् "pervade"), जिष्णु (जि "conquer"), प्रभविष्णु (प्र + भू "prevail"). -इष्णु is a kṛt suffix "given to, able to".
+note: नमामि takes the accusative, like वन्दे. Compare नमः, which takes the dative.
+note: अनेकरूपदैत्यान्तम्: अनेकानि रूपाणि येषां ते अनेकरूपाः दैत्याः, तेषाम् अन्तः (अन्तकः), a bahuvrīhi inside a tatpuruṣa.
+@end
+
+## The dhyāna: Viṣṇu in a metre of eleven syllables
+@ex vs:purva:Dhyānam 4
+meter: शालिनी (म त त ग ग)
+split: मेघश्यामं पीतकौशेयवासं श्रीवत्साङ्कं कौस्तुभोद्भासिताङ्गम् । पुण्योपेतं पुण्डरीकायताक्षं विष्णुं वन्दे सर्वलोकैकनाथम् ॥
+w: मेघश्यामम् = మేఘం వలె నల్లనివానిని; पीतकौशेयवासम् = పచ్చని పట్టు వస్త్రం ధరించినవానిని; श्रीवत्साङ्कम् = శ్రీవత్స చిహ్నం గలవానిని; कौस्तुभोद्भासिताङ्गम् = కౌస్తుభ మణితో ప్రకాశించే శరీరం గలవానిని; पुण्योपेतम् = పుణ్యంతో కూడినవానిని; पुण्डरीकायताक्षम् = పుండరీకం వలె విశాలమైన కన్నులు గలవానిని; सर्वलोकैकनाथम् = అన్ని లోకాలకు ఏకైక నాథుని; विष्णुम् = విష్ణువును; वन्दे = నమస్కరిస్తున్నాను
+note: Seven accusatives with वन्दे. Six are bahuvrīhis (lesson 9.4); मेघश्यामम् is a comparison compound: मेघ इव श्यामः "dark as a cloud".
+note: कौशेय "silk" is a taddhita from कोश "cocoon" with vṛddhi (lesson 10.2). -आयताक्ष is the bahuvrīhi -अक्ष again.
+note: मे घ श्या · मं पी त · कौ शे य · वा सं = ऽऽऽ ऽऽ। ऽऽ। ऽऽ: म त त ग ग, the शालिनी metre, with a pause after the 4th syllable (lesson 12.4).
+@end
+
+@quiz
+q: In verse 8, किम् (एकं दैवतम्) and कम् (स्तुवन्तः) are:
+* neuter nominative and masculine accusative
+- both masculine
+- both accusative plural
+why: किम् agrees with दैवतम्; कम् is the object of स्तुवन्तः.
+
+q: Verses 10–12 have how many finite verbs?
+* one: भवेत्
+- five
+- three
+why: All the others are participles.
+
+q: पुण्डरीकाक्ष ends in -अक्ष because:
+* अक्षि becomes -अक्ष at the end of a bahuvrīhi
+- it is from अक्ष "axle"
+- it is a dvandva
+why: Aṣṭādhyāyī 5.4.113.
+
+q: नमस्यन् comes from:
+* the denominative नमस्यति (from नमः)
+- नम् + स्य future
+- नमस् + अन्
+why: A noun turned into a verb.
+
+q: In भवतः परमः मतः, भवतः means:
+* by your honour (polite "you", 6th case)
+- from becoming
+- of the world
+why: भवत् with the genitive of the thinker.
+
+q: शृणु is:
+* imperative of श्रु: "hear"
+- present of श्रु
+- a noun
+why: Class 5, 2nd singular imperative.
+
+q: The three -इष्णु names in verse 22 are:
+* विष्णु, जिष्णु, प्रभविष्णु
+- विष्णु, कृष्ण, जिष्णु
+- महाविष्णु, महेश्वर, पुरुषोत्तम
+why: -इष्णु, "given to, able to".
+@end

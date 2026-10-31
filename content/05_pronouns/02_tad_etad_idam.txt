@@ -1,0 +1,98 @@
+@title అతడు, ఇతడు, ఇది · तद्, एतद्, इदम्, अदस्
+@summary The demonstratives: सः (he, that), एषः (this one here), अयम् (this), असौ (that yonder). The pronominal endings -स्मै, -स्मात्, -स्मिन्, -एषाम् that set them apart from राम, and the enclitic एनम्.
+
+## तद् (he, she, it; that)
+| విభక్తి | పుం. ఏక | పుం. ద్వి | పుం. బహు | స్త్రీ ఏక | స్త్రీ బహు | నపుం. ఏక | నపుం. బహు |
+|---|---|---|---|---|---|---|---|
+| 1 | सः | तौ | ते | सा | ताः | तत् | तानि |
+| 2 | तम् | तौ | तान् | ताम् | ताः | तत् | तानि |
+| 3 | तेन | ताभ्याम् | तैः | तया | ताभिः | तेन | तैः |
+| 4 | तस्मै | ताभ्याम् | तेभ्यः | तस्यै | ताभ्यः | तस्मै | तेभ्यः |
+| 5 | तस्मात् | ताभ्याम् | तेभ्यः | तस्याः | ताभ्यः | तस्मात् | तेभ्यः |
+| 6 | तस्य | तयोः | तेषाम् | तस्याः | तासाम् | तस्य | तेषाम् |
+| 7 | तस्मिन् | तयोः | तेषु | तस्याम् | तासु | तस्मिन् | तेषु |
+
+Feminine dual: ते, ताभ्याम्, तयोः. Neuter dual: ते.
+
+> [memory] Pronouns differ from राम in five places :: Compare तद् with राम: nom. pl. **ते** (not ताः), dat. **तस्मै** (not ताय), abl. **तस्मात्**, loc. **तस्मिन्** (not ते), gen. pl. **तेषाम्** (not तानाम्). Feminine: **तस्यै, तस्याः, तस्याम्, तासाम्**. These "pronominal endings" (सर्वनाम endings) also go on सर्व, यद्, किम्, अन्य, एक, इतर, पर, पूर्व.
+
+> [sutra] सर्वादीनि सर्वनामानि (1.1.27) :: "सर्व and the others (in the list) are called sarvanāma". The list (सर्वादिगण) includes सर्व, विश्व, उभ, अन्य, अन्यतर, इतर, त्वत्, नेम, सम, सिम, पूर्व, पर, अवर, दक्षिण, उत्तर, स्व, त्यद्, तद्, यद्, एतद्, इदम्, अदस्, एक, द्वि, युष्मद्, अस्मद्, भवत्, किम्. All of them take the pronominal endings.
+
+> [warning] सः before consonants :: सः loses its visarga before any consonant: स गच्छति, स राजा (not सो गच्छति). Before अ it becomes सो + ऽ: सोऽहम्. Before other vowels it is स: स एव. Only at a pause is it सः. Similarly एषः → एष. Gītā 15.1 स वेदवित्; 2.70 स शान्तिमाप्नोति.
+
+## एतद् (this, near)
+एतद् is तद् with ए- in front: **एषः** एतौ एते, एतम् एतौ एतान्, एतेन, एतस्मै, एतस्मात्, एतस्य, एतस्मिन्; feminine **एषा** एते एताः, एताम्, एतया, एतस्यै, एतस्याः, एतस्याम्; neuter **एतत्** एते एतानि. Note ष in एषः, एषा: स becomes ष after ए (षत्व, the rule that also gives हरिषु, गुरुषु).
+
+> [note] एनम्: "him" without emphasis :: The accusative and some other forms of एतद् and इदम् have short unstressed variants: **एनम्** (m.), एनाम् (f.), एनत् (n.), एनौ, एनान्, एनेन, एनयोः. Gītā 2.19 य एनं वेत्ति हन्तारम् "who thinks this one a killer"; 2.23 नैनं छिन्दन्ति शस्त्राणि "weapons do not cut it". Like मे, ते, they cannot begin a sentence.
+
+## इदम् (this)
+| విభక్తి | పుం. ఏక | పుం. బహు | స్త్రీ ఏక | స్త్రీ బహు | నపుం. ఏక | నపుం. బహు |
+|---|---|---|---|---|---|---|
+| 1 | अयम् | इमे | इयम् | इमाः | इदम् | इमानि |
+| 2 | इमम् | इमान् | इमाम् | इमाः | इदम् | इमानि |
+| 3 | अनेन | एभिः | अनया | आभिः | अनेन | एभिः |
+| 4 | अस्मै | एभ्यः | अस्यै | आभ्यः | अस्मै | एभ्यः |
+| 5 | अस्मात् | एभ्यः | अस्याः | आभ्यः | अस्मात् | एभ्यः |
+| 6 | अस्य | एषाम् | अस्याः | आसाम् | अस्य | एषाम् |
+| 7 | अस्मिन् | एषु | अस्याम् | आसु | अस्मिन् | एषु |
+
+Dual: m. इमौ, f./n. इमे; आभ्याम्; अनयोः.
+
+> [memory] इदम् has three stems: इम-, अन-, अ- :: इम- in the strong cases (इमम्, इमौ, इमे, इमान्), अन- in 3 sg. and 6/7 dual (अनेन, अनया, अनयोः), and plain अ- elsewhere (अस्मै, अस्य, अस्मिन्, एभिः, एषाम्). अयम् / इयम् / इदम् are the nominatives. Gītā 2.20 नायं हन्ति: न + अयम्; 7.7 सर्वमिदं प्रोतम्.
+
+> [compare] Telugu ఈ / ఆ, ఇతడు / అతడు :: Telugu has a two-way system: ఈ-ఇతడు-ఇది (near), ఆ-అతడు-అది (far). Sanskrit has एतद् and इदम् for "this", तद् for "that / he" and अदस् for "that over there" (असौ). In practice: एषः = ఇతడు, सः = అతడు, अयम् = ఈ.
+
+## अदस् (that yonder)
+m. **असौ** अमू अमी, अमुम् अमू अमून्, अमुना अमूभ्याम् अमीभिः, अमुष्मै, अमुष्मात्, अमुष्य अमुयोः अमीषाम्, अमुष्मिन् अमीषु. f. असौ अमू अमूः, अमूम्, अमुया, अमुष्यै, अमुष्याः, अमूषाम्. n. अदः अमू अमूनि. Gītā 11.26 अमी च त्वां धृतराष्ट्रस्य पुत्राः "and those sons of Dhṛtarāṣṭra".
+
+@ex gita:2:19
+split: यः एनं वेत्ति हन्तारं यः च एनं मन्यते हतम् । उभौ तौ न विजानीतः न अयं हन्ति न हन्यते ॥
+w: यः = ఎవడు; एनम् = ఇతనిని (enclitic of एतद्); वेत्ति = ఎరుగునో; हन्तारम् = చంపువానిగా (agent noun, 2 sg.); मन्यते = తలచునో; हतम् = చంపబడినవానిగా; उभौ = ఇద్దరూ; तौ = వారు (dual of सः); न विजानीतः = ఎరుగరు (dual verb); अयम् = ఇతడు (इदम्); हन्ति = చంపడు; हन्यते = చంపబడడు
+note: Three pronouns: यः (relative), एनम् (enclitic "this one"), तौ (dual of सः), and अयम् (इदम्).
+note: उभौ तौ न विजानीतः: dual subject + dual verb, because there are two people (the one who thinks it kills and the one who thinks it is killed).
+@end
+
+@ex gita:2:69
+split: या निशा सर्वभूतानां तस्यां जागर्ति संयमी । यस्यां जाग्रति भूतानि सा निशा पश्यतः मुनेः ॥
+w: या = ఏది (f.); निशा = రాత్రి; सर्वभूतानाम् = అన్ని ప్రాణులకు (6 pl.); तस्याम् = దానియందు (7 sg. f.); जागर्ति = మేల్కొని ఉంటాడు; संयमी = సంయమి; यस्याम् = దేనియందు (7 sg. f.); जाग्रति = మేల్కొని ఉంటాయి (3 pl.); भूतानि = ప్రాణులు; सा = అది (f.); पश्यतः = చూచుచున్న (6 sg.); मुनेः = మునికి (6 sg. of मुनि)
+note: Four feminine pronoun forms agreeing with निशा: या, तस्याम्, यस्याम्, सा.
+note: पश्यतः मुनेः "of the seeing sage": participle and noun in the genitive, like Telugu "చూచే మునికి".
+@end
+
+@quiz
+q: Dative singular masculine of तद्:
+* तस्मै
+- ताय
+- तस्य
+why: Pronouns take -स्मै: तस्मै, सर्वस्मै, यस्मै.
+
+q: Nominative plural masculine of तद्:
+* ते
+- ताः
+- तानि
+why: ते (m.), ताः (f.), तानि (n.).
+
+q: In नायं हन्ति (Gītā 2.19), अयम् is from:
+* इदम् "this"
+- अहम् "I"
+- अदस् "that"
+why: अयम् is the masculine nominative of इदम्.
+
+q: Locative singular feminine of तद्:
+* तस्याम्
+- तस्मिन्
+- तायाम्
+why: Feminine pronouns: तस्यै, तस्याः, तस्याम् (Gītā 2.69 तस्यां जागर्ति).
+
+q: How does सः appear before a consonant?
+* स (no visarga): स गच्छति
+- सो
+- सश्
+why: सः drops its visarga before consonants: स वेदवित् (15.1).
+
+q: What is एनम्?
+* An unemphatic "him / it" (accusative of एतद् / इदम्)
+- A verb
+- The number one
+why: नैनं छिन्दन्ति शस्त्राणि: "weapons do not cut it".
+@end

@@ -1,0 +1,96 @@
+@title అనుస్వార, అనునాసిక సంధి · Nasals: म्, न्, anusvāra
+@summary The most frequent changes in any text: final म् becomes anusvāra (ं) before consonants, anusvāra becomes the class nasal (शङ्करः), न् picks up a sibilant before च / त / ट (तांश्च, तांस्तितिक्षस्व), न् + ल, ज, श, and stops before nasals (वाङ्मयम्, जगन्नाथः).
+
+## Final म्
+| Before | Rule | Sūtra | Example |
+|---|---|---|---|
+| a vowel | stays म् (and is written onto the vowel) | — | माम् + एकम् → मामेकम्; अहम् + अपि → अहमपि |
+| a consonant | → anusvāra ं | मोऽनुस्वारः 8.3.23 | रामम् + वन्दे → रामं वन्दे; सत्यम् + वद → सत्यं वद |
+| a pause | stays म् | — | वन्दे जगद्गुरुम् |
+
+## Anusvāra → class nasal
+Inside a word, anusvāra before a stop must become the nasal of that stop's row (अनुस्वारस्य ययि परसवर्णः 8.4.58). Between words it is optional (वा पदान्तस्य 8.4.59), so editions differ.
+
+| Before | Nasal | Examples |
+|---|---|---|
+| क ख ग घ | ङ् | शं + करः → शङ्करः; सं + कल्पः → सङ्कल्पः / संकल्पः |
+| च छ ज झ | ञ् | सं + चयः → सञ्चयः; सं + जयः → सञ्जयः |
+| ट ठ ड ढ | ण् | कं + ठः → कण्ठः; दं + डः → दण्डः |
+| त थ द ध | न् | सं + तोषः → सन्तोषः; सं + देहः → सन्देहः |
+| प फ ब भ | म् | सं + पूर्णम् → सम्पूर्णम्; सं + भवामि → सम्भवामि |
+| य र ल व श ष स ह | stays ं | संयमः, संसारः, संहारः, संशयः |
+
+> [compare] Telugu writes ం everywhere :: Telugu spelling writes సంకల్పం, సంతోషం, సంపూర్ణం with the round ం, and Telugu speakers pronounce it as the class nasal anyway. Devanagari editions often write the nasal explicitly: सङ्कल्पः, सन्तोषः, सम्पूर्णम्. Both are correct; what you say is the same.
+
+> [note] Before य ल व the nasal can be nasalised :: सं + यमः → संयमः or सँय्यमः; सं + लापः → संलापः or सँल्लापः (8.4.59 option). Recitation traditions differ; texts usually just write ं.
+
+## Final न्
+| Before | Change | Sūtra | Example |
+|---|---|---|---|
+| च / छ | → ंश् | नश्छव्यप्रशान् 8.3.7 | तान् + च → तांश्च; प्रज्ञावादान् + च → प्रज्ञावादांश्च (2.11) |
+| ट / ठ | → ंष् | same | महान् + टङ्कारः → महांष्टङ्कारः |
+| त / थ | → ंस् | same | तान् + तितिक्षस्व → तांस्तितिक्षस्व (2.14); हसन् + तिष्ठति → हसंस्तिष्ठति |
+| ज / झ | → ञ् | श्चुत्व | तान् + जयति → ताञ्जयति |
+| श | → ञ्श् or ञ्छ् | श्चुत्व, 8.4.63 | भवान् + शेते → भवाञ्शेते / भवाञ्छेते |
+| ड / ढ | → ण् | ष्टुत्व | महान् + डमरुः → महाण्डमरुः |
+| ल | → ँल् (nasalised ल्) | तोर्लि 8.4.60 | विद्वान् + लिखति → विद्वाँल्लिखति |
+| a vowel, after a short vowel | doubles: न्न् | 8.3.32 | गच्छन् + अपि → गच्छन्नपि; जिघ्रन् + अश्नन् → जिघ्रन्नश्नन् (5.8) |
+| a vowel, after a long vowel | stays | — | तान् + अहम् → तानहम् |
+| anything else | stays | — | भगवान् + उवाच → भगवानुवाच; सर्वधर्मान् + परित्यज्य → सर्वधर्मान्परित्यज्य |
+
+> [memory] "ंश्च, ंस्त": the sibilant that appears :: When a word ending in -आन्, -ईन्, -ऊन् (masculine 2nd case plural!) meets च or त, a sibilant appears: -आंश्च, -आंस्त. अगतासूंश्च (2.11), तांस्तितिक्षस्व (2.14), पुत्रांश्च. Undo it: strip ंश् / ंस् and put back न्.
+
+## Stops before nasals (అనునాసిక)
+A final stop before a nasal becomes the nasal of its own row (यरोऽनुनासिकेऽनुनासिको वा 8.4.45; compulsory before suffixes like मय):
+
+| Join | Result | Telugu |
+|---|---|---|
+| वाक् + मयम् | वाङ्मयम् | వాఙ్మయం |
+| जगत् + नाथः | जगन्नाथः | జగన్నాథుడు |
+| षट् + मुखः | षण्मुखः | షణ్ముఖుడు |
+| तत् + मात्रम् | तन्मात्रम् | తన్మాత్ర |
+| सत् + मार्गः | सन्मार्गः | సన్మార్గం |
+| चित् + मयः | चिन्मयः | చిన్మయ |
+| एतत् + मुरारे | एतन्मुरारे | |
+
+@ex gita:2:11
+split: अशोच्यान् अन्वशोचः त्वं प्रज्ञावादान् च भाषसे । गतासून् अगतासून् च न अनुशोचन्ति पण्डिताः ॥
+w: अशोच्यान् = దుఃఖించదగనివారి గురించి; अन्वशोचः = దుఃఖించావు (imperfect of अनु + शुच्); त्वम् = నువ్వు; प्रज्ञावादान् = ప్రాజ్ఞుల మాటలను; च = కూడా; भाषसे = మాట్లాడుతున్నావు; गतासून् = ప్రాణాలు పోయినవారిని; अगतासून् = ప్రాణాలు పోనివారిని; न अनुशोचन्ति = దుఃఖించరు; पण्डिताः = పండితులు
+note: प्रज्ञावादान् + च → प्रज्ञावादांश्च; अगतासून् + च → अगतासूंश्च: न् + च → ंश्च. अन्वशोचः: prefix अनु + augment अ → अन्व (यण्).
+@end
+
+@ex gita:2:14
+note: तान् + तितिक्षस्व → तांस्तितिक्षस्व (न् + त → ंस्त). मात्रास्पर्शाः + तु → मात्रास्पर्शास्तु (visarga + त → स्त, next lesson).
+@end
+
+@quiz
+q: शम् + करः →
+* शङ्करः (or शंकरः)
+- शम्करः
+- शन्करः
+why: म् → anusvāra → the nasal of the क row: ङ्.
+
+q: तान् + च →
+* तांश्च
+- ताञ्च
+- तान्च
+why: 8.3.7: न् before च becomes ं + श्.
+
+q: वाक् + मयम् →
+* वाङ्मयम्
+- वाग्मयम्
+- वाक्मयम्
+why: A stop before a nasal becomes the nasal of its row.
+
+q: गच्छन् + अपि →
+* गच्छन्नपि
+- गच्छनपि
+- गच्छंपि
+why: Final न् after a short vowel doubles before a vowel.
+
+q: रामम् + वन्दे →
+* रामं वन्दे
+- रामम्वन्दे
+- रामव्वन्दे
+why: Final म् before a consonant → anusvāra.
+@end
