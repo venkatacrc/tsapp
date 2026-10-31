@@ -1,0 +1,2 @@
+# tsapp
+telugu sanskrit app
